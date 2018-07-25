@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# dataset directory
+dataset/*.tsv
+dataset/orig/*
+dataset/unfiltered/*
+
+# unused files
+CNN_improve_sim_only.ipynb
