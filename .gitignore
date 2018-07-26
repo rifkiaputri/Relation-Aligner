@@ -107,6 +107,7 @@ venv.bak/
 dataset/*.tsv
 dataset/orig/*
 dataset/unfiltered/*
+dataset/wordvector/*
 
 # unused files
 CNN_improve_sim_only.ipynb
