@@ -7,7 +7,7 @@ class SiameseNetwork(nn.Module):
     def __init__(self, args):
         super(SiameseNetwork, self).__init__()
         
-        C = args.class_num
+        C = args.output_num
         Ci = 1
         Co = args.kernel_num
         Ks = args.kernel_sizes
@@ -19,13 +19,13 @@ class SiameseNetwork(nn.Module):
         self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
 
         self.fc1 = nn.Sequential(
-            nn.Linear(4 * len(Ks) * Co, 4 * len(Ks) * Co),
+            nn.Linear(len(Ks) * Co, len(Ks) * Co),
             nn.ReLU(inplace=True),
 
-            nn.Linear(4 * len(Ks) * Co, 4 * len(Ks) * Co),
+            nn.Linear(len(Ks) * Co, len(Ks) * Co),
             nn.ReLU(inplace=True),
 
-            nn.Linear(4 * len(Ks) * Co, C)
+            nn.Linear(len(Ks) * Co, C)
         )
 
     def forward_once(self, x):

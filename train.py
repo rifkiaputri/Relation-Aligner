@@ -1,27 +1,44 @@
 import dataset as dt
+import matplotlib
+matplotlib.use('agg')
+import matplotlib.pyplot as plt
+import moses
+import os
+import re
 import siamese
-import spacy
 import torch
 import torch.nn.functional as F
+import wordvector as wv
+from datetime import datetime
 from torch.utils.data import DataLoader
 
 
-nlp = spacy.load('en_core_web_sm')
+# Initialization
+tokenizer = moses.MosesTokenizer()
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 print(device)
 
+# Load word dictionary
+word_dic = {}
+with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding='utf-8') as f:
+    i = 1
+    for line in f:
+        word = line.strip()
+        word_dic[word] = i
+        i += 1
+        
 
 def get_token(text):
-    doc = nlp(text)
-    tokens = []
-    for token in doc:
-        append(token.text)
-    return tokens
+    text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
+    tokens = tokenizer.tokenize(text)
+    max_length = 50
+    if len(tokens) < max_length:
+        tokens = [''] * (max_length - len(tokens)) + tokens
+    return tokens[:max_length]
 
 
-# Todo: get word embedding ID given token
 def get_embed_id(word):
-    return 0
+    return word_dic.get(word, 0)
 
 
 def get_padded_tensor(texts):
@@ -30,33 +47,36 @@ def get_padded_tensor(texts):
     text_max = max(text_l)
     text_p = [text_max - a for a in text_l]
     text_t = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
-    return torch.cat(text_t, 0)
+    text_t = torch.cat(text_t, 0)
+    return text_t
 
     
 def build_tensor(rels_kb, rels_oie, labels):
-    label_t = torch.tensor(labels, dtype=torch.long, device=device)
+    label_t = torch.tensor(labels, dtype=torch.float32, device=device)
     rel_kb_t = get_padded_tensor(rels_kb)
     rel_oie_t = get_padded_tensor(rels_oie)
     return rel_kb_t, rel_oie_t, label_t
 
 
+def save_plot(iteration, loss, filename):
+    plt.plot(iteration, loss)
+    plt.savefig('./images/' + filename)
+    
+    
 def eval(loader, model):
     model.eval()
-    corrects, avg_loss, size = 0, 0, 0
+    avg_loss, size = 0, 0
     c_loss = siamese.ContrastiveLoss()
     
     for rel_kb, rel_oie, label in loader:
         rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
-        logit = model(rel_kb_t, rel_oie_t)
-        loss = c_loss(logit, label_t)
+        output1, output2 = model(rel_kb_t, rel_oie_t)
+        loss = c_loss(output1, output2, label_t)
         avg_loss += loss.data[0]
-        corrects += (torch.max(logit, 1)[1].view(label_t.size()).data == label_t.data).sum()
-        size += len(label)
+        size += 1
         
-    avg_loss /= size
-    accuracy = 100.0 * corrects / size
-    print('Evaluation - loss: {:.6f}  acc: {:.4f}%({}/{})'.format(avg_loss, accuracy, corrects, size))
-    return accuracy
+    avg_loss = avg_loss / size
+    print('Evaluation - Current loss {}'.format(avg_loss.data[0]))
 
 
 def save(model, save_dir, save_prefix, steps):
@@ -83,21 +103,16 @@ def train(model, train_loader, valid_loader, args):
         for rel_kb, rel_oie, label in train_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
             optimizer.zero_grad()
-            logit = model(rel_kb_t, rel_oie_t)
-            loss = c_loss(logit, label_t)
+            output1, output2 = model(rel_kb_t, rel_oie_t)
+            loss = c_loss(output1, output2, label_t)
             loss.backward()
             optimizer.step()
             steps += 1
             if steps % args.log_interval == 0:
-                corrects = (torch.max(logit, 1)[1].view(label_t.size()).data == label_t.data).sum()
-                accuracy = 100.0 * corrects / label_t.shape[0]
-                print('Batch[{}] - loss: {:.6f}  acc: {:.4f}%({}/{})'.format(steps,
-                                                                             loss.data[0], 
-                                                                             accuracy,
-                                                                             corrects,
-                                                                             label_t.shape[0]))
+                print('Batch[{}] - Current loss: {:.6f}'.format(steps, loss.data[0]))
+                
         # Eval validation data
-        dev_acc = eval(valid_loader, model)
+        eval(valid_loader, model)
         
         if epoch % args.save_interval == 0:
             save(model, args.save_dir, 'model_temp', steps)
@@ -111,9 +126,10 @@ def main():
         pass
 
     args = args()
-    args.class_num = 2
-    args.kernel_num = 32
-    args.kernel_sizes = [3, 4, 5]
+    args.embed, args.embeding_num, args.embeding_dim = wv.get_embedding(vec_file='./dataset/wordvector/vec_50.txt', dim=50)
+    args.output_num = 2
+    args.kernel_num = 16
+    args.kernel_sizes = [2, 3]
     args.dropout = 0.5
     args.static = True
     args.lr = 0.001
@@ -121,6 +137,7 @@ def main():
     args.log_interval = 10
     args.test_interval = 400
     args.save_interval = 10
+    args.loss_log_interval = 25
     args.save_dir = 'models'  # model save path
     if not os.path.exists(args.save_dir):
         os.mkdir(args.save_dir)
@@ -138,7 +155,6 @@ def main():
     
     # Initialize model
     model = siamese.SiameseNetwork(args)
-    model.double()
     model.to(device)
     
     # Train model
@@ -147,6 +163,9 @@ def main():
     except KeyboardInterrupt:
         print('\n' + '-' * 89)
         print('Exit from training early')
+        
+    # Save final model
+    save(model, args.save_dir, 'model_final', -1)
 
 
 if __name__ == '__main__':

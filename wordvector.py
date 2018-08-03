@@ -55,14 +55,17 @@ def get_word_vectors(vec_file, dim):
     
     print('Initialize word vector array...')
     # Note: index 0 will be initialized with 0 vector
-    wv = np.zeros((len(vec_string) + 1, dim), dtype=float)
+    wv = np.zeros((len(vec_string) + 1, dim), dtype=np.float32)
     i = 1
     for vec in vec_string:
-        wv[i] = np.fromstring(vec, dtype=float, sep=' ')
+        wv[i] = np.fromstring(vec, dtype=np.float32, sep=' ')
         i += 1
     
     print('Convert word vector to tensor...')
     wv = torch.from_numpy(wv)
+    
+    if torch.cuda.is_available():
+        wv = wv.cuda()
     
     return wv
 

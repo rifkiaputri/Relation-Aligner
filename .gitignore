@@ -109,5 +109,9 @@ dataset/orig/*
 dataset/unfiltered/*
 dataset/wordvector/*
 
+# unused directory
+images/*
+models/*
+
 # unused files
 CNN_improve_sim_only.ipynb
