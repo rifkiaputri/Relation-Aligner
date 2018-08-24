@@ -116,6 +116,31 @@ def train(model, train_loader, valid_loader, args):
         
         if epoch % args.save_interval == 0:
             save(model, args.save_dir, 'model_temp', steps)
+            
+            
+def test(test_loader, model, args):
+    predict = []
+    
+    # restore the best parameters
+    print('Load model parameters...')
+    model_file = os.path.join(args.save_dir, args.model_filename + '.pt')
+    model.load_state_dict(torch.load(model_file, map_location=lambda storage, loc: storage))
+    
+    model.eval()
+    corrects = 0
+    
+    print('Predict test data...')
+    with torch.no_grad():
+        for rel_kb, rel_oie, label in test_loader:
+            rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
+            output1, output2 = model(rel_kb_t, rel_oie_t)
+            euclidean_dist = F.pairwise_distance(output1, output2)
+            gold = label_t.cpu().numpy().tolist()
+            dist = euclidean_dist.cpu().numpy().tolist()
+            for i in range(len(gold)):
+                predict.append((rel_kb[i], rel_oie[i], dist[i], gold[i], output1[i], output2[i]))
+    
+    return predict
 
         
 def main():
@@ -139,6 +164,7 @@ def main():
     args.save_interval = 10
     args.loss_log_interval = 25
     args.save_dir = 'models'  # model save path
+    args.model_filename = 'model_final_loss_2'
     if not os.path.exists(args.save_dir):
         os.mkdir(args.save_dir)
     
@@ -158,15 +184,38 @@ def main():
     model.to(device)
     
     # Train model
-    try:
-        train(model, train_loader, test_loader, args)
-    except KeyboardInterrupt:
-        print('\n' + '-' * 89)
-        print('Exit from training early')
+#     try:
+#         train(model, train_loader, test_loader, args)
+#     except KeyboardInterrupt:
+#         print('\n' + '-' * 89)
+#         print('Exit from training early')
         
-    # Save final model
-    save(model, args.save_dir, 'model_final', -1)
-
+#     # Save final model
+#     save(model, args.save_dir, args.model_filename, -1)
+    
+    # Test model
+    predict = test(test_loader, model, args)
+    
+    pred_filename = 'predict/loss_2/predict_result.tsv'
+    with open(pred_filename, 'w') as f:
+        for item in predict:
+            f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
+    f.closed
+    print('Successfully save prediction result to', pred_filename)
+    
+    with open('predict/loss_2/rel_embed_vector.tsv', 'w') as f:
+        for item in predict:
+            out1 = item[5].cpu().numpy().tolist()
+            f.write('\t'.join(str(x) for x in out1))
+            f.write('\n')
+    f.closed
+    
+    with open('predict/loss_2/rel_embed_label.tsv', 'w') as f:
+        for item in predict:
+            f.write(item[1])
+            f.write('\n')
+    f.closed
+            
 
 if __name__ == '__main__':
     main()
