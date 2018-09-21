@@ -164,14 +164,15 @@ def main():
     args.save_interval = 10
     args.loss_log_interval = 25
     args.save_dir = 'models'  # model save path
-    args.model_filename = 'model_final_loss_2'
+    args.predict_dir = 'predict/oie_def_ent'
+    args.model_filename = 'model_final_def_ent'
     if not os.path.exists(args.save_dir):
         os.mkdir(args.save_dir)
     
     # Load train, valid, and test data
-    train_dataset = dt.MyDataset('dataset/train_align.tsv')
-    valid_dataset = dt.MyDataset('dataset/valid_align.tsv')
-    test_dataset = dt.MyDataset('dataset/test_align.tsv')
+    train_dataset = dt.MyDataset('dataset/train_align_filtered.tsv')
+    valid_dataset = dt.MyDataset('dataset/valid_align_filtered.tsv')
+    test_dataset = dt.MyDataset('dataset/test_align_filtered_balanced.tsv')
     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
@@ -184,33 +185,36 @@ def main():
     model.to(device)
     
     # Train model
-#     try:
-#         train(model, train_loader, test_loader, args)
-#     except KeyboardInterrupt:
-#         print('\n' + '-' * 89)
-#         print('Exit from training early')
+    try:
+        train(model, train_loader, test_loader, args)
+    except KeyboardInterrupt:
+        print('\n' + '-' * 89)
+        print('Exit from training early')
         
-#     # Save final model
-#     save(model, args.save_dir, args.model_filename, -1)
+    # Save final model
+    save(model, args.save_dir, args.model_filename, -1)
     
     # Test model
     predict = test(test_loader, model, args)
     
-    pred_filename = 'predict/loss_2/predict_result.tsv'
+    if not os.path.exists(args.predict_dir):
+        os.mkdir(args.predict_dir)
+        
+    pred_filename = args.predict_dir + '/predict_result.tsv'
     with open(pred_filename, 'w') as f:
         for item in predict:
             f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
     f.closed
     print('Successfully save prediction result to', pred_filename)
     
-    with open('predict/loss_2/rel_embed_vector.tsv', 'w') as f:
+    with open(args.predict_dir + '/rel_embed_vector.tsv', 'w') as f:
         for item in predict:
             out1 = item[5].cpu().numpy().tolist()
             f.write('\t'.join(str(x) for x in out1))
             f.write('\n')
     f.closed
     
-    with open('predict/loss_2/rel_embed_label.tsv', 'w') as f:
+    with open(args.predict_dir + '/rel_embed_label.tsv', 'w') as f:
         for item in predict:
             f.write(item[1])
             f.write('\n')
