@@ -28,13 +28,15 @@ class MyDataset(Dataset):
         self.e1_kb = align_data['e1_kb']
         self.e2_kb = align_data['e2_kb']
         self.rels_oie = align_data['rel_oie']
-        self.e1_oie = align_data['e1_oie']
-        self.e2_oie = align_data['e2_oie']
+#         self.e1_oie = align_data['e1_oie']
+#         self.e2_oie = align_data['e2_oie']
         self.labels = align_data['label']
         self.len = len(self.labels)
         
         print('Load open IE relation definition')
         self.rels_oie_def = []
+        self.e1_oie = []
+        self.e2_oie = []
         for i in range(self.len):
             rel = align_data['rel_oie'][i]
             sent = align_data['e1_oie'][i] + ' ' + rel + ' ' + align_data['e2_oie'][i]
@@ -49,6 +51,16 @@ class MyDataset(Dataset):
                     else:
                         def_sent = def_sent + ' ' + syns.definition()
             self.rels_oie_def.append(def_sent)
+            
+            # Change oie entities to root information
+            e1_oie_root = align_data['e1_oie_root'][i]
+            if e1_oie_root == 'N/A' or e1_oie_root is None:
+                e1_oie_root = align_data['e1_oie'][i]
+            e2_oie_root = align_data['e2_oie_root'][i]
+            if e2_oie_root == 'N/A' or e2_oie_root is None:
+                e2_oie_root = align_data['e2_oie'][i]
+            self.e1_oie.append(str(e1_oie_root))
+            self.e2_oie.append(str(e2_oie_root))
     
     def __len__(self):
         return self.len
