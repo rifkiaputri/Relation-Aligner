@@ -109,9 +109,9 @@ dataset/orig/*
 dataset/unfiltered/*
 dataset/wordvector/*
 dataset/stats/*
-predict/*
 
 # unused directory
+predict/*
 images/*
 models/*
 

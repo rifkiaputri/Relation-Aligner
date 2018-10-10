@@ -20,16 +20,15 @@ print('Relation description loaded')
 class MyDataset(Dataset):
     def __init__(self, filename):
         print('Load file', filename)
-        data_header = ['e1_kb', 'rel_kb', 'e2_kb', 'e1_oie', 'rel_oie', 'e2_oie', 'rel_id', 'label',
-                       'e1_oie_root', 'e2_oie_root', 'e1_desc', 'e2_desc']
+        data_header = ['e1_kb', 'rel_kb', 'rel_id', 'e2_kb', 'e1_oie', 'rel_oie', 'e2_oie',
+                       'e1_kb_id', 'e2_kb_id', 'e1_oie_id', 'e2_oie_id',
+                       'e1_oie_root', 'e2_oie_root', 'label']
         align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header)
         
         self.rels_kb = align_data['rel_id']
         self.e1_kb = align_data['e1_kb']
         self.e2_kb = align_data['e2_kb']
         self.rels_oie = align_data['rel_oie']
-#         self.e1_oie = align_data['e1_oie']
-#         self.e2_oie = align_data['e2_oie']
         self.labels = align_data['label']
         self.len = len(self.labels)
         
@@ -66,6 +65,15 @@ class MyDataset(Dataset):
         return self.len
 
     def __getitem__(self, index):
+        # No definition
+#         item_kb = id2desc[self.rels_kb[index]]
+#         item_oie = self.rels_oie[index]
+        
+        # Definition
+#         item_kb = id2desc[self.rels_kb[index]]
+#         item_oie = self.rels_oie_def[index]
+        
+        # Definition + entity
         item_kb = self.e1_kb[index] + ' ' + id2desc[self.rels_kb[index]] + ' ' + self.e2_kb[index]
         item_oie = self.e1_oie[index] + ' ' + self.rels_oie_def[index] + ' ' + self.e2_oie[index]
         return item_kb, item_oie, self.labels[index]

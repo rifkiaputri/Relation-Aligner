@@ -164,8 +164,8 @@ def main():
     args.save_interval = 10
     args.loss_log_interval = 25
     args.save_dir = 'models'  # model save path
-    args.predict_dir = 'predict/oie_def_ent_root'
-    args.model_filename = 'model_final_def_ent_root'
+    args.predict_dir = 'predict/data_v3/oie_def_ent_root'
+    args.model_filename = 'data_v3/model_final_def_ent_root'
     if not os.path.exists(args.save_dir):
         os.mkdir(args.save_dir)
     
