@@ -109,9 +109,11 @@ dataset/orig/*
 dataset/unfiltered/*
 dataset/wordvector/*
 dataset/stats/*
+dataset/graphene/*
 
 # unused directory
 predict/*
+predict_triviaqa/*
 images/*
 models/*
 

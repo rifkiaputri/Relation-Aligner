@@ -1,10 +1,11 @@
-import moses
+import csv
 import pandas as pd
 from nltk.wsd import lesk
 from torch.utils.data import Dataset, DataLoader
+from mosestokenizer import MosesTokenizer
 
 
-tokenizer = moses.MosesTokenizer()
+tokenizer = MosesTokenizer('en')
 
 # Build dataset dictionary
 print('Load relation description dictionary...')
@@ -18,62 +19,64 @@ print('Relation description loaded')
 
 
 class MyDataset(Dataset):
-    def __init__(self, filename):
+    '''
+    Mode: nodef   -> no definition (only use relation phrase)
+          def     -> with definition (use relational definition)
+          defent  -> definition + entity information
+    '''
+    def __init__(self, filename, mode='defent'):
+        # Checking mode
+        print('Mode:', mode)
+        if mode not in ['nodef', 'def', 'defent']:
+            raise ValueError('Invalid data mode')
+        
+        # File loading
         print('Load file', filename)
         data_header = ['e1_kb', 'rel_kb', 'rel_id', 'e2_kb', 'e1_oie', 'rel_oie', 'e2_oie',
                        'e1_kb_id', 'e2_kb_id', 'e1_oie_id', 'e2_oie_id',
                        'e1_oie_root', 'e2_oie_root', 'label']
-        align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header)
+        align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header, quoting=csv.QUOTE_NONE)
         
-        self.rels_kb = align_data['rel_id']
-        self.e1_kb = align_data['e1_kb']
-        self.e2_kb = align_data['e2_kb']
-        self.rels_oie = align_data['rel_oie']
+        rels_kb = align_data['rel_id']
+        e1_kb = align_data['e1_kb']
+        e2_kb = align_data['e2_kb']
+        rels_oie = align_data['rel_oie']
+        e1_oie = align_data['e1_oie']
+        e2_oie = align_data['e2_oie']
         self.labels = align_data['label']
         self.len = len(self.labels)
         
-        print('Load open IE relation definition')
-        self.rels_oie_def = []
-        self.e1_oie = []
-        self.e2_oie = []
+        rels_oie_def = []
+        self.item_kb = []
+        self.item_oie = []
         for i in range(self.len):
-            rel = align_data['rel_oie'][i]
-            sent = align_data['e1_oie'][i] + ' ' + rel + ' ' + align_data['e2_oie'][i]
-            rel_tokens = tokenizer.tokenize(rel)
-            sent_tokens = tokenizer.tokenize(sent)
-            def_sent = rel
-            for token in rel_tokens:
-                syns = lesk(sent_tokens, token)
-                if syns is not None:
-                    if def_sent == rel:
-                        def_sent = syns.definition()
-                    else:
-                        def_sent = def_sent + ' ' + syns.definition()
-            self.rels_oie_def.append(def_sent)
-            
-            # Change oie entities to root information
-            e1_oie_root = align_data['e1_oie_root'][i]
-            if e1_oie_root == 'N/A' or e1_oie_root is None:
-                e1_oie_root = align_data['e1_oie'][i]
-            e2_oie_root = align_data['e2_oie_root'][i]
-            if e2_oie_root == 'N/A' or e2_oie_root is None:
-                e2_oie_root = align_data['e2_oie'][i]
-            self.e1_oie.append(str(e1_oie_root))
-            self.e2_oie.append(str(e2_oie_root))
+            if mode == 'def' or mode == 'defent':
+                rel = align_data['rel_oie'][i]
+                sent = align_data['e1_oie'][i] + ' ' + rel + ' ' + align_data['e2_oie'][i]
+                rel_tokens = tokenizer(rel)
+                sent_tokens = tokenizer(sent)
+                def_sent = rel
+                for token in rel_tokens:
+                    syns = lesk(sent_tokens, token)
+                    if syns is not None:
+                        if def_sent == rel:
+                            def_sent = syns.definition()
+                        else:
+                            def_sent = def_sent + ' ' + syns.definition()
+                rels_oie_def.append(def_sent)
+
+                if mode == 'defent':
+                    self.item_kb.append(e1_kb[i] + ' ' + id2desc[rels_kb[i]] + ' ' + e2_kb[i])
+                    self.item_oie.append(e1_oie[i] + ' ' + rels_oie_def[i] + ' ' + e2_oie[i])
+                else:
+                    self.item_kb.append(id2desc[rels_kb[i]])
+                    self.item_oie.append(rels_oie_def[i])
+            else:
+                self.item_kb.append(align_data['rel_kb'][i])
+                self.item_oie.append(rels_oie[i])
     
     def __len__(self):
         return self.len
 
     def __getitem__(self, index):
-        # No definition
-#         item_kb = id2desc[self.rels_kb[index]]
-#         item_oie = self.rels_oie[index]
-        
-        # Definition
-#         item_kb = id2desc[self.rels_kb[index]]
-#         item_oie = self.rels_oie_def[index]
-        
-        # Definition + entity
-        item_kb = self.e1_kb[index] + ' ' + id2desc[self.rels_kb[index]] + ' ' + self.e2_kb[index]
-        item_oie = self.e1_oie[index] + ' ' + self.rels_oie_def[index] + ' ' + self.e2_oie[index]
-        return item_kb, item_oie, self.labels[index]
+        return self.item_kb[index], self.item_oie[index], self.labels[index]

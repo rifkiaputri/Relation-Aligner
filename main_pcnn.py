@@ -1,17 +1,17 @@
-import dataset as dt
+import dataset_pcnn as dt
+import moses
 import os
 import params
 import re
-import siamese
+import siamese_pcnn as siamese
 import torch
 import torch.nn.functional as F
 from datetime import datetime
-from mosestokenizer import MosesTokenizer
 from torch.utils.data import DataLoader
 
 
 # Initialization
-tokenizer = MosesTokenizer('en')
+tokenizer = moses.MosesTokenizer()
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 print(device)
 
@@ -27,7 +27,7 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
 
 def get_token(text):
     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
-    tokens = tokenizer(text)
+    tokens = tokenizer.tokenize(text)
     return tokens
 
 
@@ -57,9 +57,9 @@ def eval(loader, model):
     avg_loss, size = 0, 0
     c_loss = siamese.ContrastiveLoss()
     
-    for rel_kb, rel_oie, label in loader:
+    for rel_kb, rel_oie, position, label in loader:
         rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
-        output1, output2 = model(rel_kb_t, rel_oie_t)
+        output1, output2 = model(rel_kb_t, rel_oie_t, position)
         loss = c_loss(output1, output2, label_t)
         avg_loss += loss.data[0]
         size += 1
@@ -89,10 +89,10 @@ def train(model, train_loader, valid_loader, args):
     
     for epoch in range(1, args.epochs + 1):
         print('\nStart epoch', epoch)
-        for rel_kb, rel_oie, label in train_loader:
+        for rel_kb, rel_oie, position, label in train_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
             optimizer.zero_grad()
-            output1, output2 = model(rel_kb_t, rel_oie_t)
+            output1, output2 = model(rel_kb_t, rel_oie_t, position)
             loss = c_loss(output1, output2, label_t)
             loss.backward()
             optimizer.step()
@@ -104,7 +104,7 @@ def train(model, train_loader, valid_loader, args):
         eval(valid_loader, model)
         
         if epoch % args.save_interval == 0:
-            save(model, args.save_dir, args.mode + '_model_temp', steps)
+            save(model, args.save_dir, 'model_temp', steps)
             
             
 def test(test_loader, model, args):
@@ -120,9 +120,9 @@ def test(test_loader, model, args):
     
     print('Predict test data...')
     with torch.no_grad():
-        for rel_kb, rel_oie, label in test_loader:
+        for rel_kb, rel_oie, position, label in test_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
-            output1, output2 = model(rel_kb_t, rel_oie_t)
+            output1, output2 = model(rel_kb_t, rel_oie_t, position)
             euclidean_dist = F.pairwise_distance(output1, output2)
             gold = label_t.cpu().numpy().tolist()
             dist = euclidean_dist.cpu().numpy().tolist()
@@ -138,9 +138,9 @@ def main():
     
     # Load train, valid, and test data
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Loading dataset')
-    train_dataset = dt.MyDataset(args.train_filename, args.mode)
-    valid_dataset = dt.MyDataset(args.valid_filename, args.mode)
-    test_dataset = dt.MyDataset(args.test_filename, args.mode)
+    train_dataset = dt.MyDataset(args.train_filename)
+    valid_dataset = dt.MyDataset(args.valid_filename)
+    test_dataset = dt.MyDataset(args.test_filename)
     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
@@ -167,6 +167,9 @@ def main():
     # Test model
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
     predict = test(test_loader, model, args)
+    
+    if not os.path.exists(args.predict_dir):
+        os.mkdir(args.predict_dir)
         
     pred_filename = args.predict_dir + '/predict_result.tsv'
     with open(pred_filename, 'w') as f:
