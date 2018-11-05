@@ -21,12 +21,13 @@ class args():
         self.train_filename = 'dataset/train_align_filtered.tsv'
         self.valid_filename = 'dataset/valid_align_filtered.tsv'
         self.test_filename = 'dataset/test_align_filtered.tsv'
+#         self.test_filename = 'dataset/test_align_gold.tsv'
         self.save_dir = 'models/data_v4'  # model save path
         
         # Mode
         self.mode = 'defent'
-        self.predict_dir = 'predict/data_v4/cnn_' + self.mode
-        self.model_filename = 'cnn_final_' + self.mode
+        self.predict_dir = 'predict/data_v4/pcnn_' + self.mode
+        self.model_filename = 'pcnn_final_' + self.mode
         
         if self.mode == 'nodef':
             self.kernel_num = 8
