@@ -1,0 +1,2 @@
+Q20950174	Q20966585	P659	NCBI homo sapiens annotation release 107	Genome assembly GRCh38	genomic assembly
+Q20973051	Q20973075	P659	NCBI mus musculus annotation release 105	Genome assembly GRCm38.p3	genomic assembly

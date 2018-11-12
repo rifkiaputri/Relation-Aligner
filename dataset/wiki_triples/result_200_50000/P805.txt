@@ -1,0 +1,562 @@
+P1073	Q42574058	P805	writable file format	writable file format	statement is subject of
+P1073	Q42574058	P805	writable file format	writable file format	statement is subject of
+P1331	Q27137568	P805	PACE member ID	member of the Parliamentary Assembly of the Council of Europe	statement is subject of
+Q275474	Q22442642	P805	Grace Curzon, Marchioness Curzon of Kedleston	Grace Elvina, Marchioness Curzon of Kedleston	statement is subject of
+Q84250	Q23722785	P805	Josef Hoffmann	Josef Hoffmann House	statement is subject of
+Q32027	Q56677087	P805	Dost Mohammad Khan	Dictionary of Indian Biography	statement is subject of
+Q483321	Q701717	P805	Yeon Gaesomun	Yeon Gaesomun	statement is subject of
+Q244945	Q244946	P805	intercropping	Catch crop	statement is subject of
+Q244924	Q244954	P805	Zwischenfall N317	German Armed Forces casualties in Afghanistan	statement is subject of
+Q295733	Q295470	P805	Ecological social product	eco-social market economy	statement is subject of
+Q306093	Q306096	P805	Dismantling	Dismantling production	statement is subject of
+Q119234	Q313521	P805	10258 Sárneczky	List of minor planets: 10001–11000	statement is subject of
+Q119234	Q313521	P805	10258 Sárneczky	List of minor planets: 10001–11000	statement is subject of
+Q119234	Q313521	P805	10258 Sárneczky	list of minor planets: 10001–11000	statement is subject of
+Q477661	Q338904	P805	Ramatha	list of titular sees	statement is subject of
+Q370947	Q512599	P805	market value	real estate appraisal	statement is subject of
+Q197847	Q518723	P805	Zhongguo shijing	list of sources of Chinese culinary history	statement is subject of
+Q205239	Q579128	P805	interest rate sensitivity	Bond duration	statement is subject of
+Q295733	Q581950	P805	Ecological social product	life-cycle assessment	statement is subject of
+Q198937	Q1924397	P805	Zielachsenfehler	measurement technique	statement is subject of
+Q229865	Q3046449	P805	4,6 x 36 mm CETME	list of handgun cartridges	statement is subject of
+Q231613	Q4998792	P805	Forced funeral	Burial Act	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	Classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	Classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	Classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q255872	Q5340721	P805	Ojibwe	classification of indigenous peoples of the Americas	statement is subject of
+Q340848	Q748	P805	Eight world laws	Buddhism	statement is subject of
+Q340848	Q748	P805	Eight world laws	Buddhism	statement is subject of
+Q340848	Q748	P805	Eight world laws	Buddhism	statement is subject of
+Q1434092	Q255	P805	Pasqualati House	Ludwig van Beethoven	statement is subject of
+Q1590890	Q255	P805	House of the Heiligenstadt Testament	Ludwig van Beethoven	statement is subject of
+Q1434092	Q255	P805	Pasqualati House	Ludwig van Beethoven	statement is subject of
+Q1590890	Q255	P805	House of the Heiligenstadt Testament	Ludwig van Beethoven	statement is subject of
+Q1434092	Q255	P805	Pasqualati House	Ludwig van Beethoven	statement is subject of
+Q1590890	Q255	P805	House of the Heiligenstadt Testament	Ludwig van Beethoven	statement is subject of
+Q477661	Q3658	P805	Ramatha	list of Roman Catholic dioceses	statement is subject of
+Q477661	Q3658	P805	Ramatha	List of Roman Catholic dioceses	statement is subject of
+Q477661	Q3658	P805	Ramatha	List of Roman Catholic dioceses	statement is subject of
+Q191378	Q623615	P805	Z-Boys	Dogtown and Z-Boys	statement is subject of
+Q319441	Q749488	P805	Aberdeen Airways	list of airlines	statement is subject of
+Q191378	Q836622	P805	Z-Boys	Lords of Dogtown	statement is subject of
+Q567696	Q2556572	P805	Anordnung	order	statement is subject of
+Q740066	Q12012965	P805	Kinderdijk	Windmills at Kinderdijk	statement is subject of
+Q691539	Q16954124	P805	Der Kreis	The Circle	statement is subject of
+Q217217	Q1777820	P805	Lord Chancellor	list of Lord Chancellors and Lord Keepers	statement is subject of
+Q217217	Q1777820	P805	Lord Chancellor	list of Lord Chancellors and Lord Keepers	statement is subject of
+Q559392	Q31207	P805	Medicare	health care	statement is subject of
+Q563787	Q31207	P805	health maintenance organization	health care	statement is subject of
+Q559392	Q31207	P805	Medicare	health care	statement is subject of
+Q563787	Q31207	P805	health maintenance organization	health care	statement is subject of
+Q191833	Q1129383	P805	Zermatt-Marathon	list of marathon races	statement is subject of
+Q164108	Q1426864	P805	10. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q175246	Q1426864	P805	13. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q187294	Q1426864	P805	14. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q187298	Q1426864	P805	14. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q191122	Q1426864	P805	15. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q191124	Q1426864	P805	15. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q197361	Q1426864	P805	17. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q197363	Q1426864	P805	17. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q200163	Q1426864	P805	18. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q204744	Q1426864	P805	19. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q204745	Q1426864	P805	19. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q210834	Q1426864	P805	20. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q213000	Q1426864	P805	21. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q214185	Q1426864	P805	22. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q214187	Q1426864	P805	22. Flak-Brigade	list of German flak units (Wehrmacht)	statement is subject of
+Q215465	Q1426864	P805	23. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q152013	Q1514392	P805	General Motors EV1	Who Killed the Electric Car?	statement is subject of
+Q501390	Q1887105	P805	name calling	maledictology	statement is subject of
+Q466532	Q3039312	P805	Billy Mitchell	The King of Kong: A Fistful of Quarters	statement is subject of
+Q396568	Q3054723	P805	deference	Devotional	statement is subject of
+Q558474	Q3126570	P805	Hamoon Bazha	Hamoun	statement is subject of
+Q560337	Q5866778	P805	Tay-Sachs disease	History of Tay–Sachs disease	statement is subject of
+Q552345	Q7225129	P805	insignia	political symbolism	statement is subject of
+Q396090	Q1129474	P805	agricultural geography	cultural landscape	statement is subject of
+Q217462	Q1426864	P805	25. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q219600	Q1426864	P805	27. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q221220	Q1426864	P805	29. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q223647	Q1426864	P805	30. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q224240	Q1426864	P805	31. Flak-Division	list of German flak units (Wehrmacht)	statement is subject of
+Q511778	Q1713118	P805	Java User Group	Java platform	statement is subject of
+Q511778	Q1713118	P805	Java User Group	Java platform	statement is subject of
+Q511778	Q1713118	P805	Java User Group	Java platform	statement is subject of
+Q1955280	Q638	P805	music competition	music	statement is subject of
+Q1955280	Q638	P805	music competition	music	statement is subject of
+Q1955280	Q638	P805	music competition	Music	statement is subject of
+Q352483	Q22725	P805	adaptive routing	routing	statement is subject of
+Q244389	Q27590	P805	Dwarf shrub vegetation	heath	statement is subject of
+Q559392	Q31207	P805	Medicare	Health care	statement is subject of
+Q563787	Q31207	P805	health maintenance organization	Health care	statement is subject of
+Q1431533	Q349	P805	three points for a win	sport	statement is subject of
+Q1431533	Q349	P805	three points for a win	sport	statement is subject of
+Q1431533	Q349	P805	three points for a win	Sport	statement is subject of
+Q1191966	Q313521	P805	10010 Rudruna	List of minor planets: 10001–11000	statement is subject of
+Q1479994	Q313521	P805	10038 Tanaro	List of minor planets: 10001–11000	statement is subject of
+Q1480094	Q313521	P805	10377 Kilimanjaro	List of minor planets: 10001–11000	statement is subject of
+Q1191966	Q313521	P805	10010 Rudruna	List of minor planets: 10001–11000	statement is subject of
+Q1479994	Q313521	P805	10038 Tanaro	List of minor planets: 10001–11000	statement is subject of
+Q1480094	Q313521	P805	10377 Kilimanjaro	List of minor planets: 10001–11000	statement is subject of
+Q1191966	Q313521	P805	10010 Rudruna	list of minor planets: 10001–11000	statement is subject of
+Q1479994	Q313521	P805	10038 Tanaro	list of minor planets: 10001–11000	statement is subject of
+Q1480094	Q313521	P805	10377 Kilimanjaro	list of minor planets: 10001–11000	statement is subject of
+Q1455803	Q323840	P805	lubrication	lubricant	statement is subject of
+Q205250	Q170924	P805	interest day	interest	statement is subject of
+Q524648	Q160845	P805	language change	sociolinguistics	statement is subject of
+Q524648	Q160845	P805	Language change	sociolinguistics	statement is subject of
+Q524648	Q160845	P805	language change	sociolinguistics	statement is subject of
+Q524648	Q160845	P805	language change	Sociolinguistics	statement is subject of
+Q524648	Q160845	P805	Language change	Sociolinguistics	statement is subject of
+Q524648	Q160845	P805	language change	Sociolinguistics	statement is subject of
+Q524648	Q160845	P805	language change	sociolinguistics	statement is subject of
+Q524648	Q160845	P805	Language change	sociolinguistics	statement is subject of
+Q524648	Q160845	P805	language change	sociolinguistics	statement is subject of
+Q217217	Q1777820	P805	Lord Chancellor	list of Lord Chancellors and Lord Keepers	statement is subject of
+Q491789	Q464503	P805	Empress Myeongseong	Empress Myeongseong	statement is subject of
+Q1591860	Q7349	P805	Haydn-Haus	Joseph Haydn	statement is subject of
+Q1591860	Q7349	P805	Haydn-Haus	Joseph Haydn	statement is subject of
+Q1591860	Q7349	P805	Haydn-Haus	Joseph Haydn	statement is subject of
+Q2496923	Q21145445	P805	Kiddush levana	Kitzur Shulchan Aruch	statement is subject of
+Q2496923	Q22937604	P805	Kiddush levana	Orach Chayim	statement is subject of
+Q2660619	Q27036476	P805	Willem Moreel	Portrait of Willem Moreel, husband of Barbara van Vlaendenbergh	statement is subject of
+Q2093986	Q27038656	P805	Pierre de Bauffremont	Portrait of Pierre de Beffremont	statement is subject of
+Q6497624	Q29591319	P805	buoyancy	object immersed in liquid	statement is subject of
+Q2496923	Q201029	P805	Kiddush levana	Mishneh Torah	statement is subject of
+Q2496923	Q201029	P805	Kiddush levana	Mishneh Torah	statement is subject of
+Q2496923	Q201029	P805	Kiddush levana	Mishneh Torah	statement is subject of
+Q2493854	Q212483	P805	Mellotron	mellotron	statement is subject of
+Q3596812	Q313521	P805	100604 Lundy	List of minor planets: 10001–11000	statement is subject of
+Q3596839	Q313521	P805	10392 Brace	List of minor planets: 10001–11000	statement is subject of
+Q3596812	Q313521	P805	100604 Lundy	List of minor planets: 10001–11000	statement is subject of
+Q3596839	Q313521	P805	10392 Brace	List of minor planets: 10001–11000	statement is subject of
+Q1224870	Q387956	P805	virtual library	Library 2.0	statement is subject of
+Q1224870	Q387956	P805	virtual library	Library 2.0	statement is subject of
+Q1200606	Q633339	P805	Denkmal für Deserteure und Opfer der NS-Militärjustiz	desertion	statement is subject of
+Q869862	Q2736	P805	Goal!	football	statement is subject of
+Q869862	Q2736	P805	Goal!	association football	statement is subject of
+Q869862	Q2736	P805	Goal!	soccer	statement is subject of
+Q491789	Q464503	P805	Empress Myeongseong	Empress Myeongseong	statement is subject of
+Q491789	Q464503	P805	Empress Myeongseong	Empress Myeongseong	statement is subject of
+Q856625	Q7075	P805	Branch of libraries	library	statement is subject of
+Q856625	Q7075	P805	Branch of libraries	library	statement is subject of
+Q856625	Q7075	P805	Branch of libraries	Library	statement is subject of
+Q922008	Q313521	P805	10007 Malytheatre	List of minor planets: 10001–11000	statement is subject of
+Q1062845	Q313521	P805	10015 Valenlebedev	List of minor planets: 10001–11000	statement is subject of
+Q922008	Q313521	P805	10007 Malytheatre	List of minor planets: 10001–11000	statement is subject of
+Q1062845	Q313521	P805	10015 Valenlebedev	List of minor planets: 10001–11000	statement is subject of
+Q922008	Q313521	P805	10007 Malytheatre	list of minor planets: 10001–11000	statement is subject of
+Q1062845	Q313521	P805	10015 Valenlebedev	list of minor planets: 10001–11000	statement is subject of
+Q860896	Q470427	P805	Bildlage	refractive error	statement is subject of
+Q14539980	Q22343547	P805	Suicide of Audrie Pott	Audrie & Daisy	statement is subject of
+Q15935848	Q22938728	P805	Foldscope	Manu Prakash: A 50-cent microscope that folds like origami	statement is subject of
+Q15935848	Q22938728	P805	Foldscope	Manu Prakash: A 50-cent microscope that folds like origami	statement is subject of
+Q15935848	Q22938728	P805	Foldscope	Manu Prakash: A 50-cent microscope that folds like origami	statement is subject of
+Q7095863	Q22989659	P805	OpenROV	David Lang: My underwater robot	statement is subject of
+Q17586180	Q34488036	P805	Template:Datecategory	Wikinews:Date categories	statement is subject of
+Q981391	Q1863705	P805	Voyager	list of cruise ships	statement is subject of
+Q749173	Q2066533	P805	counting of the Omer	Sefer Hamitzvot	statement is subject of
+Q798862	Q2626877	P805	Badegast	Glossary of nautical terms	statement is subject of
+Q798862	Q2626877	P805	Badegast	Glossary of nautical terms	statement is subject of
+Q844510	Q913234	P805	Calama	list of territorial disputes	statement is subject of
+Q831297	Q957918	P805	Pool of Bethesda	Healing the paralytic at Bethesda	statement is subject of
+Q831297	Q957918	P805	Pool of Bethesda	Healing the paralytic at Bethesda	statement is subject of
+Q829404	Q1502970	P805	Besagung	Self-denunciation	statement is subject of
+Q770033	Q1574072	P805	Hamza ibn ‘Abd al-Muttalib	Hamzanama	statement is subject of
+Q689055	Q1751392	P805	German-speaking Switzerland	languages of Switzerland	statement is subject of
+Q2307054	Q820655	P805	legality	statute	statement is subject of
+Q2307054	Q820655	P805	legality	Statute	statement is subject of
+Q2307054	Q820655	P805	legality	statute	statement is subject of
+Q380313	Q2654422	P805	archival science	sector of archives	statement is subject of
+Q396090	Q3606845	P805	agricultural geography	agricultural science	statement is subject of
+Q327109	Q3937582	P805	Jan Six I	Portrait of Jan Six	statement is subject of
+Q3494135	Q1267893	P805	Ginevra de' Benci	Ginevra de' Benci	statement is subject of
+Q1573212	Q1055	P805	Hamburg Biographies	Hamburg	statement is subject of
+Q1573212	Q1055	P805	Hamburg Biographies	Hamburg	statement is subject of
+Q1573212	Q1055	P805	Hamburg Biographies	Hamburg	statement is subject of
+Q624459	Q469387	P805	The Dawn of the Empire	Gwangjong of Goryeo	statement is subject of
+Q630646	Q661378	P805	Nicolaes Tulp	The Anatomy Lesson of Dr. Nicolaes Tulp	statement is subject of
+Q483506	Q702079	P805	Dae Jo Yeong	Go of Balhae	statement is subject of
+Q1023998	Q644439	P805	COMINFIL	COINTELPRO	statement is subject of
+Q1147182	Q653027	P805	fecal incontinence	Encopresis	statement is subject of
+Q689055	Q690815	P805	German-speaking Switzerland	Swiss literature	statement is subject of
+Q1455803	Q2246483	P805	lubrication	lubrication method	statement is subject of
+Q1347047	Q3721664	P805	Ministry of Cultural Heritage and Activities and Tourism	Italian Minister of Cultural Heritage and Activities and Tourism	statement is subject of
+Q1475717	Q6571566	P805	test automation	list of GUI testing tools	statement is subject of
+Q1513315	Q17667642	P805	South Pole Telescope	New South Pole Telescope to study dark energy	statement is subject of
+Q19421058	Q19421105	P805	Marten Soolmans II	Portrait of Maerten Soolmans	statement is subject of
+Q19421075	Q19421160	P805	Oopjen Coppit	Portrait of Oopjen Coppit	statement is subject of
+Q19371129	Q19962600	P805	Marie Magdeleine Real del Sarte	In the Studio	statement is subject of
+Q18671037	Q20087549	P805	Edward Grimston	Portrait of Edward Grimston	statement is subject of
+Q15935848	Q21090616	P805	Foldscope	Foldscope: origami-based paper microscope	statement is subject of
+Q15935848	Q21090616	P805	Foldscope	Foldscope: origami-based paper microscope	statement is subject of
+Q15935848	Q21090616	P805	Foldscope	Foldscope: origami-based paper microscope	statement is subject of
+Q15362938	Q840400	P805	Dollo on Dollo's law : irreversibility and the status of evolutionary laws	evolutionary biology	statement is subject of
+Q2545718	Q851824	P805	Utrecht sodomy trials	persecution	statement is subject of
+Q524648	Q190375	P805	language change	historical linguistics	statement is subject of
+Q524648	Q190375	P805	Language change	historical linguistics	statement is subject of
+Q524648	Q190375	P805	language change	historical linguistics	statement is subject of
+Q856625	Q199655	P805	Branch of libraries	library science	statement is subject of
+Q856625	Q199655	P805	Branch of libraries	Library science	statement is subject of
+Q856625	Q199655	P805	Branch of libraries	library science	statement is subject of
+Q879097	Q273595	P805	Bitwoded	History of Ethiopia	statement is subject of
+Q1172580	Q1172582	P805	Datex-J	Datex-L	statement is subject of
+Q891658	Q170384	P805	Golden Age of Operetta	operetta	statement is subject of
+Q2296741	Q4	P805	Social Security Death Index	death	statement is subject of
+Q6389018	Q4	P805	1388 SH	death	statement is subject of
+Q3596812	Q313521	P805	100604 Lundy	list of minor planets: 10001–11000	statement is subject of
+Q3596839	Q313521	P805	10392 Brace	list of minor planets: 10001–11000	statement is subject of
+Q2246483	Q323840	P805	lubrication method	lubricant	statement is subject of
+Q2281343	Q352328	P805	Backup chain	climbing protection	statement is subject of
+Q1790480	Q501778	P805	translators and interpreters	translation studies	statement is subject of
+Q860974	Q35158	P805	Bildpaar	stereoscopy	statement is subject of
+Q749173	Q41490	P805	counting of the Omer	Leviticus	statement is subject of
+Q488843	Q176763	P805	Anbeweis	Evidence	statement is subject of
+Q488843	Q176763	P805	Anbeweis	evidence	statement is subject of
+Q488843	Q176763	P805	Anbeweis	evidence	statement is subject of
+Q27135948	Q349	P805	2-1-0 points system	sport	statement is subject of
+Q27135963	Q349	P805	3-2-1 points system	sport	statement is subject of
+Q27204875	Q349	P805	2-1 points system	sport	statement is subject of
+Q27135948	Q349	P805	2-1-0 points system	sport	statement is subject of
+Q27135963	Q349	P805	3-2-1 points system	sport	statement is subject of
+Q27204875	Q349	P805	2-1 points system	sport	statement is subject of
+Q1066591	Q17517	P805	Nomophobia	mobile phone	statement is subject of
+Q1066591	Q17517	P805	Nomophobia	mobile phone	statement is subject of
+Q1066591	Q17517	P805	Nomophobia	mobile phone	statement is subject of
+Q6066044	Q255	P805	Ira F. Brilliant Center for Beethoven Studies	Ludwig van Beethoven	statement is subject of
+Q6066044	Q255	P805	Ira F. Brilliant Center for Beethoven Studies	Ludwig van Beethoven	statement is subject of
+Q6066044	Q255	P805	Ira F. Brilliant Center for Beethoven Studies	Ludwig van Beethoven	statement is subject of
+Q3494135	Q1267893	P805	Ginevra de' Benci	Ginevra de' Benci	statement is subject of
+Q3494135	Q1267893	P805	Ginevra de' Benci	Ginevra de' Benci	statement is subject of
+Q8029846	Q1276821	P805	Wolf House	The Heroes of Olympus	statement is subject of
+Q6431406	Q1394447	P805	Korangal Valley campaign	Restrepo	statement is subject of
+Q6258286	Q1479337	P805	John Smith	List of the verified oldest people	statement is subject of
+Q6258286	Q1479337	P805	John Smith	List of the verified oldest people	statement is subject of
+Q6258286	Q1479337	P805	John Smith	list of the verified oldest people	statement is subject of
+Q6940720	Q1559267	P805	Museum für Uhren und Mechanische Musik	mechanical musical instrument	statement is subject of
+Q18710604	Q1617843	P805	High Sheriff of Kent	High Sheriff of Kent	statement is subject of
+Q55758894	Q207410	P805	Così fan tutte	Così fan tutte	statement is subject of
+Q8508638	Q350945	P805	Category:Heraldic beasts	heraldic animal	statement is subject of
+Q8508638	Q350945	P805	Category:Heraldic beasts	heraldic animal	statement is subject of
+Q8508638	Q350945	P805	Category:Heraldic beasts	heraldic animal	statement is subject of
+Q5500533	Q483362	P805	Freedom Fighter, Lee Hoe-young	Lee Hoe-yeong	statement is subject of
+Q7279303	Q532461	P805	Rachel Lang	The Rage: Carrie 2	statement is subject of
+Q6802050	Q716552	P805	McLaren's Negatives	Norman McLaren	statement is subject of
+Q1864959	Q41309	P805	museum over Franz Liszt	Franz Liszt	statement is subject of
+Q1864959	Q41309	P805	museum over Franz Liszt	Franz Liszt	statement is subject of
+Q1864959	Q41309	P805	museum over Franz Liszt	Franz Liszt	statement is subject of
+Q8075332	Q732870	P805	Zuph	Hebrew Bible	statement is subject of
+Q6940720	Q787116	P805	Museum für Uhren und Mechanische Musik	automaton	statement is subject of
+Q22075037	Q19905418	P805	Young Woman with a Pearl Necklace	Young Woman with a Pearl Necklace	statement is subject of
+Q20900441	Q20900456	P805	Alan Kurdi	photograph of Alan Kurdi	statement is subject of
+Q6258276	Q2138809	P805	John Smith	list of Medal of Honor recipients during peacetime	statement is subject of
+Q6258286	Q2309504	P805	John Smith	list of supercentenarians from the United States	statement is subject of
+Q6113737	Q2356878	P805	Jack London State Historic Park	The Lost Hero	statement is subject of
+Q7041009	Q2626877	P805	nautical language	Glossary of nautical terms	statement is subject of
+Q7041009	Q2626877	P805	nautical language	Glossary of nautical terms	statement is subject of
+Q7041009	Q2626877	P805	nautical language	list of nautical terms	statement is subject of
+Q7614304	Q3039312	P805	Steve Wiebe	The King of Kong: A Fistful of Quarters	statement is subject of
+Q7614304	Q3039312	P805	Steve Wiebe	The King of Kong: A Fistful of Quarters	statement is subject of
+Q7614304	Q3039312	P805	Steve Wiebe	The King of Kong: A Fistful of Quarters	statement is subject of
+Q5422335	Q3700485	P805	Extreme Ice Survey	Chasing Ice	statement is subject of
+Q5422335	Q3700485	P805	Extreme Ice Survey	Chasing Ice	statement is subject of
+Q5422335	Q3700485	P805	Extreme Ice Survey	Chasing Ice	statement is subject of
+Q5500657	Q5223193	P805	Freedom Tunnel	Dark Days	statement is subject of
+Q3427349	Q11997597	P805	representative	agent	statement is subject of
+Q3427349	Q11997597	P805	representative	Representative	statement is subject of
+Q4405837	Q856076	P805	municipal executive board	municipality of Finland	statement is subject of
+Q8793391	Q899424	P805	Template:Prioninae	Prioninae	statement is subject of
+Q15991234	Q1130098	P805	Treaty Establishing the European Stability Mechanism	European Stability Mechanism	statement is subject of
+Q15362938	Q1235791	P805	Dollo on Dollo's law : irreversibility and the status of evolutionary laws	Dollo's law of irreversibility	statement is subject of
+Q17670323	Q76	P805	Former Senator Chafee endorses Barack Obama	Barack Obama	statement is subject of
+Q10547175	Q5399909	P805	collision between Lodbrok and Essingebron	Essingebron	statement is subject of
+Q8614470	Q8615615	P805	Help:Conditional expressions	Help:Magic	statement is subject of
+Q15427228	Q8615615	P805	Wikipedia:Conditional tables	Help:Magic	statement is subject of
+Q10547175	Q14405719	P805	collision between Lodbrok and Essingebron	Lodbrok	statement is subject of
+Q15053125	Q14954341	P805	Silibil 'N Brains	The Great Hip-Hop Hoax	statement is subject of
+Q15720503	Q15726132	P805	Happisburgh footprints	Hominin footprints from early Pleistocene deposits at Happisburgh, UK	statement is subject of
+Q15720503	Q15726132	P805	Happisburgh footprints	Hominin footprints from early Pleistocene deposits at Happisburgh, UK	statement is subject of
+Q15720503	Q15726132	P805	Happisburgh footprints	Hominin footprints from early Pleistocene deposits at Happisburgh, UK	statement is subject of
+Q12072060	Q17644447	P805	Pieter Verdonck	Portrait of Pieter Verdonck	statement is subject of
+Q22343563	Q22343547	P805	Daisy Coleman	Audrie & Daisy	statement is subject of
+Q23691666	Q22979783	P805	Einstein	Einstein the Parrot: A talking, squawking parrot	statement is subject of
+Q24042821	Q24038909	P805	William Gadoury	K’àak’ Chi’	statement is subject of
+Q24261941	Q24261958	P805	Josina Copes-Schade van Westrum	Portrait of Josina Copes-Schade van Westrum and Her Children - c. 1651	statement is subject of
+Q24514267	Q24451146	P805	Boy Asleep in his High Chair	Boy Sleeping in a High Chair	statement is subject of
+Q27036633	Q24964420	P805	Barbara van Vlaendenbergh	Portrait of Barbara van Vlaendenbergh	statement is subject of
+Q2649180	Q17	P805	Allied Council for Japan	Japan	statement is subject of
+Q2649180	Q17	P805	Allied Council for Japan	Japan	statement is subject of
+Q2649180	Q17	P805	Allied Council for Japan	Japan	statement is subject of
+Q17670323	Q76	P805	Former Senator Chafee endorses Barack Obama	Barack Obama	statement is subject of
+Q17670323	Q76	P805	Former Senator Chafee endorses Barack Obama	Barack Obama	statement is subject of
+Q47472871	Q977872	P805	RFC 2229: A Dictionary Server Protocol	DICT	statement is subject of
+Q18706972	Q1091675	P805	Deborah Bone	Disco 2000	statement is subject of
+Q21061314	Q1378218	P805	rue des déportés	European Centre of Deported Resistance Members	statement is subject of
+Q2101827	Q2101818	P805	police law	police law in Germany	statement is subject of
+Q2496923	Q2747862	P805	Kiddush levana	Babylonian Talmud	statement is subject of
+Q1813606	Q2821699	P805	Sexagenary Law	abolitionism in Brazil	statement is subject of
+Q2433338	Q4922844	P805	Tilikum	Blackfish	statement is subject of
+Q2433338	Q4922844	P805	Tilikum	Blackfish	statement is subject of
+Q2433338	Q4922844	P805	Tilikum	Blackfish	statement is subject of
+Q3249489	Q2102	P805	snake worship	snake	statement is subject of
+Q12060308	Q270704	P805	Třebíč in 16th and 17th century	Třebíč	statement is subject of
+Q12060308	Q270704	P805	Třebíč in 16th and 17th century	Třebíč	statement is subject of
+Q12060308	Q270704	P805	Třebíč in 16th and 17th century	Třebíč	statement is subject of
+Q3596842	Q313521	P805	10390 Lenka	List of minor planets: 10001–11000	statement is subject of
+Q3596842	Q313521	P805	10390 Lenka	List of minor planets: 10001–11000	statement is subject of
+Q3596842	Q313521	P805	10390 Lenka	list of minor planets: 10001–11000	statement is subject of
+Q5593518	Q318354	P805	Grainger Museum	Percy Grainger	statement is subject of
+Q1496531	Q1076616	P805	Ptireus	list of Egyptian deities	statement is subject of
+Q1736994	Q1299269	P805	Kaufehe	marriage in ancient Rome	statement is subject of
+Q1589009	Q1415886	P805	privately held company	Capital participation	statement is subject of
+Q1589009	Q1415886	P805	Privately held company	Capital participation	statement is subject of
+Q2246483	Q1455803	P805	lubrication method	lubrication	statement is subject of
+Q1575381	Q1713118	P805	JavaOne	Java platform	statement is subject of
+Q21695318	Q4	P805	Social Security Applications and Claims Index	death	statement is subject of
+Q21695318	Q4	P805	Social Security Applications and Claims Index	Death	statement is subject of
+Q21695318	Q4	P805	Social Security Applications and Claims Index	death	statement is subject of
+Q19921788	Q349	P805	two points for a win	sport	statement is subject of
+Q19921788	Q349	P805	two points for a win	sport	statement is subject of
+Q19914124	Q192567	P805	Treaty of Livadia	Ili River	statement is subject of
+Q19914124	Q192567	P805	Treaty of Livadia	Ili River	statement is subject of
+Q19914124	Q192567	P805	Treaty of Livadia	Ili River	statement is subject of
+Q23718977	Q195941	P805	Sandra Felton	compulsive hoarding	statement is subject of
+Q28856114	Q762048	P805	Blasmusikmuseum	concert band	statement is subject of
+Q28856114	Q762048	P805	Blasmusikmuseum	Concert band	statement is subject of
+Q28856114	Q762048	P805	Blasmusikmuseum	concert band	statement is subject of
+Q856625	Q856600	P805	Branch of libraries	library history	statement is subject of
+Q857844	Q858023	P805	Biergeld	Beer Tax	statement is subject of
+Q1009927	Q1076223	P805	Buntfeh	fur	statement is subject of
+Q1172582	Q1172580	P805	Datex-L	Datex-J	statement is subject of
+Q1172580	Q1172584	P805	Datex-J	Datex-M	statement is subject of
+Q1172582	Q1172584	P805	Datex-L	Datex-M	statement is subject of
+Q1027700	Q1435557	P805	Haight-Ashbury	Following Sean	statement is subject of
+Q857844	Q1517305	P805	Biergeld	History of beer	statement is subject of
+Q1277648	Q1657033	P805	Earth Liberation Front	If a Tree Falls: A Story of the Earth Liberation Front	statement is subject of
+Q1153828	Q1838019	P805	DIN 820	list of DIN standards	statement is subject of
+Q1153829	Q1838019	P805	DIN 824	list of DIN standards	statement is subject of
+Q27135948	Q349	P805	2-1-0 points system	Sport	statement is subject of
+Q27135963	Q349	P805	3-2-1 points system	Sport	statement is subject of
+Q27204875	Q349	P805	2-1 points system	Sport	statement is subject of
+Q28745374	Q7294	P805	Brahms-Museum	Johannes Brahms	statement is subject of
+Q38179723	Q7294	P805	Brahms Museum	Johannes Brahms	statement is subject of
+Q28745374	Q7294	P805	Brahms-Museum	Johannes Brahms	statement is subject of
+Q38179723	Q7294	P805	Brahms Museum	Johannes Brahms	statement is subject of
+Q28745374	Q7294	P805	Brahms-Museum	Johannes Brahms	statement is subject of
+Q38179723	Q7294	P805	Brahms Museum	Johannes Brahms	statement is subject of
+Q860896	Q72277	P805	Bildlage	refraction	statement is subject of
+Q23759475	Q255	P805	Beethoven-Haus	Ludwig van Beethoven	statement is subject of
+Q23759475	Q255	P805	Beethoven-Haus	Ludwig van Beethoven	statement is subject of
+Q23759475	Q255	P805	Beethoven-Haus	Ludwig van Beethoven	statement is subject of
+Q6940720	Q376	P805	Museum für Uhren und Mechanische Musik	clock	statement is subject of
+Q6940720	Q376	P805	Museum für Uhren und Mechanische Musik	Clock	statement is subject of
+Q24004479	Q34105	P805	attack on the president of Egypt in 1995	Hosni Mubarak	statement is subject of
+Q24004479	Q34105	P805	attack on the president of Egypt in 1995	Hosni Mubarak	statement is subject of
+Q24004479	Q34105	P805	attack on the president of Egypt in 1995	Hosni Mubarak	statement is subject of
+Q2296741	Q4	P805	Social Security Death Index	death	statement is subject of
+Q6389018	Q4	P805	1388 SH	death	statement is subject of
+Q2296741	Q4	P805	Social Security Death Index	Death	statement is subject of
+Q6389018	Q4	P805	1388 SH	Death	statement is subject of
+Q28465536	Q34379	P805	Muziekinformatie- en Documentatiecentrum Ton Stolk	musical instrument	statement is subject of
+Q28465536	Q34379	P805	Muziekinformatie- en Documentatiecentrum Ton Stolk	musical instrument	statement is subject of
+Q19921788	Q349	P805	two points for a win	Sport	statement is subject of
+Q5217222	Q1657033	P805	Daniel G. McGowan	If a Tree Falls: A Story of the Earth Liberation Front	statement is subject of
+Q7142617	Q1661530	P805	Passeree	History of measurement systems in India	statement is subject of
+Q6139999	Q1779504	P805	Energy management system	energy management	statement is subject of
+Q15804313	Q1838019	P805	DIN 5008	list of DIN standards	statement is subject of
+Q327109	Q20220045	P805	Jan Six I	Jan Six with a Dog	statement is subject of
+Q561765	Q21095390	P805	Caroll Spinney	I Am Big Bird: The Caroll Spinney Story	statement is subject of
+Q749173	Q21145445	P805	counting of the Omer	Kitzur Shulchan Aruch	statement is subject of
+Q913852	Q21145445	P805	Rosh Chodesh	Kitzur Shulchan Aruch	statement is subject of
+Q1513315	Q27450018	P805	South Pole Telescope	Detection of B -Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope	statement is subject of
+Q19921830	Q20793164	P805	armor construction	armor	statement is subject of
+Q19921830	Q20793164	P805	armor construction	armour	statement is subject of
+Q19921830	Q20793164	P805	armor construction	armour	statement is subject of
+Q20900456	Q20899270	P805	photograph of Alan Kurdi	death of Alan Kurdi	statement is subject of
+Q21923276	Q21517803	P805	Portrait of a Bearded Old Man with a Hand in his Cloak	Bust of a Man with Beard and Beret	statement is subject of
+Q20809886	Q22085622	P805	The Crucifixion	Crucifixion	statement is subject of
+Q6389018	Q6365	P805	1388 SH	1388	statement is subject of
+Q6389018	Q6365	P805	1388 SH	1388	statement is subject of
+Q30036754	Q7283	P805	Threat Level Terrorism Netherlands	terrorism	statement is subject of
+Q30036754	Q7283	P805	Threat Level Terrorism Netherlands	Terrorism	statement is subject of
+Q30036754	Q7283	P805	Threat Level Terrorism Netherlands	terrorism	statement is subject of
+Q1659939	Q1818107	P805	World Snooker Tour	list of snooker tournaments	statement is subject of
+Q4989857	Q187668	P805	émigré	emigration	statement is subject of
+Q4989857	Q187668	P805	Émigré	emigration	statement is subject of
+Q4989857	Q187668	P805	émigré	emigration	statement is subject of
+Q4989857	Q187668	P805	émigré	Emigration	statement is subject of
+Q4989857	Q187668	P805	Émigré	Emigration	statement is subject of
+Q4989857	Q187668	P805	émigré	Emigration	statement is subject of
+Q4989857	Q187668	P805	émigré	emigration	statement is subject of
+Q4989857	Q187668	P805	Émigré	emigration	statement is subject of
+Q4989857	Q187668	P805	émigré	emigration	statement is subject of
+Q687182	Q752103	P805	Whistler's Mother	Bean	statement is subject of
+Q687182	Q752103	P805	Whistler's Mother	Bean	statement is subject of
+Q798862	Q2626877	P805	Badegast	list of nautical terms	statement is subject of
+Q749173	Q2699251	P805	counting of the Omer	Orach Chayim	statement is subject of
+Q749173	Q2890118	P805	counting of the Omer	Sefer ha-Chinuch	statement is subject of
+Q860974	Q4688034	P805	Bildpaar	aerial survey	statement is subject of
+Q749173	Q12407437	P805	counting of the Omer	Chayei Adam	statement is subject of
+Q55949824	Q34314586	P805	Daniel E. Gottschling	Profile of Daniel E. Gottschling.	statement is subject of
+Q45286524	Q42965568	P805	Leonard B. Strang	James Spence Medallist 1990. Professor Leonard B. Strang.	statement is subject of
+Q51955004	Q48580063	P805	Mary Starke Harper	Interview with Mary Starke Harper, PhD, RN, FAAN.	statement is subject of
+Q51955004	Q48729472	P805	Mary Starke Harper	Mary Starke Harper. "I love doing the impossible".	statement is subject of
+Q42301969	Q7366	P805	Matsumoto shika	Song	statement is subject of
+Q42301969	Q7366	P805	Matsumoto shika	song	statement is subject of
+Q3249489	Q2102	P805	snake worship	snake	statement is subject of
+Q6389018	Q6365	P805	1388 SH	1388	statement is subject of
+Q25939388	Q52589	P805	Zátopek!	Emil Zátopek	statement is subject of
+Q25939388	Q52589	P805	Zátopek!	Emil Zátopek	statement is subject of
+Q25939388	Q52589	P805	Zátopek!	Emil Zátopek	statement is subject of
+Q8351649	Q194242	P805	Sudeten Crisis	Sudetenland	statement is subject of
+Q15392323	Q638	P805	Lords of Metal	music	statement is subject of
+Q15392323	Q638	P805	Lords of Metal	music	statement is subject of
+Q6940720	Q376	P805	Museum für Uhren und Mechanische Musik	clock	statement is subject of
+Q10975625	Q638	P805	Museum of Kashubian-Pomeranian Literature and Music	music	statement is subject of
+Q10975625	Q638	P805	Museum of Kashubian-Pomeranian Literature and Music	music	statement is subject of
+Q10975625	Q638	P805	Museum of Kashubian-Pomeranian Literature and Music	Music	statement is subject of
+Q15392323	Q211236	P805	Lords of Metal	celebrity	statement is subject of
+Q15392323	Q211236	P805	Lords of Metal	Celebrity	statement is subject of
+Q15392323	Q211236	P805	Lords of Metal	celebrity	statement is subject of
+Q20852535	Q246633	P805	Category:Slavíkovice (Třebíč District)	Slavíkovice	statement is subject of
+Q17487893	Q313521	P805	100133 Demosthenes	List of minor planets: 10001–11000	statement is subject of
+Q17487893	Q313521	P805	100133 Demosthenes	List of minor planets: 10001–11000	statement is subject of
+Q17487893	Q313521	P805	100133 Demosthenes	list of minor planets: 10001–11000	statement is subject of
+Q16103215	Q335912	P805	boat type	list of boat types	statement is subject of
+Q28019536	Q435977	P805	Portrait of a White-Bearded Man	Old Masters	statement is subject of
+Q18715563	Q458634	P805	bishop of Llandaff	Bishop of Llandaff	statement is subject of
+Q18715563	Q458634	P805	bishop of Llandaff	Bishop of Llandaff	statement is subject of
+Q18715563	Q458634	P805	bishop of Llandaff	Bishop of Llandaff	statement is subject of
+Q29562953	Q609836	P805	Monumento aos Combatentes do Ultramar	Portuguese Colonial War	statement is subject of
+Q23644115	Q240	P805	Brussels writing weeks 2016	Brussels-Capital Region	statement is subject of
+Q23644115	Q240	P805	Brussels writing weeks 2016	Brussels	statement is subject of
+Q23644115	Q240	P805	Brussels writing weeks 2016	Brussels	statement is subject of
+Q11787058	Q34379	P805	Museum of Folk Music Instruments	musical instrument	statement is subject of
+Q15392323	Q34379	P805	Lords of Metal	musical instrument	statement is subject of
+Q11787058	Q34379	P805	Museum of Folk Music Instruments	musical instrument	statement is subject of
+Q15392323	Q34379	P805	Lords of Metal	musical instrument	statement is subject of
+Q10975625	Q8242	P805	Museum of Kashubian-Pomeranian Literature and Music	literature‎	statement is subject of
+Q10975625	Q8242	P805	Museum of Kashubian-Pomeranian Literature and Music	Literature	statement is subject of
+Q10975625	Q8242	P805	Museum of Kashubian-Pomeranian Literature and Music	literature	statement is subject of
+Q18729838	Q6561939	P805	Archdeacon of Worcester	Archdeacon of Worcester	statement is subject of
+Q3540577	Q23392	P805	ice shove	Ice	statement is subject of
+Q3540577	Q23392	P805	ice shove	ice	statement is subject of
+Q3540577	Q23392	P805	ice shove	ice	statement is subject of
+Q7239847	Q31207	P805	preferred provider organization	Health care	statement is subject of
+Q7239847	Q31207	P805	preferred provider organization	health care	statement is subject of
+Q7239847	Q31207	P805	preferred provider organization	health care	statement is subject of
+Q28224697	Q623514	P805	Anarchist from Colony	Park Yeol	statement is subject of
+Q19914241	Q684740	P805	property stocks	real property	statement is subject of
+Q19914241	Q684740	P805	property stocks	Real property	statement is subject of
+Q19914241	Q684740	P805	property stocks	real property	statement is subject of
+Q42749282	Q689552	P805	Category:Spergau	Spergau	statement is subject of
+Q42749282	Q689552	P805	Category:Spergau	Spergau	statement is subject of
+Q42749282	Q689552	P805	Category:Spergau	Spergau	statement is subject of
+Q21061314	Q820008	P805	rue des déportés	Fort de Queuleu	statement is subject of
+Q28976286	Q28976193	P805	Erik Godtfredsen	Godtfredsen syndrome	statement is subject of
+Q28976286	Q28976193	P805	Erik Godtfredsen	Godtfredsen syndrome	statement is subject of
+Q28976286	Q28976193	P805	Erik Godtfredsen	Godtfredsen syndrome	statement is subject of
+Q19697213	Q1928191	P805	Checkmore	emergency light	statement is subject of
+Q19788922	Q2746536	P805	Muhammad al-Durrah	Muhammad al-Durrah incident	statement is subject of
+Q42352665	Q3407658	P805	trams the Netherlands	tramcar	statement is subject of
+Q42353062	Q3407658	P805	tram in Belgium	tramcar	statement is subject of
+Q42352665	Q3407658	P805	trams the Netherlands	streetcar	statement is subject of
+Q42353062	Q3407658	P805	tram in Belgium	streetcar	statement is subject of
+Q42352665	Q3407658	P805	trams the Netherlands	tramcar	statement is subject of
+Q42353062	Q3407658	P805	tram in Belgium	tramcar	statement is subject of
+Q15392323	Q638	P805	Lords of Metal	Music	statement is subject of
+Q5664351	Q102870	P805	Harriet Tubman grave	Harriet Tubman	statement is subject of
+Q5664351	Q102870	P805	Harriet Tubman grave	Harriet Tubman	statement is subject of
+Q5664351	Q102870	P805	Harriet Tubman grave	Harriet Tubman	statement is subject of
+Q15362938	Q1063	P805	Dollo on Dollo's law : irreversibility and the status of evolutionary laws	evolution	statement is subject of
+Q15362938	Q1063	P805	Dollo on Dollo's law : irreversibility and the status of evolutionary laws	evolution	statement is subject of
+Q15362938	Q1063	P805	Dollo on Dollo's law : irreversibility and the status of evolutionary laws	evolution	statement is subject of
+Q3090807	Q5435715	P805	Almanzo Wilder	Farmer Boy	statement is subject of
+Q2496923	Q12407437	P805	Kiddush levana	Chayei Adam	statement is subject of
+Q2600471	Q14954350	P805	2008 K2 disaster	The Summit	statement is subject of
+Q2600471	Q14954350	P805	2008 K2 disaster	The Summit	statement is subject of
+Q2600471	Q14954350	P805	2008 K2 disaster	The Summit	statement is subject of
+Q2669602	Q16913601	P805	Catrina Hoogsaet	Portrait of Catrina Hoogsaet	statement is subject of
+Q3341525	Q17484330	P805	Nikki Catsouras	Nikki Catsouras photographs controversy	statement is subject of
+Q3175473	Q17907497	P805	Jean de la Chambre	Portrait of Jean de la Chambre	statement is subject of
+Q1723121	Q18210299	P805	Laurel Hester	Freeheld	statement is subject of
+Q22131688	Q3846875	P805	Sensō Chōsakai	Great East Asia War	statement is subject of
+Q19914534	Q4323994	P805	traffic tax in Belgium	traffic	statement is subject of
+Q19914534	Q4323994	P805	traffic tax in Belgium	traffic	statement is subject of
+Q19914534	Q4323994	P805	traffic tax in Belgium	traffic	statement is subject of
+Q23486479	Q15613810	P805	Kabosu	Doge	statement is subject of
+Q23486479	Q15613810	P805	Kabosu	Doge	statement is subject of
+Q23486479	Q15613810	P805	Kabosu	Doge	statement is subject of
+Q16981690	Q17004041	P805	Anne Tamar-Mattis	Intersexion	statement is subject of
+Q23945451	Q17331667	P805	Cornelis Sebille Roos	Portrait of Cornelis Sebille Roos, Art Dealer in Amsterdam and Inspector of the National Konst-Gallery and the Huis ten Bosch in The Hague	statement is subject of
+Q16859678	Q17342911	P805	Lucas de Clercq	Portrait of Lucas de Clercq	statement is subject of
+Q18785499	Q8341	P805	Jazzmuseum of Genua	jazz	statement is subject of
+Q18785499	Q8341	P805	Jazzmuseum of Genua	Jazz	statement is subject of
+Q18785499	Q8341	P805	Jazzmuseum of Genua	jazz	statement is subject of
+Q12166565	Q35874	P805	theories of humor	humour	statement is subject of
+Q12166565	Q35874	P805	theories of humor	humour	statement is subject of
+Q28735571	Q81752	P805	Anton-Bruckner-Museum	Anton Bruckner	statement is subject of
+Q28856114	Q173453	P805	Blasmusikmuseum	wind instruments	statement is subject of
+Q19905197	Q104954	P805	Boy 7	radio-frequency identification	statement is subject of
+Q19904645	Q130334	P805	Georgina Sime	The Canadian Encyclopedia	statement is subject of
+Q19904645	Q130334	P805	Georgina Sime	The Canadian Encyclopedia	statement is subject of
+Q4405837	Q127448	P805	municipal executive board	municipality of Sweden	statement is subject of
+Q4405837	Q127448	P805	municipal executive board	Municipalities of Sweden	statement is subject of
+Q7867634	Q174736	P805	USS Bearss	destroyer	statement is subject of
+Q3270247	Q41576	P805	legal status of cocaine	cocaine	statement is subject of
+Q19915271	Q134916	P805	football squad from Uruguay in 2014	Uruguay national football team	statement is subject of
+Q19915271	Q134916	P805	football squad from Uruguay in 2014	Uruguay national football team	statement is subject of
+Q19915271	Q134916	P805	football squad from Uruguay in 2014	Uruguay national football team	statement is subject of
+Q2905520	Q34807	P805	Foie gras controversy	foie gras	statement is subject of
+Q4158288	Q37643	P805	Liberation of Kuwait	Gulf War	statement is subject of
+Q4158288	Q37643	P805	Liberation of Kuwait	Gulf War	statement is subject of
+Q4158288	Q37643	P805	Liberation of Kuwait	Gulf War	statement is subject of
+Q19913622	Q155930	P805	boat restrictions	maritime transport	statement is subject of
+Q14464517	Q158203	P805	Template:Soldanella	Soldanella	statement is subject of
+Q19968403	Q160289	P805	hearing impairment	hearing	statement is subject of
+Q42301969	Q7366	P805	Matsumoto shika	song	statement is subject of
+Q19905197	Q11072	P805	Boy 7	amnesia	statement is subject of
+Q3249489	Q2102	P805	snake worship	snake	statement is subject of
+Q19915276	Q161078	P805	urbanisation level	urbanization	statement is subject of
+Q15392323	Q38848	P805	Lords of Metal	heavy metal	statement is subject of
+Q15392323	Q38848	P805	Lords of Metal	Heavy metal music	statement is subject of
+Q15392323	Q38848	P805	Lords of Metal	heavy metal	statement is subject of
+Q20852434	Q165953	P805	Category:Lesná (Třebíč District)	Lesná	statement is subject of
+Q11523535	Q175185	P805	Rural geography	rural area	statement is subject of
+Q19905197	Q3010	P805	Boy 7	boy	statement is subject of
+Q19905197	Q3010	P805	Boy 7	Boy	statement is subject of
+Q19905197	Q3010	P805	Boy 7	boy	statement is subject of
+Q18221786	Q1511	P805	Richard-Wagner-Museum	Richard Wagner	statement is subject of
+Q18221786	Q1511	P805	Richard-Wagner-Museum	Richard Wagner	statement is subject of
+Q18221786	Q1511	P805	Richard-Wagner-Museum	Richard Wagner	statement is subject of
+Q17069774	Q928	P805	International rankings of the Philippines	Philippines	statement is subject of
+Q17069774	Q928	P805	International rankings of the Philippines	Philippines	statement is subject of
+Q17069774	Q928	P805	International rankings of the Philippines	Philippines	statement is subject of
+Q19841338	Q181190	P805	Voetbalelftal van Bosnië en Herzegovina in 2014	Bosnia and Herzegovina national football team	statement is subject of
+Q21695318	Q5612679	P805	Social Security Applications and Claims Index	Social Security number	statement is subject of
+Q21695318	Q5612679	P805	Social Security Applications and Claims Index	Social Security number	statement is subject of
+Q20051648	Q5968050	P805	Fabritius and Pyrrhus	The Council Chamber in Amsterdam Town Hall	statement is subject of
+Q18720358	Q6627381	P805	Mayor of Melbourne	list of mayors and lord mayors of Melbourne	statement is subject of
+Q18891549	Q6631885	P805	Edvard Munch: Complete Paintings: Catalogue Raisonné	list of paintings by Edvard Munch	statement is subject of
+Q19421058	Q11824922	P805	Marten Soolmans II	Portrait of Maerten Soolmans	statement is subject of
+Q21695318	Q14819852	P805	Social Security Applications and Claims Index	Birth	statement is subject of
+Q21695318	Q14819852	P805	Social Security Applications and Claims Index	parturition	statement is subject of
+Q21695318	Q14819852	P805	Social Security Applications and Claims Index	birth	statement is subject of
+Q15392323	Q38926	P805	Lords of Metal	news	statement is subject of
+Q7867634	Q174736	P805	USS Bearss	Destroyer	statement is subject of
+Q7867634	Q174736	P805	USS Bearss	destroyer	statement is subject of
+Q21695318	Q7566	P805	Social Security Applications and Claims Index	parent	statement is subject of
+Q21695318	Q7566	P805	Social Security Applications and Claims Index	parent	statement is subject of
+Q21695318	Q7566	P805	Social Security Applications and Claims Index	Parent	statement is subject of
+Q15392323	Q83270	P805	Lords of Metal	hard rock	statement is subject of
+Q15392323	Q83270	P805	Lords of Metal	Hard rock	statement is subject of
+Q15392323	Q83270	P805	Lords of Metal	hard rock	statement is subject of

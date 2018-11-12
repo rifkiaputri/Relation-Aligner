@@ -13,31 +13,39 @@ class args():
         self.dropout = 0.5
         self.static = True
         self.lr = 0.001
-        self.epochs = 50
+        self.epochs = 30
         self.log_interval = 20
         self.test_interval = 400
         self.save_interval = 10
         self.loss_log_interval = 50
-        self.train_filename = 'dataset/train_align_filtered.tsv'
-        self.valid_filename = 'dataset/valid_align_filtered.tsv'
-        self.test_filename = 'dataset/test_align_filtered.tsv'
-#         self.test_filename = 'dataset/test_align_gold.tsv'
-        self.save_dir = 'models/data_v4'  # model save path
+        self.train_filename = 'dataset/train_align_all_balanced.tsv'
+        self.valid_filename = 'dataset/valid_align_all.tsv'
+        self.test_filename = 'dataset/test_align_all_balanced.tsv'
+        self.gold_filename = 'dataset/test_align_gold.tsv'
+        self.save_dir = 'models/data_v5'  # model save path
         
         # Mode
         self.mode = 'defent'
-        self.predict_dir = 'predict/data_v4/pcnn_' + self.mode
+        self.predict_dir = 'predict/data_v5/pcnn_' + self.mode
+        self.gold_dir = 'predict/data_v5/gold/pcnn_' + self.mode
         self.model_filename = 'pcnn_final_' + self.mode
         
+        # Kernel size configuration
         if self.mode == 'nodef':
             self.kernel_num = 8
             self.kernel_sizes = [1]
+        elif self.mode == 'def':
+            self.kernel_num = 8
+            self.kernel_sizes = [1, 2]
         else:
-            self.kernel_num = 32
-            self.kernel_sizes = [2, 3]
+            self.kernel_num = 16
+            self.kernel_sizes = [1, 2]
         
         if not os.path.exists(self.save_dir):
             os.mkdir(self.save_dir)
             
         if not os.path.exists(self.predict_dir):
             os.makedirs(self.predict_dir)
+            
+        if not os.path.exists(self.gold_dir):
+            os.makedirs(self.gold_dir)

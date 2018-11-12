@@ -1,0 +1,48 @@
+Q546395	Q5370777	P1013	emerging market	Emerging Markets Index	criterion used
+Q128581	Q423671	P1013	breast cancer	Transforming growth factor	criterion used
+Q546395	Q12638	P1013	emerging market	Gross domestic product	criterion used
+Q546395	Q12638	P1013	emerging market	gross domestic product	criterion used
+Q546395	Q12638	P1013	emerging market	gross domestic product	criterion used
+P2370	Q12457	P1013	conversion to SI unit	International System of Units	criterion used
+Q29822150	Q29382742	P1013	Cyprus census 1973	resident population of Cyprus	criterion used
+Q42240727	Q42841417	P1013	mother's father's father	ancestor generation starting with parent	criterion used
+Q42240748	Q42841417	P1013	mother's mother's father	ancestor generation starting with parent	criterion used
+Q43387504	Q43387537	P1013	Century Oldstyle	Century Roman	criterion used
+Q546395	Q82135	P1013	emerging market	purchasing power parity	criterion used
+Q1198850	Q20814801	P1013	The Big Trail	The Big Trail	criterion used
+Q7113614	Q205665	P1013	overcrowding	Norm	criterion used
+Q7113614	Q205665	P1013	overcrowding	Norm	criterion used
+Q7113614	Q205665	P1013	overcrowding	social norm	criterion used
+Q7113614	Q2333573	P1013	overcrowding	building code	criterion used
+Q5600327	Q2488994	P1013	great ape personhood	sentience	criterion used
+Q3250404	Q2625603	P1013	list of cities in Australia by population	population	criterion used
+Q15715120	Q15719697	P1013	2011 Italian census	legal population of Italy	criterion used
+Q7565743	Q15890646	P1013	South African National Census of 2001	de facto census	criterion used
+Q7565744	Q15890646	P1013	South African National Census of 2011	de facto census	criterion used
+Q5601909	Q16725803	P1013	Greek census 2011	resident population of Greece	criterion used
+Q8407974	Q24575841	P1013	Category:Computer science articles by importance	by Wikipedia article importance	criterion used
+Q12873865	Q29382742	P1013	Cyprus census 2011	resident population of Cyprus	criterion used
+Q24520806	Q171990	P1013	Laissez faire et laissez passer	Laissez faire	criterion used
+Q24835340	Q171990	P1013	Laissez faire et laissez passer	Laissez faire	criterion used
+Q15778841	Q15719697	P1013	Italian census 2001	legal population of Italy	criterion used
+Q20441992	Q15895949	P1013	Hungary public place-name book of 2013	resident population (Hungary)	criterion used
+Q20442699	Q15895949	P1013	Gazetteer of Hungary 2012	resident population (Hungary)	criterion used
+Q16331432	Q18602557	P1013	Greek census 2001	de facto population of Greece	criterion used
+Q27529879	Q21517203	P1013	non-Copyfree software license	Copyfree Initiative	criterion used
+Q22935045	Q27230290	P1013	4th municipal income class	Department Order No. 23-08 (Department of Finance)	criterion used
+Q22808320	Q27924673	P1013	human name disambiguation page	family name has to use a different item than disambiguation pages	criterion used
+Q16331384	Q29382742	P1013	Cyprus census 2001	resident population of Cyprus	criterion used
+Q29639013	Q29382742	P1013	Cyprus census 1992	resident population of Cyprus	criterion used
+Q29639023	Q29382742	P1013	Cyprus census 1982	resident population of Cyprus	criterion used
+Q29639032	Q29382742	P1013	Cyprus census 1976	resident population of Cyprus	criterion used
+Q29639038	Q29382742	P1013	Cyprus census 1960	resident population of Cyprus	criterion used
+Q29639084	Q29382742	P1013	Cyprus census 1946	resident population of Cyprus	criterion used
+Q29639087	Q29382742	P1013	Cyprus census 1931	resident population of Cyprus	criterion used
+Q29639090	Q29382742	P1013	Cyprus census 1911	resident population of Cyprus	criterion used
+Q29639091	Q29382742	P1013	Cyprus census 1901	resident population of Cyprus	criterion used
+Q29639092	Q29382742	P1013	Cyprus census 1891	resident population of Cyprus	criterion used
+Q29641392	Q29382742	P1013	Cyprus census 1881	resident population of Cyprus	criterion used
+Q29795177	Q29382742	P1013	Cyprus census	resident population of Cyprus	criterion used
+Q18330804	Q46270420	P1013	Carl Cederblad	Cederblad	criterion used
+Q18330804	Q46270420	P1013	Carl Cederblad	Cederblad	criterion used
+Q18330804	Q46270420	P1013	Carl Cederblad	Cederblad	criterion used

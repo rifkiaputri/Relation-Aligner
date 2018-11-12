@@ -1,0 +1,9 @@
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards
+Q56676825	Q5599	P5051	The four philosophers	Peter Paul Rubens	towards
+Q56676825	Q5599	P5051	The four philosophers	Peter Paul Rubens	towards
+Q56676825	Q5599	P5051	The four philosophers	Peter Paul Rubens	towards
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards
+Q13101357	Q719456	P5051	P+R Bouillon - Central station - city center - Luxexpo	station	towards

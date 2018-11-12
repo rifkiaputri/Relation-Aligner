@@ -1,0 +1,154 @@
+Q6915625	Q421413	P518	Moseley v. V Secret Catalogue, Inc.	Moseley	applies to part
+Q8063266	Q1071143	P518	ZQ8	Chevrolet Colorado	applies to part
+Q8063266	Q1071280	P518	ZQ8	Chevrolet S-10	applies to part
+Q16834355	Q1628290	P518	Cypher Query Language	Neo4j	applies to part
+Q27075	Q39572	P518	mitochondrial DNA	mitochondrion	applies to part
+Q94951	Q82794	P518	regional cuisine	geographic region	applies to part
+Q94951	Q82794	P518	regional cuisine	geographic region	applies to part
+Q94951	Q82794	P518	regional cuisine	geographic region	applies to part
+Q390970	Q467	P518	Nadītu	woman	applies to part
+Q390970	Q467	P518	Nadītu	Woman	applies to part
+Q390970	Q467	P518	Nadītu	woman	applies to part
+Q21112283	Q13400765	P518	respiratory irritation	respiratory tract	applies to part
+Q3983794	Q14565199	P518	Temptation of Adam and Eve	right	applies to part
+Q3983794	Q14565199	P518	Temptation of Adam and Eve	right	applies to part
+Q47462497	Q17553950	P518	face-to-face	object	applies to part
+Q94951	Q874405	P518	regional cuisine	social group	applies to part
+Q192830	Q74304	P518	Coefficient of determination	least squares method	applies to part
+Q1251380	Q127051	P518	Double variation	repetition in music	applies to part
+Q945238	Q169953	P518	peripheral neuropathy	peripheral nervous system	applies to part
+Q856089	Q300914	P518	GNU C Library	C standard library	applies to part
+Q21686439	Q21686436	P518	filmography of Dieter Kehler	Dieter Kehler	applies to part
+Q21686439	Q21686436	P518	filmography of Dieter Kehler	Dieter Kehler	applies to part
+Q21686439	Q21686436	P518	filmography of Dieter Kehler	Dieter Kehler	applies to part
+Q20018074	Q21694152	P518	Relativna rečenica	Category:Works by Snježana Kordić	applies to part
+Q20018074	Q21694231	P518	Relativna rečenica	Template:Snježana Kordić	applies to part
+Q21711261	Q21711237	P518	bibliography of Jean-Pierre Rorive	Jean-Pierre Rorive	applies to part
+Q31200605	Q22132865	P518	death of Diren Dede	Diren Dede	applies to part
+Q26877321	Q26877163	P518	Georges Guibal bibliography	Georges Guibal	applies to part
+Q46361899	Q45823285	P518	Livro do Tombo das Belas Artes	IPHAN classified property	applies to part
+Q53108711	Q51963118	P518	Intel Core2 Duo Mobile  Processor, Intel Core2 Solo  Mobile Processor and Intel Core2  Extreme Mobile Processor on 45-nm  Process Datasheet	Core2 Duo P8600	applies to part
+Q645011	Q4830453	P518	corporate tax	business	applies to part
+Q645011	Q4830453	P518	corporate tax	business	applies to part
+Q2815316	Q17623873	P518	filmography of Penelope Buitenhuis	Penelope Buitenhuis	applies to part
+Q2815316	Q17623873	P518	filmography of Penelope Buitenhuis	Penelope Buitenhuis	applies to part
+Q2815316	Q17623873	P518	filmography of Penelope Buitenhuis	Penelope Buitenhuis	applies to part
+Q21193123	Q21193136	P518	GNU Nano-Archimedes	quantum system	applies to part
+Q645011	Q4830453	P518	corporate tax	business	applies to part
+Q2466889	Q283	P518	hydraulic structure	water	applies to part
+Q2466889	Q283	P518	hydraulic structure	water	applies to part
+Q2466889	Q283	P518	hydraulic structure	water	applies to part
+Q273047	Q194034	P518	Enneagram of Personality	psyche	applies to part
+Q383314	Q386275	P518	Wt	web development	applies to part
+Q192830	Q10861030	P518	Coefficient of determination	linear regression	applies to part
+Q3244994	Q515	P518	city nicknames	city	applies to part
+Q3244994	Q515	P518	city nicknames	city	applies to part
+Q3244994	Q515	P518	city nicknames	city	applies to part
+Q3356153	Q142	P518	French governmental organization	France	applies to part
+Q3356153	Q142	P518	French governmental organization	France	applies to part
+Q3356153	Q142	P518	French governmental organization	France	applies to part
+Q3482590	Q290	P518	neutering	Sex	applies to part
+Q3482590	Q290	P518	neutering	sex	applies to part
+Q3482590	Q290	P518	neutering	sex	applies to part
+Q6955502	Q148	P518	NTSC-C	People's Republic of China	applies to part
+Q6955502	Q148	P518	NTSC-C	China	applies to part
+Q6955502	Q148	P518	NTSC-C	China	applies to part
+Q47462541	Q152	P518	hauriant	fish	applies to part
+Q47462544	Q152	P518	urinant	fish	applies to part
+Q47462541	Q152	P518	hauriant	Fish	applies to part
+Q47462544	Q152	P518	urinant	Fish	applies to part
+Q47462541	Q152	P518	hauriant	fish	applies to part
+Q47462544	Q152	P518	urinant	fish	applies to part
+Q2318908	Q34010	P518	Glasgow Haskell Compiler	Haskell	applies to part
+Q3257925	Q11413	P518	Go software	Go	applies to part
+Q3257925	Q11413	P518	Go software	Go	applies to part
+Q3257925	Q11413	P518	Go software	Go	applies to part
+Q3486873	Q46794	P518	SmartSVN	Subversion	applies to part
+Q3530050	Q46794	P518	TkCVS	Subversion	applies to part
+Q3486873	Q46794	P518	SmartSVN	Apache Subversion	applies to part
+Q3530050	Q46794	P518	TkCVS	Apache Subversion	applies to part
+Q3486873	Q46794	P518	SmartSVN	Apache Subversion	applies to part
+Q3530050	Q46794	P518	TkCVS	Apache Subversion	applies to part
+Q3353182	Q977900	P518	Open Packaging Conventions	Open XML Paper Specification	applies to part
+Q5377027	Q41176	P518	Energy certificate	building	applies to part
+Q5377027	Q41176	P518	Energy certificate	building	applies to part
+Q5377027	Q41176	P518	Energy certificate	Building	applies to part
+Q2870015	Q815436	P518	Dublin and Monaghan bombings	The Troubles	applies to part
+Q2870015	Q815436	P518	Dublin and Monaghan bombings	The Troubles	applies to part
+Q2870015	Q815436	P518	Dublin and Monaghan bombings	The Troubles	applies to part
+Q1320143	Q38829	P518	purebred	breed	applies to part
+Q1320143	Q38829	P518	purebred	Breed	applies to part
+Q1320143	Q38829	P518	purebred	breed	applies to part
+Q3093351	Q42332	P518	Gpdf	Portable Document Format	applies to part
+Q3093351	Q42332	P518	Gpdf	Portable Document Format	applies to part
+Q3093351	Q42332	P518	Gpdf	Portable Document Format	applies to part
+Q12406385	Q450	P518	human variability	mind	applies to part
+Q12406385	Q450	P518	human variability	Mind	applies to part
+Q12406385	Q450	P518	human variability	mind	applies to part
+Q9160460	Q482	P518	poétique	poetry	applies to part
+Q9160460	Q482	P518	poétique	Poetry	applies to part
+Q9160460	Q482	P518	poétique	poetry	applies to part
+Q7834819	Q756	P518	Transpiration stream	Plant	applies to part
+Q5377027	Q212920	P518	Energy certificate	home appliance	applies to part
+Q21070416	Q467	P518	First Lady of Afghanistan	woman	applies to part
+Q5155850	Q176165	P518	Comparison of database access	database management system	applies to part
+Q5565944	Q339678	P518	Gizzard	distributed data store	applies to part
+Q3530050	Q467252	P518	TkCVS	Concurrent Versions System	applies to part
+Q4043482	Q603867	P518	Soul	mSQL	applies to part
+Q4039164	Q624546	P518	GNU Ferret	entity-relationship model	applies to part
+Q21070416	Q467	P518	First Lady of Afghanistan	Woman	applies to part
+Q21070416	Q467	P518	First Lady of Afghanistan	woman	applies to part
+Q52062847	Q10884	P518	tree of public interest	tree	applies to part
+Q16965169	Q5289	P518	Neo	.NET Framework	applies to part
+Q16965169	Q5289	P518	Neo	.NET Framework	applies to part
+Q16965169	Q5289	P518	Neo	.NET Framework	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q52062847	Q10884	P518	tree of public interest	tree	applies to part
+Q52062847	Q10884	P518	tree of public interest	tree	applies to part
+Q3486867	Q732089	P518	SmartEiffel	Eiffel	applies to part
+Q6011585	Q791187	P518	in flight	baseball	applies to part
+Q5227383	Q1049878	P518	Database Deployment Manager	database design	applies to part
+Q5627844	Q1501395	P518	H-Store	Online transaction processing	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	Man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	Man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	Man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q13592528	Q8441	P518	2019 World Men's Handball Championship	man	applies to part
+Q7834819	Q756	P518	Transpiration stream	plant	applies to part
+Q7834819	Q756	P518	Transpiration stream	plant	applies to part
+Q45200657	Q559171	P518	Template:Cameroon squad 2017 World Women's Handball Championship	2017 World Women's Handball Championship	applies to part
+Q21743287	Q614380	P518	superintendent (France)	education in France	applies to part
+Q47462541	Q7369	P518	hauriant	dolphin	applies to part
+Q47462544	Q7369	P518	urinant	dolphin	applies to part
+Q47462541	Q7369	P518	hauriant	Dolphin	applies to part
+Q47462544	Q7369	P518	urinant	Dolphin	applies to part
+Q19839393	Q670787	P518	Preface author	preface	applies to part
+Q47462452	Q842175	P518	pascuant	Ruminant	applies to part
+Q19730050	Q903783	P518	naïve set theory's paradox	naive set theory	applies to part
+Q21684307	Q3315004	P518	discography of Mini Mansions	Mini Mansions	applies to part
+Q45200657	Q3590620	P518	Template:Cameroon squad 2017 World Women's Handball Championship	Cameroon women's national handball team	applies to part
+Q21418827	Q10861030	P518	Wald estimator	linear regression	applies to part
+Q47462541	Q920028	P518	hauriant	sea monster	applies to part
+Q47462544	Q920028	P518	urinant	sea monster	applies to part
+Q46000274	Q2006518	P518	royal coat of arms	royal family	applies to part
+Q46000274	Q2006518	P518	royal coat of arms	Royal family	applies to part
+Q46000274	Q2006518	P518	royal coat of arms	Royal family	applies to part
+Q26978760	Q3167253	P518	Bibliography of Jean-Luc Romet	Jean-Luc Romet	applies to part
+Q21711071	Q3185943	P518	bibliography of Josette Rey-Debove	Josette Rey-Debove	applies to part
+Q10384164	Q11469	P518	glass-transition temperature	Glass	applies to part
+Q10384164	Q11469	P518	glass-transition temperature	glass	applies to part
+Q10384164	Q11469	P518	glass-transition temperature	glass	applies to part
+Q47462541	Q7369	P518	hauriant	dolphin	applies to part
+Q47462544	Q7369	P518	urinant	dolphin	applies to part
+Q12406385	Q23852	P518	human variability	human body	applies to part
+Q12406385	Q23852	P518	human variability	visicola	applies to part
+Q16877248	Q38829	P518	mixed breed	breed	applies to part
+Q16877248	Q38829	P518	mixed breed	Breed	applies to part
+Q16877248	Q38829	P518	mixed breed	breed	applies to part
+Q10384164	Q81163	P518	glass-transition temperature	polymer	applies to part
+Q15217455	Q133156	P518	Resident Minister	colony	applies to part
+Q6744305	Q10861030	P518	Mallows' Cp	linear regression	applies to part
+Q6915625	Q332477	P518	Moseley v. V Secret Catalogue, Inc.	Victoria's Secret	applies to part

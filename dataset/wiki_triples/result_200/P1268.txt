@@ -1,0 +1,1252 @@
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q573197	Q8438	P1268	Waldi	1972 Summer Olympics	represents
+Q116015	Q212928	P1268	Gian-Franco Kasper	International Ski Federation	represents
+Q116015	Q212928	P1268	Gian-Franco Kasper	International Ski Federation	represents
+Q47774	Q244750	P1268	France national football team	French Football Federation	represents
+Q47774	Q244750	P1268	France national football team	French Football Federation	represents
+Q47774	Q244750	P1268	France national football team	French Football Federation	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q102402	Q1431	P1268	Kandalf	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q252309	Q1431	P1268	Konqi	KDE	represents
+Q495163	Q8470	P1268	Hodori	1988 Summer Olympics	represents
+Q495163	Q8470	P1268	Hodori	1988 Summer Olympics	represents
+Q495163	Q8470	P1268	Hodori	1988 Summer Olympics	represents
+Q334775	Q1422785	P1268	Muhammad Zaidan	Palestine Liberation Front	represents
+Q278591	Q1552010	P1268	Louisiana–Monroe Warhawks	University of Louisiana at Monroe	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q164089	Q1160682	P1268	Mexico national football team	Mexican Football Federation	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q678745	Q559549	P1268	Navy Midshipmen	United States Naval Academy	represents
+Q264545	Q579968	P1268	Missouri Tigers	University of Missouri	represents
+Q322553	Q620642	P1268	Abner Zwillman	Jewish-American organized crime	represents
+Q1813275	Q622248	P1268	Guam women's national football team	Guam Football Association	represents
+Q119180	Q264955	P1268	Edmond Kaiser	Terre des hommes	represents
+Q119180	Q264955	P1268	Edmond Kaiser	Terre des hommes	represents
+Q119180	Q264955	P1268	Edmond Kaiser	Terre des hommes	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q821924	Q152772	P1268	Berlino	2009 World Championships in Athletics	represents
+Q592686	Q826406	P1268	Raúl Sendic	Tupamaros	represents
+Q944639	Q861548	P1268	Florida State Seminoles	Florida State University	represents
+Q944639	Q861548	P1268	Florida State Seminoles	Florida State University	represents
+Q259261	Q42482	P1268	Eddie the Head	Iron Maiden	represents
+Q259261	Q42482	P1268	Eddie the Head	Iron Maiden	represents
+Q969977	Q863259	P1268	Wayne LaPierre	National Rifle Association	represents
+Q969977	Q863259	P1268	Wayne LaPierre	National Rifle Association	represents
+Q969977	Q863259	P1268	Wayne LaPierre	National Rifle Association	represents
+Q539834	Q891082	P1268	Boise State Broncos	Boise State University	represents
+Q1150994	Q911978	P1268	Yōhei Sasakawa	Nippon Foundation	represents
+Q400630	Q921699	P1268	Ahmed Jibril	Popular Front for the Liberation of Palestine – General Command	represents
+Q2365318	Q631066	P1268	Clemson Tigers	Clemson University	represents
+Q63071	Q701176	P1268	Paul Schäfer	Villa Baviera	represents
+Q63071	Q701176	P1268	Paul Schäfer	Villa Baviera	represents
+Q63071	Q701176	P1268	Paul Schäfer	Villa Baviera	represents
+Q695642	Q37285	P1268	Goleo VI	2006 FIFA World Cup	represents
+Q3503744	Q670897	P1268	Arizona State Sun Devils	Arizona State University	represents
+Q2928111	Q681025	P1268	Buffalo Bulls	University at Buffalo	represents
+Q2927647	Q736674	P1268	Colorado Buffaloes	University of Colorado Boulder	represents
+Q3355089	Q617433	P1268	Syracuse Orange	Syracuse University	represents
+Q3355089	Q617433	P1268	Syracuse Orange	Syracuse University	represents
+Q3355089	Q617433	P1268	Syracuse Orange	Syracuse University	represents
+Q3490794	Q640652	P1268	Oklahoma Sooners	University of Oklahoma	represents
+Q3490794	Q640652	P1268	Oklahoma Sooners	University of Oklahoma	represents
+Q3490794	Q640652	P1268	Oklahoma Sooners	University of Oklahoma	represents
+Q3506780	Q666128	P1268	Indiana State Sycamores	Indiana State University	represents
+Q2545673	Q727121	P1268	Azucena Villaflor	Mothers of the Plaza de Mayo	represents
+Q200410	Q766145	P1268	Oregon Ducks	University of Oregon	represents
+Q200410	Q766145	P1268	Oregon Ducks	University of Oregon	represents
+Q200410	Q766145	P1268	Oregon Ducks	University of Oregon	represents
+Q960398	Q812573	P1268	Baylor Bears	Baylor University	represents
+Q1237740	Q998264	P1268	Plinio Corrêa de Oliveira	Tradition, Family and Property	represents
+Q1029351	Q1012699	P1268	Bryant Bulldogs	Bryant University	represents
+Q308283	Q1048651	P1268	Abdolmalek Rigi	Jundallah	represents
+Q387809	Q1052614	P1268	Utah State Aggies	Utah State University	represents
+Q605159	Q79859	P1268	Fuleco	2014 FIFA World Cup	represents
+Q605159	Q79859	P1268	Fuleco	2014 FIFA World Cup	represents
+Q796990	Q34264	P1268	BSD Daemon	Berkeley Software Distribution	represents
+Q796990	Q34264	P1268	BSD Daemon	Berkeley Software Distribution	represents
+Q837716	Q38076	P1268	Ronald McDonald	McDonald's	represents
+Q837716	Q38076	P1268	Ronald McDonald	McDonald's	represents
+Q837716	Q38076	P1268	Ronald McDonald	McDonald's	represents
+Q2590997	Q15142	P1268	UMass Minutemen	University of Massachusetts Amherst	represents
+Q1923858	Q25227	P1268	Minister Plenipotentiary of the Netherlands Antilles	Netherlands Antilles	represents
+Q1923858	Q25227	P1268	Minister Plenipotentiary of the Netherlands Antilles	Netherlands Antilles	represents
+Q1923858	Q25227	P1268	Minister Plenipotentiary of the Netherlands Antilles	Netherlands Antilles	represents
+Q3528311	Q540672	P1268	Auburn Tigers	Auburn University	represents
+Q3422875	Q590643	P1268	Miami RedHawks	Miami University	represents
+Q2998740	Q597236	P1268	Washington State Cougars	Washington State University	represents
+Q616428	Q49117	P1268	Penn Quakers	University of Pennsylvania	represents
+Q616428	Q49117	P1268	Penn Quakers	University of Pennsylvania	represents
+Q616428	Q49117	P1268	Penn Quakers	University of Pennsylvania	represents
+Q3342238	Q739627	P1268	Penn State Nittany Lions	Pennsylvania State University	represents
+Q2927996	Q761534	P1268	Georgia Bulldogs	University of Georgia	represents
+Q2927996	Q761534	P1268	Georgia Bulldogs	University of Georgia	represents
+Q2927996	Q761534	P1268	Georgia Bulldogs	University of Georgia	represents
+Q755230	Q8558	P1268	Athena and Phevos	2004 Summer Olympics	represents
+Q755230	Q8558	P1268	Athena and Phevos	2004 Summer Olympics	represents
+Q755230	Q8558	P1268	Athena and Phevos	2004 Summer Olympics	represents
+Q587096	Q159454	P1268	Rubén Berríos	Socialist International	represents
+Q1573151	Q13371	P1268	Harvard Crimson	Harvard University	represents
+Q1573151	Q13371	P1268	Harvard Crimson	Harvard University	represents
+Q1573151	Q13371	P1268	Harvard Crimson	Harvard University	represents
+Q3105624	Q773364	P1268	Gilbert Bourdin	Aumism	represents
+Q3290745	Q778997	P1268	Marguerite Tiberghien	Daughters of Charity of Saint Vincent de Paul	represents
+Q2938064	Q805122	P1268	Ball State Cardinals	Ball State University	represents
+Q695642	Q37285	P1268	Goleo VI	2006 FIFA World Cup	represents
+Q695642	Q37285	P1268	Goleo VI	2006 FIFA World Cup	represents
+Q654931	Q42814	P1268	Kantauri	Euskadi Ta Askatasuna	represents
+Q654931	Q42814	P1268	Kantauri	ETA	represents
+Q654931	Q42814	P1268	Kantauri	ETA	represents
+Q2196468	Q134202	P1268	World Cup Willie	1966 FIFA World Cup	represents
+Q2281943	Q151097	P1268	Henry Moore Foundation	Henry Moore	represents
+Q2281943	Q151097	P1268	Henry Moore Foundation	Henry Moore	represents
+Q2281943	Q151097	P1268	Henry Moore Foundation	Henry Moore	represents
+Q1752496	Q860527	P1268	North Texas Mean Green	University of North Texas	represents
+Q2893390	Q861888	P1268	Oregon State Beavers	Oregon State University	represents
+Q744852	Q42814	P1268	Bittor Arana	Euskadi Ta Askatasuna	represents
+Q744852	Q42814	P1268	Bittor Arana	ETA	represents
+Q744852	Q42814	P1268	Bittor Arana	ETA	represents
+Q151521	Q49212	P1268	Texas A&M Aggies	Texas A&M University	represents
+Q151521	Q49212	P1268	Texas A&M Aggies	Texas A&M University	represents
+Q151521	Q49212	P1268	Texas A&M Aggies	Texas A&M University	represents
+Q182077	Q108183	P1268	Karla Kick‎	2011 FIFA Women's World Cup	represents
+Q1581747	Q168515	P1268	Utah Utes	University of Utah	represents
+Q1581747	Q168515	P1268	Utah Utes	University of Utah	represents
+Q1753811	Q174710	P1268	UCLA Bruins	University of California, Los Angeles	represents
+Q1753811	Q174710	P1268	UCLA Bruins	University of California, Los Angeles	represents
+Q1753811	Q174710	P1268	UCLA Bruins	University of California, Los Angeles	represents
+Q2127919	Q34490	P1268	Anas al-Liby	al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	al-Qaeda	represents
+Q2127919	Q34490	P1268	Anas al-Liby	Al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	Al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	Al-Qaeda	represents
+Q2127919	Q34490	P1268	Anas al-Liby	al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	al-Qaeda	represents
+Q2127919	Q34490	P1268	Nazih Abdul-Hamed al-Ruqai	al-Qaeda	represents
+Q609085	Q9674	P1268	Miga, Quatchi, Sumi and Mukmuk	2010 Winter Olympics	represents
+Q609085	Q9674	P1268	Miga, Quatchi, Sumi and Mukmuk	2010 Winter Olympics	represents
+Q609085	Q9674	P1268	Miga, Quatchi, Sumi and Mukmuk	2010 Winter Olympics	represents
+Q1016063	Q216864	P1268	Fu Niu Lele	2008 Summer Paralympics	represents
+Q1752323	Q217741	P1268	Purdue Boilermakers	Purdue University	represents
+Q2868803	Q26683	P1268	Atef Bseiso	Palestine Liberation Organization	represents
+Q19877499	Q1278210	P1268	Eastern Mennonite Royals	Eastern Mennonite University	represents
+Q20877309	Q1296153	P1268	TeamUWS	University of the West of Scotland	represents
+Q20877309	Q1296153	P1268	TeamUWS	University of the West of Scotland	represents
+Q7566956	Q1305521	P1268	South Dakota Coyotes	University of South Dakota	represents
+Q7842990	Q1311379	P1268	Trinity Tigers	Trinity University	represents
+Q9091033	Q1321380	P1268	UNC Greensboro Spartans	University of North Carolina at Greensboro	represents
+Q51846329	Q1328673	P1268	Galerie Julian Sander	Elde Steeg	represents
+Q7075689	Q1346110	P1268	Occidental Tigers	Occidental College	represents
+Q7075689	Q1346110	P1268	Occidental Tigers	Occidental College	represents
+Q7075689	Q1346110	P1268	Occidental Tigers	Occidental College	represents
+Q22095824	Q1187623	P1268	Kentucky State Thorobreds and Thorobrettes	Kentucky State University	represents
+Q11680794	Q1191335	P1268	Colgate Raiders	Colgate University	represents
+Q7708308	Q1230739	P1268	Texas–Arlington Mavericks	University of Texas at Arlington	represents
+Q22095754	Q1253123	P1268	Southern Connecticut Fighting Owls	Southern Connecticut State University	represents
+Q14679331	Q1273836	P1268	North Alabama Lions	University of North Alabama	represents
+Q7397246	Q1276963	P1268	Sacred Heart Pioneers	Sacred Heart University	represents
+Q7397246	Q1276963	P1268	Sacred Heart Pioneers	Sacred Heart University	represents
+Q7397246	Q1276963	P1268	Sacred Heart Pioneers	Sacred Heart University	represents
+Q16981149	Q866829	P1268	Southeastern Oklahoma State Savage Storm	Southeastern Oklahoma State University	represents
+Q22137460	Q903822	P1268	DPP presidential ticket for the 2016 Republic of China presidential election	Democratic Progressive Party	represents
+Q26345013	Q903822	P1268	DPP presidential ticket for the 2012 Republic of China presidential election	Democratic Progressive Party	represents
+Q971195	Q492318	P1268	Alabama Crimson Tide	University of Alabama	represents
+Q236014	Q956927	P1268	Cuba national football team	Football Association of Cuba	represents
+Q236014	Q956927	P1268	Cuba national football team	Football Association of Cuba	represents
+Q236014	Q956927	P1268	Cuba national football team	Football Association of Cuba	represents
+Q592253	Q178848	P1268	Notre Dame Fighting Irish	University of Notre Dame	represents
+Q592253	Q178848	P1268	Notre Dame Fighting Irish	University of Notre Dame	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q782909	Q408	P1268	Australia Fed Cup team	Australia	represents
+Q2571396	Q1571099	P1268	Luc Jouret	Order of the Solar Temple	represents
+Q2927006	Q1593647	P1268	Bruno Troublé	Louis Vuitton Cup	represents
+Q465872	Q1777749	P1268	Meena Keshwar Kamal	Revolutionary Association of the Women of Afghanistan	represents
+Q352395	Q1852854	P1268	Geoff Zanelli	Remote Control Productions	represents
+Q2908028	Q1861687	P1268	Montana State Bobcats	Montana State University - Bozeman	represents
+Q183192	Q1969364	P1268	Max Heindel	Rosicrucian Fellowship	represents
+Q747059	Q1972527	P1268	European Movement Switzerland	Union of European Federalists	represents
+Q1402360	Q2093110	P1268	UTEP Miners	University of Texas at El Paso	represents
+Q1752504	Q2302280	P1268	TCU Horned Frogs	Texas Christian University	represents
+Q7988133	Q1144262	P1268	Western Ontario Mustangs	University of Western Ontario	represents
+Q7865194	Q1165458	P1268	UNBC Timberwolves	University of Northern British Columbia	represents
+Q16191232	Q1183967	P1268	Delaware State Hornets	Delaware State University	represents
+Q3064744	Q895457	P1268	Bowling Green Falcons	Bowling Green State University	represents
+Q2875233	Q913861	P1268	San Diego State Aztecs	San Diego State University	represents
+Q2875233	Q913861	P1268	San Diego State Aztecs	San Diego State University	represents
+Q2875233	Q913861	P1268	San Diego State Aztecs	San Diego State University	represents
+Q2919388	Q1017974	P1268	Butler Bulldogs	Butler University	represents
+Q3094988	Q1024426	P1268	South Carolina Gamecocks	University of South Carolina	represents
+Q2646542	Q42814	P1268	Eugenio Etxebeste	Euskadi Ta Askatasuna	represents
+Q2828148	Q42814	P1268	Ainhoa Adin Jauregui	Euskadi Ta Askatasuna	represents
+Q2828818	Q42814	P1268	Aitzol Iriondo	Euskadi Ta Askatasuna	represents
+Q2646542	Q42814	P1268	Eugenio Etxebeste	ETA	represents
+Q2828148	Q42814	P1268	Ainhoa Adin Jauregui	ETA	represents
+Q2828818	Q42814	P1268	Aitzol Iriondo	ETA	represents
+Q2646542	Q42814	P1268	Eugenio Etxebeste	ETA	represents
+Q2828148	Q42814	P1268	Ainhoa Adin Jauregui	ETA	represents
+Q2828818	Q42814	P1268	Aitzol Iriondo	ETA	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q503391	Q9531	P1268	United Kingdom in the Eurovision Song Contest	BBC	represents
+Q208635	Q1032414	P1268	Canada men's national soccer team	Canadian Soccer Association	represents
+Q208635	Q1032414	P1268	Canada men's national soccer team	Canadian Soccer Association	represents
+Q208635	Q1032414	P1268	Canada men's national soccer team	Canadian Soccer Association	represents
+Q6781508	Q503415	P1268	Maryland Terrapins football	University of Maryland	represents
+Q22582415	Q145	P1268	Susan le Jeune d'Allegeershecque	United Kingdom	represents
+Q22582415	Q145	P1268	Susan le Jeune d'Allegeershecque	United Kingdom	represents
+Q22582415	Q145	P1268	Susan le Jeune d'Allegeershecque	United Kingdom	represents
+Q16972455	Q1360303	P1268	1998–99 Kentucky Wildcats men's basketball team	University of Kentucky	represents
+Q39081326	Q1368262	P1268	Malawi at the Paralympics	National Paralympic Committee	represents
+Q16975625	Q1393301	P1268	Fairleigh Dickinson Knights	Fairleigh Dickinson University	represents
+Q16975625	Q1393301	P1268	Fairleigh Dickinson Knights	Fairleigh Dickinson University	represents
+Q16975625	Q1393301	P1268	Fairleigh Dickinson Knights	Fairleigh Dickinson University	represents
+Q18385013	Q1407897	P1268	Ferris State Bulldogs	Ferris State University	represents
+Q7270002	Q1420038	P1268	Queen's Golden Gaels	Queen's University	represents
+Q2899131	Q823635	P1268	Royal Australian Air Force Ensign	Royal Australian Air Force	represents
+Q2899131	Q823635	P1268	Royal Australian Air Force Ensign	Royal Australian Air Force	represents
+Q2899131	Q823635	P1268	Royal Australian Air Force Ensign	Royal Australian Air Force	represents
+Q3098117	Q838330	P1268	Wisconsin Badgers	University of Wisconsin–Madison	represents
+Q1752547	Q842909	P1268	Rice Owls	Rice University	represents
+Q5575178	Q139901	P1268	Northern Arizona Lumberjacks	Northern Arizona University	represents
+Q7863945	Q143451	P1268	UCF Knights men's basketball	University of Central Florida	represents
+Q22096272	Q917899	P1268	New Haven Chargers	University of New Haven	represents
+Q24662766	Q921938	P1268	David Mayebi	Fédération Camerounaise de Football	represents
+Q24662766	Q921938	P1268	David Mayebi	Cameroonian Football Federation	represents
+Q24662766	Q921938	P1268	David Mayebi	Cameroonian Football Federation	represents
+Q16974305	Q922647	P1268	Monmouth Hawks	Monmouth University	represents
+Q22095762	Q940289	P1268	Southern Indiana Screaming Eagles	University of Southern Indiana	represents
+Q22095762	Q940289	P1268	Southern Indiana Screaming Eagles	University of Southern Indiana	represents
+Q22095762	Q940289	P1268	Southern Indiana Screaming Eagles	University of Southern Indiana	represents
+Q23302996	Q941855	P1268	UIS Prairie Stars	University of Illinois at Springfield	represents
+Q22095287	Q986122	P1268	Ashland Eagles	Ashland University	represents
+Q16971368	Q1026909	P1268	Cal State Dominguez Hills Toros	California State University, Dominguez Hills	represents
+Q3174614	Q503419	P1268	Arizona Wildcats	University of Arizona	represents
+Q3174614	Q503419	P1268	Arizona Wildcats	University of Arizona	represents
+Q3174614	Q503419	P1268	Arizona Wildcats	University of Arizona	represents
+Q3568868	Q517883	P1268	William Paats	Paraguayan Football Association	represents
+Q3568868	Q517883	P1268	William Paats	Paraguayan Football Association	represents
+Q3568868	Q517883	P1268	William Paats	Paraguayan Football Association	represents
+Q3388922	Q519427	P1268	Denver Pioneers	University of Denver	represents
+Q7511064	Q768054	P1268	Siena Saints	Siena College	represents
+Q5184000	Q770544	P1268	Creighton Bluejays	Creighton University	represents
+Q5712175	Q781153	P1268	Austin Peay Governors and Lady Govs	Austin Peay State University	represents
+Q5614767	Q795988	P1268	Guelph Athletics	University of Guelph	represents
+Q5614785	Q795988	P1268	Guelph Gryphons	University of Guelph	represents
+Q6911260	Q633040	P1268	Morehead State Eagles	Morehead State University	represents
+Q5816740	Q634669	P1268	East Tennessee State Buccaneers and Lady Buccaneers	East Tennessee State University	represents
+Q5816740	Q634669	P1268	East Tennessee State Buccaneers and Lady Buccaneers	East Tennessee State University	represents
+Q5816740	Q634669	P1268	East Tennessee State Buccaneers and Lady Buccaneers	East Tennessee State University	represents
+Q4711640	Q640694	P1268	Alberta Golden Bears	University of Alberta	represents
+Q4791882	Q673111	P1268	Arkansas Tech Wonder Boys	Arkansas Tech University	represents
+Q4700561	Q687635	P1268	Akechi Mitsutsuna	Toki clan	represents
+Q16155075	Q1430048	P1268	Florida A&M Rattlers and Lady Rattlers	Florida A&M University	represents
+Q8563964	Q1430054	P1268	Florida Gulf Coast Eagles	Florida Gulf Coast University	represents
+Q16957603	Q1438597	P1268	Fort Lewis Skyhawks	Fort Lewis College	represents
+Q7887638	Q1439629	P1268	Providence Friars	Providence College	represents
+Q22096694	Q1441652	P1268	Francis Marion Patriots	Francis Marion University	represents
+Q25916892	Q1442482	P1268	People First presidential ticket for the 2016 Republic of China presidential election	People First Party	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation, Inc.	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation, Inc.	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation	represents
+Q18398868	Q180	P1268	Wikimedia Belgium	Wikimedia Foundation	represents
+Q22669178	Q1029	P1268	Frances Victória Velho Rodrigues	Mozambique	represents
+Q22669178	Q1029	P1268	Frances Victória Velho Rodrigues	Mozambique	represents
+Q22669178	Q1029	P1268	Frances Victória Velho Rodrigues	Mozambique	represents
+Q2902329	Q49115	P1268	Cornell Big Red	Cornell University	represents
+Q2902329	Q49115	P1268	Cornell Big Red	Cornell University	represents
+Q2902329	Q49115	P1268	Cornell Big Red	Cornell University	represents
+Q19937096	Q215	P1268	Permanent Representation of the Republic of Slovenia to the EU	Slovenia	represents
+Q19937098	Q215	P1268	Permanent Mission of the Republic of Slovenia to the United Nations in New York	Slovenia	represents
+Q7687165	Q1451353	P1268	Tasha Kheiriddin	Fraser Institute	represents
+Q7927126	Q1458113	P1268	Victoria Vikes	University of Victoria	represents
+Q7930884	Q1466001	P1268	Villanova Wildcats	Villanova University	represents
+Q7987942	Q1474005	P1268	Western Illinois Leathernecks	Western Illinois University	represents
+Q7401516	Q1475413	P1268	Saint Joseph's Hawks	Saint Joseph's University	represents
+Q6824717	Q613736	P1268	Metro State Roadrunners	Metropolitan State University of Denver	represents
+Q7442161	Q615873	P1268	Seattle Redhawks	Seattle University	represents
+Q7569485	Q615998	P1268	Southeastern Louisiana Lions	Southeastern Louisiana University	represents
+Q5136020	Q620640	P1268	Appalachian State Mountaineers	Appalachian State University	represents
+Q6518815	Q622137	P1268	Lehigh Mountain Hawks	Lehigh University	represents
+Q5658688	Q626591	P1268	Texas Southern Tigers	Texas Southern University	represents
+Q7708312	Q626634	P1268	Texas–Pan American Broncs	University of Texas–Pan American	represents
+Q2892892	Q49114	P1268	Brown Bears	Brown University	represents
+Q2892892	Q49114	P1268	Brown Bears	Brown University	represents
+Q2892892	Q49114	P1268	Brown Bears	Brown University	represents
+Q3136487	Q2868006	P1268	Hisham Mousar	ADHOC	represents
+Q3189131	Q3010830	P1268	Juliano Verbard	Painful and immaculate heart of Mary	represents
+Q3189131	Q3010830	P1268	Juliano Verbard	Painful and immaculate heart of Mary	represents
+Q3189131	Q3010830	P1268	Juliano Verbard	Painful and immaculate heart of Mary	represents
+Q3126429	Q3116927	P1268	Hamid Lahbabi	Royal Moroccan Football Federation	represents
+Q3126429	Q3116927	P1268	Hamid Lahbabi	Royal Moroccan Football Federation	represents
+Q3126429	Q3116927	P1268	Hamid Lahbabi	Royal Moroccan Football Federation	represents
+Q3184907	Q3225307	P1268	Joseph Engelmajer	Le Patriarche Association	represents
+Q3169478	Q3578185	P1268	Jean-Pierre Le Dantec	École nationale supérieure d'architecture de Paris-La Villette	represents
+Q578165	Q2344683	P1268	Stephen F. Austin Lumberjacks and Ladyjacks	Stephen F. Austin State University	represents
+Q2880367	Q2378091	P1268	Green Bay Phoenix	University of Wisconsin–Green Bay	represents
+Q3105539	Q2717088	P1268	Gil J Wolman	Letterist International	represents
+Q2898168	Q2867699	P1268	Bernard Lang	Association francophone des utilisateurs de logiciels libres	represents
+Q2749194	Q2945821	P1268	Ignacy Sachs	Centre international de recherche sur l'environnement et le développement	represents
+Q2913581	Q3345546	P1268	Jatindra Nath Das	Anushilan Samiti	represents
+Q2409427	Q3550231	P1268	Patrick Klugman	Union des étudiants juifs de France	represents
+Q3094403	Q3551383	P1268	Bishop's Gaiters	Bishop's University	represents
+Q16971386	Q1563992	P1268	California Baptist Lancers	California Baptist University	represents
+Q19937096	Q215	P1268	Permanent Representation of the Republic of Slovenia to the EU	Slovenia	represents
+Q19937098	Q215	P1268	Permanent Mission of the Republic of Slovenia to the United Nations in New York	Slovenia	represents
+Q19937096	Q215	P1268	Permanent Representation of the Republic of Slovenia to the EU	Slovenia	represents
+Q19937098	Q215	P1268	Permanent Mission of the Republic of Slovenia to the United Nations in New York	Slovenia	represents
+Q41604073	Q8766	P1268	British Airways Negus Livery	British Airways	represents
+Q41604758	Q8766	P1268	Speedbird	British Airways	represents
+Q41604923	Q8766	P1268	British Airways Landor Livery	British Airways	represents
+Q41605005	Q8766	P1268	coat of arms of British Airways	British Airways	represents
+Q41605095	Q8766	P1268	Speedwing	British Airways	represents
+Q41630718	Q8766	P1268	British Airways Union Flag Livery	British Airways	represents
+Q41630800	Q8766	P1268	Speedmarque	British Airways	represents
+Q41604073	Q8766	P1268	British Airways Negus Livery	British Airways	represents
+Q41604758	Q8766	P1268	Speedbird	British Airways	represents
+Q41604923	Q8766	P1268	British Airways Landor Livery	British Airways	represents
+Q41605005	Q8766	P1268	coat of arms of British Airways	British Airways	represents
+Q41605095	Q8766	P1268	Speedwing	British Airways	represents
+Q41630718	Q8766	P1268	British Airways Union Flag Livery	British Airways	represents
+Q41630800	Q8766	P1268	Speedmarque	British Airways	represents
+Q41604073	Q8766	P1268	British Airways Negus Livery	British Airways	represents
+Q41604758	Q8766	P1268	Speedbird	British Airways	represents
+Q41604923	Q8766	P1268	British Airways Landor Livery	British Airways	represents
+Q41605005	Q8766	P1268	coat of arms of British Airways	British Airways	represents
+Q41605095	Q8766	P1268	Speedwing	British Airways	represents
+Q41630718	Q8766	P1268	British Airways Union Flag Livery	British Airways	represents
+Q41630800	Q8766	P1268	Speedmarque	British Airways	represents
+Q2908034	Q1075339	P1268	Ohio Bobcats	Ohio University	represents
+Q3008553	Q1136919	P1268	Iowa State Cyclones	Iowa State University	represents
+Q41604758	Q846885	P1268	Speedbird	British Overseas Airways Corporation	represents
+Q22582391	Q1033	P1268	Maria Oyeyinka Laose	Nigeria	represents
+Q1416599	Q332498	P1268	BYU Cougars	Brigham Young University	represents
+Q649640	Q392667	P1268	Demon Deacon	Wake Forest University	represents
+Q609916	Q477986	P1268	France military national football team	French Armed Forces	represents
+Q609916	Q477986	P1268	France military national football team	French Armed Forces	represents
+Q609916	Q477986	P1268	France military national football team	French Armed Forces	represents
+Q16152277	Q1476484	P1268	North Carolina A&T Aggies	North Carolina Agricultural and Technical State University	represents
+Q16969724	Q1507218	P1268	Colorado Mesa Mavericks	Colorado Mesa University	represents
+Q7425573	Q1514848	P1268	Saskatchewan Huskies	University of Saskatchewan	represents
+Q19774507	Q1542667	P1268	Georges Dunoir	Grand Orient de France	represents
+Q1138025	Q49112	P1268	Yale Bulldogs	Yale University	represents
+Q1138025	Q49112	P1268	Yale Bulldogs	Yale University	represents
+Q1138025	Q49112	P1268	Yale Bulldogs	Yale University	represents
+Q22582391	Q1033	P1268	Maria Oyeyinka Laose	Nigeria	represents
+Q22582391	Q1033	P1268	Maria Oyeyinka Laose	Nigeria	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q19844596	Q1759675	P1268	Kaskelix	YaCy	represents
+Q11704863	Q1781384	P1268	Chattanooga Mocs	University of Tennessee at Chattanooga	represents
+Q11704863	Q1781384	P1268	Chattanooga Mocs	University of Tennessee at Chattanooga	represents
+Q11704863	Q1781384	P1268	Chattanooga Mocs	University of Tennessee at Chattanooga	represents
+Q8345019	Q1783178	P1268	Charlotte 49ers	University of North Carolina at Charlotte	represents
+Q18706263	Q1785291	P1268	Washington and Lee Generals	Washington and Lee University	represents
+Q15406889	Q144905	P1268	Christian Albecker	Protestant Reformed Church of Alsace and Lorraine	represents
+Q55005131	Q152793	P1268	Gallerie Ariel	Karel Appel	represents
+Q49897803	Q157031	P1268	Open Museums Foundation	foundation	represents
+Q25916891	Q31113	P1268	Kuomintang presidential ticket for the 2016 Republic of China presidential election	Kuomintang	represents
+Q26345277	Q31113	P1268	Kuomintang presidential ticket for the 2012 Republic of China presidential election	Kuomintang	represents
+Q25916891	Q31113	P1268	Kuomintang presidential ticket for the 2016 Republic of China presidential election	Kuomintang	represents
+Q26345277	Q31113	P1268	Kuomintang presidential ticket for the 2012 Republic of China presidential election	Kuomintang	represents
+Q25916891	Q31113	P1268	Kuomintang presidential ticket for the 2016 Republic of China presidential election	Kuomintang	represents
+Q26345277	Q31113	P1268	Kuomintang presidential ticket for the 2012 Republic of China presidential election	Kuomintang	represents
+Q848360	Q8567	P1268	Fuwa	2008 Summer Olympics	represents
+Q917388	Q15075	P1268	Marlboro Man	Marlboro	represents
+Q934835	Q1353248	P1268	New Mexico State Aggies	New Mexico State University	represents
+Q934835	Q1353248	P1268	New Mexico State Aggies	New Mexico State University	represents
+Q934835	Q1353248	P1268	New Mexico State Aggies	New Mexico State University	represents
+Q691912	Q1353679	P1268	Nebraska Cornhuskers	University of Nebraska–Lincoln	represents
+Q747059	Q1377261	P1268	European Movement Switzerland	European Movement International	represents
+Q939062	Q1458155	P1268	Vincent Gigante	Sicilian Mafia	represents
+Q1529158	Q4614	P1268	USC Trojans	University of Southern California	represents
+Q848360	Q8567	P1268	Fuwa	2008 Summer Olympics	represents
+Q848360	Q8567	P1268	Fuwa	2008 Summer Olympics	represents
+Q7231995	Q513658	P1268	Portland Pilots	University of Portland	represents
+Q7390521	Q519349	P1268	SIU Edwardsville Cougars	Southern Illinois University Edwardsville	represents
+Q7587998	Q530424	P1268	St. Francis Brooklyn Terriers	St. Francis College	represents
+Q5471312	Q591426	P1268	Fort Hays State Tigers	Fort Hays State University	represents
+Q5307338	Q603034	P1268	Drexel Dragons	Drexel University	represents
+Q7385037	Q611723	P1268	Ryerson Rams	Ryerson University	represents
+Q262461	Q151888	P1268	Ingrid Newkirk	People for the Ethical Treatment of Animals	represents
+Q2902236	Q49116	P1268	Dartmouth Big Green	Dartmouth College	represents
+Q2902236	Q49116	P1268	Dartmouth Big Green	Dartmouth College	represents
+Q2902236	Q49116	P1268	Dartmouth Big Green	Dartmouth College	represents
+Q19600667	Q1041671	P1268	Carleton Knights	Carleton College	represents
+Q28444589	Q1041671	P1268	Carleton Knights football	Carleton College	represents
+Q16969728	Q1111367	P1268	Colorado Mines Orediggers	Colorado School of Mines	represents
+Q16192156	Q1126179	P1268	Lincoln Blue Tigers	Lincoln University	represents
+Q24662766	Q1137250	P1268	David Mayebi	FIFPro	represents
+Q41631843	Q131005	P1268	Air France Eurowhite livery	Air France	represents
+Q41631843	Q131005	P1268	Air France Eurowhite livery	Air France	represents
+Q41631843	Q131005	P1268	Air France Eurowhite livery	Air France	represents
+Q917388	Q15075	P1268	Marlboro Man	Marlboro	represents
+Q917388	Q15075	P1268	Marlboro Man	Marlboro	represents
+Q965667	Q42814	P1268	Miguel Garikoitz Aspiazu Rubina	Euskadi Ta Askatasuna	represents
+Q965667	Q42814	P1268	Miguel Garikoitz Aspiazu Rubina	ETA	represents
+Q965667	Q42814	P1268	Miguel Garikoitz Aspiazu Rubina	ETA	represents
+Q46996573	Q159394	P1268	defense attorney	defendant	represents
+Q4743655	Q168000	P1268	American Eagles	American University	represents
+Q5053257	Q179036	P1268	Catholic University Cardinals	The Catholic University of America	represents
+Q7826557	Q180865	P1268	Toronto Varsity Blues	University of Toronto	represents
+Q7826557	Q180865	P1268	Toronto Varsity Blues	University of Toronto	represents
+Q7826557	Q180865	P1268	Toronto Varsity Blues	University of Toronto	represents
+Q376655	Q1179603	P1268	DePaul Blue Demons	DePaul University	represents
+Q576483	Q1193547	P1268	Tulane Green Wave	Tulane University	represents
+Q7109180	Q627969	P1268	Ottawa Gee-Gees	University of Ottawa	represents
+Q7280155	Q632465	P1268	Radford Highlanders	Radford University	represents
+Q7280156	Q632465	P1268	Radford Highlanders men's basketball	Radford University	represents
+Q7051112	Q632506	P1268	Norfolk State Spartans	Norfolk State University	represents
+Q6116335	Q632573	P1268	Southern Utah Thunderbirds	Southern Utah University	represents
+Q6802318	Q632891	P1268	McMaster Marauders	McMaster University	represents
+Q6802318	Q632891	P1268	McMaster Marauders	McMaster University	represents
+Q6802318	Q632891	P1268	McMaster Marauders	McMaster University	represents
+Q16982442	Q622664	P1268	UC San Diego Tritons	University of California, San Diego	represents
+Q16971198	Q624686	P1268	Cal State Monterey Bay Otters	California State University, Monterey Bay	represents
+Q23303289	Q624970	P1268	Northern Michigan Wildcats	Northern Michigan University	represents
+Q7865143	Q625103	P1268	UMSL Tritons	University of Missouri–St. Louis	represents
+Q11697274	Q630226	P1268	Pacific Tigers	University of the Pacific	represents
+Q11697274	Q630226	P1268	Pacific Tigers	University of the Pacific	represents
+Q11697274	Q630226	P1268	Pacific Tigers	University of the Pacific	represents
+Q9030893	Q634396	P1268	McNeese State Cowboys and Cowgirls	McNeese State University	represents
+Q4671569	Q337382	P1268	Acadia Axemen	Acadia University	represents
+Q7976645	Q349055	P1268	Wayne State Warriors	Wayne State University	represents
+Q23018361	Q195046	P1268	WPI Engineers	Worcester Polytechnic Institute	represents
+Q23018361	Q195046	P1268	WPI Engineers	Worcester Polytechnic Institute	represents
+Q23018361	Q195046	P1268	WPI Engineers	Worcester Polytechnic Institute	represents
+Q6801293	Q201492	P1268	McGill Redmen soccer	McGill University	represents
+Q6801293	Q201492	P1268	McGill Redmen soccer	McGill University	represents
+Q6801293	Q201492	P1268	McGill Redmen soccer	McGill University	represents
+Q6138758	Q258943	P1268	James Madison Dukes	James Madison University	represents
+Q3573355	Q691730	P1268	Yvan Dutil	Green Party of Canada	represents
+Q3573355	Q691730	P1268	Yvan Dutil	Green Party of Canada	represents
+Q3573355	Q691730	P1268	Yvan Dutil	Green Party of Canada	represents
+Q7401655	Q734774	P1268	Saint Louis Billikens	Saint Louis University	represents
+Q6919371	Q742150	P1268	Mount Allison Mounties	Mount Allison University	represents
+Q5674479	Q747053	P1268	Hartford Hawks	University of Hartford	represents
+Q5547370	Q761534	P1268	Georgia Bulldogs football	University of Georgia	represents
+Q5547370	Q761534	P1268	Georgia Bulldogs football	University of Georgia	represents
+Q5547370	Q761534	P1268	Georgia Bulldogs football	University of Georgia	represents
+Q2367373	Q49210	P1268	NYU Violets	New York University	represents
+Q2367373	Q49210	P1268	NYU Violets	New York University	represents
+Q2367373	Q49210	P1268	NYU Violets	New York University	represents
+Q2615493	Q49213	P1268	Texas Longhorns	University of Texas at Austin	represents
+Q2615493	Q49213	P1268	Texas Longhorns	University of Texas at Austin	represents
+Q2615493	Q49213	P1268	Texas Longhorns	University of Texas at Austin	represents
+Q16974972	Q2001088	P1268	Northern State Wolves	Northern State University	represents
+Q16191915	Q2097334	P1268	Pittsburg State Gorillas	Pittsburg State University	represents
+Q15406889	Q2113544	P1268	Christian Albecker	Protestant Church of Augsburg Confession of Alsace and Lorraine	represents
+Q23092036	Q2140778	P1268	RIT Tigers	Rochester Institute of Technology	represents
+Q55005131	Q2161543	P1268	Gallerie Ariel	Roger Edgar Gillet	represents
+Q22096639	Q2164222	P1268	Rollins Tars	Rollins College	represents
+Q55005131	Q2298019	P1268	Gallerie Ariel	Jacques Doucet	represents
+Q16967202	Q2564975	P1268	Western State Colorado Mountaineers	Western State Colorado University	represents
+Q7374483	Q2565941	P1268	Royal Military College Paladins	Royal Military College of Canada	represents
+Q7374483	Q2565941	P1268	Royal Military College Paladins	Royal Military College of Canada	represents
+Q23807912	Q2590739	P1268	Wisconsin–Parkside Rangers	University of Wisconsin–Parkside	represents
+Q18342675	Q2653975	P1268	Hartwick College Hawks	Hartwick College	represents
+Q11690475	Q2749572	P1268	Manhattan Jaspers and Lady Jaspers	Manhattan College	represents
+Q28151076	Q2822225	P1268	Academy of Art Urban Knights	Academy of Art University	represents
+Q23302440	Q2894666	P1268	Bellarmine Knights	Bellarmine University	represents
+Q23829614	Q3053001	P1268	Thierry Kuhn	Emmaus france	represents
+Q7308454	Q3104287	P1268	Regina Cougars	University of Regina	represents
+Q6465102	Q3106542	P1268	La Salle Explorers	La Salle University	represents
+Q4972693	Q923624	P1268	Brock Badgers	Brock University	represents
+Q3131608	Q974765	P1268	Henri Massé	Fédération des travailleurs et travailleuses du Québec	represents
+Q5018190	Q1026868	P1268	Cal Poly Pomona Broncos	California State Polytechnic University, Pomona	represents
+Q5018216	Q1026902	P1268	Cal State Bakersfield Roadrunners	California State University, Bakersfield	represents
+Q3529523	Q1026925	P1268	Cal State Fullerton Titans	California State University, Fullerton	represents
+Q5018231	Q1026939	P1268	Cal State Northridge Matadors	California State University, Northridge	represents
+Q55005131	Q521412	P1268	Gallerie Ariel	André Marfaing	represents
+Q16203064	Q536709	P1268	Angelo State Rams	Angelo State University	represents
+Q22095605	Q543394	P1268	LIU Post Pioneers	LIU Post	represents
+Q11682959	Q558922	P1268	Illinois State Redbirds	Illinois State University	represents
+Q22073853	Q558957	P1268	Merrimack Warriors	Merrimack College	represents
+Q11694486	Q574586	P1268	Murray State Racers	Murray State University	represents
+Q22096505	Q1796553	P1268	Pfeiffer Falcons	Pfeiffer University	represents
+Q19867596	Q1797609	P1268	Hampden–Sydney Tigers	Hampden–Sydney College	represents
+Q16191300	Q1797817	P1268	Hampton Pirates	Hampton University	represents
+Q19877510	Q1799245	P1268	Shenandoah Hornets	Shenandoah University	represents
+Q19877510	Q1799245	P1268	Shenandoah Hornets	Shenandoah University	represents
+Q19877510	Q1799245	P1268	Shenandoah Hornets	Shenandoah University	represents
+Q19827960	Q1806541	P1268	Merchant Marine Mariners	United States Merchant Marine Academy	represents
+Q55005131	Q1810287	P1268	Gallerie Ariel	Reinhoud D'Haese	represents
+Q16969967	Q1811567	P1268	Southwestern Oklahoma State Bulldogs	Southwestern Oklahoma State University	represents
+Q16150848	Q1813761	P1268	Incarnate Word Cardinals	University of the Incarnate Word	represents
+Q18395457	Q1814758	P1268	Virginia Union Panthers	Virginia Union University	represents
+Q17078813	Q1848657	P1268	Tulsa Golden Hurricane	University of Tulsa	represents
+Q17013325	Q1895354	P1268	Memorial Sea-Hawks	Memorial University of Newfoundland	represents
+Q16980315	Q1932075	P1268	Midwestern State Mustangs	Midwestern State University	represents
+Q16969878	Q1939221	P1268	Missouri Western State Griffons	Missouri Western State University	represents
+Q52450460	Q1946670	P1268	Hendrik Cornelis Kruyt	Netherlands Missionary Society	represents
+Q16191304	Q2000129	P1268	Hawaii Rainbow Wahine	University of Hawaii at Manoa	represents
+Q16969932	Q2001033	P1268	Northern Kentucky Norse	Northern Kentucky University	represents
+Q5158986	Q326342	P1268	Concordia Stingers	Concordia University	represents
+Q55005131	Q328248	P1268	Gallerie Ariel	Pierre Alechinsky	represents
+Q55005131	Q328248	P1268	Gallerie Ariel	Pierre Alechinsky	represents
+Q55005131	Q328248	P1268	Gallerie Ariel	Pierre Alechinsky	represents
+Q7886397	Q585828	P1268	Seton Hall Pirates	Seton Hall University	represents
+Q20709970	Q585828	P1268	Seton Hall Pirates Women's Volleyball	Seton Hall University	represents
+Q16969862	Q590643	P1268	Miami RedHawks football	Miami University	represents
+Q55005131	Q595230	P1268	Gallerie Ariel	José Subirà-Puig	represents
+Q6818265	Q1798612	P1268	Mercer Bears	Mercer University	represents
+Q5976873	Q1798619	P1268	Lipscomb Bisons	Lipscomb University	represents
+Q6557022	Q1798619	P1268	Lipscomb Bisons men's basketball	Lipscomb University	represents
+Q7371806	Q1799872	P1268	Rowan Profs	Rowan University	represents
+Q6144236	Q1806300	P1268	The Citadel Bulldogs	The Citadel, The Military College of South Carolina	represents
+Q7887406	Q1817686	P1268	Troy Trojans	Troy University	represents
+Q8043281	Q1849843	P1268	Xavier Musketeers	Xavier University	represents
+Q8043281	Q1849843	P1268	Xavier Musketeers	Xavier University	represents
+Q8043281	Q1849843	P1268	Xavier Musketeers	Xavier University	represents
+Q7842576	Q1927705	P1268	Trinity Bantams	Trinity College	represents
+Q6268012	Q193727	P1268	Johns Hopkins Blue Jays	Johns Hopkins University	represents
+Q6268012	Q193727	P1268	Johns Hopkins Blue Jays	Johns Hopkins University	represents
+Q16155638	Q392667	P1268	Wake Forest Demon Deacons	Wake Forest University	represents
+Q6167295	Q429561	P1268	Wichita State Shockers	Wichita State University	represents
+Q16106888	Q440677	P1268	Bour Kry	Dhammayuttika Nikaya	represents
+Q46996572	Q468489	P1268	plaintiff's attorney	plaintiff	represents
+Q8025822	Q472167	P1268	Winnipeg Wesmen	University of Winnipeg	represents
+Q3418615	Q130965	P1268	Fordham Rams	Fordham University	represents
+Q3294618	Q131252	P1268	Chicago Maroons	University of Chicago	represents
+Q3294618	Q131252	P1268	Chicago Maroons	University of Chicago	represents
+Q3294618	Q131252	P1268	Chicago Maroons	University of Chicago	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q164134	Q222131	P1268	United States men's national soccer team	United States Soccer Federation	represents
+Q6868564	Q1937387	P1268	Minnesota State Mavericks	Minnesota State University, Mankato	represents
+Q7055047	Q2000624	P1268	North Dakota State Bison	North Dakota State University	represents
+Q8038262	Q2002085	P1268	Wright State Raiders	Wright State University	represents
+Q7588035	Q2038889	P1268	St. Francis Xavier athletic teams	St. Francis Xavier University	represents
+Q8024647	Q2065769	P1268	Windsor Lancers	University of Windsor	represents
+Q855249	Q101730	P1268	Footix	1998 FIFA World Cup	represents
+Q855249	Q101730	P1268	Footix	1998 FIFA World Cup	represents
+Q41916226	Q80706	P1268	Satrughneswar Temple, Bhubaneswar	Hindu temple architecture	represents
+Q47004357	Q116485	P1268	Louisiana Ragin' Cajuns	University of Louisiana at Lafayette	represents
+Q47004357	Q116485	P1268	Louisiana Ragin' Cajuns	University of Louisiana at Lafayette	represents
+Q47004357	Q116485	P1268	Louisiana Ragin' Cajuns	University of Louisiana at Lafayette	represents
+Q1752542	Q1536258	P1268	SMU Mustangs	Southern Methodist University	represents
+Q931107	Q1537759	P1268	Loyola Ramblers	Loyola University Chicago	represents
+Q22059452	Q503415	P1268	Maryland Terrapins women's volleyball	University of Maryland	represents
+Q4914234	Q863813	P1268	Binghamton Bearcats	Binghamton University	represents
+Q3572131	Q864855	P1268	Georgia Tech Yellow Jackets	Georgia Institute of Technology	represents
+Q4724062	Q897700	P1268	Algeria military national football team	Algerian Armed Forces	represents
+Q3524833	Q909656	P1268	Thomas-Joseph Desescoutes	Third Estate	represents
+Q11704313	Q1566138	P1268	Tennessee–Martin Skyhawks	University of Tennessee at Martin	represents
+Q16155037	Q1571390	P1268	Arkansas–Monticello Boll Weevils and Cotton Blossoms	University of Arkansas at Monticello	represents
+Q16969541	Q1591615	P1268	Hawaii Pacific Sea Warriors	Hawaii Pacific University	represents
+Q22096138	Q1591654	P1268	Lake Superior State Lakers	Lake Superior State University	represents
+Q11688121	Q1592074	P1268	Lafayette Leopards	Lafayette College	represents
+Q16972874	Q1604967	P1268	Henderson State Reddies	Henderson State University	represents
+Q16971418	Q1725405	P1268	Chaminade Silverswords	Chaminade University of Honolulu	represents
+Q16251988	Q1728622	P1268	UC Merced Golden Bobcats	University of California, Merced	represents
+Q16191824	Q1755318	P1268	Milwaukee Panthers	University of Wisconsin–Milwaukee	represents
+Q5679994	Q1249251	P1268	Missouri State Bears	Missouri State University	represents
+Q3471442	Q1256981	P1268	San Francisco State Gators	San Francisco State University	represents
+Q3389148	Q1277776	P1268	East Carolina Pirates	East Carolina University	represents
+Q5330243	Q1278206	P1268	Eastern Kentucky Colonels and Lady Colonels	Eastern Kentucky University	represents
+Q3140337	Q1079140	P1268	Indiana Hoosiers	Indiana University Bloomington	represents
+Q3140337	Q1079140	P1268	Indiana Hoosiers	Indiana University Bloomington	represents
+Q3140337	Q1079140	P1268	Indiana Hoosiers	Indiana University Bloomington	represents
+Q5014402	Q1111515	P1268	CSU-Pueblo ThunderWolves	Colorado State University–Pueblo	represents
+Q3418614	Q1111640	P1268	Colorado State Rams	Colorado State University	represents
+Q3569708	Q1132346	P1268	NC State Wolfpack	North Carolina State University	represents
+Q16971121	Q351971	P1268	Adams State Grizzlies	Adams State University	represents
+Q17040959	Q367774	P1268	Oklahoma Baptist Bison	Oklahoma Baptist University	represents
+Q27961619	Q390087	P1268	Xavier Gold Rush and Gold Nuggets	Xavier University of Louisiana	represents
+Q7863809	Q391028	P1268	UBC Thunderbirds	University of British Columbia	represents
+Q7863809	Q391028	P1268	UBC Thunderbirds	University of British Columbia	represents
+Q7863809	Q391028	P1268	UBC Thunderbirds	University of British Columbia	represents
+Q51846329	Q475733	P1268	Galerie Julian Sander	Harold Eugene Edgerton	represents
+Q7959620	Q1605513	P1268	Wagner Seahawks	Wagner College	represents
+Q5876889	Q1623314	P1268	Hofstra Pride	Hofstra University	represents
+Q7320945	Q1641788	P1268	Rhode Island Rams	University of Rhode Island	represents
+Q5850905	Q1656608	P1268	Idaho State Bengals	Idaho State University	represents
+Q6118621	Q262663	P1268	San Diego Toreros	University of San Diego	represents
+Q19952822	Q280413	P1268	Alain Lecavelier des Étangs	CNRS	represents
+Q19952822	Q280413	P1268	Alain Lecavelier des Étangs	French National Centre for Scientific Research	represents
+Q19952822	Q280413	P1268	Alain Lecavelier des Étangs	French National Centre for Scientific Research	represents
+Q5504168	Q284508	P1268	Friends Falcons	Friends University	represents
+Q18161715	Q309998	P1268	Ahmad Umar	Al-Shabaab	represents
+Q5975428	Q1661325	P1268	IUP Crimson Hawks	Indiana University of Pennsylvania	represents
+Q7569637	Q1724577	P1268	Southern Arkansas University Muleriders	Southern Arkansas University	represents
+Q7058442	Q1781094	P1268	Northern Iowa Panthers	University of Northern Iowa	represents
+Q6141625	Q1782948	P1268	Tennessee State Tigers and Lady Tigers	Tennessee State University	represents
+Q6045302	Q1783608	P1268	Northern Colorado Bears	University of Northern Colorado	represents
+Q6694580	Q1786078	P1268	Loyola Marymount Lions	Loyola Marymount University	represents
+Q7978757	Q1787152	P1268	Weber State Wildcats	Weber State University	represents
+Q188560	Q212201	P1268	Pierre Plantard	Priory of Sion	represents
+Q188560	Q212201	P1268	Pierre Plantard	Priory of Sion	represents
+Q188560	Q212201	P1268	Pierre Plantard	Priory of Sion	represents
+Q46222188	Q26102	P1268	Whistleblower Aid	whistleblower	represents
+Q42317576	Q40469	P1268	E.J. Smetanik-Klinsky	Associated Press	represents
+Q51846329	Q61530	P1268	Galerie Julian Sander	August Sander	represents
+Q51846405	Q61530	P1268	August Sander Stiftung	August Sander	represents
+Q3359016	Q1420239	P1268	Temple Owls	Temple University	represents
+Q6541715	Q1468607	P1268	Liberty Flames	Liberty University	represents
+Q5595224	Q1472315	P1268	Grand Valley State Lakers	Grand Valley State University	represents
+Q3492325	Q1472347	P1268	Southern Illinois Salukis	Southern Illinois University Carbondale	represents
+Q7055362	Q1473796	P1268	North Florida Ospreys	University of North Florida	represents
+Q16155601	Q634651	P1268	Texas A&M–Corpus Christi Islanders	Texas A&M University–Corpus Christi	represents
+Q7984279	Q637346	P1268	West Alabama Tigers	University of West Alabama	represents
+Q16821987	Q649299	P1268	Regis Rangers	Regis University	represents
+Q41601328	Q650639	P1268	Concorde prototype livery	Aérospatiale	represents
+Q41601328	Q650639	P1268	Concorde prototype livery	Aérospatiale	represents
+Q41601328	Q650639	P1268	Concorde prototype livery	Aérospatiale	represents
+Q41601328	Q655224	P1268	Concorde prototype livery	British Aircraft Corporation	represents
+Q20804903	Q657374	P1268	Mary Washington Eagles	University of Mary Washington	represents
+Q14954878	Q689768	P1268	Madeleine Rees	Women's International League for Peace and Freedom	represents
+Q939062	Q1458155	P1268	Vincent Gigante	Sicilian Mafia	represents
+Q939062	Q1458155	P1268	Vincent Gigante	Sicilian Mafia	represents
+Q1752534	Q1472358	P1268	Houston Cougars	University of Houston	represents
+Q518116	Q1479321	P1268	France national rugby union team	French Rugby Federation	represents
+Q1325166	Q1521725	P1268	LSU Tigers	Louisiana State University	represents
+Q5871788	Q1475020	P1268	Furman Paladins	Furman University	represents
+Q4832991	Q1514597	P1268	Aztecas	Universidad de las Américas Puebla	represents
+Q7054443	Q1518804	P1268	North Carolina Central Eagles	North Carolina Central University	represents
+Q6389746	Q1532470	P1268	Kennesaw State Owls	Kennesaw State University	represents
+Q6389746	Q1532470	P1268	Kennesaw State Owls	Kennesaw State University	represents
+Q6389746	Q1532470	P1268	Kennesaw State Owls	Kennesaw State University	represents
+Q4705179	Q1551044	P1268	Alabama A&M Bulldogs and Lady Bulldogs	Alabama Agricultural and Mechanical University	represents
+Q2892868	Q153265	P1268	Cincinnati Bearcats	University of Cincinnati	represents
+Q3575607	Q1346135	P1268	Akron Zips	The University of Akron	represents
+Q3526120	Q1379613	P1268	Marshall Thundering Herd	Marshall University	represents
+Q5430349	Q1393265	P1268	Fairfield Stags	Fairfield University	represents
+Q3479421	Q1410117	P1268	Serge Locat	Harmonium	represents
+Q5542211	Q1411222	P1268	George Mason Patriots	George Mason University	represents
+Q3359015	Q429863	P1268	Florida Atlantic Owls	Florida Atlantic University	represents
+Q3246281	Q498526	P1268	San Jose State Spartans	San José State University	represents
+Q3422807	Q500131	P1268	Arkansas State Red Wolves	Arkansas State University	represents
+Q3496221	Q1278253	P1268	Eastern Washington Eagles	Eastern Washington University	represents
+Q4708567	Q1285262	P1268	Alaska Nanooks	University of Alaska Fairbanks	represents
+Q5266030	Q1320232	P1268	Detroit Titans	University of Detroit Mercy	represents
+Q5374404	Q1339396	P1268	Emporia State Hornets	Emporia State University	represents
+Q6448703	Q1340908	P1268	Kutztown Golden Bears	Kutztown University of Pennsylvania	represents
+Q4946572	Q1343885	P1268	Borregos Salvajes	Monterrey Institute of Technology and Higher Education	represents
+Q4946574	Q1343885	P1268	Borregos Salvajes – CEM	Monterrey Institute of Technology and Higher Education	represents
+Q4946572	Q1343885	P1268	Borregos Salvajes	Monterrey Institute of Technology and Higher Education	represents
+Q4946574	Q1343885	P1268	Borregos Salvajes – CEM	Monterrey Institute of Technology and Higher Education	represents
+Q4946572	Q1343885	P1268	Borregos Salvajes	Monterrey Institute of Technology and Higher Education	represents
+Q4946574	Q1343885	P1268	Borregos Salvajes – CEM	Monterrey Institute of Technology and Higher Education	represents
+Q3198007	Q143451	P1268	UCF Knights	University of Central Florida	represents
+Q5547005	Q333886	P1268	Georgetown Hoyas men's basketball	Georgetown University	represents
+Q12060824	Q333886	P1268	Jack the Bulldog	Georgetown University	represents
+Q18386883	Q117251	P1268	Charleston Golden Eagles	University of Charleston	represents
+Q18395460	Q128111	P1268	Virginia–Wise Highland Cavaliers	University of Virginia's College at Wise	represents
+Q18395460	Q128111	P1268	Virginia–Wise Highland Cavaliers	University of Virginia's College at Wise	represents
+Q18395460	Q128111	P1268	Virginia–Wise Highland Cavaliers	University of Virginia's College at Wise	represents
+Q3422788	Q1138374	P1268	St. John's Red Storm	St. John's University	represents
+Q3422788	Q1138374	P1268	St. John's Red Storm	St. John's University	represents
+Q5134647	Q1150105	P1268	Tennessee Volunteers	University of Tennessee	represents
+Q6478737	Q1165215	P1268	Lakehead Thunderwolves	Lakehead University	represents
+Q6749966	Q1191833	P1268	Manitoba Bisons	University of Manitoba	represents
+Q3573355	Q2575714	P1268	Yvan Dutil	Green Party of Quebec	represents
+Q3556198	Q2579532	P1268	Sherbrooke Vert et Or	Université de Sherbrooke	represents
+Q5885203	Q2620177	P1268	Holy Cross Crusaders	College of the Holy Cross	represents
+Q5024441	Q2698482	P1268	Calvin Knights	Calvin College	represents
+Q5241667	Q2902978	P1268	Davidson Wildcats	Davidson College	represents
+Q5609524	Q2982991	P1268	Grinnell Pioneers	Grinnell College	represents
+Q550397	Q219563	P1268	Washington Huskies	University of Washington	represents
+Q550397	Q219563	P1268	Washington Huskies	University of Washington	represents
+Q550397	Q219563	P1268	Washington Huskies	University of Washington	represents
+Q5018228	Q1026944	P1268	Cal State San Bernardino Coyotes	California State University, San Bernardino	represents
+Q5032453	Q1033335	P1268	Canisius Golden Griffins	Canisius College	represents
+Q5041241	Q1041737	P1268	Carleton Ravens	Carleton University	represents
+Q5041241	Q1041737	P1268	Carleton Ravens	Carleton University	represents
+Q3110096	Q1065809	P1268	FIU Panthers	Florida International University	represents
+Q323279	Q468804	P1268	Paolo Di Lauro	Camorra	represents
+Q323279	Q468804	P1268	Paolo Di Lauro	Camorra	represents
+Q323279	Q468804	P1268	Paolo Di Lauro	Camorra	represents
+Q16974860	Q3124195	P1268	Northeastern State RiverHawks	Northeastern State University	represents
+Q12060824	Q3141652	P1268	Jack the Bulldog	Georgetown Hoyas	represents
+Q16155409	Q3152650	P1268	Florida Tech Panthers	Florida Institute of Technology	represents
+Q7687165	Q3152793	P1268	Tasha Kheiriddin	Montreal Economic Institute	represents
+Q16969982	Q3198007	P1268	UCF Knights football	UCF Knights	represents
+Q19774507	Q3221777	P1268	Georges Dunoir	Le Coq enchaîné	represents
+Q16154386	Q3243730	P1268	BYU–Hawaii Seasiders	Brigham Young University Hawaii	represents
+Q18414029	Q3269570	P1268	Lynn Fighting Knights	Lynn University	represents
+Q6954437	Q3272013	P1268	NJIT Highlanders	New Jersey Institute of Technology	represents
+Q16971219	Q3298397	P1268	Augustana Vikings	Augustana University	represents
+Q6084019	Q3306469	P1268	Prairie View A&M Panthers and Lady Panthers	Prairie View A&M University	represents
+Q25004501	Q3307837	P1268	William Jewell Cardinals	William Jewell College	represents
+Q9072693	Q3443737	P1268	Saint Peter's Peacocks and Peahens	Saint Peter's University	represents
+Q23807895	Q3444269	P1268	Walsh Cavaliers	Walsh University	represents
+Q19879090	Q3444675	P1268	Christopher Newport Captains	Christopher Newport University	represents
+Q22073522	Q3445010	P1268	Carson–Newman Eagles	Carson–Newman College	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q7865235	Q2092214	P1268	UNC Wilmington Seahawks	University of North Carolina Wilmington	represents
+Q6721039	Q2123150	P1268	Maajid Nawaz	Quilliam	represents
+Q8001955	Q2166701	P1268	Wilfrid Laurier Golden Hawks	Wilfrid Laurier University	represents
+Q7401836	Q2212977	P1268	Saint Mary's Huskies	Saint Mary's University	represents
+Q7566988	Q2302260	P1268	South Dakota State Jackrabbits	South Dakota State University	represents
+Q7906648	Q2303536	P1268	VCU Rams	Virginia Commonwealth University	represents
+Q3172872	Q163931	P1268	Jean Jérome	Comintern	represents
+Q3325964	Q163931	P1268	Mounette Dutilleul	Comintern	represents
+Q3172872	Q163931	P1268	Jean Jérome	Comintern	represents
+Q3325964	Q163931	P1268	Mounette Dutilleul	Comintern	represents
+Q3172872	Q163931	P1268	Jean Jérome	Comintern	represents
+Q3325964	Q163931	P1268	Mounette Dutilleul	Comintern	represents
+Q3143454	Q49206	P1268	Connecticut Huskies	University of Connecticut	represents
+Q3143454	Q49206	P1268	Connecticut Huskies	University of Connecticut	represents
+Q3143454	Q49206	P1268	Connecticut Huskies	University of Connecticut	represents
+Q3163297	Q52413	P1268	Kansas Jayhawks	University of Kansas	represents
+Q3163297	Q52413	P1268	Kansas Jayhawks	University of Kansas	represents
+Q3163297	Q52413	P1268	Kansas Jayhawks	University of Kansas	represents
+Q2465468	Q238101	P1268	Minnesota Golden Gophers	University of Minnesota	represents
+Q2465468	Q238101	P1268	Minnesota Golden Gophers	University of Minnesota	represents
+Q2465468	Q238101	P1268	Minnesota Golden Gophers	University of Minnesota	represents
+Q2963880	Q250205	P1268	Central Michigan Chippewas	Central Michigan University	represents
+Q2421925	Q263064	P1268	UC Santa Barbara Gauchos	University of California, Santa Barbara	represents
+Q3123790	Q182876	P1268	Gérard Bourgoin	A.J. Auxerre	represents
+Q55005131	Q2895825	P1268	Gallerie Ariel	Bengt Lindström	represents
+Q13204226	Q4179383	P1268	Zahidä Bornaşeva	Zhenotdel	represents
+Q6879698	Q4380853	P1268	Missouri S&T Miners	Missouri University of Science and Technology	represents
+Q6879698	Q4380853	P1268	Missouri S&T Miners	Missouri University of Science and Technology	represents
+Q6879698	Q4380853	P1268	Missouri S&T Miners	Missouri University of Science and Technology	represents
+Q5777519	Q4507421	P1268	College of Charleston Cougars	College of Charleston	represents
+Q5367122	Q4568893	P1268	Elon Phoenix	Elon University	represents
+Q5594342	Q4570025	P1268	Grand Canyon Antelopes	Grand Canyon University	represents
+Q4985864	Q4570064	P1268	Buffalo State Bengals	Buffalo State College	represents
+Q16827422	Q4731591	P1268	Allen Red Devils	Allen Community College	represents
+Q16192109	Q4849228	P1268	Baker Wildcats	Baker University	represents
+Q4849313	Q4849288	P1268	Bakersfield Renegades	Bakersfield College	represents
+Q18438865	Q751289	P1268	Tampa Spartans	University of Tampa	represents
+Q7972502	Q777403	P1268	Washington University Bears	Washington University in St. Louis	represents
+Q7907262	Q785357	P1268	VMI Keydets	Virginia Military Institute	represents
+Q3540227	Q500154	P1268	Little Rock Trojans	University of Arkansas at Little Rock	represents
+Q3518575	Q503415	P1268	Maryland Terrapins	University of Maryland	represents
+Q2905393	Q9219	P1268	Army Black Knights	United States Military Academy	represents
+Q2905393	Q9219	P1268	Army Black Knights	United States Military Academy	represents
+Q2905393	Q9219	P1268	Army Black Knights	United States Military Academy	represents
+Q7611658	Q2341039	P1268	Stetson Hatters	Stetson University	represents
+Q7611658	Q2341039	P1268	Stetson Hatters	Stetson University	represents
+Q7611658	Q2341039	P1268	Stetson Hatters	Stetson University	represents
+Q2907160	Q168751	P1268	Duke Blue Devils	Duke University	represents
+Q28228553	Q693674	P1268	Bentley Falcons	Bentley University	represents
+Q7865082	Q735049	P1268	UMBC Retrievers	University of Maryland, Baltimore County	represents
+Q7865082	Q735049	P1268	UMBC Retrievers	University of Maryland, Baltimore County	represents
+Q7865082	Q735049	P1268	UMBC Retrievers	University of Maryland, Baltimore County	represents
+Q7879378	Q738258	P1268	Miami Hurricanes	University of Miami	represents
+Q19787752	Q746153	P1268	UWI Blackbirds	University of the West Indies	represents
+Q3433486	Q15143	P1268	UMass Lowell River Hawks	University of Massachusetts Lowell	represents
+Q3433486	Q15143	P1268	UMass Lowell River Hawks	University of Massachusetts Lowell	represents
+Q3433486	Q15143	P1268	UMass Lowell River Hawks	University of Massachusetts Lowell	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3528314	Q21578	P1268	Princeton Tigers	Princeton University	represents
+Q3046352	Q49118	P1268	Boston College Eagles	Boston College	represents
+Q3046352	Q49118	P1268	Boston College Eagles	Boston College	represents
+Q3046352	Q49118	P1268	Boston College Eagles	Boston College	represents
+Q16981863	Q3468361	P1268	Texas Woman's Pioneers	Texas Woman's University	represents
+Q22095959	Q3495253	P1268	St. Edward's Hilltoppers	St. Edward's University	represents
+Q6674530	Q3551429	P1268	Longwood Lancers	Longwood University	represents
+Q7591890	Q3551491	P1268	St. Thomas (New Brunswick) Tommies	St. Thomas University	represents
+Q7795774	Q3551501	P1268	Thompson Rivers WolfPack	Thompson Rivers University	represents
+Q17058903	Q3551554	P1268	Tarleton State Texans and TexAnns	Tarleton State University	represents
+Q7332603	Q3551664	P1268	Rider Broncs	Rider University	represents
+Q7863808	Q3551709	P1268	UBC Okanagan Heat	University of British Columbia Okanagan	represents
+Q8027389	Q3551772	P1268	Wisconsin–Whitewater Warhawks	University of Wisconsin–Whitewater	represents
+Q20871916	Q3569876	P1268	Woolmark logo	Woolmark	represents
+Q20871916	Q3569876	P1268	Woolmark logo	Woolmark	represents
+Q20871916	Q3569876	P1268	Woolmark logo	Woolmark	represents
+Q17507347	Q3887993	P1268	Delta State Statesmen and Lady Statesmen	Delta State University	represents
+Q26839727	Q4064187	P1268	The American journal of digestive diseases	American Gastroenterological Association	represents
+Q16983203	Q7976637	P1268	Wayne State Wildcats	Wayne State College	represents
+Q16983265	Q7986651	P1268	West Texas A&M Buffaloes	West Texas A&M University	represents
+Q18394833	Q7986919	P1268	West Virginia State Yellow Jackets	West Virginia State University	represents
+Q16971215	Q7988105	P1268	Western New Mexico Mustangs	Western New Mexico University	represents
+Q8026563	Q8026588	P1268	Winthrop Eagles	Winthrop University	represents
+Q8029051	Q8029049	P1268	Wofford Terriers	Wofford College	represents
+Q16985878	Q8171840	P1268	Independence Pirates	Independence Community College	represents
+Q16985878	Q8171840	P1268	Independence Pirates	Independence Community College	represents
+Q16985878	Q8171840	P1268	Independence Pirates	Independence Community College	represents
+Q16971911	Q10854154	P1268	Eastern New Mexico Greyhounds and Zias	Eastern New Mexico University	represents
+Q16971911	Q10854154	P1268	Eastern New Mexico Greyhounds and Zias	Eastern New Mexico University	represents
+Q16971911	Q10854154	P1268	Eastern New Mexico Greyhounds and Zias	Eastern New Mexico University	represents
+Q7026533	Q11884307	P1268	Nicholls State Colonels	Nicholls State University	represents
+Q16154459	Q11884307	P1268	Nicholls State Colonels women's basketball	Nicholls State University	represents
+Q7315444	Q14638071	P1268	Resident Representative	list of specialized agencies of the United Nations	represents
+Q7315444	Q14638071	P1268	Resident Representative	list of specialized agencies of the United Nations	represents
+Q7315444	Q14638071	P1268	Resident Representative	list of specialized agencies of the United Nations	represents
+Q14954878	Q1065	P1268	Madeleine Rees	United Nations	represents
+Q14954878	Q1065	P1268	Madeleine Rees	United Nations	represents
+Q14954878	Q1065	P1268	Madeleine Rees	United Nations	represents
+Q3313606	Q42814	P1268	Mikel Antza	Euskadi Ta Askatasuna	represents
+Q3313606	Q42814	P1268	Mikel Antza	ETA	represents
+Q3313606	Q42814	P1268	Mikel Antza	ETA	represents
+Q21707606	Q2366142	P1268	prix Maurice Bouvet	Paris Psychoanalytic Society	represents
+Q10996770	Q2393647	P1268	Lamar Cardinals and Lady Cardinals	Lamar University	represents
+Q16981818	Q2407584	P1268	Texas A&M–Commerce Lions	Texas A&M University–Commerce	represents
+Q16155042	Q2495825	P1268	Arkansas–Pine Bluff Golden Lions	University of Arkansas at Pine Bluff	represents
+Q16161464	Q2495828	P1268	Arkansas–Fort Smith Lions	University of Arkansas – Fort Smith	represents
+Q16971497	Q2495841	P1268	Colorado–Colorado Springs Mountain Lions	University of Colorado, Colorado Springs	represents
+Q16971497	Q2495841	P1268	Colorado–Colorado Springs Mountain Lions	University of Colorado, Colorado Springs	represents
+Q16202128	Q2495874	P1268	Minnesota–Duluth Bulldogs	University of Minnesota Duluth	represents
+Q7896022	Q2495899	P1268	University of Ontario Institute of Technology Ridgebacks	University of Ontario Institute of Technology	represents
+Q16162078	Q2495935	P1268	Texas–Permian Basin Falcons	University of Texas of the Permian Basin	represents
+Q22097133	Q2495945	P1268	West Georgia Wolves	University of West Georgia	represents
+Q7864597	Q2495961	P1268	UFV Cascades	University of the Fraser Valley	represents
+Q7909454	Q2508061	P1268	Valdosta State Blazers	Valdosta State University	represents
+Q6898553	Q2557355	P1268	Moncton Aigles Bleu	Université de Moncton	represents
+Q5019664	Q1067471	P1268	Calgary Dinos	University of Calgary	represents
+Q3443218	Q1067935	P1268	Laval Rouge et Or	Laval University	represents
+Q3098181	Q1070333	P1268	Arkansas Razorbacks	University of Arkansas	represents
+Q2943247	Q213439	P1268	Virginia Cavaliers	University of Virginia	represents
+Q2943247	Q213439	P1268	Virginia Cavaliers	University of Virginia	represents
+Q2943247	Q213439	P1268	Virginia Cavaliers	University of Virginia	represents
+Q2927468	Q309331	P1268	Ohio State Buckeyes	Ohio State University	represents
+Q2927468	Q309331	P1268	Ohio State Buckeyes	Ohio State University	represents
+Q2927468	Q309331	P1268	Ohio State Buckeyes	Ohio State University	represents
+Q2937797	Q392189	P1268	Montreal Carabins	Université de Montréal	represents
+Q3026896	Q42814	P1268	Didier Aguerre	Euskadi Ta Askatasuna	represents
+Q3186164	Q42814	P1268	José Antonio Etxebarrieta	Euskadi Ta Askatasuna	represents
+Q3026896	Q42814	P1268	Didier Aguerre	ETA	represents
+Q3186164	Q42814	P1268	José Antonio Etxebarrieta	ETA	represents
+Q3026896	Q42814	P1268	Didier Aguerre	ETA	represents
+Q3186164	Q42814	P1268	José Antonio Etxebarrieta	ETA	represents
+Q534375	Q432637	P1268	George Washington Colonials	George Washington University	represents
+Q534375	Q432637	P1268	George Washington Colonials	George Washington University	represents
+Q534375	Q432637	P1268	George Washington Colonials	George Washington University	represents
+Q17021134	Q14689828	P1268	Neosho County Panthers	Neosho County Community College	represents
+Q16821982	Q14708393	P1268	Mary Marauders	University of Mary	represents
+Q16267489	Q16683090	P1268	Hiroji Fukazawa	Wado International Karate-Do federation	represents
+Q16268013	Q16683090	P1268	Jean-Robert Huart	Wado International Karate-Do federation	represents
+Q3422894	Q201492	P1268	McGill Redmen	McGill University	represents
+Q3422894	Q201492	P1268	McGill Redmen	McGill University	represents
+Q3422894	Q201492	P1268	McGill Redmen	McGill University	represents
+Q3930749	Q201603	P1268	Simon Fraser Clan	Simon Fraser University	represents
+Q3174102	Q230492	P1268	Michigan Wolverines	University of Michigan	represents
+Q15813291	Q2302336	P1268	Montana Grizzlies and Lady Griz	University of Montana	represents
+Q15813291	Q2302336	P1268	Montana Grizzlies and Lady Griz	University of Montana	represents
+Q15813291	Q2302336	P1268	Montana Grizzlies and Lady Griz	University of Montana	represents
+Q455413	Q2421684	P1268	Belize national football team	Football Federation of Belize	represents
+Q455413	Q2421684	P1268	Belize national football team	Football Federation of Belize	represents
+Q455413	Q2421684	P1268	Belize national football team	Football Federation of Belize	represents
+Q2918860	Q168756	P1268	California Golden Bears	University of California, Berkeley	represents
+Q2918449	Q182973	P1268	Iowa Hawkeyes	University of Iowa	represents
+Q23930890	Q792369	P1268	Belgium military national football team	Belgian Armed Forces	represents
+Q20708728	Q809106	P1268	Barry Buccaneers	Barry University	represents
+Q25004518	Q810771	P1268	Bates Bobcats	Bates College	represents
+Q16971267	Q816377	P1268	Bemidji State Beavers	Bemidji State University	represents
+Q356483	Q155801	P1268	Manuel Marulanda	Fuerzas Armadas Revolucionarias de Colombia -  Ejército del Pueblo	represents
+Q16838278	Q4865605	P1268	Barton Cougars	Barton Community College	represents
+Q19863689	Q4966838	P1268	Bridgewater Eagles	Bridgewater College	represents
+Q16849812	Q5002596	P1268	Butler Grizzlies	Butler Community College	represents
+Q16974232	Q5017530	P1268	Minot State Beavers	Minot State University	represents
+Q21665552	Q5018694	P1268	Montclair State University Red Hawks	Montclair State University	represents
+Q16971414	Q5066497	P1268	Chadron State Eagles	Chadron State College	represents
+Q16949319	Q5135655	P1268	Cloud County Thunderbirds	Cloud County Community College	represents
+Q16949701	Q5140993	P1268	Coffeyville Red Ravens	Coffeyville Community College	represents
+Q16949792	Q5142015	P1268	Colby Trojans	Colby Community College	represents
+Q16971493	Q5148756	P1268	Colorado Christian Cougars	Colorado Christian University	represents
+Q16971509	Q5159001	P1268	Concordia Golden Bears	Concordia University	represents
+Q16952408	Q5179758	P1268	Cowley College Tigers	Cowley County Community College	represents
+Q16971550	Q5211272	P1268	Dallas Baptist Patriots	Dallas Baptist University	represents
+Q16962120	Q5287843	P1268	Dodge City Conquistadors	Dodge City Community College	represents
+Q19864807	Q5373734	P1268	Emory & Henry Wasps	Emory and Henry College	represents
+Q19865660	Q5461600	P1268	Florida Southern Moccasins	Florida Southern College	represents
+Q16981645	Q5522202	P1268	Garden City Broncbusters	Garden City Community College	represents
+Q19867279	Q5617466	P1268	Gulf Coast State College Commodores	Gulf Coast State College	represents
+Q23817399	Q6919331	P1268	Mount Albert Grammar School	Mount Albert Grammar School	represents
+Q1475738	Q7700206	P1268	Tennessee Technological University	Tennessee Technological University	represents
+Q3275629	Q2986864	P1268	Madeleine Daniélou	Apostolic Community of St. Francis Xavier	represents
+Q5061546	Q3275637	P1268	Central Oklahoma Bronchos	University of Central Oklahoma	represents
+Q4884328	Q3298359	P1268	Belmont Bruins	Belmont University	represents
+Q6019480	Q3316928	P1268	Mississippi Valley State Delta Devils and Devilettes	Mississippi Valley State University	represents
+Q4983432	Q3444679	P1268	Bucknell Bison	Bucknell University	represents
+Q5522634	Q3551409	P1268	Gardner–Webb Runnin' Bulldogs	Gardner–Webb University	represents
+Q3410971	Q3551657	P1268	Niagara Purple Eagles	Niagara University	represents
+Q5009313	Q3551748	P1268	CBU Capers	Cape Breton University	represents
+Q3435540	Q3594134	P1268	Robert Job	Œuvre de secours aux enfants	represents
+Q5416041	Q4026988	P1268	Evansville Purple Aces	University of Evansville	represents
+Q3099292	Q501758	P1268	Florida Gators	University of Florida	represents
+Q5679205	Q845332	P1268	Haskell Indian Nations Fighting Indians	Haskell Indian Nations University	represents
+Q8055488	Q849751	P1268	York Lions	York University	represents
+Q9023633	Q1026926	P1268	Long Beach State 49ers	California State University, Long Beach	represents
+Q16191166	Q1026932	P1268	Cal State Los Angeles Golden Eagles	California State University, Los Angeles	represents
+Q5411806	Q1026941	P1268	Sacramento State Hornets	California State University, Sacramento	represents
+Q7272308	Q1030044	P1268	Quinnipiac Bobcats	Quinnipiac University	represents
+Q7865483	Q1030305	P1268	UPEI Panthers	University of Prince Edward Island	represents
+Q7166401	Q117876	P1268	Pepperdine Waves	Pepperdine University	represents
+Q7864150	Q129421	P1268	UC Davis Aggies	University of California, Davis	represents
+Q3243927	Q1138384	P1268	Ole Miss Rebels	University of Mississippi	represents
+Q5225677	Q49116	P1268	Dartmouth Big Green men's lacrosse	Dartmouth College	represents
+Q5225678	Q49116	P1268	Dartmouth Big Green women's ice hockey	Dartmouth College	represents
+Q5225677	Q49116	P1268	Dartmouth Big Green men's lacrosse	Dartmouth College	represents
+Q5225678	Q49116	P1268	Dartmouth Big Green women's ice hockey	Dartmouth College	represents
+Q5225677	Q49116	P1268	Dartmouth Big Green men's lacrosse	Dartmouth College	represents
+Q5225678	Q49116	P1268	Dartmouth Big Green women's ice hockey	Dartmouth College	represents
+Q3518772	Q49110	P1268	Boston University Terriers	Boston University	represents
+Q3518772	Q49110	P1268	Boston University Terriers	Boston University	represents
+Q3518772	Q49110	P1268	Boston University Terriers	Boston University	represents
+Q2905314	Q1307345	P1268	Maine Black Bears	University of Maine	represents
+Q2938067	Q1317143	P1268	Louisville Cardinals	University of Louisville	represents
+Q3001866	Q1326975	P1268	Wyoming Cowboys and Cowgirls	University of Wyoming	represents
+Q7590861	Q7590859	P1268	St. Norbert Green Knights	St. Norbert College	represents
+Q4972851	Q7603617	P1268	Brockport Golden Eagles	State University of New York at Brockport	represents
+Q16192116	Q7603623	P1268	Cortland Red Dragons	State University of New York at Cortland	represents
+Q7611483	Q7611389	P1268	Sterling Warriors	Sterling College	represents
+Q7673526	Q7673530	P1268	Tabor Bluejays	Tabor College	represents
+Q7707483	Q7707478	P1268	Texas A&M–Kingsville Javelinas	Texas A&M University–Kingsville	represents
+Q7714087	Q7714089	P1268	The Apprentice Builders	The Apprentice School	represents
+Q5978705	Q7720324	P1268	Long Island Blackbirds	LIU Brooklyn	represents
+Q16965582	Q7838935	P1268	Trevecca Nazarene Trojans	Trevecca Nazarene University	represents
+Q16969977	Q7847734	P1268	Truman State Bulldogs	Truman State University	represents
+Q5061449	Q7895252	P1268	Central Missouri Mules and Jennies	University of Central Missouri	represents
+Q16974226	Q7895797	P1268	Minnesota–Crookston Golden Eagles	University of Minnesota Crookston	represents
+Q16974581	Q7895890	P1268	Nebraska-Kearney Lopers	University of Nebraska at Kearney	represents
+Q7865221	Q7895940	P1268	UNC Asheville Bulldogs	University of North Carolina at Asheville	represents
+Q7401864	Q7896225	P1268	Saint Mary Spires	University of Saint Mary	represents
+Q7525483	Q7896307	P1268	Sioux Falls Cougars	University of Sioux Falls	represents
+Q7566649	Q7896324	P1268	South Carolina Upstate Spartans	University of South Carolina Upstate	represents
+Q16982666	Q7898705	P1268	Upper Iowa Peacocks	Upper Iowa University	represents
+Q18395454	Q7934591	P1268	Virginia State Trojans	Virginia State University	represents
+Q7971639	Q7971641	P1268	Washington & Jefferson Presidents	Washington & Jefferson College	represents
+Q3242000	Q49088	P1268	Columbia Lions	Columbia University	represents
+Q3242000	Q49088	P1268	Columbia Lions	Columbia University	represents
+Q3242000	Q49088	P1268	Columbia Lions	Columbia University	represents
+Q3257637	Q1190812	P1268	New Mexico Lobos	University of New Mexico	represents
+Q3257637	Q1190812	P1268	New Mexico Lobos	University of New Mexico	represents
+Q3257637	Q1190812	P1268	New Mexico Lobos	University of New Mexico	represents
+Q3143452	Q1191344	P1268	Northern Illinois Huskies	Northern Illinois University	represents
+Q3326219	Q1278182	P1268	Musa Mohamed Ahmed	Eastern Front	represents
+Q3046351	Q1278221	P1268	Eastern Michigan Eagles	Eastern Michigan University	represents
+Q6923799	Q6923804	P1268	Mount St. Mary's Mountaineers	Mount St. Mary's University	represents
+Q16974689	Q7010189	P1268	New Mexico Highlands Cowboys and Cowgirls	New Mexico Highlands University	represents
+Q16970143	Q7018497	P1268	Newman Jets	Newman University, Wichita	represents
+Q7055503	Q7055505	P1268	North Greenville Crusaders	North Greenville University	represents
+Q17022282	Q7057941	P1268	Northeast Mississippi Community College Tigers	Northeast Mississippi Community College	represents
+Q7060120	Q7060123	P1268	Northwest Missouri State Bearcats	Northwest Missouri State University	represents
+Q16974988	Q7060359	P1268	Northwestern Oklahoma State Rangers	Northwestern Oklahoma State University	represents
+Q16971206	Q7063485	P1268	Notre Dame de Namur Argonauts	Notre Dame de Namur University	represents
+Q16975127	Q7082127	P1268	Oklahoma Christian Eagles	Oklahoma Christian University	represents
+Q16970153	Q7082284	P1268	Oklahoma Panhandle State Aggies	Oklahoma Panhandle State University	represents
+Q7085726	Q7085725	P1268	Olds College Broncos	Olds College	represents
+Q7109148	Q7109265	P1268	Ottawa Braves	Ottawa University	represents
+Q16205741	Q7110141	P1268	Ouachita Baptist Tigers	Ouachita Baptist University	represents
+Q16969948	Q7347821	P1268	Robert Morris Colonials	Robert Morris University	represents
+Q7401260	Q7401271	P1268	Saint Francis Red Flash	Saint Francis University	represents
+Q6116991	Q7401829	P1268	Saint Mary's Gaels	Saint Mary's College of California	represents
+Q7491562	Q7491567	P1268	Shawnee State Bears	Shawnee State University	represents
+Q16155224	Q7502154	P1268	Shorter Hawks	Shorter University	represents
+Q7566635	Q7566644	P1268	South Carolina State Bulldogs and Lady Bulldogs	South Carolina State University	represents
+Q16969964	Q7571224	P1268	Southwest Baptist Bearcats	Southwest Baptist University	represents
+Q16981212	Q7571324	P1268	Southwest Minnesota State Mustangs	Southwest Minnesota State University	represents
+Q7571434	Q7571407	P1268	Southwestern Moundbuilders	Southwestern College	represents
+Q16191184	Q915866	P1268	Chicago State Cougars	Chicago State University	represents
+Q7865579	Q919256	P1268	UQTR Patriotes	Université du Québec à Trois-Rivières	represents
+Q6117959	Q935018	P1268	Jacksonville Dolphins	Jacksonville University	represents
+Q7865112	Q940690	P1268	UMKC Kangaroos	University of Missouri–Kansas City	represents
+Q5552064	Q941524	P1268	Alabama State Hornets and Lady Hornets	Alabama State University	represents
+Q7971449	Q941551	P1268	Washburn Ichabods and Lady Blues	Washburn University	represents
+Q7864699	Q955764	P1268	UIC Flames	University of Illinois at Chicago	represents
+Q7864170	Q868421	P1268	UC Irvine Anteaters	University of California, Irvine	represents
+Q8003846	Q875637	P1268	William & Mary Tribe	College of William & Mary	represents
+Q8003846	Q875637	P1268	William & Mary Tribe	College of William & Mary	represents
+Q8003846	Q875637	P1268	William & Mary Tribe	College of William & Mary	represents
+Q6016400	Q879146	P1268	Independent Baptist	Christian denomination	represents
+Q6016400	Q879146	P1268	Independent Baptist	Christian denomination	represents
+Q6016400	Q879146	P1268	Independent Baptist	Christian denomination	represents
+Q2938060	Q41506	P1268	Stanford Cardinal	Stanford University	represents
+Q2938060	Q41506	P1268	Stanford Cardinal	Stanford University	represents
+Q2938060	Q41506	P1268	Stanford Cardinal	Stanford University	represents
+Q3071648	Q457281	P1268	Illinois Fighting Illini	University of Illinois at Urbana–Champaign	represents
+Q2928116	Q500606	P1268	South Florida Bulls	University of South Florida	represents
+Q4850615	Q1805202	P1268	Baldwin Wallace Yellow Jackets	Baldwin Wallace University	represents
+Q5664204	Q1805243	P1268	Alcorn State Braves and Lady Braves	Alcorn State University	represents
+Q3554487	Q1854488	P1268	Idaho Vandals	University of Idaho	represents
+Q5726405	Q1869031	P1268	Henry Nott	London Missionary Society	represents
+Q2927986	Q1872239	P1268	Louisiana Tech Bulldogs and Lady Techsters	Louisiana Tech University	represents
+Q3036862	Q1887879	P1268	San Francisco Dons	University of San Francisco	represents
+Q16155052	Q4882717	P1268	Belhaven Blazers	Belhaven University	represents
+Q16147245	Q4887341	P1268	Benedictine Ravens	Benedictine College	represents
+Q4897783	Q4897733	P1268	Bethany Terrible Swedes	Bethany College	represents
+Q4897935	Q4897888	P1268	Bethel Threshers	Bethel College	represents
+Q4956777	Q4957110	P1268	Brandon Bobcats	Brandon University	represents
+Q523530	Q5013503	P1268	Len Sassaman	Computer Security and Industrial Cryptography	represents
+Q11680652	Q5059076	P1268	Centenary Gentlemen and Ladies	Centenary College of Louisiana	represents
+Q5061421	Q5061424	P1268	Central Methodist Eagles	Central Methodist University	represents
+Q16191205	Q5168881	P1268	Coppin State Eagles	Coppin State University	represents
+Q5230256	Q5230267	P1268	Davenport Panthers	Davenport University	represents
+Q16821978	Q5290855	P1268	Dominican Penguins	Dominican University of California	represents
+Q2927982	Q5305629	P1268	Drake Bulldogs	Drake University	represents
+Q16192126	Q5328060	P1268	East Central Tigers	East Central University	represents
+Q16151487	Q5332879	P1268	Eckerd Tritons	Eckerd College	represents
+Q5388285	Q5388284	P1268	Erie Community College Kats	Erie Community College	represents
+Q6694554	Q5399470	P1268	Loyola Greyhounds	Loyola University Maryland	represents
+Q15378679	Q5471998	P1268	Fort Scott Greyhounds	Fort Scott Community College	represents
+Q16192134	Q5546985	P1268	Georgetown Tigers	Georgetown College	represents
+Q2974409	Q1634522	P1268	UQAM Citadins	Université du Québec à Montréal	represents
+Q2974409	Q1634522	P1268	UQAM Citadins	Université du Québec à Montréal	represents
+Q2974409	Q1634522	P1268	UQAM Citadins	Université du Québec à Montréal	represents
+Q4709317	Q1780816	P1268	Albany Great Danes	University at Albany	represents
+Q5060350	Q1782724	P1268	Central Arkansas Bears and Sugar Bears	University of Central Arkansas	represents
+Q4705392	Q1783148	P1268	Alabama–Huntsville Chargers	University of Alabama in Huntsville	represents
+Q4667759	Q1805145	P1268	Abilene Christian Wildcats	Abilene Christian University	represents
+Q8055488	Q849751	P1268	York Lions	York University	represents
+Q8055488	Q849751	P1268	York Lions	York University	represents
+Q3174102	Q230492	P1268	Michigan Wolverines	University of Michigan	represents
+Q3325235	Q270222	P1268	Michigan State Spartans	Michigan State University	represents
+Q27103691	Q7376054	P1268	tile cutter	Rubi	represents
+Q42531209	Q7865082	P1268	2017–18 UMBC Retrievers men's basketball team	UMBC Retrievers	represents
+Q55005131	Q11577112	P1268	Gallerie Ariel	Yasse Tabuchi	represents
+Q25004500	Q13311081	P1268	Tiffin Dragons	Tiffin University	represents
+Q3107841	Q18062034	P1268	Gisèle de Failly	Centre d'entraînement aux méthodes d'éducation active	represents
+Q1543970	Q20203461	P1268	Mont Mégantic Observatory	Centre for Research in Astrophysics of Québec	represents
+Q1154057	Q22222677	P1268	Director of National Intelligence	Office of the Director of National Intelligence	represents
+Q12670	Q45013725	P1268	prostitution in South Korea	Hanteo National Union	represents
+Q1023606	Q47460769	P1268	CHAdeMO	CHAdeMO Association	represents
+Q3136331	Q52552675	P1268	Hironori Ōtsuka II	Wado Ryu Renmei	represents
+Q3194499	Q52552675	P1268	Kazutaka Ōtsuka	Wado Ryu Renmei	represents
+Q55005131	Q29559923	P1268	Gallerie Ariel	Michel Geminiani	represents
+Q55439506	Q55235523	P1268	Grimmuseum	Ada Van Hoorebeke	represents
+Q23016565	Q7060498	P1268	Northwood Timberwolves	Northwood University	represents
+Q23303369	Q7080808	P1268	Ohio Dominican Panthers	Ohio Dominican University	represents
+Q21666373	Q7158147	P1268	Pearl River's Wildcats	Pearl River Community College	represents
+Q22095739	Q7270829	P1268	Queens Royals	Queens University of Charlotte	represents
+Q24061404	Q7272195	P1268	Quincy Hawks	Quincy University	represents
+Q22094836	Q7291901	P1268	Randolph–Macon Yellow Jackets	Randolph–Macon College	represents
+Q19877508	Q7339779	P1268	Roanoke Maroons	Roanoke College	represents
+Q22096914	Q7399281	P1268	Saginaw Valley State Cardinals	Saginaw Valley State University	represents
+Q22096490	Q7494490	P1268	Shepherd Rams	Shepherd University	represents
+Q19877512	Q7570614	P1268	Southern Virginia Knights	Southern Virginia University	represents
+Q21666414	Q7571420	P1268	Southwestern Illinois College Blue Storm	Southwestern Illinois College	represents
+Q20487265	Q7587158	P1268	St. Augustine's Falcons	St. Augustine's University	represents
+Q19828389	Q7590249	P1268	St. Mary's Seahawks	St. Mary's College of Maryland	represents
+Q22096026	Q7590446	P1268	St. Mary's Rattlers	St. Mary's University, Texas	represents
+Q22096026	Q7590446	P1268	St. Mary's Rattlers	St. Mary's University, Texas	represents
+Q22096347	Q7895390	P1268	Findlay Oilers	University of Findlay	represents
+Q22097432	Q7895554	P1268	Indianapolis Greyhounds	University of Indianapolis	represents
+Q22058909	Q7895970	P1268	North Georgia Nighthawks	University of North Georgia	represents
+Q23302446	Q7896112	P1268	Pikeville Bears	University of Pikeville	represents
+Q22096189	Q7896316	P1268	USC Aiken Pacers	University of South Carolina Aiken	represents
+Q22096731	Q7934661	P1268	Virginia Wesleyan Marlins	Virginia Wesleyan College	represents
+Q22097255	Q8025153	P1268	Wingate Bulldogs	Wingate University	represents
+Q20635282	Q11979088	P1268	Johnson C. Smith Golden Bulls and Lady Golden Bulls	Johnson C. Smith University	represents
+Q22073904	Q14715866	P1268	Stonehill Skyhawks	Stonehill College	represents
+Q19561567	Q16683090	P1268	William Millerson	Wado International Karate-Do federation	represents
+Q51906539	Q16683090	P1268	Mathieu Beysen	Wado International Karate-Do federation	represents
+Q52043035	Q16683090	P1268	Eleni Labiri	Wado International Karate-Do federation	represents
+Q19863848	Q17028121	P1268	UTRGV Vaqueros	University of Texas Rio Grande Valley	represents
+Q19660748	Q18086097	P1268	Jeanne Schmahl	French Union for Women's Suffrage	represents
+Q47460503	Q19792253	P1268	Dylan Kardashian	Khanyi Mbau	represents
+Q47460503	Q19792253	P1268	Dylan Kardashian	Khanyi Mbau	represents
+Q47460503	Q19792253	P1268	Dylan Kardashian	Khanyi Mbau	represents
+Q47460503	Q19792253	P1268	Dylan Kardashian	Khanyi Mbau	represents
+Q5132249	Q1100801	P1268	Cleveland State Vikings	Cleveland State University	represents
+Q5138258	Q1104405	P1268	Coastal Carolina Chanticleers	Coastal Carolina University	represents
+Q7865196	Q1112515	P1268	UNB Varsity Reds	University of New Brunswick	represents
+Q7865196	Q1112515	P1268	UNB Varsity Reds	University of New Brunswick	represents
+Q7865196	Q1112515	P1268	UNB Varsity Reds	University of New Brunswick	represents
+Q7330995	Q1115878	P1268	Richmond Spiders	University of Richmond	represents
+Q7587638	Q1136874	P1268	St. Cloud State Huskies	St. Cloud State University	represents
+Q3184850	Q1571099	P1268	Joseph Di Mambro	Order of the Solar Temple	represents
+Q1970462	Q1458155	P1268	Stefano Bontade	Sicilian Mafia	represents
+Q1970462	Q1458155	P1268	Stefano Bontade	Sicilian Mafia	represents
+Q3110049	Q1473615	P1268	Kent State Golden Flashes	Kent State University	represents
+Q2275408	Q1474100	P1268	Old Dominion Monarchs and Lady Monarchs	Old Dominion University	represents
+Q2891250	Q1474157	P1268	New Orleans Privateers	University of New Orleans	represents
+Q6153716	Q49120	P1268	Tufts Jumbos	Tufts University	represents
+Q6153716	Q49120	P1268	Tufts Jumbos	Tufts University	represents
+Q6153716	Q49120	P1268	Tufts Jumbos	Tufts University	represents
+Q8021012	Q49166	P1268	Williams Ephs	Williams College	represents
+Q8021012	Q49166	P1268	Williams Ephs	Williams College	represents
+Q8021012	Q49166	P1268	Williams Ephs	Williams College	represents
+Q2986819	Q29052	P1268	Vanderbilt Commodores	Vanderbilt University	represents
+Q2913581	Q33182	P1268	Jatindra Nath Das	Hindustan Socialist Republican Association	represents
+Q3568143	Q309350	P1268	Northwestern Wildcats	Northwestern University	represents
+Q3141652	Q333886	P1268	Georgetown Hoyas	Georgetown University	represents
+Q5161554	Q49206	P1268	Connecticut Huskies women's basketball	University of Connecticut	represents
+Q5161554	Q49206	P1268	Connecticut Huskies women's basketball	University of Connecticut	represents
+Q5161554	Q49206	P1268	Connecticut Huskies women's basketball	University of Connecticut	represents
+Q3568144	Q49207	P1268	New Hampshire Wildcats	University of New Hampshire	represents
+Q3568144	Q49207	P1268	New Hampshire Wildcats	University of New Hampshire	represents
+Q3568144	Q49207	P1268	New Hampshire Wildcats	University of New Hampshire	represents
+Q3064747	Q1331280	P1268	Air Force Falcons football	United States Air Force Academy	represents
+Q3123790	Q1331838	P1268	Gérard Bourgoin	Ligue de Football Professionnel	represents
+Q3123790	Q1331838	P1268	Gérard Bourgoin	Ligue de Football Professionnel	represents
+Q3123790	Q1331838	P1268	Gérard Bourgoin	Ligue de Football Professionnel	represents
+Q3324473	Q1360303	P1268	Kentucky Wildcats	University of Kentucky	represents
+Q2961892	Q1453961	P1268	Chea Vichea	Free Trade Union of Workers of the Kingdom of Cambodia	represents
+Q1970462	Q1458155	P1268	Stefano Bontade	Sicilian Mafia	represents
+Q3568142	Q31249	P1268	Kansas State Wildcats	Kansas State University	represents
+Q7058024	Q37548	P1268	Northeastern Huskies	Northeastern University	represents
+Q7058024	Q37548	P1268	Northeastern Huskies	Northeastern University	represents
+Q7058024	Q37548	P1268	Northeastern Huskies	Northeastern University	represents
+Q5595239	Q5595242	P1268	Grand View Vikings	Grand View University	represents
+Q6552408	Q5617088	P1268	Lindenwood Lions	Lindenwood University	represents
+Q5756206	Q5756235	P1268	High Point Panthers	High Point University	represents
+Q5916404	Q5916417	P1268	Houston Baptist Huskies	Houston Baptist University	represents
+Q5973014	Q6023669	P1268	Purdue Fort Wayne Mastodons	Indiana University – Purdue University Fort Wayne	represents
+Q6023688	Q6023698	P1268	Indiana Wesleyan Wildcats	Indiana Wesleyan University	represents
+Q6063500	Q6063486	P1268	Iona Gaels	Iona College	represents
+Q6365141	Q6365149	P1268	Kansas Wesleyan Coyotes	Kansas Wesleyan University	represents
+Q7409309	Q6381586	P1268	Samford Bulldogs	Samford University	represents
+Q16192130	Q6487738	P1268	Fredonia Blue Devils	State University of New York at Fredonia	represents
+Q6523051	Q6523054	P1268	Lenoir–Rhyne Bears	Lenoir–Rhyne University	represents
+Q3998897	Q6569551	P1268	Trinity Western Spartans	Trinity Western University	represents
+Q6665216	Q6665223	P1268	Lock Haven Bald Eagles	Lock Haven University of Pennsylvania	represents
+Q6689761	Q6689785	P1268	Lourdes Gray Wolves	Lourdes University	represents
+Q6744508	Q6744514	P1268	Malone Pioneers	Malone University	represents
+Q6765685	Q6765664	P1268	Marist Red Foxes	Marist College	represents
+Q6802589	Q6802590	P1268	McPherson Bulldogs	McPherson College	represents
+Q6840873	Q6840874	P1268	MidAmerica Nazarene Pioneers	MidAmerica Nazarene University	represents
+Q16191826	Q6879708	P1268	Missouri Southern State Lions	Missouri Southern State University	represents
+Q20165525	Q4570781	P1268	Lincoln	Lincoln University	represents
+Q18402433	Q20726041	P1268	Kuniaki Sagakami	Japan Karate Federation Wadokai	represents
+Q21503589	Q20726041	P1268	Tōru Arakawa	Japan Karate Federation Wadokai	represents
+Q53081071	Q20726041	P1268	Roberto Danubio	Japan Karate Federation Wadokai	represents
+Q47498781	Q28563736	P1268	Alex Gál	Momentum Movement	represents
+Q50571960	Q28657024	P1268	Luz Marina Bernal	ñpk	represents
+Q38034276	Q38034088	P1268	Raimon	Raimon Junior High School	represents
+Q38138448	Q38138609	P1268	Kidokawa Seishuu	Kidokawa Seishuu Junior High School	represents
+Q38171792	Q38171525	P1268	Teikoku	Teikoku Gakuen	represents
+Q41582491	Q41176090	P1268	Rick Zeller	Second Alibi	represents
+Q41582491	Q41360496	P1268	Rick Zeller	Adam Mardel	represents
+Q41582491	Q41582599	P1268	Rick Zeller	Kady OBrien	represents
+Q43237208	Q41780578	P1268	Rafaela Pastor	Plataforma Andaluza de Apoyo al Lobby Europeo de Mujeres	represents
+Q51100853	Q51078203	P1268	Enrique Barros	University Federation of Cordoba	represents
+Q16266687	Q52552675	P1268	Masafumi Shiomitsu	Wado Ryu Renmei	represents
+Q18414794	Q52552675	P1268	Minh Tran Hieu	Wado Ryu Renmei	represents
+Q5973014	Q55456518	P1268	Purdue Fort Wayne Mastodons	Purdue University Fort Wayne	represents
+Q32904846	Q5439972	P1268	Víctor López Arias	Federación Sindical de Trabajadores Mineros de Bolivia	represents
+Q22096704	Q5491762	P1268	Franklin Pierce Ravens	Franklin Pierce University	represents
+Q22096198	Q5591138	P1268	Le Moyne Dolphins	Le Moyne College	represents
+Q22096198	Q5591138	P1268	Le Moyne Dolphins	Le Moyne College	represents
+Q22096198	Q5591138	P1268	Le Moyne Dolphins	Le Moyne College	represents
+Q27665582	Q5635559	P1268	HP-Interex Belux	HP-Interex	represents
+Q23303094	Q5763774	P1268	Hillsdale Chargers	Hillsdale College	represents
+Q23303170	Q6475773	P1268	Lake Erie Storm	Lake Erie College	represents
+Q51846329	Q6490307	P1268	Galerie Julian Sander	Larry Fink	represents
+Q47013273	Q6517455	P1268	Transgender Pride Flag	Transgender rights	represents
+Q23035604	Q6537128	P1268	Lewis Flyers	Lewis University	represents
+Q22096474	Q6549316	P1268	Limestone Saints	Limestone College	represents
+Q23303220	Q6781811	P1268	Maryville Saints	Maryville University	represents
+Q23703377	Q6818830	P1268	Mercyhurst Lakers	Mercyhurst University	represents
+Q923819	Q7382826	P1268	Rutgers Scarlet Knights	Rutgers University–New Brunswick	represents
+Q3554246	Q8030902	P1268	Valérie Decamp	Women's Forum for the Economy and Society	represents
+Q4877157	Q8031082	P1268	Beatrice Harraden	Women's Tax Resistance League	represents
+Q4877157	Q8031349	P1268	Beatrice Harraden	Women Writers' Suffrage League	represents
+Q529362	Q16683090	P1268	Tatsuo Suzuki	Wado International Karate-Do federation	represents
+Q3335827	Q16683090	P1268	Naoki Ishikawa	Wado International Karate-Do federation	represents
+Q7921687	Q1048898	P1268	Vermont Catamounts	University of Vermont	represents
+Q7974298	Q1049470	P1268	Waterloo Warriors	University of Waterloo	represents
+Q5060640	Q1053764	P1268	Central Connecticut Blue Devils	Central Connecticut State University	represents
+Q581139	Q220222	P1268	Wallace Fard Muhammad	Nation of Islam	represents
+Q478436	Q235034	P1268	Pittsburgh Panthers	University of Pittsburgh	represents
+Q3139203	Q65379	P1268	Virginia Tech Hokies	Virginia Tech	represents
+Q3139203	Q65379	P1268	Virginia Tech Hokies	Virginia Tech	represents
+Q3139203	Q65379	P1268	Virginia Tech Hokies	Virginia Tech	represents
+Q3144770	Q81307	P1268	Hélène Gassin	Greenpeace	represents
+Q3144770	Q81307	P1268	Hélène Gassin	Greenpeace	represents
+Q3144770	Q81307	P1268	Hélène Gassin	Greenpeace	represents
+Q16972780	Q5656138	P1268	Harding Bisons	Harding University	represents
+Q18171284	Q5698693	P1268	Heidelberg Student Princes	Heidelberg University	represents
+Q16984116	Q5758719	P1268	Highland Scotties	Highland Community College	represents
+Q16985358	Q5950653	P1268	Hutchinson Blue Dragons	Hutchinson Community College	represents
+Q21665560	Q6004301	P1268	Immaculata Mighty Macs	Immaculata University	represents
+Q21665560	Q6004301	P1268	Immaculata Mighty Macs	Immaculata University	represents
+Q21665560	Q6004301	P1268	Immaculata Mighty Macs	Immaculata University	represents
+Q17022264	Q6094155	P1268	Itawamba Community College Indians	Itawamba Community College	represents
+Q17039238	Q6268244	P1268	Johnson County Cavaliers	Johnson County Community College	represents
+Q17015538	Q6467012	P1268	Labette Cardinals	Labette Community College	represents
+Q16973817	Q6695115	P1268	Lubbock Christian Chaparrals	Lubbock Christian University	represents
+Q19877503	Q6708469	P1268	Lynchburg Fighting Hornets	Lynchburg College	represents
+Q16974222	Q6868559	P1268	Minnesota State–Moorhead Dragons	Minnesota State University Moorhead	represents
+Q16974356	Q6922541	P1268	Mount Olive Trojans	Mount Olive College	represents
+Q23817336	Q4568903	P1268	Park Pirates	Park University	represents
+Q22095109	Q4682076	P1268	Adelphi Panthers	Adelphi University	represents
+Q22095260	Q4793919	P1268	Armstrong State Pirates and Lady Pirates	Georgia Southern University-Armstrong Campus	represents
+Q22095359	Q4928377	P1268	Bloomsburg Huskies	Bloomsburg University of Pennsylvania	represents
+Q22095472	Q5127034	P1268	Clarion Golden Eagles	Clarion University of Pennsylvania	represents
+Q55460129	Q5158998	P1268	Concordia Eagles	Concordia University Irvine	represents
+Q22096766	Q5302745	P1268	Dowling Golden Lions	Dowling College	represents
+Q22096808	Q5309401	P1268	Drury Panthers	Drury University	represents
+Q22095806	Q5338120	P1268	Edinboro Fighting Scots	Edinboro University of Pennsylvania	represents
+Q54366017	Q5350396	P1268	Felix De Bona	Ekenäs IF	represents
+Q7864182	Q1075148	P1268	UC Riverside Highlanders	University of California, Riverside	represents
+Q15729175	Q1075553	P1268	Egypt military national football team	Egyptian Armed Forces	represents
+Q15729175	Q1075553	P1268	Egypt military national football team	Egyptian Armed Forces	represents
+Q15729175	Q1075553	P1268	Egypt military national football team	Egyptian Armed Forces	represents
+Q6781317	Q49089	P1268	Maryland Eastern Shore Hawks	University of Maryland Eastern Shore	represents
+Q5988288	Q49108	P1268	MIT Engineers	Massachusetts Institute of Technology	represents
+Q5988288	Q49108	P1268	MIT Engineers	Massachusetts Institute of Technology	represents
+Q5988288	Q49108	P1268	MIT Engineers	Massachusetts Institute of Technology	represents
+Q3005618	Q186047	P1268	Valparaiso Crusaders	Valparaiso University	represents
+Q2837064	Q188370	P1268	Marquette Golden Eagles	Marquette University	represents
+Q3098948	Q192334	P1268	North Carolina Tar Heels	University of North Carolina at Chapel Hill	represents
+Q3461282	Q1936079	P1268	Safia Lebdi	Ni Putes Ni Soumises	represents
+Q2927993	Q1939211	P1268	Mississippi State Bulldogs	Mississippi State University	represents
+Q4877157	Q1967499	P1268	Beatrice Harraden	Women's Social and Political Union	represents
+Q3417790	Q2000129	P1268	Hawaii Rainbow Warriors	University of Hawaii at Manoa	represents
+Q3074591	Q2092392	P1268	Dayton Flyers	University of Dayton	represents
+Q3326621	Q2094177	P1268	Memphis Tigers	University of Memphis	represents
+Q3421770	Q2302311	P1268	UNLV Rebels	University of Nevada, Las Vegas	represents
+Q5924408	Q957995	P1268	Jacksonville State Gamecocks	Jacksonville State University	represents
+Q7619507	Q969850	P1268	Stony Brook Seawolves	Stony Brook University	represents
+Q7419312	Q992830	P1268	Santa Clara Broncos	Santa Clara University	represents
+Q11680406	Q1026846	P1268	Cal Poly Mustangs	California Polytechnic State University	represents
+Q11680406	Q1026846	P1268	Cal Poly Mustangs	California Polytechnic State University	represents
+Q11680406	Q1026846	P1268	Cal Poly Mustangs	California Polytechnic State University	represents
+Q4584186	Q52413	P1268	1987–88 Kansas Jayhawks men's basketball team	University of Kansas	represents
+Q4584186	Q52413	P1268	1987–88 Kansas Jayhawks men's basketball team	University of Kansas	represents
+Q4584186	Q52413	P1268	1987–88 Kansas Jayhawks men's basketball team	University of Kansas	represents
+Q5316083	Q74343	P1268	Duquesne Dukes	Duquesne University	represents
+Q7587314	Q93662	P1268	St. Bonaventure Bonnies	St. Bonaventure University	represents
+Q3326071	Q115376	P1268	West Virginia Mountaineers	West Virginia University	represents
+Q6911847	Q1054905	P1268	Morgan State Bears	Morgan State University	represents
+Q5253292	Q1068072	P1268	Delaware Fightin' Blue Hens	University of Delaware	represents
+Q5919142	Q1068752	P1268	Howard Bison	Howard University	represents
+Q5142033	Q1075116	P1268	Colby Mules	Colby College	represents
+Q2908032	Q1495387	P1268	Texas State Bobcats	Texas State University	represents
+Q2592041	Q1509333	P1268	Georgia State Panthers	Georgia State University	represents
+Q2927984	Q1537303	P1268	Gonzaga Bulldogs	Gonzaga University	represents
+Q2926069	Q1546191	P1268	Western Michigan Broncos	Western Michigan University	represents

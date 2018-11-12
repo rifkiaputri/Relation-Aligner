@@ -1,0 +1,51 @@
+Q49762	Q1023134	P4100	Christian Democratic Union	CDU/CSU Bundestag fraction	parliamentary group
+Q49762	Q1023134	P4100	Christian Democratic Union	CDU/CSU Bundestag fraction	parliamentary group
+Q49762	Q1023134	P4100	Christian Democratic Union	CDU/CSU Bundestag fraction	parliamentary group
+Q49763	Q1023134	P4100	Christian Social Union of Bavaria	CDU/CSU Bundestag fraction	parliamentary group
+Q49763	Q1023134	P4100	Christian Social Union of Bavaria	CDU/CSU Bundestag fraction	parliamentary group
+Q12105272	Q9174455	P4100	Borys Zahreva	Bloc Our Ukraine	parliamentary group
+Q2034816	Q33793	P4100	Peder Anker	Union Party	parliamentary group
+Q28467659	Q166079	P4100	Gaston Sarlat	Republican Union	parliamentary group
+Q3529133	Q209151	P4100	Tina Nedergaard	Folketing	parliamentary group
+Q3529133	Q209151	P4100	Tina Nedergaard	Folketing	parliamentary group
+Q3529133	Q209151	P4100	Tina Nedergaard	Folketing	parliamentary group
+Q7660427	Q799577	P4100	Syed Raza Ali Gillani	Pakistan Muslim League (N)	parliamentary group
+Q49763	Q1023134	P4100	Christian Social Union of Bavaria	CDU/CSU Bundestag fraction	parliamentary group
+Q56524376	Q1536552	P4100	Umar Shihab	Golkar	parliamentary group
+Q56705356	Q47487622	P4100	Mazin Al-Eshaiker	Victory Alliance	parliamentary group
+Q29422356	Q327591	P4100	Kyō Nakata	independent politician	parliamentary group
+Q29592733	Q327591	P4100	Hiroshi Ōhashi	independent politician	parliamentary group
+Q29597605	Q641600	P4100	Masako Yamaguchi	Japanese Communist Party	parliamentary group
+Q29598099	Q641600	P4100	Fumiyuki Utsuno	Japanese Communist Party	parliamentary group
+Q29589463	Q1061354	P4100	Nobuyuki Takahashi	Komeito	parliamentary group
+Q29591002	Q1061354	P4100	Suzuki Tomoaki	Komeito	parliamentary group
+Q29591528	Q1061354	P4100	Kimiaki Iihashi	Komeito	parliamentary group
+Q29592325	Q1061354	P4100	Mari Iwase	Komeito	parliamentary group
+Q29593029	Q1061354	P4100	Eiichi Itō	Komeito	parliamentary group
+Q29596061	Q1061354	P4100	Tatsuyuki Ishikawa	Komeito	parliamentary group
+Q29597195	Q1061354	P4100	Yumi Morozumi	Komeito	parliamentary group
+Q29598455	Q1061354	P4100	Masayuki Orihara	Komeito	parliamentary group
+Q28467659	Q3099348	P4100	Gaston Sarlat	Radical Left	parliamentary group
+Q30300972	Q216660	P4100	Gyanendra Bahadur Karki	Nepali Congress	parliamentary group
+Q44153382	Q216660	P4100	Manmohan Bhattarai	Nepali Congress	parliamentary group
+Q44158972	Q216660	P4100	Rita Shahi	Nepali Congress	parliamentary group
+Q44791209	Q216660	P4100	Bhimsen Das Pradhan	Nepali Congress	parliamentary group
+Q44792443	Q216660	P4100	Chandra Bahadur Kunwar	Nepali Congress	parliamentary group
+Q29641489	Q327591	P4100	Shinya Minowa	independent politician	parliamentary group
+Q44145592	Q426963	P4100	Chham Bahadur Gurung	Communist Party of Nepal (Unified Marxist–Leninist)	parliamentary group
+Q44147906	Q426963	P4100	Gyanu Devi Gaire	Communist Party of Nepal (Unified Marxist–Leninist)	parliamentary group
+Q44150406	Q426963	P4100	Jeevan Shrestha	Communist Party of Nepal (Unified Marxist–Leninist)	parliamentary group
+Q44154149	Q426963	P4100	Mukti Prasad Pathak	Communist Party of Nepal (Unified Marxist–Leninist)	parliamentary group
+Q44163316	Q426963	P4100	Ganesh Kumar Kamwang	Communist Party of Nepal (Unified Marxist–Leninist)	parliamentary group
+Q29641159	Q641600	P4100	Ken Takagi	Japanese Communist Party	parliamentary group
+Q29641883	Q641600	P4100	Taeko Takahashi	Japanese Communist Party	parliamentary group
+Q29642008	Q641600	P4100	Kiyomi Hirata	Japanese Communist Party	parliamentary group
+Q44150800	Q947974	P4100	Mina Chaudhary	Tarai-Madhesh Loktantrik Party	parliamentary group
+Q29598888	Q1061354	P4100	Hisashi Matsuo	Komeito	parliamentary group
+Q29641340	Q1061354	P4100	Masami Kidokoro	Komeito	parliamentary group
+Q44148985	Q1782937	P4100	Bhakta Bahadur Bishwakarma Khapangi	Rastriya Prajatantra Party Nepal	parliamentary group
+Q44156985	Q1783952	P4100	Tuka Bhadra Hamal	Communist Party of Nepal	parliamentary group
+Q44157494	Q2002082	P4100	Jayanti Devi Rai	Communist Party of Nepal	parliamentary group
+Q44157800	Q2002082	P4100	Janaki Kumari Saud Rawal	Communist Party of Nepal	parliamentary group
+Q41545911	Q33959094	P4100	Florence Lassarade	The Republicans group	parliamentary group
+Q44159934	Q44178130	P4100	Manpur Chaudhary	Unified Communist Party of Nepal (Maoist)	parliamentary group

@@ -1,0 +1,135 @@
+Q170305	Q83891	P1264	satrap	Sasanian Empire	valid in period
+Q170305	Q83891	P1264	satrap	Sasanian Empire	valid in period
+Q170305	Q83891	P1264	satrap	Sasanian Empire	valid in period
+Q170305	Q389688	P1264	satrap	Achaemenid Empire	valid in period
+Q170305	Q389688	P1264	satrap	Achaemenid Empire	valid in period
+Q170305	Q389688	P1264	satrap	Achaemenid Empire	valid in period
+Q170305	Q1986139	P1264	satrap	Parthian Empire	valid in period
+Q170305	Q1986139	P1264	satrap	Parthian Empire	valid in period
+Q170305	Q1986139	P1264	satrap	Parthian Empire	valid in period
+Q444116	Q362	P1264	collaboration in France	World War II	valid in period
+Q444116	Q362	P1264	collaboration in France	World War II	valid in period
+Q444116	Q362	P1264	collaboration in France	Second World War	valid in period
+Q245718	Q1990	P1264	list of number-one albums of 2012 in Finland	2012	valid in period
+Q245718	Q1990	P1264	list of number-one albums of 2012 in Finland	2012	valid in period
+Q245718	Q1990	P1264	list of number-one albums of 2012 in Finland	2012	valid in period
+Q2291158	Q362	P1264	Dutch resistance newspaper	World War II	valid in period
+Q3457812	Q362	P1264	Résistance française	World War II	valid in period
+Q2291158	Q362	P1264	Dutch resistance newspaper	World War II	valid in period
+Q3457812	Q362	P1264	Résistance française	World War II	valid in period
+Q2291158	Q362	P1264	Dutch resistance newspaper	Second World War	valid in period
+Q3457812	Q362	P1264	Résistance française	Second World War	valid in period
+Q543063	Q2479	P1264	Great Oil Sniffer Hoax	1975	valid in period
+Q543063	Q2479	P1264	Great Oil Sniffer Hoax	1975	valid in period
+Q543063	Q2479	P1264	Great Oil Sniffer Hoax	1975	valid in period
+Q543063	Q2480	P1264	Great Oil Sniffer Hoax	1976	valid in period
+Q543063	Q2480	P1264	Great Oil Sniffer Hoax	1976	valid in period
+Q543063	Q2480	P1264	Great Oil Sniffer Hoax	1976	valid in period
+Q543063	Q2481	P1264	Great Oil Sniffer Hoax	1977	valid in period
+Q543063	Q2481	P1264	Great Oil Sniffer Hoax	1977	valid in period
+Q543063	Q2481	P1264	Great Oil Sniffer Hoax	1977	valid in period
+Q3833690	Q1994	P1264	list of number-one albums of 2011 in Finland	2011	valid in period
+Q3833690	Q1994	P1264	list of number-one albums of 2011 in Finland	2011	valid in period
+Q971374	Q7017	P1264	Dorottya Kanizsai	16th century	valid in period
+Q2912328	Q7017	P1264	Tsewang Namgyal	16th century	valid in period
+Q543063	Q2483	P1264	Great Oil Sniffer Hoax	1978	valid in period
+Q543063	Q2483	P1264	Great Oil Sniffer Hoax	1978	valid in period
+Q543063	Q2483	P1264	Great Oil Sniffer Hoax	1978	valid in period
+Q3833690	Q1994	P1264	list of number-one albums of 2011 in Finland	2011	valid in period
+Q971374	Q7017	P1264	Dorottya Kanizsai	16th century	valid in period
+Q2912328	Q7017	P1264	Tsewang Namgyal	16th century	valid in period
+Q971374	Q7017	P1264	Dorottya Kanizsai	16th century	valid in period
+Q2912328	Q7017	P1264	Tsewang Namgyal	16th century	valid in period
+Q20992419	Q120	P1264	MURAL Festival	June	valid in period
+Q20992419	Q120	P1264	MURAL Festival	June	valid in period
+Q20992419	Q120	P1264	MURAL Festival	June	valid in period
+Q21528930	Q362	P1264	network or movement of the French Resistance	World War II	valid in period
+Q21528945	Q362	P1264	Défense de la France	World War II	valid in period
+Q21528930	Q362	P1264	network or movement of the French Resistance	World War II	valid in period
+Q21528945	Q362	P1264	Défense de la France	World War II	valid in period
+Q21528930	Q362	P1264	network or movement of the French Resistance	Second World War	valid in period
+Q21528945	Q362	P1264	Défense de la France	Second World War	valid in period
+Q543063	Q2484	P1264	Great Oil Sniffer Hoax	1979	valid in period
+Q464920	Q5487	P1264	Shajar al-Durr	1250	valid in period
+Q464920	Q5487	P1264	Shajar al-Durr	1250	valid in period
+Q464920	Q5487	P1264	Shajar al-Durr	1250	valid in period
+Q971374	Q7018	P1264	Dorottya Kanizsai	15th century	valid in period
+Q971374	Q7018	P1264	Dorottya Kanizsai	15th century	valid in period
+Q971374	Q7018	P1264	Dorottya Kanizsai	15th century	valid in period
+Q55719998	Q201	P1264	GATE	3	valid in period
+Q55719998	Q201	P1264	GATE	3	valid in period
+Q55719998	Q201	P1264	GATE	3	valid in period
+Q4641499	Q8095	P1264	5th century in poetry	5th century	valid in period
+Q589596	Q12554	P1264	Contado	Middle Ages	valid in period
+Q589596	Q12554	P1264	Contado	Middle Ages	valid in period
+Q589596	Q12554	P1264	Contado	Middle Ages	valid in period
+Q543063	Q2484	P1264	Great Oil Sniffer Hoax	1979	valid in period
+Q543063	Q2484	P1264	Great Oil Sniffer Hoax	1979	valid in period
+Q28036189	Q362	P1264	Resistance in Lyon	World War II	valid in period
+Q28036189	Q362	P1264	Resistance in Lyon	World War II	valid in period
+Q28036189	Q362	P1264	Resistance in Lyon	Second World War	valid in period
+Q3820691	Q8733	P1264	Jasagh	Qing dynasty	valid in period
+Q3820691	Q8733	P1264	Jasagh	Qing dynasty	valid in period
+Q3820691	Q8733	P1264	Jasagh	Qing dynasty	valid in period
+Q24576566	Q2474	P1264	Helsinki system	1970	valid in period
+Q24576566	Q2474	P1264	Helsinki system	1970	valid in period
+Q24576566	Q2474	P1264	Helsinki system	1970	valid in period
+Q13410523	Q4692	P1264	Della Robbia	Renaissance	valid in period
+Q512276	Q25860	P1264	Temperature record of the past 1000 years	2nd millennium	valid in period
+Q512276	Q25860	P1264	Temperature record of the past 1000 years	2nd millennium	valid in period
+Q512276	Q25860	P1264	Temperature record of the past 1000 years	2nd millennium	valid in period
+Q10542255	Q2474	P1264	Finnish national grid coordinate system	1970	valid in period
+Q10542255	Q2474	P1264	Finnish national grid coordinate system	1970	valid in period
+Q10542255	Q2474	P1264	Finnish national grid coordinate system	1970	valid in period
+Q43791126	Q35724	P1264	1-1-4	1960s	valid in period
+Q43791126	Q35724	P1264	1-1-4	1960s	valid in period
+Q30020793	Q93180	P1264	seleucid satrap	Seleucid Empire	valid in period
+Q43791126	Q35724	P1264	1-1-4	1960s	valid in period
+Q18744984	Q7016	P1264	Thomas Lambert	17th century	valid in period
+Q18744984	Q7016	P1264	Thomas Lambert	17th century	valid in period
+Q18744984	Q7016	P1264	Thomas Lambert	17th century	valid in period
+Q6418130	Q389688	P1264	Persis	Achaemenid Empire	valid in period
+Q6418130	Q389688	P1264	Persis	Achaemenid Empire	valid in period
+Q6418130	Q389688	P1264	Persis	Achaemenid Empire	valid in period
+Q2827205	Q2740804	P1264	Agrimuse	quarterly journal	valid in period
+Q2864574	Q6307419	P1264	Art actuel	Bimonthly	valid in period
+Q18562150	Q7018	P1264	Madonna and Christ Child Enthroned with Angels	15th century	valid in period
+Q18562182	Q7018	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	15th century	valid in period
+Q18562150	Q7018	P1264	Madonna and Christ Child Enthroned with Angels	15th century	valid in period
+Q18562182	Q7018	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	15th century	valid in period
+Q18562150	Q7018	P1264	Madonna and Christ Child Enthroned with Angels	15th century	valid in period
+Q18562182	Q7018	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	15th century	valid in period
+Q24200128	Q486761	P1264	Epīrus	classical antiquity	valid in period
+Q24200128	Q486761	P1264	Epīrus	classical antiquity	valid in period
+Q24200128	Q486761	P1264	Epīrus	classical antiquity	valid in period
+Q5876127	Q19809	P1264	Christmas food	Christmas	valid in period
+Q5876127	Q19809	P1264	Christmas food	Christmas	valid in period
+Q5876127	Q19809	P1264	Christmas food	Christmas	valid in period
+Q288142	Q513206	P1264	European Diploma of Protected Areas	lustrum	valid in period
+Q18562182	Q7034	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	14th century	valid in period
+Q18562182	Q7034	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	14th century	valid in period
+Q18562182	Q7034	P1264	Madonna and Christ Child with Angels and Saints Mary Magdalene, Francis, Dorothy and Anthony Abbot	14th century	valid in period
+Q18545671	Q6955	P1264	Landscape	19th century	valid in period
+Q18545671	Q6955	P1264	Landscape	19th century	valid in period
+Q18545671	Q6955	P1264	Landscape	19th century	valid in period
+Q18563835	Q7049	P1264	Madonna and Christ Child with Two Saints	13th century	valid in period
+Q18563835	Q7049	P1264	Madonna and Christ Child with Two Saints	13th century	valid in period
+Q18563835	Q7049	P1264	Madonna and Christ Child with Two Saints	13th century	valid in period
+Q8070308	Q7061	P1264	Zhang Shengwen	12th century	valid in period
+Q5938559	Q81545	P1264	Human rights violations in the Libyan civil war	2011 Libyan Civil War	valid in period
+Q8070308	Q7061	P1264	Zhang Shengwen	12th century	valid in period
+Q8070308	Q7061	P1264	Zhang Shengwen	12th century	valid in period
+Q18544904	Q8733	P1264	Lady	Qing dynasty	valid in period
+Q18544904	Q8733	P1264	Lady	Qing dynasty	valid in period
+Q18544904	Q8733	P1264	Lady	Qing dynasty	valid in period
+Q18579109	Q9903	P1264	The Pure Land of Amitabha	Ming dynasty	valid in period
+Q16466527	Q21196	P1264	Easter food	Easter	valid in period
+Q16466527	Q21196	P1264	Easter food	Easter	valid in period
+Q16466527	Q21196	P1264	Easter food	Easter	valid in period
+Q23719163	Q486761	P1264	Lex Iulia et Papia	classical antiquity	valid in period
+Q23719163	Q486761	P1264	Lex Iulia et Papia	classical antiquity	valid in period
+Q23719163	Q486761	P1264	Lex Iulia et Papia	classical antiquity	valid in period
+Q20088589	Q2740804	P1264	Hypertextes et hypermédias	quarterly journal	valid in period
+Q17027861	Q2886342	P1264	Human rights violations in Pinochet's Chile	Government Junta of Chile	valid in period
+Q17632602	Q6307419	P1264	Le Journal des Fluides	Bimonthly	valid in period
+Q11420097	Q20819757	P1264	Shinagon	Emperor Ichijō's Reign	valid in period

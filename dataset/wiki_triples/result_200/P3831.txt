@@ -1,0 +1,10 @@
+Q48168114	Q5090	P3831	domestication of rice	rice	object has role
+Q48168114	Q5090	P3831	domestication of rice	Rice	object has role
+Q48168114	Q5090	P3831	domestication of rice	rice	object has role
+Q21484054	Q217105	P3831	Ana María Villarreal	political prisoner	object has role
+Q56530098	Q943995	P3831	Henrik Uhlmann	impresario	object has role
+Q56530098	Q943995	P3831	Henrik Uhlmann	impresario	object has role
+Q46995979	Q9321426	P3831	Thijs Overpelt	Finding Dory	object has role
+Q56530098	Q2462658	P3831	Henrik Uhlmann	manager	object has role
+Q51683812	Q5642365	P3831	Julio Diamante filmography	Julio Diamante	object has role
+Q46995979	Q5815826	P3831	Thijs Overpelt	Coco	object has role

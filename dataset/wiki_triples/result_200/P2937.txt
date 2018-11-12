@@ -1,0 +1,263 @@
+Q507343	Q4644021	P2937	Progressive Alliance of Socialists and Democrats	Seventh European Parliament	parliamentary term
+Q507343	Q4644021	P2937	Progressive Alliance of Socialists and Democrats	Seventh European Parliament	parliamentary term
+Q507343	Q4644021	P2937	Progressive Alliance of Socialists and Democrats	Seventh European Parliament	parliamentary term
+Q314459	Q3556780	P2937	Harry Reid	103rd United States Congress	parliamentary term
+Q314459	Q3596857	P2937	Harry Reid	104th United States Congress	parliamentary term
+Q314459	Q3596884	P2937	Harry Reid	105th United States Congress	parliamentary term
+Q314459	Q3596897	P2937	Harry Reid	106th United States Congress	parliamentary term
+Q314459	Q4546248	P2937	Harry Reid	100th United States Congress	parliamentary term
+Q314459	Q4546373	P2937	Harry Reid	101st United States Congress	parliamentary term
+Q1171	Q37002670	P2937	Goa	unicameral legislature	parliamentary term
+Q1171	Q37002670	P2937	Goa	unicameral legislature	parliamentary term
+Q1171	Q37002670	P2937	Goa	unicameral legislature	parliamentary term
+Q1186	Q37002670	P2937	Kerala	unicameral legislature	parliamentary term
+Q1186	Q37002670	P2937	Kerala	unicameral legislature	parliamentary term
+Q1186	Q37002670	P2937	Kerala	unicameral legislature	parliamentary term
+Q314459	Q71871	P2937	Harry Reid	113th United States Congress	parliamentary term
+Q314459	Q168504	P2937	Harry Reid	108th United States Congress	parliamentary term
+Q314459	Q168778	P2937	Harry Reid	109th United States Congress	parliamentary term
+Q314459	Q170018	P2937	Harry Reid	110th United States Congress	parliamentary term
+Q314459	Q170375	P2937	Harry Reid	111th United States Congress	parliamentary term
+Q314459	Q170447	P2937	Harry Reid	112th United States Congress	parliamentary term
+Q314459	Q347346	P2937	Harry Reid	102nd United States Congress	parliamentary term
+Q314459	Q2057259	P2937	Harry Reid	107th United States Congress	parliamentary term
+Q314459	Q16146771	P2937	Harry Reid	114th United States Congress	parliamentary term
+Q314459	Q16146771	P2937	Harry Reid	114th United States Congress	parliamentary term
+Q314459	Q16146771	P2937	Harry Reid	114th United States Congress	parliamentary term
+Q3099348	Q16683492	P2937	Radical Left	13th legislature of the Third French Republic	parliamentary term
+Q2657162	Q33728280	P2937	Independents of the Left	14th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33728280	P2937	Radical Left	14th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33755445	P2937	Radical Left	6th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33755832	P2937	Radical Left	5th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33756209	P2937	Radical Left	4th legislature of the Third French Republic	parliamentary term
+Q3112113	Q33756209	P2937	Gouvernement Henri Brisson	4th legislature of the Third French Republic	parliamentary term
+Q3757183	Q37776360	P2937	Gagan Kumar Thapa	Nepalese legislative election, 2017	parliamentary term
+Q1067781	Q2816157	P2937	Charter of the French Language	31st Quebec Legislature	parliamentary term
+Q1984090	Q3025921	P2937	Union for a Popular Movement Group	13th legislature of the Fifth French Republic	parliamentary term
+Q591799	Q3146706	P2937	Edgar Faure administration (2)	2nd Legislature of the French Fourth Republic	parliamentary term
+Q1984090	Q3570376	P2937	Union for a Popular Movement Group	12th legislature of the Fifth French Republic	parliamentary term
+Q1984090	Q3570385	P2937	Union for a Popular Movement Group	14th legislature of the Fifth French Republic	parliamentary term
+Q44568810	Q6994479	P2937	Chandra Bahadur Gurung	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44573860	Q6994479	P2937	Mira Pokharel Dhwoju	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44673527	Q6994479	P2937	Parbata D C Chaudhari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44711812	Q6994479	P2937	Bhism Nath Adhikari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44782103	Q6994479	P2937	Rajeev Bikram Shah	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44782705	Q6994479	P2937	Astha Laxmi Sakya	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44783325	Q6994479	P2937	Durga Poudel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44785062	Q6994479	P2937	Angtawa Sherpa	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44785633	Q6994479	P2937	Raju Thapa	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44787350	Q6994479	P2937	Duman Singh Thapa Chhetri	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44787807	Q6994479	P2937	Aditya Narayan Kasaudhan	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q2657162	Q16683508	P2937	Independents of the Left	15th legislature of the Third French Republic	parliamentary term
+Q3099348	Q16683508	P2937	Radical Left	15th legislature of the Third French Republic	parliamentary term
+Q507343	Q17315694	P2937	Progressive Alliance of Socialists and Democrats	Eighth European Parliament	parliamentary term
+Q507343	Q17315694	P2937	Progressive Alliance of Socialists and Democrats	Eighth European Parliament	parliamentary term
+Q507343	Q17315694	P2937	Progressive Alliance of Socialists and Democrats	Eighth European Parliament	parliamentary term
+Q2450519	Q24939798	P2937	Democratic and Republican Left	15th legislature of the Fifth French Republic	parliamentary term
+Q30339129	Q24939798	P2937	Second Philippe Government	15th legislature of the Fifth French Republic	parliamentary term
+Q30524710	Q29974940	P2937	Member of the 57th Parliament of the United Kingdom	57th United Kingdom Parliament	parliamentary term
+Q30524710	Q29974940	P2937	Member of the 57th Parliament of the United Kingdom	57th United Kingdom Parliament	parliamentary term
+Q3099348	Q33322771	P2937	Radical Left	7th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33323082	P2937	Radical Left	8th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33323183	P2937	Radical Left	9th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33369535	P2937	Radical Left	10th legislature of the Third French Republic	parliamentary term
+Q3099348	Q33528422	P2937	Radical Left	11th legislature of the Third French Republic	parliamentary term
+Q2823699	Q33724121	P2937	Republican and Social Action	12th legislature of the Third French Republic	parliamentary term
+Q2450519	Q3025921	P2937	Democratic and Republican Left	13th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3146705	P2937	Socialist, Radical, Citizen and Miscellaneous Left	2nd legislature of the Fifth French Republic	parliamentary term
+Q2945574	Q3146705	P2937	Democratic Center	2nd legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3147021	P2937	Socialist, Radical, Citizen and Miscellaneous Left	9th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3154303	P2937	Socialist, Radical, Citizen and Miscellaneous Left	1st legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3552944	P2937	Socialist, Radical, Citizen and Miscellaneous Left	8th legislature of the Fifth French Republic	parliamentary term
+Q3112150	Q3552944	P2937	Cabinet Jacques Chirac II	8th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3552950	P2937	Socialist, Radical, Citizen and Miscellaneous Left	7th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3552959	P2937	Socialist, Radical, Citizen and Miscellaneous Left	6th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3570376	P2937	Socialist, Radical, Citizen and Miscellaneous Left	12th legislature of the Fifth French Republic	parliamentary term
+Q2450519	Q3570385	P2937	Democratic and Republican Left	14th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3570394	P2937	Socialist, Radical, Citizen and Miscellaneous Left	11th legislature of the Fifth French Republic	parliamentary term
+Q2236823	Q3570849	P2937	Socialist, Radical, Citizen and Miscellaneous Left	10th legislature of the Fifth French Republic	parliamentary term
+Q51137669	Q17315702	P2937	Socialist Group	First European Parliament	parliamentary term
+Q51137669	Q17315703	P2937	Socialist Group	Second European Parliament	parliamentary term
+Q51137669	Q17315704	P2937	Socialist Group	Third European Parliament	parliamentary term
+Q44788339	Q6994479	P2937	Rajendra Amatya	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44789020	Q6994479	P2937	Dulari Devi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44789290	Q6994479	P2937	Rajendra Kumar KC	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44789558	Q6994479	P2937	Ananda Prasad Dhungana	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44789934	Q6994479	P2937	Dulari Harijan	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44790499	Q6994479	P2937	Rajendra Prasad Pandey	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44790933	Q6994479	P2937	Ananda Prasad Pokhrel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44791209	Q6994479	P2937	Bhimsen Das Pradhan	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44792209	Q6994479	P2937	Devkaran Prasad Kalwar	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44792528	Q6994479	P2937	Rajeshowori Devi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44792775	Q6994479	P2937	Dhan Bahadur Ghale	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44793029	Q6994479	P2937	Rajya Laxmi Shrestha	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44793368	Q6994479	P2937	Anandi Pant	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44793760	Q6994479	P2937	Dhan Bahadur Buda	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44799888	Q6994479	P2937	Rajyalamxi Shrestha	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44800578	Q6994479	P2937	Dhan Bahadur Rayamajhi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44801754	Q6994479	P2937	Ramkrishna Ghimire	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44802843	Q6994479	P2937	Asha Chaturbedi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44804206	Q6994479	P2937	Narbhan Kami	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44807352	Q6994479	P2937	Ramkrishna Yadav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44808751	Q6994479	P2937	Radhakrishna Kandel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44809275	Q6994479	P2937	Dhan Maya Bishwokarma (Khanal)	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q41582538	Q21084423	P2937	Member of the 6th Parliament of the United Kingdom	6th United Kingdom Parliament	parliamentary term
+Q41582540	Q21084424	P2937	Member of the 7th Parliament of the United Kingdom	7th United Kingdom Parliament	parliamentary term
+Q41582542	Q21084425	P2937	Member of the 8th Parliament of the United Kingdom	8th United Kingdom Parliament	parliamentary term
+Q41582544	Q21084426	P2937	Member of the 9th Parliament of the United Kingdom	9th United Kingdom Parliament	parliamentary term
+Q41582545	Q21084427	P2937	Member of the 10th Parliament of the United Kingdom	10th United Kingdom Parliament	parliamentary term
+Q33129158	Q20530392	P2937	Member of the 13th Riigikogu	13th Riigikogu	parliamentary term
+Q41582416	Q21084405	P2937	Member of the 1st Parliament of the United Kingdom	1st United Kingdom Parliament	parliamentary term
+Q41582499	Q21084419	P2937	Member of the 2nd Parliament of the United Kingdom	2nd United Kingdom Parliament	parliamentary term
+Q41582532	Q21084420	P2937	Member of the 3rd Parliament of the United Kingdom	3rd United Kingdom Parliament	parliamentary term
+Q41582534	Q21084421	P2937	Member of the 4th Parliament of the United Kingdom	4th United Kingdom Parliament	parliamentary term
+Q41582535	Q21084422	P2937	Member of the 5th Parliament of the United Kingdom	5th United Kingdom Parliament	parliamentary term
+Q41582577	Q21084445	P2937	Member of the 28th Parliament of the United Kingdom	28th United Kingdom Parliament	parliamentary term
+Q41582579	Q21084446	P2937	Member of the 29th Parliament of the United Kingdom	29th United Kingdom Parliament	parliamentary term
+Q41582581	Q21084447	P2937	Member of the 30th Parliament of the United Kingdom	30th United Kingdom Parliament	parliamentary term
+Q41582582	Q21084448	P2937	Member of the 31st Parliament of the United Kingdom	31st United Kingdom Parliament	parliamentary term
+Q41582584	Q21084449	P2937	Member of the 32nd Parliament of the United Kingdom	32nd United Kingdom Parliament	parliamentary term
+Q41582585	Q21084450	P2937	Member of the 33rd Parliament of the United Kingdom	33rd United Kingdom Parliament	parliamentary term
+Q41582587	Q21084451	P2937	Member of the 34th Parliament of the United Kingdom	34th United Kingdom Parliament	parliamentary term
+Q41582588	Q21084452	P2937	Member of the 35th Parliament of the United Kingdom	35th United Kingdom Parliament	parliamentary term
+Q41582588	Q21084452	P2937	Member of the 35th Parliament of the United Kingdom	35th United Kingdom Parliament	parliamentary term
+Q41582591	Q21084453	P2937	Member of the 36th Parliament of the United Kingdom	36th United Kingdom Parliament	parliamentary term
+Q41582593	Q21084454	P2937	Member of the 37th Parliament of the United Kingdom	37th United Kingdom Parliament	parliamentary term
+Q56285355	Q2824651	P2937	Member of the 1386 Parliament	Wonderful Parliament	parliamentary term
+Q56285388	Q3149428	P2937	Member of the February 1388 Parliament	Merciless Parliament	parliamentary term
+Q41582572	Q21084442	P2937	Member of the 25th Parliament of the United Kingdom	25th United Kingdom Parliament	parliamentary term
+Q41582573	Q21084443	P2937	Member of the 26th Parliament of the United Kingdom	26th United Kingdom Parliament	parliamentary term
+Q41582575	Q21084444	P2937	Member of the 27th Parliament of the United Kingdom	27th United Kingdom Parliament	parliamentary term
+Q41582546	Q21084428	P2937	Member of the 11th Parliament of the United Kingdom	11th United Kingdom Parliament	parliamentary term
+Q41582548	Q21084429	P2937	Member of the 12th Parliament of the United Kingdom	12th United Kingdom Parliament	parliamentary term
+Q41582550	Q21084430	P2937	Member of the 13th Parliament of the United Kingdom	13th United Kingdom Parliament	parliamentary term
+Q41582553	Q21084431	P2937	Member of the 14th Parliament of the United Kingdom	14th United Kingdom Parliament	parliamentary term
+Q41582555	Q21084432	P2937	Member of the 15th Parliament of the United Kingdom	15th United Kingdom Parliament	parliamentary term
+Q41582556	Q21084433	P2937	Member of the 16th Parliament of the United Kingdom	16th United Kingdom Parliament	parliamentary term
+Q41582557	Q21084434	P2937	Member of the 17th Parliament of the United Kingdom	17th United Kingdom Parliament	parliamentary term
+Q41582558	Q21084435	P2937	Member of the 18th Parliament of the United Kingdom	18th United Kingdom Parliament	parliamentary term
+Q41582559	Q21084436	P2937	Member of the 19th Parliament of the United Kingdom	19th United Kingdom Parliament	parliamentary term
+Q41582560	Q21084437	P2937	Member of the 20th Parliament of the United Kingdom	20th United Kingdom Parliament	parliamentary term
+Q44809756	Q6994479	P2937	Asha Koirala	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44810140	Q6994479	P2937	Radhadevi Timalsina	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44813439	Q6994479	P2937	Radhika Tamang	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44813728	Q6994479	P2937	Dhana Pahari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44813985	Q6994479	P2937	Radhe Chandra Yadhav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44814315	Q6994479	P2937	Dhaniram Poudel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44814750	Q6994479	P2937	Radheshyam Adhikari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44815036	Q6994479	P2937	Dharmanath Prasad Shah	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44818605	Q6994479	P2937	Nar Bahadur Thapa Magar	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44819215	Q6994479	P2937	Ram Chandra Pokharel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44819661	Q6994479	P2937	Narsingh Chaudhary	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44820740	Q6994479	P2937	Ram Chandra Yadav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44821977	Q6994479	P2937	Ramchandra Sah Teli	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44823726	Q6994479	P2937	Ram Dayal Mandal	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44824919	Q6994479	P2937	Ram Dulari Chaudhary	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44825330	Q6994479	P2937	Ram Narayan Vidari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44825858	Q6994479	P2937	Rammaya Bogati	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44826432	Q6994479	P2937	Ram Bir Manandhar	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44827029	Q6994479	P2937	Ram Hari Subedi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44905860	Q6994479	P2937	Dharmendra Kumar Shah Teli	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44906621	Q6994479	P2937	Ram Ayodhya Yadhav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44908181	Q6994479	P2937	Dhyan Govinda Ranjit	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44908655	Q6994479	P2937	Ram Avatrar Pasman	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44909479	Q6994479	P2937	Dhano Mahara	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q36634044	Q21084469	P2937	Member of the 52nd Parliament of the United Kingdom	52nd United Kingdom Parliament	parliamentary term
+Q35921591	Q21084470	P2937	Member of the 53rd Parliament of the United Kingdom	53rd United Kingdom Parliament	parliamentary term
+Q35647955	Q21084471	P2937	Member of the 54th Parliament of the United Kingdom	54th United Kingdom Parliament	parliamentary term
+Q35494253	Q21084472	P2937	Member of the 55th Parliament of the United Kingdom	55th United Kingdom Parliament	parliamentary term
+Q33129181	Q967549	P2937	Member of the 12th Riigikogu	12th Riigikogu	parliamentary term
+Q33129357	Q3352921	P2937	Member of the 11th Riigikogu	11th Riigikogu	parliamentary term
+Q3416469	Q3570385	P2937	Radical, Republican, Democratic and Progressist	14th legislature of the Fifth French Republic	parliamentary term
+Q18758687	Q4006972	P2937	Leonardo Salimbeni	8th Legislature of the Kingdom of Italy	parliamentary term
+Q41622703	Q4006986	P2937	Federico Crema	7th Legislature of the Kingdom of Sardinia	parliamentary term
+Q41629959	Q4006986	P2937	Giovanni Battista Ruffini	7th Legislature of the Kingdom of Sardinia	parliamentary term
+Q41629959	Q4006986	P2937	Giovanni Battista Ruffini	7th Legislature of the Kingdom of Sardinia	parliamentary term
+Q41629959	Q4006986	P2937	Giovanni Battista Ruffini	7th Legislature of the Kingdom of Sardinia	parliamentary term
+Q3117828	Q4642661	P2937	Socialist Group in the European Parliament	Sixth European Parliament	parliamentary term
+Q19679244	Q6994479	P2937	Dhanraj Gurung	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q19679577	Q6994479	P2937	Nabindra Raj Joshi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q31314302	Q6994479	P2937	Ram Chandra Chaudhary	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q31314313	Q6994479	P2937	Ramchandra Yadav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q41582563	Q21084438	P2937	Member of the 21st Parliament of the United Kingdom	21st United Kingdom Parliament	parliamentary term
+Q41582565	Q21084439	P2937	Member of the 22nd Parliament of the United Kingdom	22nd United Kingdom Parliament	parliamentary term
+Q41582568	Q21084440	P2937	Member of the 23rd Parliament of the United Kingdom	23rd United Kingdom Parliament	parliamentary term
+Q41582570	Q21084441	P2937	Member of the 24th Parliament of the United Kingdom	24th United Kingdom Parliament	parliamentary term
+Q41582597	Q21084455	P2937	Member of the 38th Parliament of the United Kingdom	38th United Kingdom Parliament	parliamentary term
+Q41582597	Q21084455	P2937	Member of the 38th Parliament of the United Kingdom	38th United Kingdom Parliament	parliamentary term
+Q41582600	Q21084456	P2937	Member of the 39th Parliament of the United Kingdom	39th United Kingdom Parliament	parliamentary term
+Q41582600	Q21084456	P2937	Member of the 39th Parliament of the United Kingdom	39th United Kingdom Parliament	parliamentary term
+Q41582603	Q21084457	P2937	Member of the 40th Parliament of the United Kingdom	40th United Kingdom Parliament	parliamentary term
+Q41582603	Q21084457	P2937	Member of the 40th Parliament of the United Kingdom	40th United Kingdom Parliament	parliamentary term
+Q41582604	Q21084458	P2937	Member of the 41st Parliament of the United Kingdom	41st United Kingdom Parliament	parliamentary term
+Q41582627	Q21084468	P2937	Member of the 51st Parliament of the United Kingdom	51st United Kingdom Parliament	parliamentary term
+Q44156711	Q21328597	P2937	Dil Bahadur Nepali	Member of the Legislature Parliament of Nepal	parliamentary term
+Q44156985	Q21328597	P2937	Tuka Bhadra Hamal	Member of the Legislature Parliament of Nepal	parliamentary term
+Q44157494	Q21328597	P2937	Jayanti Devi Rai	Member of the Legislature Parliament of Nepal	parliamentary term
+Q44157800	Q21328597	P2937	Janaki Kumari Saud Rawal	Member of the Legislature Parliament of Nepal	parliamentary term
+Q44158972	Q21328597	P2937	Rita Shahi	Member of the Legislature Parliament of Nepal	parliamentary term
+Q44163316	Q21328597	P2937	Ganesh Kumar Kamwang	Member of the Legislature Parliament of Nepal	parliamentary term
+Q42712773	Q29387197	P2937	Member of the 10th Jatiya Sangsad	10th Jatiyo Sangshad	parliamentary term
+Q46214873	Q30579723	P2937	Member of the 19th German Bundestag	19th German Bundestag	parliamentary term
+Q51133467	Q16836722	P2937	Group of the Party of European Socialists	Fifth European Parliament	parliamentary term
+Q51133467	Q17315704	P2937	Group of the Party of European Socialists	Third European Parliament	parliamentary term
+Q51133467	Q17315706	P2937	Group of the Party of European Socialists	Fourth European Parliament	parliamentary term
+Q44150406	Q18056060	P2937	Jeevan Shrestha	Member of the Nepalese Constituent Assembly	parliamentary term
+Q47464403	Q18740945	P2937	United States federal government shutdown of 2018	115th United States Congress	parliamentary term
+Q41582608	Q21084460	P2937	Member of the 43rd Parliament of the United Kingdom	43rd United Kingdom Parliament	parliamentary term
+Q41582609	Q21084461	P2937	Member of the 44th Parliament of the United Kingdom	44th United Kingdom Parliament	parliamentary term
+Q41582612	Q21084462	P2937	Member of the 45th Parliament of the United Kingdom	45th United Kingdom Parliament	parliamentary term
+Q41582615	Q21084463	P2937	Member of the 46th Parliament of the United Kingdom	46th United Kingdom Parliament	parliamentary term
+Q41582617	Q21084464	P2937	Member of the 47th Parliament of the United Kingdom	47th United Kingdom Parliament	parliamentary term
+Q41582619	Q21084465	P2937	Member of the 48th Parliament of the United Kingdom	48th United Kingdom Parliament	parliamentary term
+Q41582621	Q21084466	P2937	Member of the 49th Parliament of the United Kingdom	49th United Kingdom Parliament	parliamentary term
+Q41582624	Q21084467	P2937	Member of the 50th Parliament of the United Kingdom	50th United Kingdom Parliament	parliamentary term
+Q44147906	Q1534989	P2937	Gyanu Devi Gaire	Nepalese Constituent Assembly election, 2008	parliamentary term
+Q44148025	Q1534989	P2937	Dor Prasad Upadhyay	Nepalese Constituent Assembly election, 2008	parliamentary term
+Q49198753	Q3364526	P2937	Rosa do Vaqueiro	alderman	parliamentary term
+Q44709462	Q3896143	P2937	Bhim Prasad Acharya	Parliament of Nepal	parliamentary term
+Q44148985	Q6994479	P2937	Bhakta Bahadur Bishwakarma Khapangi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44153382	Q6994479	P2937	Manmohan Bhattarai	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44157275	Q6994479	P2937	Anjana Tamli	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44561192	Q6994479	P2937	Chandra Mohan Yadav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44562560	Q6994479	P2937	Prabha Debi Bajracharya	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44791209	Q16057514	P2937	Bhimsen Das Pradhan	Legislature Parliament of Nepal	parliamentary term
+Q44792443	Q16057514	P2937	Chandra Bahadur Kunwar	Legislature Parliament of Nepal	parliamentary term
+Q41582606	Q21084459	P2937	Member of the 42nd Parliament of the United Kingdom	42nd United Kingdom Parliament	parliamentary term
+Q30524718	Q21084473	P2937	Member of the 56th Parliament of the United Kingdom	56th United Kingdom Parliament	parliamentary term
+Q30584989	Q24939798	P2937	La République En Marche group	15th legislature of the Fifth French Republic	parliamentary term
+Q30580546	Q29585769	P2937	Member of the 5th Scottish Parliament	5th Scottish Parliament	parliamentary term
+Q45004136	Q6994479	P2937	Ishwori Neupane	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45004838	Q6994479	P2937	Uday Nepali Shrestha	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45005351	Q6994479	P2937	Revati Raman Bhandari	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45010216	Q6994479	P2937	Uday Shamsher Javara	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45010759	Q6994479	P2937	Naresh Kharel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45011272	Q6994479	P2937	Reshambahadur Baniya	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45011668	Q6994479	P2937	Resham Bahadur Lama	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45014750	Q6994479	P2937	Ram Karki (Surendra Kumar Karki)	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45015380	Q6994479	P2937	Ramkumar Bhattarai	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45015972	Q6994479	P2937	Dhurba Wagle	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44932071	Q6994479	P2937	Lalbabu Prasad Yadhav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44933039	Q6994479	P2937	Pashupati Chulagai	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44934648	Q6994479	P2937	Lal Babu Raut	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44935112	Q6994479	P2937	Parbart Gurung	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44935653	Q6994479	P2937	Kamal Prasad Pangani	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44935906	Q6994479	P2937	Ramhari Khatiwada	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44937040	Q6994479	P2937	Asha Yadav	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44937661	Q6994479	P2937	Rameshwor Prasad Dhungel	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44938420	Q6994479	P2937	Asha B. K.	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44939073	Q6994479	P2937	Rameshwar Phuyal	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44940093	Q6994479	P2937	Iehchha Raj Tamang	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44940662	Q6994479	P2937	Rita Rawal	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44941313	Q6994479	P2937	Indra Bahadur Baniya	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44941617	Q6994479	P2937	Lalendra Kumar Mandal	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44941856	Q6994479	P2937	Rita Shahi	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44942383	Q6994479	P2937	Kamala Kumari Ghimire	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44942619	Q6994479	P2937	Indraa Jha	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44943072	Q6994479	P2937	Punaram Thapa	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44943846	Q6994479	P2937	Rukmini Chaudhary	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44944568	Q6994479	P2937	Rupa Maharjan (Shrestha)	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44998466	Q6994479	P2937	Istiyak Ahmad Khan	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q44999446	Q6994479	P2937	Rekha Sharma	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45000040	Q6994479	P2937	Narendra Sah Kalwar	Nepalese Constituent Assembly election, 2013	parliamentary term
+Q45000514	Q6994479	P2937	Narendra Vikram Nemang	Nepalese Constituent Assembly election, 2013	parliamentary term

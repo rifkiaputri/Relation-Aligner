@@ -1,0 +1,155 @@
+Q56023471	Q16966641	P2715	2014– session of Belfast City Council	Belfast City Council election, 2014	elected in
+Q44150406	Q17981946	P2715	Jeevan Shrestha	19 November 2013	elected in
+Q56023521	Q19428870	P2715	2015– session of Nottingham City Council	Nottingham City Council election, 2015	elected in
+Q45380990	Q19428934	P2715	12th National Assembly of Zambia	Zambian general election, 2016	elected in
+Q56023520	Q19871546	P2715	2015– session of Brighton and Hove City Council	Brighton and Hove City Council election, 2015	elected in
+Q56023523	Q19875073	P2715	2015– session of Leicester City Council	Leicester City Council election, 2015	elected in
+Q56023519	Q20647830	P2715	2015– session of Stoke-on-Trent City Council	Stoke-on-Trent City Council election, 2015	elected in
+Q46176833	Q20982506	P2715	10th Somali Parliament	Somali parliamentary election, 2016	elected in
+Q44147906	Q22663692	P2715	Gyanu Devi Gaire	10 April 2008	elected in
+Q44148025	Q22663692	P2715	Dor Prasad Upadhyay	10 April 2008	elected in
+Q56023513	Q23058663	P2715	2016– session of Rotherham Metropolitan Borough Council	Rotherham Metropolitan Borough Council election, 2016	elected in
+Q56023513	Q23058663	P2715	2016– session of Rotherham Metropolitan Borough Council	Rotherham Metropolitan Borough Council election, 2016	elected in
+Q56023513	Q23058663	P2715	2016– session of Rotherham Metropolitan Borough Council	Rotherham Metropolitan Borough Council election, 2016	elected in
+Q56023524	Q23463036	P2715	2016– session of Bristol City Council	Bristol City Council election, 2016	elected in
+Q56023516	Q27957839	P2715	2017– session of City of Edinburgh Council	City of Edinburgh Council election, 2017	elected in
+Q56023498	Q54866834	P2715	2018– session of Hammersmith and Fulham London Borough Council	Hammersmith and Fulham London Borough Council election, 2018	elected in
+Q56023511	Q54866835	P2715	2018– session of Barking and Dagenham London Borough Council	Barking and Dagenham London Borough Council election, 2018	elected in
+Q56023496	Q54866836	P2715	2018– session of Croydon London Borough Council	Croydon London Borough Council election, 2018	elected in
+Q56023491	Q54866838	P2715	2018– session of Enfield London Borough Council	Enfield London Borough Council election, 2018	elected in
+Q56023477	Q54866840	P2715	2018– session of Hackney London Borough Council	Hackney London Borough Council election, 2018	elected in
+Q56023489	Q54866842	P2715	2018– session of Brent London Borough Council	Brent London Borough Council election, 2018	elected in
+Q56023490	Q54866843	P2715	2018– session of Bromley London Borough Council	Bromley London Borough Council election, 2018	elected in
+Q56023478	Q54866846	P2715	2018– session of Greenwich London Borough Council	Greenwich London Borough Council election, 2018	elected in
+Q56023500	Q54866847	P2715	2018– session of Richmond upon Thames London Borough Council	Richmond upon Thames London Borough Council election, 2018	elected in
+Q56023510	Q54866848	P2715	2018– session of Islington London Borough Council	Islington London Borough Council election, 2018	elected in
+Q56023476	Q54866856	P2715	2018– session of Waltham Forest London Borough Council	Waltham Forest London Borough Council election, 2018	elected in
+Q56023508	Q54866857	P2715	2018– session of Harrow London Borough Council	Harrow London Borough Council election, 2018	elected in
+Q56023503	Q54866859	P2715	2018– session of Kensington and Chelsea London Borough Council	Kensington and Chelsea London Borough Council election, 2018	elected in
+Q56023501	Q54866865	P2715	2018– session of Westminster City Council	Westminster City Council election, 2018	elected in
+Q56023473	Q54866866	P2715	2018– session of Havering London Borough Council	Havering London Borough Council election, 2018	elected in
+Q56023475	Q54866870	P2715	2018– session of Haringey London Borough Council	Haringey London Borough Council election, 2018	elected in
+Q56023487	Q54866871	P2715	2018– session of Wandsworth London Borough Council	Wandsworth London Borough Council election, 2018	elected in
+Q56023484	Q54866873	P2715	2018– session of Hillingdon London Borough Council	Hillingdon London Borough Council election, 2018	elected in
+Q56023506	Q54866874	P2715	2018– session of Bexley London Borough Council	Bexley London Borough Council election, 2018	elected in
+Q56023483	Q54866875	P2715	2018– session of Redbridge London Borough Council	Redbridge London Borough Council election, 2018	elected in
+Q56023507	Q54866877	P2715	2018– session of Sutton London Borough Council	Sutton London Borough Council election, 2018	elected in
+Q56023472	Q54866878	P2715	2018– session of Camden London Borough Council	Camden London Borough Council election, 2018	elected in
+Q56023472	Q54866878	P2715	2018– session of Camden London Borough Council	Camden London Borough Council election, 2018	elected in
+Q56023472	Q54866878	P2715	2018– session of Camden London Borough Council	Camden London Borough Council election, 2018	elected in
+Q56023494	Q54866880	P2715	2018– session of Ealing London Borough Council	Ealing London Borough Council election, 2018	elected in
+Q56023499	Q54866883	P2715	2018– session of Merton London Borough Council	Merton London Borough Council election, 2018	elected in
+Q56023509	Q54866885	P2715	2018– session of Kingston upon Thames London Borough Council	Kingston upon Thames London Borough Council election, 2018	elected in
+Q56023474	Q54866887	P2715	2018– session of Hounslow London Borough Council	Hounslow London Borough Council election, 2018	elected in
+Q35494253	Q215622	P2715	Member of the 55th Parliament of the United Kingdom	United Kingdom general election, 2010	elected in
+Q35494253	Q215622	P2715	Member of the 55th Parliament of the United Kingdom	United Kingdom general election, 2010	elected in
+Q35494253	Q215622	P2715	Member of the 55th Parliament of the United Kingdom	United Kingdom general election, 2010	elected in
+Q10871995	Q247766	P2715	Li Keqiang Government	12th National People's Congress	elected in
+Q21084471	Q428598	P2715	54th United Kingdom Parliament	United Kingdom general election, 2005	elected in
+Q29110569	Q29110649	P2715	3rd Territorial Council	Saint Pierre and Miquelon legislative election, 2017	elected in
+Q27734857	Q29378862	P2715	Mark Boleat	City of London Corporation election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q30524710	Q25052149	P2715	Member of the 57th Parliament of the United Kingdom	United Kingdom general election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q30524710	Q25052149	P2715	Member of the 57th Parliament of the United Kingdom	United Kingdom general election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q29974940	Q25052149	P2715	57th United Kingdom Parliament	United Kingdom general election, 2017	elected in
+Q30524710	Q25052149	P2715	Member of the 57th Parliament of the United Kingdom	United Kingdom general election, 2017	elected in
+Q727748	Q1627539	P2715	Ivar Lykke	Norwegian parliamentary election, 1924	elected in
+Q30524718	Q3586935	P2715	Member of the 56th Parliament of the United Kingdom	United Kingdom general election, 2015	elected in
+Q30524718	Q3586935	P2715	Member of the 56th Parliament of the United Kingdom	United Kingdom general election, 2015	elected in
+Q30524718	Q3586935	P2715	Member of the 56th Parliament of the United Kingdom	United Kingdom general election, 2015	elected in
+Q29110568	Q3587564	P2715	2nd Territorial Council	Saint Pierre and Miquelon legislative election, 2012	elected in
+Q30300972	Q22663692	P2715	Gyanendra Bahadur Karki	10 April 2008	elected in
+Q35647955	Q428598	P2715	Member of the 54th Parliament of the United Kingdom	United Kingdom general election, 2005	elected in
+Q41582538	Q556715	P2715	Member of the 6th Parliament of the United Kingdom	United Kingdom general election, 1818	elected in
+Q41582540	Q580228	P2715	Member of the 7th Parliament of the United Kingdom	United Kingdom general election, 1820	elected in
+Q35921591	Q590740	P2715	Member of the 53rd Parliament of the United Kingdom	United Kingdom general election, 2001	elected in
+Q41582542	Q623211	P2715	Member of the 8th Parliament of the United Kingdom	United Kingdom general election, 1826	elected in
+Q36634044	Q918503	P2715	Member of the 52nd Parliament of the United Kingdom	United Kingdom general election, 1997	elected in
+Q41582615	Q119524	P2715	Member of the 46th Parliament of the United Kingdom	United Kingdom general election, February 1974	elected in
+Q41582608	Q220208	P2715	Member of the 43rd Parliament of the United Kingdom	United Kingdom general election, 1964	elected in
+Q41582588	Q517639	P2715	Member of the 35th Parliament of the United Kingdom	United Kingdom general election, 1929	elected in
+Q41582588	Q517639	P2715	Member of the 35th Parliament of the United Kingdom	United Kingdom general election, 1929	elected in
+Q41582588	Q517639	P2715	Member of the 35th Parliament of the United Kingdom	United Kingdom general election, 1929	elected in
+Q41582600	Q748667	P2715	Member of the 39th Parliament of the United Kingdom	United Kingdom general election, 1950	elected in
+Q41582591	Q918375	P2715	Member of the 36th Parliament of the United Kingdom	United Kingdom general election, 1931	elected in
+Q41582563	Q918351	P2715	Member of the 21st Parliament of the United Kingdom	United Kingdom general election, 1874	elected in
+Q41582575	Q918358	P2715	Member of the 27th Parliament of the United Kingdom	United Kingdom general election, 1900	elected in
+Q41582565	Q2074515	P2715	Member of the 22nd Parliament of the United Kingdom	United Kingdom general election, 1880	elected in
+Q41582565	Q2074515	P2715	Member of the 22nd Parliament of the United Kingdom	United Kingdom general election, 1880	elected in
+Q41582565	Q2074515	P2715	Member of the 22nd Parliament of the United Kingdom	United Kingdom general election, 1880	elected in
+Q41582560	Q2074525	P2715	Member of the 20th Parliament of the United Kingdom	United Kingdom general election, 1868	elected in
+Q41582560	Q2074525	P2715	Member of the 20th Parliament of the United Kingdom	United Kingdom general election, 1868	elected in
+Q41582560	Q2074525	P2715	Member of the 20th Parliament of the United Kingdom	United Kingdom general election, 1868	elected in
+Q41582559	Q2074533	P2715	Member of the 19th Parliament of the United Kingdom	United Kingdom general election, 1865	elected in
+Q41582559	Q2074533	P2715	Member of the 19th Parliament of the United Kingdom	United Kingdom general election, 1865	elected in
+Q41582559	Q2074533	P2715	Member of the 19th Parliament of the United Kingdom	United Kingdom general election, 1865	elected in
+Q41582582	Q3042701	P2715	Member of the 31st Parliament of the United Kingdom	United Kingdom general election, 1918	elected in
+Q41582593	Q918378	P2715	Member of the 37th Parliament of the United Kingdom	United Kingdom general election, 1935	elected in
+Q41582597	Q918397	P2715	Member of the 38th Parliament of the United Kingdom	United Kingdom general election, 1945	elected in
+Q41582604	Q918412	P2715	Member of the 41st Parliament of the United Kingdom	United Kingdom general election, 1955	elected in
+Q41582606	Q918420	P2715	Member of the 42nd Parliament of the United Kingdom	United Kingdom general election, 1959	elected in
+Q41582544	Q969827	P2715	Member of the 9th Parliament of the United Kingdom	United Kingdom general election 1830	elected in
+Q41582545	Q1188713	P2715	Member of the 10th Parliament of the United Kingdom	United Kingdom general election 1831	elected in
+Q41582546	Q1582019	P2715	Member of the 11th Parliament of the United Kingdom	United Kingdom general election, 1832	elected in
+Q41582548	Q1834355	P2715	Member of the 12th Parliament of the United Kingdom	United Kingdom general election, 1835	elected in
+Q41582550	Q2037966	P2715	Member of the 13th Parliament of the United Kingdom	United Kingdom general election, 1837	elected in
+Q41582553	Q2073185	P2715	Member of the 14th Parliament of the United Kingdom	United Kingdom general election, 1841	elected in
+Q41582555	Q2073198	P2715	Member of the 15th Parliament of the United Kingdom	United Kingdom general election, 1847	elected in
+Q41582572	Q7888018	P2715	Member of the 25th Parliament of the United Kingdom	United Kingdom general election, 1892	elected in
+Q41582573	Q7888019	P2715	Member of the 26th Parliament of the United Kingdom	United Kingdom general election, 1895	elected in
+Q41582573	Q7888019	P2715	Member of the 26th Parliament of the United Kingdom	United Kingdom general election, 1895	elected in
+Q41582573	Q7888019	P2715	Member of the 26th Parliament of the United Kingdom	United Kingdom general election, 1895	elected in
+Q41582609	Q918430	P2715	Member of the 44th Parliament of the United Kingdom	United Kingdom general election, 1966	elected in
+Q41582612	Q918442	P2715	Member of the 45th Parliament of the United Kingdom	United Kingdom general election, 1970	elected in
+Q41582619	Q918450	P2715	Member of the 48th Parliament of the United Kingdom	United Kingdom general election, 1979	elected in
+Q41582617	Q918508	P2715	Member of the 47th Parliament of the United Kingdom	United Kingdom general election, October 1974	elected in
+Q41582579	Q3075752	P2715	Member of the 29th Parliament of the United Kingdom	United Kingdom general election, January 1910	elected in
+Q41582581	Q3076583	P2715	Member of the 30th Parliament of the United Kingdom	United Kingdom general election, December 1910	elected in
+Q41582577	Q3076606	P2715	Member of the 28th Parliament of the United Kingdom	United Kingdom general election, 1906	elected in
+Q41582568	Q3397257	P2715	Member of the 23rd Parliament of the United Kingdom	United Kingdom general election, 1885	elected in
+Q41582568	Q3397257	P2715	Member of the 23rd Parliament of the United Kingdom	United Kingdom general election, 1885	elected in
+Q41582558	Q4345445	P2715	Member of the 18th Parliament of the United Kingdom	United Kingdom general election, 1859	elected in
+Q41582570	Q7888016	P2715	Member of the 24th Parliament of the United Kingdom	United Kingdom general election, 1886	elected in
+Q41582572	Q7888018	P2715	Member of the 25th Parliament of the United Kingdom	United Kingdom general election, 1892	elected in
+Q41582572	Q7888018	P2715	Member of the 25th Parliament of the United Kingdom	United Kingdom general election, 1892	elected in
+Q41582556	Q3943728	P2715	Member of the 16th Parliament of the United Kingdom	United Kingdom general election, 1852	elected in
+Q41582557	Q4345446	P2715	Member of the 17th Parliament of the United Kingdom	United Kingdom general election, 1857	elected in
+Q41582535	Q5353644	P2715	Member of the 5th Parliament of the United Kingdom	United Kingdom general election, 1812	elected in
+Q41582499	Q6273093	P2715	Member of the 2nd Parliament of the United Kingdom	United Kingdom general election, 1802	elected in
+Q41582416	Q7887990	P2715	Member of the 1st Parliament of the United Kingdom	Co-option of members to the 1801 parliament	elected in
+Q41582532	Q7887994	P2715	Member of the 3rd Parliament of the United Kingdom	United Kingdom general election, 1806	elected in
+Q41582534	Q7887996	P2715	Member of the 4th Parliament of the United Kingdom	United Kingdom general election, 1807	elected in
+Q41582587	Q2632991	P2715	Member of the 34th Parliament of the United Kingdom	United Kingdom general election, 1924	elected in
+Q41582585	Q3084294	P2715	Member of the 33rd Parliament of the United Kingdom	United Kingdom general election, 1923	elected in
+Q41582584	Q3084303	P2715	Member of the 32nd Parliament of the United Kingdom	United Kingdom general election, 1922	elected in
+Q41582603	Q3722280	P2715	Member of the 40th Parliament of the United Kingdom	United Kingdom general election, 1951	elected in
+Q44913432	Q483903	P2715	A falling light	The Joong-ang Ilbo	elected in
+Q41582627	Q543609	P2715	Member of the 51st Parliament of the United Kingdom	United Kingdom general election, 1992	elected in
+Q41582621	Q918466	P2715	Member of the 49th Parliament of the United Kingdom	United Kingdom general election, 1983	elected in
+Q41582624	Q918472	P2715	Member of the 50th Parliament of the United Kingdom	United Kingdom general election, 1987	elected in
+Q52281189	Q1029761	P2715	Eva Lopez de Arroyabe	Euskal Herria Bildu	elected in
+Q52281189	Q1253965	P2715	Eva Lopez de Arroyabe	Basque Parliament	elected in
+Q42712773	Q14942753	P2715	Member of the 10th Jatiya Sangsad	Bangladeshi general election, 2014	elected in
+Q42712773	Q14942753	P2715	Member of the 10th Jatiya Sangsad	Bangladeshi general election, 2014	elected in
+Q42712773	Q14942753	P2715	Member of the 10th Jatiya Sangsad	Bangladeshi general election, 2014	elected in
+Q46214873	Q15062956	P2715	Member of the 19th German Bundestag	German federal election, 2017	elected in
+Q46214873	Q15062956	P2715	Member of the 19th German Bundestag	German federal election, 2017	elected in
+Q46214873	Q15062956	P2715	Member of the 19th German Bundestag	German federal election, 2017	elected in
+Q45767574	Q15206416	P2715	11th National Assembly of Malawi	Malawian general election, 2014	elected in
+Q56023517	Q27957856	P2715	2017– session of Glasgow City Council	Glasgow City Council election, 2017	elected in
+Q56023514	Q28128126	P2715	2017– session of Doncaster Metropolitan Borough Council	Doncaster Metropolitan Borough Council election, 2017	elected in
+Q56023217	Q29378862	P2715	2017– session of the Court of Common Council	City of London Corporation election, 2017	elected in
+Q56023488	Q29378863	P2715	2018– session of Lambeth London Borough Council	Lambeth London Borough Council election, 2018	elected in
+Q56023512	Q30633355	P2715	2018– session of Birmingham City Council	Birmingham City Council election, 2018	elected in
+Q56023518	Q30681886	P2715	2017– session of City of Cardiff Council	City of Cardiff Council election, 2017	elected in
+Q56023479	Q45742519	P2715	2018– session of Lewisham London Borough Council	Lewisham London Borough Council election, 2018	elected in
+Q56023486	Q45742526	P2715	2018– session of Southwark London Borough Council	Southwark London Borough Council election, 2018	elected in
+Q56023495	Q45742532	P2715	2018– session of Newham London Borough Council	Newham London Borough Council election, 2018	elected in
+Q56023495	Q45742532	P2715	2018– session of Newham London Borough Council	Newham London Borough Council election, 2018	elected in
+Q56023495	Q45742532	P2715	2018– session of Newham London Borough Council	Newham London Borough Council election, 2018	elected in
+Q56023485	Q54866821	P2715	2018– session of Tower Hamlets London Borough Council	Tower Hamlets London Borough Council election, 2018	elected in
+Q56023497	Q54866828	P2715	2018– session of Barnet London Borough Council	Barnet London Borough Council election, 2018	elected in

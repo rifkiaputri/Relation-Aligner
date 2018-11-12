@@ -1,0 +1,1647 @@
+Q688909	Q13422442	P972	Armory Show	Catalogue of International Exhibition of Modern Art	catalog
+Q224560	Q1227538	P972	Acta Médica Portuguesa	Directory of Open Access Journals	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q11859	Q1269747	P972	The Little Mermaid	Danish Culture Canon	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q49987	Q1464063	P972	Hans Holbein the Elder	Web Gallery of Art	catalog
+Q260419	Q162478	P972	Piano Concerto No. 7	Köchel catalogue	catalog
+Q260419	Q162478	P972	Piano Concerto No. 7	Köchel catalogue	catalog
+Q260419	Q162478	P972	Piano Concerto No. 7	Köchel catalogue	catalog
+Q5106	Q253299	P972	A Love Supreme	National Recording Registry	catalog
+Q5106	Q253299	P972	A Love Supreme	National Recording Registry	catalog
+Q5106	Q253299	P972	A Love Supreme	National Recording Registry	catalog
+Q187507	Q253299	P972	Master of Puppets	National Recording Registry	catalog
+Q284798	Q253299	P972	Abraxas	National Recording Registry	catalog
+Q19484	Q37155	P972	metformin	World Health Organization Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	Metformin	World Health Organization Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	metformin	World Health Organization Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	metformin	WHO Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	Metformin	WHO Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	metformin	WHO Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	metformin	WHO Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	Metformin	WHO Model List of Essential Medicines	catalog
+Q19484	Q37155	P972	metformin	WHO Model List of Essential Medicines	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q82794	Q5460604	P972	geographic region	Wikipedia:Vital articles	catalog
+Q2194957	Q162478	P972	Piano Sonata No. 1	Köchel catalogue	catalog
+Q2481994	Q162478	P972	Divertimento in E-flat (Mozart)	Köchel catalogue	catalog
+Q3069060	Q162478	P972	Violin Sonata No. 35	Köchel catalogue	catalog
+Q2194957	Q162478	P972	Piano Sonata No. 1	Köchel catalogue	catalog
+Q2481994	Q162478	P972	Divertimento in E-flat (Mozart)	Köchel catalogue	catalog
+Q3069060	Q162478	P972	Violin Sonata No. 35	Köchel catalogue	catalog
+Q2194957	Q162478	P972	Piano Sonata No. 1	Köchel catalogue	catalog
+Q2481994	Q162478	P972	Divertimento in E-flat (Mozart)	Köchel catalogue	catalog
+Q3069060	Q162478	P972	Violin Sonata No. 35	Köchel catalogue	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q34649	Q131626	P972	Lucile Quarry Mann	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q275622	Q131626	P972	Dorothy Garrod	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q34649	Q131626	P972	Lucile Quarry Mann	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q275622	Q131626	P972	Dorothy Garrod	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q7491	Q131626	P972	Jane Stafford	Smithsonian Institution	catalog
+Q34649	Q131626	P972	Lucile Quarry Mann	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q49280	Q131626	P972	Mary Engle Pennington	Smithsonian Institution	catalog
+Q275622	Q131626	P972	Dorothy Garrod	Smithsonian Institution	catalog
+Q2014925	Q14941454	P972	国	Table of General Standard Chinese Characters	catalog
+Q3594919	Q14941454	P972	七	Table of General Standard Chinese Characters	catalog
+Q3594922	Q14941454	P972	不	Table of General Standard Chinese Characters	catalog
+Q3594925	Q14941454	P972	乐	Table of General Standard Chinese Characters	catalog
+Q3594930	Q14941454	P972	今	Table of General Standard Chinese Characters	catalog
+Q3594937	Q14941454	P972	六	Table of General Standard Chinese Characters	catalog
+Q3594946	Q14941454	P972	县	Table of General Standard Chinese Characters	catalog
+Q3594947	Q14941454	P972	变	Table of General Standard Chinese Characters	catalog
+Q3594956	Q14941454	P972	埠	Table of General Standard Chinese Characters	catalog
+Q3594958	Q14941454	P972	奇	Table of General Standard Chinese Characters	catalog
+Q3594960	Q14941454	P972	字	Table of General Standard Chinese Characters	catalog
+Q3594965	Q14941454	P972	帝	Table of General Standard Chinese Characters	catalog
+Q3594967	Q14941454	P972	庆	Table of General Standard Chinese Characters	catalog
+Q3594974	Q14941454	P972	扬	Table of General Standard Chinese Characters	catalog
+Q2014925	Q14941454	P972	国	Table of General Standard Chinese Characters	catalog
+Q3594919	Q14941454	P972	七	Table of General Standard Chinese Characters	catalog
+Q3594922	Q14941454	P972	不	Table of General Standard Chinese Characters	catalog
+Q3594925	Q14941454	P972	乐	Table of General Standard Chinese Characters	catalog
+Q3594930	Q14941454	P972	今	Table of General Standard Chinese Characters	catalog
+Q3594937	Q14941454	P972	六	Table of General Standard Chinese Characters	catalog
+Q3594946	Q14941454	P972	县	Table of General Standard Chinese Characters	catalog
+Q3594947	Q14941454	P972	变	Table of General Standard Chinese Characters	catalog
+Q3594956	Q14941454	P972	埠	Table of General Standard Chinese Characters	catalog
+Q3594958	Q14941454	P972	奇	Table of General Standard Chinese Characters	catalog
+Q3594960	Q14941454	P972	字	Table of General Standard Chinese Characters	catalog
+Q3594965	Q14941454	P972	帝	Table of General Standard Chinese Characters	catalog
+Q3594967	Q14941454	P972	庆	Table of General Standard Chinese Characters	catalog
+Q3594974	Q14941454	P972	扬	Table of General Standard Chinese Characters	catalog
+Q2947738	Q253299	P972	Where Did Our Love Go	National Recording Registry	catalog
+Q1957384	Q385271	P972	Märchenerzählungen (Schumann)	opus number	catalog
+Q2883612	Q1188574	P972	Baolun ge	Major Historical and Cultural Site Protected at the National Level	catalog
+Q1686921	Q1227538	P972	PLoS Medicine	Directory of Open Access Journals	catalog
+Q1686921	Q1227538	P972	PLoS Medicine	Directory of Open Access Journals	catalog
+Q1771695	Q1227538	P972	PLOS Biology	Directory of Open Access Journals	catalog
+Q2491968	Q1227538	P972	South African Journal of Science	Directory of Open Access Journals	catalog
+Q2635829	Q1227538	P972	PLOS Computational Biology	Directory of Open Access Journals	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q4302890	Q1227538	P972	Dynamis	Directory of Open Access Journals	catalog
+Q1758876	Q1269747	P972	The Fall of the King	Danish Culture Canon	catalog
+Q1758876	Q1269747	P972	The Fall of the King	Danish Culture Canon	catalog
+Q1758876	Q1269747	P972	The Fall of the King	Danish Culture Canon	catalog
+Q432746	Q131626	P972	Libbie Henrietta Hyman	Smithsonian Institution	catalog
+Q453196	Q131626	P972	Florence Bascom	Smithsonian Institution	catalog
+Q509742	Q131626	P972	Annie Montague Alexander	Smithsonian Institution	catalog
+Q521351	Q131626	P972	Doris Mable Cochran	Smithsonian Institution	catalog
+Q523424	Q131626	P972	Florence Augusta Merriam Bailey	Smithsonian Institution	catalog
+Q432746	Q131626	P972	Libbie Henrietta Hyman	Smithsonian Institution	catalog
+Q453196	Q131626	P972	Florence Bascom	Smithsonian Institution	catalog
+Q509742	Q131626	P972	Annie Montague Alexander	Smithsonian Institution	catalog
+Q521351	Q131626	P972	Doris Mable Cochran	Smithsonian Institution	catalog
+Q523424	Q131626	P972	Florence Augusta Merriam Bailey	Smithsonian Institution	catalog
+Q432746	Q131626	P972	Libbie Henrietta Hyman	Smithsonian Institution	catalog
+Q453196	Q131626	P972	Florence Bascom	Smithsonian Institution	catalog
+Q509742	Q131626	P972	Annie Montague Alexander	Smithsonian Institution	catalog
+Q521351	Q131626	P972	Doris Mable Cochran	Smithsonian Institution	catalog
+Q523424	Q131626	P972	Florence Augusta Merriam Bailey	Smithsonian Institution	catalog
+Q3594919	Q6498184	P972	七	Table of standardized forms for frequently used national characters	catalog
+Q3594922	Q6498184	P972	不	Table of standardized forms for frequently used national characters	catalog
+Q3594930	Q6498184	P972	今	Table of standardized forms for frequently used national characters	catalog
+Q3594937	Q6498184	P972	六	Table of standardized forms for frequently used national characters	catalog
+Q3594956	Q6498184	P972	埠	Table of standardized forms for frequently used national characters	catalog
+Q3594958	Q6498184	P972	奇	Table of standardized forms for frequently used national characters	catalog
+Q3594960	Q6498184	P972	字	Table of standardized forms for frequently used national characters	catalog
+Q3594965	Q6498184	P972	帝	Table of standardized forms for frequently used national characters	catalog
+Q3594998	Q6498184	P972	海	Table of standardized forms for frequently used national characters	catalog
+Q3595028	Q6498184	P972	雨	Table of standardized forms for frequently used national characters	catalog
+Q3595029	Q6498184	P972	雪	Table of standardized forms for frequently used national characters	catalog
+Q4025820	Q6498184	P972	一	Table of standardized forms for frequently used national characters	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q7675515	Q8121060	P972	Category:WikiProject Categories members	Category:WikiProject Categories	catalog
+Q21405908	Q6059930	P972	Registered park or garden	Inventory of Gardens and Designed Landscapes in Scotland	catalog
+Q9171233	Q6310322	P972	Category:Federated States of Micronesia navigational boxes	Category:Country navigational boxes	catalog
+Q9171233	Q6310322	P972	Category:Federated States of Micronesia navigational boxes	Category:Country navigational boxes	catalog
+Q9171233	Q6310322	P972	Category:Federated States of Micronesia navigational boxes	Category:Country navigational boxes	catalog
+Q20128404	Q6498184	P972	西	Table of standardized forms for frequently used national characters	catalog
+Q22947586	Q6498184	P972	北	Table of standardized forms for frequently used national characters	catalog
+Q21408194	Q6616121	P972	protected shipwreck (Section 1)	list of designations under the Protection of Wrecks Act	catalog
+Q21408206	Q6616121	P972	protected shipwreck (Section 2)	list of designations under the Protection of Wrecks Act	catalog
+Q21405908	Q6975250	P972	Registered park or garden	Register of Historic Parks and Gardens of special historic interest in England	catalog
+Q8218375	Q7104387	P972	Category:Basketball infobox templates	Category:Basketball templates	catalog
+Q8218375	Q7104387	P972	Category:Basketball infobox templates	Category:Basketball templates	catalog
+Q8218375	Q7104387	P972	Category:Basketball infobox templates	Category:Basketball templates	catalog
+Q6048443	Q162478	P972	8 Variations on "Laat ons juichen"	Köchel catalogue	catalog
+Q6082650	Q162478	P972	Popoli di Tessaglia!	Köchel catalogue	catalog
+Q6981239	Q162478	P972	Violin Sonata No. 20	Köchel catalogue	catalog
+Q7941881	Q162478	P972	Vorrei spiegarvi, oh Dio!	Köchel catalogue	catalog
+Q9078888	Q162478	P972	Violin Sonata No. 26	Köchel catalogue	catalog
+Q15632116	Q162478	P972	Violin Sonata No. 25	Köchel catalogue	catalog
+Q6048443	Q162478	P972	8 Variations on "Laat ons juichen"	Köchel catalogue	catalog
+Q6082650	Q162478	P972	Popoli di Tessaglia!	Köchel catalogue	catalog
+Q54874289	Q6152418	P972	者	List of Graphemes of Commonly-used Chinese Characters	catalog
+Q22947590	Q6498184	P972	愛	Table of standardized forms for frequently used national characters	catalog
+Q54552061	Q6498184	P972	天	Table of standardized forms for frequently used national characters	catalog
+Q54552821	Q6498184	P972	牛	Table of standardized forms for frequently used national characters	catalog
+Q54552822	Q6498184	P972	魚	Table of standardized forms for frequently used national characters	catalog
+Q54552823	Q6498184	P972	京	Table of standardized forms for frequently used national characters	catalog
+Q54553212	Q6498184	P972	多	Table of standardized forms for frequently used national characters	catalog
+Q54553218	Q6498184	P972	知	Table of standardized forms for frequently used national characters	catalog
+Q54553228	Q6498184	P972	鳥	Table of standardized forms for frequently used national characters	catalog
+Q54553284	Q6498184	P972	馬	Table of standardized forms for frequently used national characters	catalog
+Q54872914	Q6498184	P972	漢	Table of standardized forms for frequently used national characters	catalog
+Q54874289	Q6498184	P972	者	Table of standardized forms for frequently used national characters	catalog
+Q54874870	Q6498184	P972	相	Table of standardized forms for frequently used national characters	catalog
+Q54875038	Q6498184	P972	箱	Table of standardized forms for frequently used national characters	catalog
+Q54875220	Q6498184	P972	返	Table of standardized forms for frequently used national characters	catalog
+Q54875335	Q6498184	P972	和	Table of standardized forms for frequently used national characters	catalog
+Q54879255	Q6498184	P972	器	Table of standardized forms for frequently used national characters	catalog
+Q54879672	Q6498184	P972	殺	Table of standardized forms for frequently used national characters	catalog
+Q54882180	Q6498184	P972	得	Table of standardized forms for frequently used national characters	catalog
+Q54884203	Q6498184	P972	梅	Table of standardized forms for frequently used national characters	catalog
+Q6981239	Q162478	P972	Violin Sonata No. 20	Köchel catalogue	catalog
+Q7941881	Q162478	P972	Vorrei spiegarvi, oh Dio!	Köchel catalogue	catalog
+Q9078888	Q162478	P972	Violin Sonata No. 26	Köchel catalogue	catalog
+Q15632116	Q162478	P972	Violin Sonata No. 25	Köchel catalogue	catalog
+Q6048443	Q162478	P972	8 Variations on "Laat ons juichen"	Köchel catalogue	catalog
+Q6082650	Q162478	P972	Popoli di Tessaglia!	Köchel catalogue	catalog
+Q6981239	Q162478	P972	Violin Sonata No. 20	Köchel catalogue	catalog
+Q7941881	Q162478	P972	Vorrei spiegarvi, oh Dio!	Köchel catalogue	catalog
+Q9078888	Q162478	P972	Violin Sonata No. 26	Köchel catalogue	catalog
+Q15632116	Q162478	P972	Violin Sonata No. 25	Köchel catalogue	catalog
+Q1976742	Q1386729	P972	Ramón Arellano Félix	FBI Ten Most Wanted Fugitives	catalog
+Q3048371	Q1386729	P972	Eduardo Ravelo	FBI Ten Most Wanted Fugitives	catalog
+Q3065677	Q1386729	P972	Robert William Fisher	FBI Ten Most Wanted Fugitives	catalog
+Q3236990	Q5460604	P972	self	Wikipedia:Vital articles	catalog
+Q3236990	Q5460604	P972	self	Wikipedia:Vital articles	catalog
+Q35266695	Q131626	P972	Gerharda Wilbrink	Smithsonian Institution	catalog
+Q35266962	Q131626	P972	Melinda A. Zeder	Smithsonian Institution	catalog
+Q35266695	Q131626	P972	Gerharda Wilbrink	Smithsonian Institution	catalog
+Q35266962	Q131626	P972	Melinda A. Zeder	Smithsonian Institution	catalog
+Q35266695	Q131626	P972	Gerharda Wilbrink	Smithsonian Institution	catalog
+Q35266962	Q131626	P972	Melinda A. Zeder	Smithsonian Institution	catalog
+Q3236990	Q5460604	P972	self	Wikipedia:Vital articles	catalog
+Q11789729	Q54919	P972	NUKAT	Virtual International Authority File	catalog
+Q11789729	Q54919	P972	NUKAT	Virtual International Authority File	catalog
+Q11789729	Q54919	P972	NUKAT	Virtual International Authority File	catalog
+Q6376519	Q131626	P972	Katherine Ralls	Smithsonian Institution	catalog
+Q6759495	Q131626	P972	Margaret Harwood	Smithsonian Institution	catalog
+Q6787501	Q131626	P972	Matilda Coxe Stevenson	Smithsonian Institution	catalog
+Q7372334	Q131626	P972	Roxana Judkins Stinchfield Ferris	Smithsonian Institution	catalog
+Q7901220	Q131626	P972	Ursula B. Marvin	Smithsonian Institution	catalog
+Q7933039	Q131626	P972	Viola Shelly Shantz	Smithsonian Institution	catalog
+Q8563904	Q131626	P972	Florence Hedges	Smithsonian Institution	catalog
+Q11248245	Q131626	P972	Devra G. Kleiman	Smithsonian Institution	catalog
+Q6376519	Q131626	P972	Katherine Ralls	Smithsonian Institution	catalog
+Q6759495	Q131626	P972	Margaret Harwood	Smithsonian Institution	catalog
+Q6787501	Q131626	P972	Matilda Coxe Stevenson	Smithsonian Institution	catalog
+Q7372334	Q131626	P972	Roxana Judkins Stinchfield Ferris	Smithsonian Institution	catalog
+Q7901220	Q131626	P972	Ursula B. Marvin	Smithsonian Institution	catalog
+Q21405908	Q7309362	P972	Registered park or garden	Register of Parks, Gardens and Demesnes of Special Historic Interest	catalog
+Q8413284	Q8444300	P972	Category:Endemic fauna of Slovakia	Category:Fauna of Slovakia	catalog
+Q9171233	Q8445612	P972	Category:Federated States of Micronesia navigational boxes	Category:Federated States of Micronesia templates	catalog
+Q8218375	Q9299219	P972	Category:Basketball infobox templates	Category:Sports by sport infobox templates	catalog
+Q17041305	Q1188574	P972	Luodongshu ci	Major Historical and Cultural Site Protected at the National Level	catalog
+Q11753321	Q13331174	P972	Wikimedia navigational template	Wikimedia navboxes category	catalog
+Q3594998	Q14941454	P972	海	Table of General Standard Chinese Characters	catalog
+Q3595028	Q14941454	P972	雨	Table of General Standard Chinese Characters	catalog
+Q3595029	Q14941454	P972	雪	Table of General Standard Chinese Characters	catalog
+Q4025820	Q14941454	P972	一	Table of General Standard Chinese Characters	catalog
+Q3594998	Q14941454	P972	海	Table of General Standard Chinese Characters	catalog
+Q3595028	Q14941454	P972	雨	Table of General Standard Chinese Characters	catalog
+Q3595029	Q14941454	P972	雪	Table of General Standard Chinese Characters	catalog
+Q4025820	Q14941454	P972	一	Table of General Standard Chinese Characters	catalog
+Q6090374	Q253299	P972	It's My Way!	National Recording Registry	catalog
+Q6745332	Q253299	P972	Mama Tried	National Recording Registry	catalog
+Q23456385	Q253299	P972	Mahler: Symphony no 9 / Bruno Walter, VPO	National Recording Registry	catalog
+Q23457609	Q253299	P972	The Marshall Plan Speech	National Recording Registry	catalog
+Q3587952	Q131626	P972	Élise L'Esperance	Smithsonian Institution	catalog
+Q3822242	Q131626	P972	Mary Agnes Chase	Smithsonian Institution	catalog
+Q4681930	Q131626	P972	Adelia Sarah Gates	Smithsonian Institution	catalog
+Q4725807	Q131626	P972	Alice Cunningham Fletcher	Smithsonian Institution	catalog
+Q4815000	Q131626	P972	Clara H. Hasse	Smithsonian Institution	catalog
+Q5297944	Q131626	P972	Doris Holmes Blake	Smithsonian Institution	catalog
+Q5372895	Q131626	P972	Emma Lucy Braun	Smithsonian Institution	catalog
+Q5987126	Q131626	P972	Ida Mellen	Smithsonian Institution	catalog
+Q3587952	Q131626	P972	Élise L'Esperance	Smithsonian Institution	catalog
+Q3822242	Q131626	P972	Mary Agnes Chase	Smithsonian Institution	catalog
+Q4681930	Q131626	P972	Adelia Sarah Gates	Smithsonian Institution	catalog
+Q4725807	Q131626	P972	Alice Cunningham Fletcher	Smithsonian Institution	catalog
+Q4815000	Q131626	P972	Clara H. Hasse	Smithsonian Institution	catalog
+Q5297944	Q131626	P972	Doris Holmes Blake	Smithsonian Institution	catalog
+Q5372895	Q131626	P972	Emma Lucy Braun	Smithsonian Institution	catalog
+Q5987126	Q131626	P972	Ida Mellen	Smithsonian Institution	catalog
+Q3587952	Q131626	P972	Élise L'Esperance	Smithsonian Institution	catalog
+Q3822242	Q131626	P972	Mary Agnes Chase	Smithsonian Institution	catalog
+Q4681930	Q131626	P972	Adelia Sarah Gates	Smithsonian Institution	catalog
+Q4725807	Q131626	P972	Alice Cunningham Fletcher	Smithsonian Institution	catalog
+Q4815000	Q131626	P972	Clara H. Hasse	Smithsonian Institution	catalog
+Q5297944	Q131626	P972	Doris Holmes Blake	Smithsonian Institution	catalog
+Q5372895	Q131626	P972	Emma Lucy Braun	Smithsonian Institution	catalog
+Q5987126	Q131626	P972	Ida Mellen	Smithsonian Institution	catalog
+Q3490184	Q162478	P972	Violin Sonata No. 24	Köchel catalogue	catalog
+Q4678375	Q162478	P972	Adagio in B minor	Köchel catalogue	catalog
+Q3490184	Q162478	P972	Violin Sonata No. 24	Köchel catalogue	catalog
+Q4678375	Q162478	P972	Adagio in B minor	Köchel catalogue	catalog
+Q3490184	Q162478	P972	Violin Sonata No. 24	Köchel catalogue	catalog
+Q4678375	Q162478	P972	Adagio in B minor	Köchel catalogue	catalog
+Q3787427	Q253299	P972	Let Me Call You Sweetheart	National Recording Registry	catalog
+Q3968491	Q253299	P972	Statesboro Blues	National Recording Registry	catalog
+Q5127975	Q253299	P972	Class Clown	National Recording Registry	catalog
+Q20128404	Q485267	P972	西	Basic Hanja for educational use	catalog
+Q22947586	Q485267	P972	北	Basic Hanja for educational use	catalog
+Q22947590	Q485267	P972	愛	Basic Hanja for educational use	catalog
+Q54552061	Q485267	P972	天	Basic Hanja for educational use	catalog
+Q54552821	Q485267	P972	牛	Basic Hanja for educational use	catalog
+Q54552822	Q485267	P972	魚	Basic Hanja for educational use	catalog
+Q54552823	Q485267	P972	京	Basic Hanja for educational use	catalog
+Q29808881	Q976826	P972	Rhododendron i Tuxen's garden	Laurits Tuxen	catalog
+Q29809452	Q976826	P972	The Danish-American, Jacob Mortensen	Laurits Tuxen	catalog
+Q7933039	Q131626	P972	Viola Shelly Shantz	Smithsonian Institution	catalog
+Q8563904	Q131626	P972	Florence Hedges	Smithsonian Institution	catalog
+Q11248245	Q131626	P972	Devra G. Kleiman	Smithsonian Institution	catalog
+Q6376519	Q131626	P972	Katherine Ralls	Smithsonian Institution	catalog
+Q6759495	Q131626	P972	Margaret Harwood	Smithsonian Institution	catalog
+Q6787501	Q131626	P972	Matilda Coxe Stevenson	Smithsonian Institution	catalog
+Q7372334	Q131626	P972	Roxana Judkins Stinchfield Ferris	Smithsonian Institution	catalog
+Q7901220	Q131626	P972	Ursula B. Marvin	Smithsonian Institution	catalog
+Q7933039	Q131626	P972	Viola Shelly Shantz	Smithsonian Institution	catalog
+Q8563904	Q131626	P972	Florence Hedges	Smithsonian Institution	catalog
+Q11248245	Q131626	P972	Devra G. Kleiman	Smithsonian Institution	catalog
+Q530723	Q162478	P972	Serenade No. 12	Köchel catalogue	catalog
+Q544205	Q162478	P972	Violin Concerto No. 3	Köchel catalogue	catalog
+Q831316	Q162478	P972	Adagio and Fugue in C minor	Köchel catalogue	catalog
+Q530723	Q162478	P972	Serenade No. 12	Köchel catalogue	catalog
+Q544205	Q162478	P972	Violin Concerto No. 3	Köchel catalogue	catalog
+Q831316	Q162478	P972	Adagio and Fugue in C minor	Köchel catalogue	catalog
+Q530723	Q162478	P972	Serenade No. 12	Köchel catalogue	catalog
+Q544205	Q162478	P972	Violin Concerto No. 3	Köchel catalogue	catalog
+Q831316	Q162478	P972	Adagio and Fugue in C minor	Köchel catalogue	catalog
+Q3594922	Q485267	P972	不	Basic Hanja for educational use	catalog
+Q3594930	Q485267	P972	今	Basic Hanja for educational use	catalog
+Q3594937	Q485267	P972	六	Basic Hanja for educational use	catalog
+Q3594958	Q485267	P972	奇	Basic Hanja for educational use	catalog
+Q3594960	Q485267	P972	字	Basic Hanja for educational use	catalog
+Q3594965	Q485267	P972	帝	Basic Hanja for educational use	catalog
+Q3594998	Q485267	P972	海	Basic Hanja for educational use	catalog
+Q3595028	Q485267	P972	雨	Basic Hanja for educational use	catalog
+Q3595029	Q485267	P972	雪	Basic Hanja for educational use	catalog
+Q4025820	Q485267	P972	一	Basic Hanja for educational use	catalog
+Q6107109	Q1227538	P972	Revista de Indias	Directory of Open Access Journals	catalog
+Q6151596	Q1227538	P972	Trans-pasando Fronteras	Directory of Open Access Journals	catalog
+Q8203208	Q1227538	P972	Arbor	Directory of Open Access Journals	catalog
+Q6162368	Q1386729	P972	Jason Derek Brown	FBI Ten Most Wanted Fugitives	catalog
+Q6762822	Q1386729	P972	Marie Dean Arrington	FBI Ten Most Wanted Fugitives	catalog
+Q6393205	Q4042165	P972	Kepler object of interest	Kepler Input Catalog	catalog
+Q6393205	Q4042165	P972	Kepler object of interest	Kepler Input Catalog	catalog
+Q6393205	Q4042165	P972	Kepler object of interest	Kepler Input Catalog	catalog
+Q938338	Q253299	P972	Ac-Cent-Tchu-Ate the Positive	National Recording Registry	catalog
+Q1646081	Q253299	P972	Piano Man	National Recording Registry	catalog
+Q564954	Q1227538	P972	PLoS ONE	Directory of Open Access Journals	catalog
+Q1686921	Q1227538	P972	PLOS Medicine	Directory of Open Access Journals	catalog
+Q5398697	Q1227538	P972	Espacio y Desarrollo	Directory of Open Access Journals	catalog
+Q5701838	Q1227538	P972	Apuntes de Ciencia y Sociedad	Directory of Open Access Journals	catalog
+Q5731502	Q1227538	P972	Boletín del Grupo Español del Carbón	Directory of Open Access Journals	catalog
+Q6047211	Q1227538	P972	Nutrición Hospitalaria	Directory of Open Access Journals	catalog
+Q6074123	Q1227538	P972	Pharmacy Practice	Directory of Open Access Journals	catalog
+Q4310543	Q1269747	P972	Sommerdag ved Roskilde Fjord	Danish Culture Canon	catalog
+Q4456917	Q1269747	P972	Stalingrad	Danish Culture Canon	catalog
+Q4310543	Q1269747	P972	Sommerdag ved Roskilde Fjord	Danish Culture Canon	catalog
+Q4456917	Q1269747	P972	Stalingrad	Danish Culture Canon	catalog
+Q4310543	Q1269747	P972	Sommerdag ved Roskilde Fjord	Danish Culture Canon	catalog
+Q4456917	Q1269747	P972	Stalingrad	Danish Culture Canon	catalog
+Q11925777	Q131626	P972	Nellie Adalesa Brown	Smithsonian Institution	catalog
+Q11926541	Q131626	P972	Lucia McCulloch	Smithsonian Institution	catalog
+Q13220298	Q131626	P972	Elzada Clover	Smithsonian Institution	catalog
+Q13426246	Q131626	P972	Mireya D. Correa	Smithsonian Institution	catalog
+Q13562995	Q131626	P972	Helen Morgenthau Fox	Smithsonian Institution	catalog
+Q15814059	Q131626	P972	Agnes Quirk	Smithsonian Institution	catalog
+Q15814093	Q131626	P972	Alice Haskins	Smithsonian Institution	catalog
+Q15839284	Q131626	P972	Mildred Rebstock	Smithsonian Institution	catalog
+Q11925777	Q131626	P972	Nellie Adalesa Brown	Smithsonian Institution	catalog
+Q11926541	Q131626	P972	Lucia McCulloch	Smithsonian Institution	catalog
+Q13220298	Q131626	P972	Elzada Clover	Smithsonian Institution	catalog
+Q13426246	Q131626	P972	Mireya D. Correa	Smithsonian Institution	catalog
+Q13562995	Q131626	P972	Helen Morgenthau Fox	Smithsonian Institution	catalog
+Q15814059	Q131626	P972	Agnes Quirk	Smithsonian Institution	catalog
+Q15814093	Q131626	P972	Alice Haskins	Smithsonian Institution	catalog
+Q15839284	Q131626	P972	Mildred Rebstock	Smithsonian Institution	catalog
+Q11925777	Q131626	P972	Nellie Adalesa Brown	Smithsonian Institution	catalog
+Q11926541	Q131626	P972	Lucia McCulloch	Smithsonian Institution	catalog
+Q13220298	Q131626	P972	Elzada Clover	Smithsonian Institution	catalog
+Q13426246	Q131626	P972	Mireya D. Correa	Smithsonian Institution	catalog
+Q13562995	Q131626	P972	Helen Morgenthau Fox	Smithsonian Institution	catalog
+Q15814059	Q131626	P972	Agnes Quirk	Smithsonian Institution	catalog
+Q15814093	Q131626	P972	Alice Haskins	Smithsonian Institution	catalog
+Q15839284	Q131626	P972	Mildred Rebstock	Smithsonian Institution	catalog
+Q54874870	Q14941454	P972	相	Table of General Standard Chinese Characters	catalog
+Q54874982	Q14941454	P972	着	Table of General Standard Chinese Characters	catalog
+Q54875038	Q14941454	P972	箱	Table of General Standard Chinese Characters	catalog
+Q54875220	Q14941454	P972	返	Table of General Standard Chinese Characters	catalog
+Q54875335	Q14941454	P972	和	Table of General Standard Chinese Characters	catalog
+Q54879255	Q14941454	P972	器	Table of General Standard Chinese Characters	catalog
+Q54882180	Q14941454	P972	得	Table of General Standard Chinese Characters	catalog
+Q54884203	Q14941454	P972	梅	Table of General Standard Chinese Characters	catalog
+Q54901216	Q14941454	P972	恩	Table of General Standard Chinese Characters	catalog
+Q54901683	Q14941454	P972	余	Table of General Standard Chinese Characters	catalog
+Q54911947	Q14941454	P972	城	Table of General Standard Chinese Characters	catalog
+Q54918611	Q14941454	P972	著	Table of General Standard Chinese Characters	catalog
+Q55406176	Q14941454	P972	俗	Table of General Standard Chinese Characters	catalog
+Q55408001	Q14941454	P972	如	Table of General Standard Chinese Characters	catalog
+Q55414014	Q14941454	P972	履	Table of General Standard Chinese Characters	catalog
+Q55646225	Q14941454	P972	举	Table of General Standard Chinese Characters	catalog
+Q55646361	Q14941454	P972	汉	Table of General Standard Chinese Characters	catalog
+Q55648565	Q14941454	P972	杀	Table of General Standard Chinese Characters	catalog
+Q55648899	Q14941454	P972	巢	Table of General Standard Chinese Characters	catalog
+Q55652031	Q14941454	P972	见	Table of General Standard Chinese Characters	catalog
+Q55664936	Q14941454	P972	岚	Table of General Standard Chinese Characters	catalog
+Q55669978	Q14941454	P972	华	Table of General Standard Chinese Characters	catalog
+Q55759571	Q14941454	P972	几	Table of General Standard Chinese Characters	catalog
+Q54874870	Q14941454	P972	相	Table of General Standard Chinese Characters	catalog
+Q54874982	Q14941454	P972	着	Table of General Standard Chinese Characters	catalog
+Q54875038	Q14941454	P972	箱	Table of General Standard Chinese Characters	catalog
+Q54875220	Q14941454	P972	返	Table of General Standard Chinese Characters	catalog
+Q54875335	Q14941454	P972	和	Table of General Standard Chinese Characters	catalog
+Q54879255	Q14941454	P972	器	Table of General Standard Chinese Characters	catalog
+Q54882180	Q14941454	P972	得	Table of General Standard Chinese Characters	catalog
+Q54884203	Q14941454	P972	梅	Table of General Standard Chinese Characters	catalog
+Q54901216	Q14941454	P972	恩	Table of General Standard Chinese Characters	catalog
+Q54901683	Q14941454	P972	余	Table of General Standard Chinese Characters	catalog
+Q54911947	Q14941454	P972	城	Table of General Standard Chinese Characters	catalog
+Q54918611	Q14941454	P972	著	Table of General Standard Chinese Characters	catalog
+Q55406176	Q14941454	P972	俗	Table of General Standard Chinese Characters	catalog
+Q55408001	Q14941454	P972	如	Table of General Standard Chinese Characters	catalog
+Q55414014	Q14941454	P972	履	Table of General Standard Chinese Characters	catalog
+Q55646225	Q14941454	P972	举	Table of General Standard Chinese Characters	catalog
+Q55646361	Q14941454	P972	汉	Table of General Standard Chinese Characters	catalog
+Q55648565	Q14941454	P972	杀	Table of General Standard Chinese Characters	catalog
+Q55648899	Q14941454	P972	巢	Table of General Standard Chinese Characters	catalog
+Q55652031	Q14941454	P972	见	Table of General Standard Chinese Characters	catalog
+Q55664936	Q14941454	P972	岚	Table of General Standard Chinese Characters	catalog
+Q55669978	Q14941454	P972	华	Table of General Standard Chinese Characters	catalog
+Q55759571	Q14941454	P972	几	Table of General Standard Chinese Characters	catalog
+Q4912448	Q1386729	P972	Billy Dean Anderson	FBI Ten Most Wanted Fugitives	catalog
+Q4954600	Q1386729	P972	Bradford Bishop	FBI Ten Most Wanted Fugitives	catalog
+Q5325834	Q1386729	P972	Earl Edwin Austin	FBI Ten Most Wanted Fugitives	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17279172	Q131626	P972	Belinda Wilkes	Smithsonian Institution	catalog
+Q18562902	Q131626	P972	Ellen Schulz Quillin	Smithsonian Institution	catalog
+Q18572442	Q131626	P972	Mary Van Rensselaer Buell	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17279172	Q131626	P972	Belinda Wilkes	Smithsonian Institution	catalog
+Q18562902	Q131626	P972	Ellen Schulz Quillin	Smithsonian Institution	catalog
+Q18572442	Q131626	P972	Mary Van Rensselaer Buell	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17155931	Q131626	P972	Charlotte Cortlandt Ellis	Smithsonian Institution	catalog
+Q17279172	Q131626	P972	Belinda Wilkes	Smithsonian Institution	catalog
+Q18562902	Q131626	P972	Ellen Schulz Quillin	Smithsonian Institution	catalog
+Q18572442	Q131626	P972	Mary Van Rensselaer Buell	Smithsonian Institution	catalog
+Q24943373	Q1227538	P972	Informes de la Construcción	Directory of Open Access Journals	catalog
+Q24944193	Q1227538	P972	Biodiversity and Natural History	Directory of Open Access Journals	catalog
+Q26423201	Q1227538	P972	Verba Hispanica	Directory of Open Access Journals	catalog
+Q26738500	Q1227538	P972	La Trama de la Comunicación	Directory of Open Access Journals	catalog
+Q27716185	Q1227538	P972	Revista Española de Documentación Científica	Directory of Open Access Journals	catalog
+Q27925282	Q1227538	P972	Revista de Metalurgia	Directory of Open Access Journals	catalog
+Q28869489	Q1227538	P972	Reflexión Política	Directory of Open Access Journals	catalog
+Q15839339	Q131626	P972	Dora Dougherty Strother	Smithsonian Institution	catalog
+Q15920922	Q131626	P972	Wanda Kirkbride Farr	Smithsonian Institution	catalog
+Q15920982	Q131626	P972	Roxie Collie Laybourne	Smithsonian Institution	catalog
+Q15999449	Q131626	P972	Julia Anna Gardner	Smithsonian Institution	catalog
+Q16003746	Q131626	P972	Mary Dora Rogick	Smithsonian Institution	catalog
+Q16006475	Q131626	P972	Mary Lura Sherrill	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q15839339	Q131626	P972	Dora Dougherty Strother	Smithsonian Institution	catalog
+Q15920922	Q131626	P972	Wanda Kirkbride Farr	Smithsonian Institution	catalog
+Q15920982	Q131626	P972	Roxie Collie Laybourne	Smithsonian Institution	catalog
+Q15999449	Q131626	P972	Julia Anna Gardner	Smithsonian Institution	catalog
+Q16003746	Q131626	P972	Mary Dora Rogick	Smithsonian Institution	catalog
+Q16006475	Q131626	P972	Mary Lura Sherrill	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q15839339	Q131626	P972	Dora Dougherty Strother	Smithsonian Institution	catalog
+Q15920922	Q131626	P972	Wanda Kirkbride Farr	Smithsonian Institution	catalog
+Q15920982	Q131626	P972	Roxie Collie Laybourne	Smithsonian Institution	catalog
+Q15999449	Q131626	P972	Julia Anna Gardner	Smithsonian Institution	catalog
+Q16003746	Q131626	P972	Mary Dora Rogick	Smithsonian Institution	catalog
+Q16006475	Q131626	P972	Mary Lura Sherrill	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q16006757	Q131626	P972	Margaret D. Foster	Smithsonian Institution	catalog
+Q1073159	Q1386729	P972	Alexis Flores	FBI Ten Most Wanted Fugitives	catalog
+Q309635	Q1464063	P972	Pietro Lorenzetti	Web Gallery of Art	catalog
+Q309635	Q1464063	P972	Pietro Lorenzetti	Web Gallery of Art	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1496967	Q5460604	P972	territorial entity	Wikipedia:Vital articles	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q1192	Q20655714	P972	Jean-Baptiste Lully	Lully-Werke-Verzeichnis	catalog
+Q13107262	Q12058351	P972	Sorrow	Garman Ryan Collection	catalog
+Q13107262	Q12058351	P972	Sorrow	Garman Ryan Collection	catalog
+Q13107262	Q12058351	P972	Sorrow	Garman Ryan Collection	catalog
+Q20128404	Q14941454	P972	西	Table of General Standard Chinese Characters	catalog
+Q22947586	Q14941454	P972	北	Table of General Standard Chinese Characters	catalog
+Q54552061	Q14941454	P972	天	Table of General Standard Chinese Characters	catalog
+Q54552821	Q14941454	P972	牛	Table of General Standard Chinese Characters	catalog
+Q54552823	Q14941454	P972	京	Table of General Standard Chinese Characters	catalog
+Q54553212	Q14941454	P972	多	Table of General Standard Chinese Characters	catalog
+Q54553218	Q14941454	P972	知	Table of General Standard Chinese Characters	catalog
+Q54872784	Q14941454	P972	温	Table of General Standard Chinese Characters	catalog
+Q54874289	Q14941454	P972	者	Table of General Standard Chinese Characters	catalog
+Q20128404	Q14941454	P972	西	Table of General Standard Chinese Characters	catalog
+Q22947586	Q14941454	P972	北	Table of General Standard Chinese Characters	catalog
+Q54552061	Q14941454	P972	天	Table of General Standard Chinese Characters	catalog
+Q54552821	Q14941454	P972	牛	Table of General Standard Chinese Characters	catalog
+Q54552823	Q14941454	P972	京	Table of General Standard Chinese Characters	catalog
+Q54553212	Q14941454	P972	多	Table of General Standard Chinese Characters	catalog
+Q54553218	Q14941454	P972	知	Table of General Standard Chinese Characters	catalog
+Q54872784	Q14941454	P972	温	Table of General Standard Chinese Characters	catalog
+Q54874289	Q14941454	P972	者	Table of General Standard Chinese Characters	catalog
+Q54553212	Q485267	P972	多	Basic Hanja for educational use	catalog
+Q54553218	Q485267	P972	知	Basic Hanja for educational use	catalog
+Q54553228	Q485267	P972	鳥	Basic Hanja for educational use	catalog
+Q54553284	Q485267	P972	馬	Basic Hanja for educational use	catalog
+Q54872914	Q485267	P972	漢	Basic Hanja for educational use	catalog
+Q54874289	Q485267	P972	者	Basic Hanja for educational use	catalog
+Q54874870	Q485267	P972	相	Basic Hanja for educational use	catalog
+Q54874982	Q485267	P972	着	Basic Hanja for educational use	catalog
+Q54875220	Q485267	P972	返	Basic Hanja for educational use	catalog
+Q54879255	Q485267	P972	器	Basic Hanja for educational use	catalog
+Q54882180	Q485267	P972	得	Basic Hanja for educational use	catalog
+Q54901216	Q485267	P972	恩	Basic Hanja for educational use	catalog
+Q54901683	Q485267	P972	余	Basic Hanja for educational use	catalog
+Q54911947	Q485267	P972	城	Basic Hanja for educational use	catalog
+Q54918611	Q485267	P972	著	Basic Hanja for educational use	catalog
+Q55406176	Q485267	P972	俗	Basic Hanja for educational use	catalog
+Q55408001	Q485267	P972	如	Basic Hanja for educational use	catalog
+Q55411310	Q485267	P972	韓	Basic Hanja for educational use	catalog
+Q55414014	Q485267	P972	履	Basic Hanja for educational use	catalog
+Q55414119	Q485267	P972	幾	Basic Hanja for educational use	catalog
+Q52123398	Q37136	P972	Triton with Dolphins	11	catalog
+Q52123398	Q37136	P972	Triton with Dolphins	11	catalog
+Q52123398	Q37136	P972	Triton with Dolphins	11	catalog
+Q3089617	Q31247	P972	Portrait of Frédéric Bazille Painting	224	catalog
+Q3089617	Q31247	P972	Portrait of Frédéric Bazille Painting	224	catalog
+Q3089617	Q31247	P972	Portrait of Frédéric Bazille Painting	224	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q620946	Q54919	P972	Library of Congress Control Number	Virtual International Authority File	catalog
+Q55715734	Q10459235	P972	Tomb of the mother of Chiang Kai-shek‎	sixth list of major cultural sites protected at national level	catalog
+Q1796010	Q122396	P972	Königgrätzer Marsch	Armeemarschsammlung	catalog
+Q2368799	Q131626	P972	Susan Delano McKelvey	Smithsonian Institution	catalog
+Q2669110	Q131626	P972	Christine Jones Forman	Smithsonian Institution	catalog
+Q2368799	Q131626	P972	Susan Delano McKelvey	Smithsonian Institution	catalog
+Q2669110	Q131626	P972	Christine Jones Forman	Smithsonian Institution	catalog
+Q2368799	Q131626	P972	Susan Delano McKelvey	Smithsonian Institution	catalog
+Q2669110	Q131626	P972	Christine Jones Forman	Smithsonian Institution	catalog
+Q35208519	Q131626	P972	Elsie Pomeroy McElroy Slater	Smithsonian Institution	catalog
+Q35208659	Q131626	P972	Brandie Smith	Smithsonian Institution	catalog
+Q35208793	Q131626	P972	Nucharin Songsasen	Smithsonian Institution	catalog
+Q35212355	Q131626	P972	Marion Winifred Sheahan	Smithsonian Institution	catalog
+Q20675619	Q131626	P972	Muriel Mussells Seyfert	Smithsonian Institution	catalog
+Q21340801	Q131626	P972	Winona Hazel Welch	Smithsonian Institution	catalog
+Q21391556	Q131626	P972	Anna Allen Wright	Smithsonian Institution	catalog
+Q21395107	Q131626	P972	Carole C. Baldwin	Smithsonian Institution	catalog
+Q21587142	Q131626	P972	Catharine Macfarlane	Smithsonian Institution	catalog
+Q22277734	Q131626	P972	Pepi Fabbiano	Smithsonian Institution	catalog
+Q27978699	Q131626	P972	Marie Agnes Hinrichs	Smithsonian Institution	catalog
+Q28971404	Q131626	P972	Denise Breitburg	Smithsonian Institution	catalog
+Q33868249	Q131626	P972	Helen S. Conant	Smithsonian Institution	catalog
+Q33960412	Q131626	P972	Elizabeth Cottrell	Smithsonian Institution	catalog
+Q33960574	Q131626	P972	Carla J. Dove	Smithsonian Institution	catalog
+Q33984718	Q131626	P972	Andrea K. Dupree	Smithsonian Institution	catalog
+Q34017601	Q131626	P972	Sara Hallager	Smithsonian Institution	catalog
+Q34066380	Q131626	P972	Genevieve Estelle Jones	Smithsonian Institution	catalog
+Q34129546	Q131626	P972	Barbara Kegerreis Lunde	Smithsonian Institution	catalog
+Q34223218	Q131626	P972	Margaret Mann Lesley	Smithsonian Institution	catalog
+Q34412782	Q131626	P972	Melissa K. McCormick	Smithsonian Institution	catalog
+Q34472072	Q131626	P972	Mary Elizabeth Hickox Mandels	Smithsonian Institution	catalog
+Q34475352	Q131626	P972	Jeanne Helen Osiecki	Smithsonian Institution	catalog
+Q34475503	Q131626	P972	Copper Aitken-Palmer	Smithsonian Institution	catalog
+Q34769737	Q131626	P972	Briana L. Pobiner	Smithsonian Institution	catalog
+Q34770210	Q131626	P972	Fern P. Rathe	Smithsonian Institution	catalog
+Q34823585	Q131626	P972	Eileen R. L. Reed	Smithsonian Institution	catalog
+Q34953876	Q131626	P972	Mary E. Rice	Smithsonian Institution	catalog
+Q35208519	Q131626	P972	Elsie Pomeroy McElroy Slater	Smithsonian Institution	catalog
+Q35208659	Q131626	P972	Brandie Smith	Smithsonian Institution	catalog
+Q35208793	Q131626	P972	Nucharin Songsasen	Smithsonian Institution	catalog
+Q35212355	Q131626	P972	Marion Winifred Sheahan	Smithsonian Institution	catalog
+Q20675619	Q131626	P972	Muriel Mussells Seyfert	Smithsonian Institution	catalog
+Q21340801	Q131626	P972	Winona Hazel Welch	Smithsonian Institution	catalog
+Q21391556	Q131626	P972	Anna Allen Wright	Smithsonian Institution	catalog
+Q21395107	Q131626	P972	Carole C. Baldwin	Smithsonian Institution	catalog
+Q21587142	Q131626	P972	Catharine Macfarlane	Smithsonian Institution	catalog
+Q22277734	Q131626	P972	Pepi Fabbiano	Smithsonian Institution	catalog
+Q27978699	Q131626	P972	Marie Agnes Hinrichs	Smithsonian Institution	catalog
+Q28971404	Q131626	P972	Denise Breitburg	Smithsonian Institution	catalog
+Q33868249	Q131626	P972	Helen S. Conant	Smithsonian Institution	catalog
+Q33960412	Q131626	P972	Elizabeth Cottrell	Smithsonian Institution	catalog
+Q33960574	Q131626	P972	Carla J. Dove	Smithsonian Institution	catalog
+Q33984718	Q131626	P972	Andrea K. Dupree	Smithsonian Institution	catalog
+Q34017601	Q131626	P972	Sara Hallager	Smithsonian Institution	catalog
+Q34066380	Q131626	P972	Genevieve Estelle Jones	Smithsonian Institution	catalog
+Q34129546	Q131626	P972	Barbara Kegerreis Lunde	Smithsonian Institution	catalog
+Q34223218	Q131626	P972	Margaret Mann Lesley	Smithsonian Institution	catalog
+Q34412782	Q131626	P972	Melissa K. McCormick	Smithsonian Institution	catalog
+Q34472072	Q131626	P972	Mary Elizabeth Hickox Mandels	Smithsonian Institution	catalog
+Q34475352	Q131626	P972	Jeanne Helen Osiecki	Smithsonian Institution	catalog
+Q34475503	Q131626	P972	Copper Aitken-Palmer	Smithsonian Institution	catalog
+Q34769737	Q131626	P972	Briana L. Pobiner	Smithsonian Institution	catalog
+Q34770210	Q131626	P972	Fern P. Rathe	Smithsonian Institution	catalog
+Q34823585	Q131626	P972	Eileen R. L. Reed	Smithsonian Institution	catalog
+Q34953876	Q131626	P972	Mary E. Rice	Smithsonian Institution	catalog
+Q35208519	Q131626	P972	Elsie Pomeroy McElroy Slater	Smithsonian Institution	catalog
+Q35208659	Q131626	P972	Brandie Smith	Smithsonian Institution	catalog
+Q35208793	Q131626	P972	Nucharin Songsasen	Smithsonian Institution	catalog
+Q35212355	Q131626	P972	Marion Winifred Sheahan	Smithsonian Institution	catalog
+Q2982905	Q15956984	P972	Collection of the National Gallery, London	Catalogue of paintings in the National Gallery, London	catalog
+Q570600	Q16867176	P972	listed building in the United Kingdom	Statutory List of Buildings of Special Architectural or Historic Interest	catalog
+Q2216488	Q17280671	P972	Sam Hall	Laws ballad number	catalog
+Q2500085	Q17280671	P972	Foggy Dew	Laws ballad number	catalog
+Q3216001	Q17280671	P972	Lady Franklin's Lament	Laws ballad number	catalog
+Q3612083	Q17280671	P972	All Around My Hat	Laws ballad number	catalog
+Q4655648	Q17280671	P972	A Brisk Young Sailor Courted Me	Laws ballad number	catalog
+Q913019	Q18669922	P972	Museums of Florence	1890 Florentine inventory	catalog
+Q3079004	Q21601964	P972	A View through Three of the North-Western Arches of the Third Storey of the Coliseum	Christoffer Wilhelm Eckersberg	catalog
+Q4812449	Q21601964	P972	At a Window in the Artist's Studio	Christoffer Wilhelm Eckersberg	catalog
+Q4310543	Q23009278	P972	Sommerdag ved Roskilde Fjord	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q54901216	Q6498184	P972	恩	Table of standardized forms for frequently used national characters	catalog
+Q54901683	Q6498184	P972	余	Table of standardized forms for frequently used national characters	catalog
+Q54911947	Q6498184	P972	城	Table of standardized forms for frequently used national characters	catalog
+Q54918611	Q6498184	P972	著	Table of standardized forms for frequently used national characters	catalog
+Q55381147	Q6498184	P972	嵐	Table of standardized forms for frequently used national characters	catalog
+Q55402228	Q6498184	P972	華	Table of standardized forms for frequently used national characters	catalog
+Q55406176	Q6498184	P972	俗	Table of standardized forms for frequently used national characters	catalog
+Q55408001	Q6498184	P972	如	Table of standardized forms for frequently used national characters	catalog
+Q55411310	Q6498184	P972	韓	Table of standardized forms for frequently used national characters	catalog
+Q55414014	Q6498184	P972	履	Table of standardized forms for frequently used national characters	catalog
+Q55414119	Q6498184	P972	幾	Table of standardized forms for frequently used national characters	catalog
+Q55414392	Q6498184	P972	慶	Table of standardized forms for frequently used national characters	catalog
+Q55414670	Q6498184	P972	揚	Table of standardized forms for frequently used national characters	catalog
+Q55634770	Q6498184	P972	樂	Table of standardized forms for frequently used national characters	catalog
+Q55646166	Q6498184	P972	舉	Table of standardized forms for frequently used national characters	catalog
+Q55648107	Q6498184	P972	溫	Table of standardized forms for frequently used national characters	catalog
+Q55648899	Q6498184	P972	巢	Table of standardized forms for frequently used national characters	catalog
+Q55670393	Q6498184	P972	氣	Table of standardized forms for frequently used national characters	catalog
+Q55753032	Q6498184	P972	絕	Table of standardized forms for frequently used national characters	catalog
+Q55759571	Q6498184	P972	几	Table of standardized forms for frequently used national characters	catalog
+Q55806623	Q6498184	P972	矩	Table of standardized forms for frequently used national characters	catalog
+Q55806688	Q6498184	P972	遇	Table of standardized forms for frequently used national characters	catalog
+Q55842039	Q6498184	P972	須	Table of standardized forms for frequently used national characters	catalog
+Q55852089	Q6498184	P972	氾	Table of standardized forms for frequently used national characters	catalog
+Q19901792	Q1386729	P972	Yaser Abdel Said	FBI Ten Most Wanted Fugitives	catalog
+Q22942851	Q2304309	P972	La Gratitude	South African Heritage Resources Agency	catalog
+Q22943473	Q2304309	P972	Hauptfleisch House	South African Heritage Resources Agency	catalog
+Q22944036	Q2304309	P972	Morkel House	South African Heritage Resources Agency	catalog
+Q22944315	Q2304309	P972	Devonshire House	South African Heritage Resources Agency	catalog
+Q22945633	Q2304309	P972	Oude Leeskamer	South African Heritage Resources Agency	catalog
+Q22945822	Q2304309	P972	Jannie Marais House	South African Heritage Resources Agency	catalog
+Q22946037	Q2304309	P972	Bletterman House	South African Heritage Resources Agency	catalog
+Q22946183	Q2304309	P972	Loubscher House	South African Heritage Resources Agency	catalog
+Q16695701	Q4412180	P972	Northern Cemetery, Rostov-on-Don	Northern Cemetery	catalog
+Q21405908	Q5016629	P972	Registered park or garden	Cadw/ICOMOS Register of Parks and Gardens of Special Historic Interest in Wales	catalog
+Q170071	Q27430435	P972	Josef Albers	Colección Patricia Phelps de Cisneros	catalog
+Q170071	Q27430435	P972	Josef Albers	Colección Patricia Phelps de Cisneros	catalog
+Q170071	Q27430435	P972	Josef Albers	Colección Patricia Phelps de Cisneros	catalog
+Q183438	Q27430435	P972	Gyula Kosice	Colección Patricia Phelps de Cisneros	catalog
+Q15760734	Q1227538	P972	Anuario Musical	Directory of Open Access Journals	catalog
+Q19813896	Q1227538	P972	Contexto revista de la facultad de arquitectura de la UANL	Directory of Open Access Journals	catalog
+Q21003543	Q1227538	P972	Revista Española de Discapacidad	Directory of Open Access Journals	catalog
+Q21666135	Q1227538	P972	Ius humani. Law Review	Directory of Open Access Journals	catalog
+Q22671430	Q1227538	P972	Colombia Médica	Directory of Open Access Journals	catalog
+Q24935648	Q1227538	P972	Avances en Química	Directory of Open Access Journals	catalog
+Q14619896	Q15088302	P972	The Mona Lisa by Leonardo da Vinci	The Mona Lisa by Leonardo da Vinci	catalog
+Q15283995	Q15284018	P972	Johannes Vermeer	Johannes Vermeer	catalog
+Q15286337	Q15290547	P972	The public and the private in the age of Vermeer	The public and the private in the age of Vermeer	catalog
+Q4837790	Q17280671	P972	Babes in the Wood	Laws ballad number	catalog
+Q5138220	Q17280671	P972	Coast of High Barbaree	Laws ballad number	catalog
+Q5138220	Q17280671	P972	Coast of High Barbaree	Laws ballad number	catalog
+Q5138220	Q17280671	P972	Coast of High Barbaree	Laws ballad number	catalog
+Q5429769	Q17280671	P972	Fair Charlotte	Laws ballad number	catalog
+Q5602388	Q17280671	P972	Green Bushes	Laws ballad number	catalog
+Q6267657	Q17280671	P972	Johnny Sands	Laws ballad number	catalog
+Q7225838	Q17280671	P972	Polly Vaughn	Laws ballad number	catalog
+Q7242269	Q17280671	P972	Pretty Polly	Laws ballad number	catalog
+Q7571564	Q17280671	P972	Sovay	Laws ballad number	catalog
+Q7719137	Q17280671	P972	The Bonny Bunch of Roses	Laws ballad number	catalog
+Q7719829	Q17280671	P972	The Bramble Briar	Laws ballad number	catalog
+Q7768958	Q17280671	P972	The Three Butchers	Laws ballad number	catalog
+Q7771474	Q17280671	P972	The Unfortunate Rake	Laws ballad number	catalog
+Q12005789	Q17280671	P972	The Girl I Left Behind	Laws ballad number	catalog
+Q7309375	Q21405859	P972	Registered Battlefield	Register of Historic Battlefields	catalog
+Q6644913	Q22344483	P972	A nude woman doing her hair before a mirror	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q6644913	Q22672142	P972	A nude woman doing her hair before a mirror	Der Maler C. W. Eckersberg	catalog
+Q28870199	Q1227538	P972	Revista Catalana de Dret Públic	Directory of Open Access Journals	catalog
+Q53673367	Q1227538	P972	JNBS	Directory of Open Access Journals	catalog
+Q47611720	Q1386729	P972	Bhadreshkumar Chetanbhai Patel	FBI Ten Most Wanted Fugitives	catalog
+Q47611828	Q1386729	P972	Santiago Villalba Mederos	FBI Ten Most Wanted Fugitives	catalog
+Q47611957	Q1386729	P972	Alejandro Castillo	FBI Ten Most Wanted Fugitives	catalog
+Q47612049	Q1386729	P972	Jesus Roberto Munguia	FBI Ten Most Wanted Fugitives	catalog
+Q12178430	Q1386729	P972	Ahlam Tamimi	FBI Ten Most Wanted Fugitives	catalog
+Q50126680	Q3019624	P972	Korea — Import Bans, and Testing and Certification Requirements for Radionuclides	Dispute settlement in the World Trade Organization	catalog
+Q30014891	Q3485482	P972	Turku Student Village West	Cultural heritage sites of national significance in Finland	catalog
+Q56816053	Q3567483	P972	Figurehead of 'Samuel Plimsoll'	Western Australian Museum	catalog
+Q20675619	Q131626	P972	Muriel Mussells Seyfert	Smithsonian Institution	catalog
+Q21340801	Q131626	P972	Winona Hazel Welch	Smithsonian Institution	catalog
+Q21391556	Q131626	P972	Anna Allen Wright	Smithsonian Institution	catalog
+Q21395107	Q131626	P972	Carole C. Baldwin	Smithsonian Institution	catalog
+Q21587142	Q131626	P972	Catharine Macfarlane	Smithsonian Institution	catalog
+Q22277734	Q131626	P972	Pepi Fabbiano	Smithsonian Institution	catalog
+Q27978699	Q131626	P972	Marie Agnes Hinrichs	Smithsonian Institution	catalog
+Q28971404	Q131626	P972	Denise Breitburg	Smithsonian Institution	catalog
+Q33868249	Q131626	P972	Helen S. Conant	Smithsonian Institution	catalog
+Q33960412	Q131626	P972	Elizabeth Cottrell	Smithsonian Institution	catalog
+Q33960574	Q131626	P972	Carla J. Dove	Smithsonian Institution	catalog
+Q33984718	Q131626	P972	Andrea K. Dupree	Smithsonian Institution	catalog
+Q34017601	Q131626	P972	Sara Hallager	Smithsonian Institution	catalog
+Q34066380	Q131626	P972	Genevieve Estelle Jones	Smithsonian Institution	catalog
+Q34129546	Q131626	P972	Barbara Kegerreis Lunde	Smithsonian Institution	catalog
+Q34223218	Q131626	P972	Margaret Mann Lesley	Smithsonian Institution	catalog
+Q34412782	Q131626	P972	Melissa K. McCormick	Smithsonian Institution	catalog
+Q34472072	Q131626	P972	Mary Elizabeth Hickox Mandels	Smithsonian Institution	catalog
+Q34475352	Q131626	P972	Jeanne Helen Osiecki	Smithsonian Institution	catalog
+Q34475503	Q131626	P972	Copper Aitken-Palmer	Smithsonian Institution	catalog
+Q34769737	Q131626	P972	Briana L. Pobiner	Smithsonian Institution	catalog
+Q34770210	Q131626	P972	Fern P. Rathe	Smithsonian Institution	catalog
+Q34823585	Q131626	P972	Eileen R. L. Reed	Smithsonian Institution	catalog
+Q34953876	Q131626	P972	Mary E. Rice	Smithsonian Institution	catalog
+Q9068480	Q1227538	P972	Revista Pediatría de Atención Primaria	Directory of Open Access Journals	catalog
+Q10551413	Q1227538	P972	Journal of Conflictology	Directory of Open Access Journals	catalog
+Q15751392	Q1227538	P972	Anuario de Estudios Americanos	Directory of Open Access Journals	catalog
+Q15751449	Q1227538	P972	Anuario de Estudios Medievales	Directory of Open Access Journals	catalog
+Q15759353	Q1227538	P972	Al- Qantara	Directory of Open Access Journals	catalog
+Q12321107	Q1269747	P972	Kald det kærlighed	Danish Culture Canon	catalog
+Q12321107	Q1269747	P972	Kald det kærlighed	Danish Culture Canon	catalog
+Q12321107	Q1269747	P972	Kald det kærlighed	Danish Culture Canon	catalog
+Q317888	Q27430435	P972	Ferdinand Konrad Bellermann	Colección Patricia Phelps de Cisneros	catalog
+Q438248	Q27430435	P972	Marisol Escobar	Colección Patricia Phelps de Cisneros	catalog
+Q455070	Q27430435	P972	Lothar Baumgarten	Colección Patricia Phelps de Cisneros	catalog
+Q463639	Q27430435	P972	Ana Mendieta	Colección Patricia Phelps de Cisneros	catalog
+Q519367	Q27430435	P972	Jesús Rafael Soto	Colección Patricia Phelps de Cisneros	catalog
+Q528501	Q27430435	P972	Liliana Porter	Colección Patricia Phelps de Cisneros	catalog
+Q15087813	Q15088275	P972	Mona Lisa Exhibition	Mona Riza ten / Exposition la Joconde	catalog
+Q15127544	Q15127521	P972	The Great Bronze Age of China	The Great Bronze Age of China: An Exhibition from The People's Republic of China	catalog
+Q15273842	Q15273857	P972	1808 Salon	Catalogue of the 1808 Salon	catalog
+Q15274985	Q15275009	P972	Dominique-Vivant Denon: l'oeil de Napoléon	Dominique Vivant Denon, l’œil de Napoléon	catalog
+Q15726974	Q15727339	P972	Salon of 1785	Explication des peintures, sculptures et gravures des messieurs de l'Académie royale	catalog
+Q16943988	Q17166797	P972	Bryson Burroughs	Dictionary of Art Historians	catalog
+Q16943988	Q17166797	P972	Bryson Burroughs	Dictionary of Art Historians	catalog
+Q16943988	Q17166797	P972	Bryson Burroughs	Dictionary of Art Historians	catalog
+Q20275618	Q17280421	P972	A Peasant Woman Digging in Front of Her Cottage	J.-B. de la Faille: L'Œuvre de Vincent van Gogh, catalogue raisonné	catalog
+Q13107262	Q17280428	P972	Sorrow	The works of Vincent van Gogh: His Paintings and Drawings (revised, augmented and annotated edition)	catalog
+Q13107262	Q17280428	P972	Sorrow	The works of Vincent van Gogh: His Paintings and Drawings (revised, augmented and annotated edition)	catalog
+Q13107262	Q17280428	P972	Sorrow	The works of Vincent van Gogh: His Paintings and Drawings (revised, augmented and annotated edition)	catalog
+Q20275618	Q17280428	P972	A Peasant Woman Digging in Front of Her Cottage	The works of Vincent van Gogh: His Paintings and Drawings (revised, augmented and annotated edition)	catalog
+Q20275618	Q19833315	P972	A Peasant Woman Digging in Front of Her Cottage	The New Complete Van Gogh: Fully revised and enlarged edition of the Catalogue raisonné	catalog
+Q20183569	Q21601964	P972	View of the Cloaca Maxima, Rome	Christoffer Wilhelm Eckersberg	catalog
+Q20267721	Q21601964	P972	Two Sheperds	Christoffer Wilhelm Eckersberg	catalog
+Q20267747	Q21601964	P972	Landscape with a Stile. The Isle of Møn	Christoffer Wilhelm Eckersberg	catalog
+Q20268525	Q21601964	P972	A View from the Château of Meudon	Christoffer Wilhelm Eckersberg	catalog
+Q20354438	Q21601964	P972	The Return of Ulysses. Scene from Homer´s Ulysses	Christoffer Wilhelm Eckersberg	catalog
+Q20354855	Q21601964	P972	View of the Park of Liselund Manor on the Island of Møn	Christoffer Wilhelm Eckersberg	catalog
+Q20355690	Q21601964	P972	Reclining Female Nude	Christoffer Wilhelm Eckersberg	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q19060876	Q131626	P972	Victoria Ann Funk	Smithsonian Institution	catalog
+Q19613504	Q131626	P972	Edith Kroupa	Smithsonian Institution	catalog
+Q19613610	Q131626	P972	Pauline Kirby	Smithsonian Institution	catalog
+Q19865330	Q131626	P972	Wilmatte Porter Cockerell	Smithsonian Institution	catalog
+Q19865667	Q131626	P972	Laurel van der Wal	Smithsonian Institution	catalog
+Q19874182	Q131626	P972	Janine Brown	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q19060876	Q131626	P972	Victoria Ann Funk	Smithsonian Institution	catalog
+Q19613504	Q131626	P972	Edith Kroupa	Smithsonian Institution	catalog
+Q19613610	Q131626	P972	Pauline Kirby	Smithsonian Institution	catalog
+Q19865330	Q131626	P972	Wilmatte Porter Cockerell	Smithsonian Institution	catalog
+Q19865667	Q131626	P972	Laurel van der Wal	Smithsonian Institution	catalog
+Q19874182	Q131626	P972	Janine Brown	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q18716123	Q131626	P972	Rose E. Collom	Smithsonian Institution	catalog
+Q19060876	Q131626	P972	Victoria Ann Funk	Smithsonian Institution	catalog
+Q19613504	Q131626	P972	Edith Kroupa	Smithsonian Institution	catalog
+Q19613610	Q131626	P972	Pauline Kirby	Smithsonian Institution	catalog
+Q19865330	Q131626	P972	Wilmatte Porter Cockerell	Smithsonian Institution	catalog
+Q19865667	Q131626	P972	Laurel van der Wal	Smithsonian Institution	catalog
+Q19874182	Q131626	P972	Janine Brown	Smithsonian Institution	catalog
+Q56235694	Q14941454	P972	鸟	Table of General Standard Chinese Characters	catalog
+Q56235892	Q14941454	P972	乌	Table of General Standard Chinese Characters	catalog
+Q56236016	Q14941454	P972	汪	Table of General Standard Chinese Characters	catalog
+Q56238690	Q14941454	P972	爱	Table of General Standard Chinese Characters	catalog
+Q56239223	Q14941454	P972	於	Table of General Standard Chinese Characters	catalog
+Q56243039	Q14941454	P972	鱼	Table of General Standard Chinese Characters	catalog
+Q56253938	Q14941454	P972	茹	Table of General Standard Chinese Characters	catalog
+Q56257329	Q14941454	P972	哈	Table of General Standard Chinese Characters	catalog
+Q56417604	Q14941454	P972	亮	Table of General Standard Chinese Characters	catalog
+Q56434299	Q14941454	P972	也	Table of General Standard Chinese Characters	catalog
+Q56440655	Q14941454	P972	儿	Table of General Standard Chinese Characters	catalog
+Q56458885	Q14941454	P972	而	Table of General Standard Chinese Characters	catalog
+Q56459332	Q14941454	P972	之	Table of General Standard Chinese Characters	catalog
+Q56598491	Q14941454	P972	龙	Table of General Standard Chinese Characters	catalog
+Q56235694	Q14941454	P972	鸟	Table of General Standard Chinese Characters	catalog
+Q56235892	Q14941454	P972	乌	Table of General Standard Chinese Characters	catalog
+Q56236016	Q14941454	P972	汪	Table of General Standard Chinese Characters	catalog
+Q56238690	Q14941454	P972	爱	Table of General Standard Chinese Characters	catalog
+Q56239223	Q14941454	P972	於	Table of General Standard Chinese Characters	catalog
+Q56243039	Q14941454	P972	鱼	Table of General Standard Chinese Characters	catalog
+Q56253938	Q14941454	P972	茹	Table of General Standard Chinese Characters	catalog
+Q56257329	Q14941454	P972	哈	Table of General Standard Chinese Characters	catalog
+Q56417604	Q14941454	P972	亮	Table of General Standard Chinese Characters	catalog
+Q56434299	Q14941454	P972	也	Table of General Standard Chinese Characters	catalog
+Q56440655	Q14941454	P972	儿	Table of General Standard Chinese Characters	catalog
+Q56458885	Q14941454	P972	而	Table of General Standard Chinese Characters	catalog
+Q56459332	Q14941454	P972	之	Table of General Standard Chinese Characters	catalog
+Q56598491	Q14941454	P972	龙	Table of General Standard Chinese Characters	catalog
+Q309635	Q17298559	P972	Pietro Lorenzetti	Sandrart.net	catalog
+Q604340	Q27430435	P972	Hélio Oiticica	Colección Patricia Phelps de Cisneros	catalog
+Q722119	Q27430435	P972	Ferreira Gullar	Colección Patricia Phelps de Cisneros	catalog
+Q734714	Q27430435	P972	Martín Blaszko	Colección Patricia Phelps de Cisneros	catalog
+Q828860	Q27430435	P972	Sérgio Camargo	Colección Patricia Phelps de Cisneros	catalog
+Q858635	Q27430435	P972	Carmelo Arden Quin	Colección Patricia Phelps de Cisneros	catalog
+Q949563	Q27430435	P972	Amílcar de Castro	Colección Patricia Phelps de Cisneros	catalog
+Q1042835	Q27430435	P972	Carlos Cruz-Díez	Colección Patricia Phelps de Cisneros	catalog
+Q1042835	Q27430435	P972	Carlos Cruz-Diez	Colección Patricia Phelps de Cisneros	catalog
+Q1042835	Q27430435	P972	Carlos Cruz-Diez	Colección Patricia Phelps de Cisneros	catalog
+Q55806623	Q14941454	P972	矩	Table of General Standard Chinese Characters	catalog
+Q55806688	Q14941454	P972	遇	Table of General Standard Chinese Characters	catalog
+Q55852089	Q14941454	P972	氾	Table of General Standard Chinese Characters	catalog
+Q55868498	Q14941454	P972	每	Table of General Standard Chinese Characters	catalog
+Q55958424	Q14941454	P972	彗	Table of General Standard Chinese Characters	catalog
+Q56066090	Q14941454	P972	莫	Table of General Standard Chinese Characters	catalog
+Q56085695	Q14941454	P972	马	Table of General Standard Chinese Characters	catalog
+Q56224550	Q14941454	P972	或	Table of General Standard Chinese Characters	catalog
+Q56225673	Q14941454	P972	胡	Table of General Standard Chinese Characters	catalog
+Q55806623	Q14941454	P972	矩	Table of General Standard Chinese Characters	catalog
+Q55806688	Q14941454	P972	遇	Table of General Standard Chinese Characters	catalog
+Q55852089	Q14941454	P972	氾	Table of General Standard Chinese Characters	catalog
+Q55868498	Q14941454	P972	每	Table of General Standard Chinese Characters	catalog
+Q55958424	Q14941454	P972	彗	Table of General Standard Chinese Characters	catalog
+Q56066090	Q14941454	P972	莫	Table of General Standard Chinese Characters	catalog
+Q56085695	Q14941454	P972	马	Table of General Standard Chinese Characters	catalog
+Q56224550	Q14941454	P972	或	Table of General Standard Chinese Characters	catalog
+Q56225673	Q14941454	P972	胡	Table of General Standard Chinese Characters	catalog
+Q25141765	Q22074501	P972	Johan Christian Dahl 1788-1857. Jubilee Exhibition 1988	Johan Christian Dahl 1788-1857. Jubilee Exhibition 1988	catalog
+Q38134014	Q21064348	P972	An Ordinary Man	Patricia Phelps de Cisneros	catalog
+Q38135677	Q21064348	P972	Tomás Maldonado in conversation with / en conversación con María Amalia García	Patricia Phelps de Cisneros	catalog
+Q20379567	Q21601964	P972	Loki and Sigyn	Christoffer Wilhelm Eckersberg	catalog
+Q20433776	Q21601964	P972	Pont Royal seen from Quai Voltaire	Christoffer Wilhelm Eckersberg	catalog
+Q20440724	Q21601964	P972	Alcyone's Farewell to her Husband. From Ovid's Metamorphoses, Song XI	Christoffer Wilhelm Eckersberg	catalog
+Q20491185	Q21601964	P972	Porta Angelica and Part of the Vatican	Christoffer Wilhelm Eckersberg	catalog
+Q20540246	Q21601964	P972	Langebro, Copenhagen, in the Moonlight with Running Figures	Christoffer Wilhelm Eckersberg	catalog
+Q20540647	Q21601964	P972	Self-Portrait	Christoffer Wilhelm Eckersberg	catalog
+Q21045558	Q21601964	P972	Portrait of the model Maddalena or Anna Maria Uhden	Christoffer Wilhelm Eckersberg	catalog
+Q22667570	Q21601964	P972	A sailor taking leave of his girl	Christoffer Wilhelm Eckersberg	catalog
+Q22667700	Q21601964	P972	Naked Woman putting on her Slippers	Christoffer Wilhelm Eckersberg	catalog
+Q21065837	Q22344483	P972	The model Stella	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q29639528	Q22344483	P972	The astronomer Ole Rømer	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q29639624	Q22344483	P972	The Princess Leonora Christina leaving prison	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q47501050	Q22344483	P972	View of the interior of the Colosseum	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q47543354	Q22344483	P972	A forest lake surrounded by birches. Study	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q48451679	Q22344483	P972	View of the northern gate of the Citadel from the bastion east of the bridge	The Hirschsprung Collection of Works by Danish Artists	catalog
+Q21011357	Q23009278	P972	Mogenstrup Church	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q154448	Q27430435	P972	Victor Vasarely	Colección Patricia Phelps de Cisneros	catalog
+Q154448	Q27430435	P972	Victor Vasarely	Colección Patricia Phelps de Cisneros	catalog
+Q154448	Q27430435	P972	Victor Vasarely	Colección Patricia Phelps de Cisneros	catalog
+Q16727713	Q131626	P972	Kari Bruwelheide	Smithsonian Institution	catalog
+Q16750534	Q131626	P972	Marjorie Van de Water	Smithsonian Institution	catalog
+Q16750599	Q131626	P972	Harriet Richardson	Smithsonian Institution	catalog
+Q17011165	Q131626	P972	Sandra Welner	Smithsonian Institution	catalog
+Q1747401	Q27430435	P972	Mira Schendel	Colección Patricia Phelps de Cisneros	catalog
+Q1788014	Q27430435	P972	Alfredo Volpi	Colección Patricia Phelps de Cisneros	catalog
+Q1788014	Q27430435	P972	Alfredo Volpi	Colección Patricia Phelps de Cisneros	catalog
+Q1788014	Q27430435	P972	Alfredo Volpi	Colección Patricia Phelps de Cisneros	catalog
+Q1791068	Q27430435	P972	Franz Weissmann	Colección Patricia Phelps de Cisneros	catalog
+Q1791520	Q27430435	P972	Lygia Clark	Colección Patricia Phelps de Cisneros	catalog
+Q1791520	Q27430435	P972	Lygia Clark	Colección Patricia Phelps de Cisneros	catalog
+Q1791520	Q27430435	P972	Lygia Clark	Colección Patricia Phelps de Cisneros	catalog
+Q2117224	Q27430435	P972	Alejandro Otero	Colección Patricia Phelps de Cisneros	catalog
+Q2637621	Q27430435	P972	Albert Berg	Colección Patricia Phelps de Cisneros	catalog
+Q2698511	Q27430435	P972	Gego	Colección Patricia Phelps de Cisneros	catalog
+Q16006978	Q131626	P972	Helen Duncan	Smithsonian Institution	catalog
+Q16007666	Q131626	P972	Pauline Gracia Beery Mack	Smithsonian Institution	catalog
+Q16009944	Q131626	P972	Charlotte Gower Chapman	Smithsonian Institution	catalog
+Q16012695	Q131626	P972	Miriam Elizabeth Simpson	Smithsonian Institution	catalog
+Q16019095	Q131626	P972	JoGayle Howard	Smithsonian Institution	catalog
+Q16066937	Q131626	P972	Edna H. Fawcett	Smithsonian Institution	catalog
+Q16122226	Q131626	P972	Eva J. Pell	Smithsonian Institution	catalog
+Q16247008	Q131626	P972	Mary Hagedorn	Smithsonian Institution	catalog
+Q16727713	Q131626	P972	Kari Bruwelheide	Smithsonian Institution	catalog
+Q16750534	Q131626	P972	Marjorie Van de Water	Smithsonian Institution	catalog
+Q16750599	Q131626	P972	Harriet Richardson	Smithsonian Institution	catalog
+Q17011165	Q131626	P972	Sandra Welner	Smithsonian Institution	catalog
+Q16006978	Q131626	P972	Helen Duncan	Smithsonian Institution	catalog
+Q16007666	Q131626	P972	Pauline Gracia Beery Mack	Smithsonian Institution	catalog
+Q16009944	Q131626	P972	Charlotte Gower Chapman	Smithsonian Institution	catalog
+Q16012695	Q131626	P972	Miriam Elizabeth Simpson	Smithsonian Institution	catalog
+Q16019095	Q131626	P972	JoGayle Howard	Smithsonian Institution	catalog
+Q16066937	Q131626	P972	Edna H. Fawcett	Smithsonian Institution	catalog
+Q16122226	Q131626	P972	Eva J. Pell	Smithsonian Institution	catalog
+Q16247008	Q131626	P972	Mary Hagedorn	Smithsonian Institution	catalog
+Q16727713	Q131626	P972	Kari Bruwelheide	Smithsonian Institution	catalog
+Q16750534	Q131626	P972	Marjorie Van de Water	Smithsonian Institution	catalog
+Q16750599	Q131626	P972	Harriet Richardson	Smithsonian Institution	catalog
+Q17011165	Q131626	P972	Sandra Welner	Smithsonian Institution	catalog
+Q16006978	Q131626	P972	Helen Duncan	Smithsonian Institution	catalog
+Q16007666	Q131626	P972	Pauline Gracia Beery Mack	Smithsonian Institution	catalog
+Q16009944	Q131626	P972	Charlotte Gower Chapman	Smithsonian Institution	catalog
+Q16012695	Q131626	P972	Miriam Elizabeth Simpson	Smithsonian Institution	catalog
+Q16019095	Q131626	P972	JoGayle Howard	Smithsonian Institution	catalog
+Q16066937	Q131626	P972	Edna H. Fawcett	Smithsonian Institution	catalog
+Q16122226	Q131626	P972	Eva J. Pell	Smithsonian Institution	catalog
+Q16247008	Q131626	P972	Mary Hagedorn	Smithsonian Institution	catalog
+Q55634770	Q485267	P972	樂	Basic Hanja for educational use	catalog
+Q55645395	Q485267	P972	擧	Basic Hanja for educational use	catalog
+Q55670393	Q485267	P972	氣	Basic Hanja for educational use	catalog
+Q55753032	Q485267	P972	絕	Basic Hanja for educational use	catalog
+Q55806688	Q485267	P972	遇	Basic Hanja for educational use	catalog
+Q55842039	Q485267	P972	須	Basic Hanja for educational use	catalog
+Q55868498	Q485267	P972	每	Basic Hanja for educational use	catalog
+Q56066090	Q485267	P972	莫	Basic Hanja for educational use	catalog
+Q56224463	Q485267	P972	國	Basic Hanja for educational use	catalog
+Q56224550	Q485267	P972	或	Basic Hanja for educational use	catalog
+Q56225673	Q485267	P972	胡	Basic Hanja for educational use	catalog
+Q56235957	Q485267	P972	烏	Basic Hanja for educational use	catalog
+Q56239223	Q485267	P972	於	Basic Hanja for educational use	catalog
+Q56242319	Q485267	P972	餘	Basic Hanja for educational use	catalog
+Q56434299	Q485267	P972	也	Basic Hanja for educational use	catalog
+Q56458227	Q485267	P972	兒	Basic Hanja for educational use	catalog
+Q56458885	Q485267	P972	而	Basic Hanja for educational use	catalog
+Q56459332	Q485267	P972	之	Basic Hanja for educational use	catalog
+Q56598286	Q485267	P972	龍	Basic Hanja for educational use	catalog
+Q55868498	Q6498184	P972	每	Table of standardized forms for frequently used national characters	catalog
+Q55958424	Q6498184	P972	彗	Table of standardized forms for frequently used national characters	catalog
+Q56066090	Q6498184	P972	莫	Table of standardized forms for frequently used national characters	catalog
+Q56224463	Q6498184	P972	國	Table of standardized forms for frequently used national characters	catalog
+Q56224550	Q6498184	P972	或	Table of standardized forms for frequently used national characters	catalog
+Q56225673	Q6498184	P972	胡	Table of standardized forms for frequently used national characters	catalog
+Q56235957	Q6498184	P972	烏	Table of standardized forms for frequently used national characters	catalog
+Q56236016	Q6498184	P972	汪	Table of standardized forms for frequently used national characters	catalog
+Q56239223	Q6498184	P972	於	Table of standardized forms for frequently used national characters	catalog
+Q56242319	Q6498184	P972	餘	Table of standardized forms for frequently used national characters	catalog
+Q56253938	Q6498184	P972	茹	Table of standardized forms for frequently used national characters	catalog
+Q56257329	Q6498184	P972	哈	Table of standardized forms for frequently used national characters	catalog
+Q56417604	Q6498184	P972	亮	Table of standardized forms for frequently used national characters	catalog
+Q56434299	Q6498184	P972	也	Table of standardized forms for frequently used national characters	catalog
+Q56458227	Q6498184	P972	兒	Table of standardized forms for frequently used national characters	catalog
+Q56458885	Q6498184	P972	而	Table of standardized forms for frequently used national characters	catalog
+Q56459332	Q6498184	P972	之	Table of standardized forms for frequently used national characters	catalog
+Q56598286	Q6498184	P972	龍	Table of standardized forms for frequently used national characters	catalog
+Q3573662	Q24033617	P972	Rolde: revista de cultura aragonesa	MIAR	catalog
+Q3573662	Q24033617	P972	Rolde: revista de cultura aragonesa	MIAR	catalog
+Q3573662	Q24033617	P972	Rolde: revista de cultura aragonesa	MIAR	catalog
+Q1234182	Q24033617	P972	Les Temps modernes	MIAR	catalog
+Q1234182	Q24033617	P972	Les Temps modernes	MIAR	catalog
+Q1234182	Q24033617	P972	Les Temps modernes	MIAR	catalog
+Q6644913	Q23772825	P972	A nude woman doing her hair before a mirror	Den nøgne guldalder	catalog
+Q6107020	Q24033617	P972	Revista Española de Pedagogía	MIAR	catalog
+Q6107020	Q24033617	P972	Revista Española de Pedagogía	MIAR	catalog
+Q6107020	Q24033617	P972	Revista Española de Pedagogía	MIAR	catalog
+Q5503447	Q27430435	P972	Frida Baranek	Colección Patricia Phelps de Cisneros	catalog
+Q2871081	Q27430435	P972	Auguste Borget	Colección Patricia Phelps de Cisneros	catalog
+Q3187731	Q27430435	P972	Juan Melé	Colección Patricia Phelps de Cisneros	catalog
+Q3773732	Q27430435	P972	Lygia Pape	Colección Patricia Phelps de Cisneros	catalog
+Q4080599	Q27430435	P972	José Bedia Valdés	Colección Patricia Phelps de Cisneros	catalog
+Q4832636	Q27430435	P972	Aziz + Cucher	Colección Patricia Phelps de Cisneros	catalog
+Q5075555	Q27430435	P972	Charles Bentley	Colección Patricia Phelps de Cisneros	catalog
+Q5442420	Q27430435	P972	Feliza Bursztyn	Colección Patricia Phelps de Cisneros	catalog
+Q1397207	Q27430435	P972	William John Burchell	Colección Patricia Phelps de Cisneros	catalog
+Q1586369	Q27430435	P972	Harry Abend	Colección Patricia Phelps de Cisneros	catalog
+Q1676900	Q27430435	P972	Jac Leirner	Colección Patricia Phelps de Cisneros	catalog
+Q1684668	Q27430435	P972	Jean-Baptiste Louis Gros	Colección Patricia Phelps de Cisneros	catalog
+Q1721032	Q27430435	P972	Tomás Maldonado	Colección Patricia Phelps de Cisneros	catalog
+Q1721032	Q27430435	P972	Tomás Maldonado	Colección Patricia Phelps de Cisneros	catalog
+Q1721032	Q27430435	P972	Tomás Maldonado	Colección Patricia Phelps de Cisneros	catalog
+Q5697481	Q27430435	P972	Anton Goering	Colección Patricia Phelps de Cisneros	catalog
+Q6005916	Q27430435	P972	Mateo Manaure	Colección Patricia Phelps de Cisneros	catalog
+Q6123726	Q27430435	P972	Jaime Davidovich	Colección Patricia Phelps de Cisneros	catalog
+Q7787363	Q27430435	P972	Thomas Bangs Thorpe	Colección Patricia Phelps de Cisneros	catalog
+Q9024950	Q27430435	P972	Luis Fernando Benedit	Colección Patricia Phelps de Cisneros	catalog
+Q10289122	Q27430435	P972	Geraldo de Barros	Colección Patricia Phelps de Cisneros	catalog
+Q10295124	Q27430435	P972	Hermelindo Fiaminghi	Colección Patricia Phelps de Cisneros	catalog
+Q10551413	Q24033617	P972	Journal of Conflictology	MIAR	catalog
+Q15716344	Q24033617	P972	International Labour Review	MIAR	catalog
+Q10551413	Q24033617	P972	Journal of Conflictology	MIAR	catalog
+Q15716344	Q24033617	P972	International Labour Review	MIAR	catalog
+Q10551413	Q24033617	P972	Journal of Conflictology	MIAR	catalog
+Q15716344	Q24033617	P972	International Labour Review	MIAR	catalog
+Q21011955	Q23009278	P972	The river and harbour at Frederiksværk	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q21014963	Q23009278	P972	Spring. Ebba and Sigrid Kähler	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q21039065	Q23009278	P972	The sick man	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q23008847	Q23009278	P972	Avenue at Ydernæs. Gavnø	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q23008851	Q23009278	P972	Portrait of Stella Kähler	Fortegnelse over Malerier og Studier af L. A. Ring i Aarene 1880-1910	catalog
+Q27723531	Q24033617	P972	Revista Española de Sanidad Penitenciaria	MIAR	catalog
+Q27723531	Q24033617	P972	Revista Española de Sanidad Penitenciaria	MIAR	catalog
+Q27723531	Q24033617	P972	Revista Española de Sanidad Penitenciaria	MIAR	catalog
+Q28976784	Q24033617	P972	Boletín de Arte	MIAR	catalog
+Q28976784	Q24033617	P972	Boletín de Arte	MIAR	catalog
+Q28976784	Q24033617	P972	Boletín de Arte	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q29023784	Q24033617	P972	P+C, proyecto y ciudad. Revista de temas de arquitectura	MIAR	catalog
+Q18211290	Q27430435	P972	Lidy Prati	Colección Patricia Phelps de Cisneros	catalog
+Q19758008	Q27430435	P972	Paulo Herkenhoff	Colección Patricia Phelps de Cisneros	catalog
+Q20016842	Q27430435	P972	Gaspar Gasparian	Colección Patricia Phelps de Cisneros	catalog
+Q20431755	Q27430435	P972	José Pedro Costigliolo	Colección Patricia Phelps de Cisneros	catalog
+Q20877457	Q27430435	P972	Raúl Lozza	Colección Patricia Phelps de Cisneros	catalog
+Q23907172	Q27430435	P972	Laura Anderson Barbata	Colección Patricia Phelps de Cisneros	catalog
+Q23954779	Q27430435	P972	Juan Araújo	Colección Patricia Phelps de Cisneros	catalog
+Q27093753	Q27430435	P972	Ivan Serpa	Colección Patricia Phelps de Cisneros	catalog
+Q27734167	Q27430435	P972	Antonieta Sosa	Colección Patricia Phelps de Cisneros	catalog
+Q27955350	Q27430435	P972	María Eugenia Arria	Colección Patricia Phelps de Cisneros	catalog
+Q28502170	Q27430435	P972	Quisqueya Henríquez	Colección Patricia Phelps de Cisneros	catalog
+Q28502174	Q27430435	P972	Nan González	Colección Patricia Phelps de Cisneros	catalog
+Q28663089	Q27430435	P972	Aluísio Carvão	Colección Patricia Phelps de Cisneros	catalog
+Q10299234	Q27430435	P972	Hércules Barsotti	Colección Patricia Phelps de Cisneros	catalog
+Q10393749	Q27430435	P972	Willys de Castro	Colección Patricia Phelps de Cisneros	catalog
+Q13403262	Q27430435	P972	Alfredo Hlito	Colección Patricia Phelps de Cisneros	catalog
+Q15830095	Q27430435	P972	Sarah Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q16601346	Q27430435	P972	María Freire	Colección Patricia Phelps de Cisneros	catalog
+Q16940171	Q27430435	P972	Judith Lauand	Colección Patricia Phelps de Cisneros	catalog
+Q17486637	Q27430435	P972	Gregorio Vardánega	Colección Patricia Phelps de Cisneros	catalog
+Q25147506	Q25017022	P972	J.C. Dahl i Italien 1820-1821	J.C. Dahl in Italy 1820-1821	catalog
+Q25175731	Q25174989	P972	J.C. Dahl in Denmark	J.C. Dahl i Danmark	catalog
+Q28706781	Q27430435	P972	Rhod Rothfuss	Colección Patricia Phelps de Cisneros	catalog
+Q28709345	Q27430435	P972	Waldemar Cordeiro	Colección Patricia Phelps de Cisneros	catalog
+Q29032456	Q27430435	P972	Ariel Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q29032462	Q27430435	P972	To Draw in Space: Abstract Artists of Brazil and Venezuela in the Colección Patricia Phelps de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q29043205	Q27430435	P972	Cold America: Geometric Abstraction in Latin América (1934-1973) – English	Colección Patricia Phelps de Cisneros	catalog
+Q29043591	Q27430435	P972	Omar Carreño	Colección Patricia Phelps de Cisneros	catalog
+Q29044436	Q27430435	P972	Juan Alberto Molenberg	Colección Patricia Phelps de Cisneros	catalog
+Q29344432	Q27430435	P972	Vouloir construire / The Will to Construct	Colección Patricia Phelps de Cisneros	catalog
+Q29344468	Q27430435	P972	Manifesto 1	Colección Patricia Phelps de Cisneros	catalog
+Q29344751	Q27430435	P972	Concrete Invention: Colección Patricia Phelps De Cisneros; Reflections on Geometric Abstractions from Latin America and Its Legacy	Colección Patricia Phelps de Cisneros	catalog
+Q29345218	Q27430435	P972	Héctor Fuenmayor	Colección Patricia Phelps de Cisneros	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q29439056	Q24033617	P972	Anales de Historia del Arte	MIAR	catalog
+Q30002251	Q24033617	P972	Comunicar	MIAR	catalog
+Q30024525	Q24033617	P972	Anales de Literatura Española	MIAR	catalog
+Q43012588	Q24033617	P972	Boletín del Seminario de Estudios de Arte y Arqueología	MIAR	catalog
+Q43886554	Q24033617	P972	Revista Información Científica	MIAR	catalog
+Q30002251	Q24033617	P972	Comunicar	MIAR	catalog
+Q30024525	Q24033617	P972	Anales de Literatura Española	MIAR	catalog
+Q43012588	Q24033617	P972	Boletín del Seminario de Estudios de Arte y Arqueología	MIAR	catalog
+Q43886554	Q24033617	P972	Revista Información Científica	MIAR	catalog
+Q30002251	Q24033617	P972	Comunicar	MIAR	catalog
+Q30024525	Q24033617	P972	Anales de Literatura Española	MIAR	catalog
+Q43012588	Q24033617	P972	Boletín del Seminario de Estudios de Arte y Arqueología	MIAR	catalog
+Q43886554	Q24033617	P972	Revista Información Científica	MIAR	catalog
+Q30247039	Q27430435	P972	Toward 20th-Century Venezuelan Art	Colección Patricia Phelps de Cisneros	catalog
+Q30247058	Q27430435	P972	The Temptation of Purity	Colección Patricia Phelps de Cisneros	catalog
+Q30247065	Q27430435	P972	Ceci n’est pas un satellite = Esto no es un satelite. Obras contemporáneas de la Colección en DirecTV Venezuela	Colección Patricia Phelps de Cisneros	catalog
+Q30247070	Q27430435	P972	William H. Phelps in the Memory of his Grandson John Phelps	Colección Patricia Phelps de Cisneros	catalog
+Q30247077	Q27430435	P972	Orinoco: At the Encounter of the Indigenous People of the Venezuelan Amazon	Colección Patricia Phelps de Cisneros	catalog
+Q30247101	Q27430435	P972	Everyday Life in Venezuela During the Hispanic Period	Colección Patricia Phelps de Cisneros	catalog
+Q30247112	Q27430435	P972	Geometric Abstraction: Latin American Art from the Patricia Phelps de Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q30248969	Q27430435	P972	Misal Rico de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q30248986	Q27430435	P972	Diary of Auguste Morisot, 1886-1887	Colección Patricia Phelps de Cisneros	catalog
+Q30249009	Q27430435	P972	Paralelos. Brazilian Art from the Second Half of the Twentieth Century in Context	Colección Patricia Phelps de Cisneros	catalog
+Q30249015	Q27430435	P972	Auguste Morisot: A Painter in the Orinoco, 1886-1887	Colección Patricia Phelps de Cisneros	catalog
+Q30249620	Q27430435	P972	American Utopias. Constructive Horizons: The Latin American Perspective	Colección Patricia Phelps de Cisneros	catalog
+Q30251023	Q27430435	P972	Unfinished and Abstracted: Paul Cezanne, Twentieth-Century Painter in Spite of Himself	Colección Patricia Phelps de Cisneros	catalog
+Q30251061	Q27430435	P972	Manaka, In the Heart of the Orinoco	Colección Patricia Phelps de Cisneros	catalog
+Q30252638	Q27430435	P972	GEO-METRÍAS (MNAV)	Colección Patricia Phelps de Cisneros	catalog
+Q30252909	Q27430435	P972	Gego: Complete Works (1955-1990)	Colección Patricia Phelps de Cisneros	catalog
+Q30277598	Q27430435	P972	Conversations with Jesús Soto	Colección Patricia Phelps de Cisneros	catalog
+Q30299962	Q27430435	P972	Iosu Aramburu	Colección Patricia Phelps de Cisneros	catalog
+Q30300338	Q27430435	P972	Felipe Arturo	Colección Patricia Phelps de Cisneros	catalog
+Q30304177	Q27430435	P972	Adrián Balseca	Colección Patricia Phelps de Cisneros	catalog
+Q30342334	Q27430435	P972	GEO-METRÍAS (MALBA)	Colección Patricia Phelps de Cisneros	catalog
+Q30342729	Q27430435	P972	History of the Birthplace of Simón Bolívar	Colección Patricia Phelps de Cisneros	catalog
+Q30343186	Q27430435	P972	DIÁLOGOS. Arte Latinoamericano desde la Colección Cisneros (MNBA, Chile)	Colección Patricia Phelps de Cisneros	catalog
+Q30343258	Q27430435	P972	Private Devotion. Religious Painting of Small Format in Venezuela During the Spanish Period, 18th and 19th Centuries	Colección Patricia Phelps de Cisneros	catalog
+Q30343640	Q27430435	P972	Arte contemporáneo venezolano en la Colección Cisneros (1990-2004) – Museo de Arte Moderno Jesús Soto	Colección Patricia Phelps de Cisneros	catalog
+Q30343844	Q27430435	P972	Vida indígena en el Orinoco	Colección Patricia Phelps de Cisneros	catalog
+Q30344032	Q27430435	P972	DIÁLOGOS. Arte Latinoamericano desde la Colección Cisneros (Museo de Arte de Lima)	Colección Patricia Phelps de Cisneros	catalog
+Q30344258	Q27430435	P972	Arte contemporáneo venezolano en la Colección Cisneros (1990-2004) – Centro de Arte de Maracaibo Lía Bermúdez	Colección Patricia Phelps de Cisneros	catalog
+Q30344443	Q27430435	P972	The Shadows' Resistance: Alejandro Otero and Gego	Colección Patricia Phelps de Cisneros	catalog
+Q30344603	Q27430435	P972	DIÁLOGOS. Arte Latinoamericano desde la Colección Cisneros (MAMBO)	Colección Patricia Phelps de Cisneros	catalog
+Q30344728	Q27430435	P972	Orinoco – Venezuelan Indian Life in the Amazonian Region	Colección Patricia Phelps de Cisneros	catalog
+Q30369813	Q27430435	P972	The Classical Repertoire in Eighteenth and Nineteenth Century Venezuelan Furniture	Colección Patricia Phelps de Cisneros	catalog
+Q30380605	Q27430435	P972	Echoes and Contrasts. Contemporary Art in the Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q30905413	Q27430435	P972	Jennifer Hackshaw	Colección Patricia Phelps de Cisneros	catalog
+Q30954722	Q27430435	P972	Jaime Davidovich in conversation with / en conversación con Daniel R. Quiles	Colección Patricia Phelps de Cisneros	catalog
+Q31054280	Q27430435	P972	Waltercio Caldas in conversation with / en conversación con Ariel Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q32979518	Q27430435	P972	Carlos Cruz-Diez in conversation with / en conversación con Ariel Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q33041327	Q27430435	P972	Adele Nelson	Colección Patricia Phelps de Cisneros	catalog
+Q33041980	Q27430435	P972	Jac Leirner in conversation with / en conversación con Adele Nelson	Colección Patricia Phelps de Cisneros	catalog
+Q33044375	Q27430435	P972	Luis Camnitzer in conversation with / en conversación con Alexander Alberro	Colección Patricia Phelps de Cisneros	catalog
+Q33046359	Q27430435	P972	Gyula Kosice in conversation with / en conversación con Gabriel Pérez-Barreiro	Colección Patricia Phelps de Cisneros	catalog
+Q33046812	Q27430435	P972	Jesús Soto in conversation with / en conversación con Ariel Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q33260673	Q27430435	P972	Esso Álvarez	Colección Patricia Phelps de Cisneros	catalog
+Q33264832	Q27430435	P972	Surpik Angelini	Colección Patricia Phelps de Cisneros	catalog
+Q51368059	Q27430435	P972	View of the Valley of Mexico with Volcanoes and the Texcoco Lake	Colección Patricia Phelps de Cisneros	catalog
+Q51369219	Q27430435	P972	The View of the Bay of Rio de Janeiro	Colección Patricia Phelps de Cisneros	catalog
+Q51372372	Q27430435	P972	Palms, Bamboo and Tropical Foliage, Colombia	Colección Patricia Phelps de Cisneros	catalog
+Q51373866	Q27430435	P972	Taunay Waterfall in Tijuca Forest, Rio de Janeiro, Brazil	Colección Patricia Phelps de Cisneros	catalog
+Q11859	Q28466355	P972	The Little Mermaid	BFN	catalog
+Q11859	Q28466355	P972	The Little Mermaid	BFN	catalog
+Q11859	Q28466355	P972	The Little Mermaid	BFN	catalog
+Q11868	Q28466355	P972	The Ugly Duckling	BFN	catalog
+Q11868	Q28466355	P972	The Ugly Duckling	BFN	catalog
+Q11868	Q28466355	P972	The Ugly Duckling	BFN	catalog
+Q11870	Q28466355	P972	Thumbelina	BFN	catalog
+Q11870	Q28466355	P972	Thumbelina	BFN	catalog
+Q11870	Q28466355	P972	Thumbelina	BFN	catalog
+Q11876	Q28466355	P972	The Little Match Girl	BFN	catalog
+Q11876	Q28466355	P972	The Little Match Girl	BFN	catalog
+Q11876	Q28466355	P972	The Little Match Girl	BFN	catalog
+Q11883	Q28466355	P972	The Wild Swans	BFN	catalog
+Q56764104	Q25851997	P972	Regent Mannerheim's batman Gustaf Hagenau	Catalogue of artworks by Akseli Gallen-Kallela	catalog
+Q29835629	Q27430435	P972	Ricardo Armas	Colección Patricia Phelps de Cisneros	catalog
+Q30245608	Q27430435	P972	Orinoco-Parima: Comunidades indígenas del sur de Venezuela	Colección Patricia Phelps de Cisneros	catalog
+Q30246576	Q27430435	P972	Fundación Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q30247032	Q27430435	P972	La Hacienda Carabobo: Una pequeña historia de Turgua y del café en la segunda mitad del siglo XIX	Colección Patricia Phelps de Cisneros	catalog
+Q913019	Q27825023	P972	Museums of Florence	Catalogo Polo Museale Fiorentino	catalog
+Q28039082	Q28039168	P972	Alaksandu Treaty	Catalogue des Textes Hittites	catalog
+Q33272908	Q27430435	P972	Exchange of Glances. Visions of Latin America: Patricia Phelps de Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q33284919	Q27430435	P972	Biographical Dictionary of the Visual Arts in Venezuela	Colección Patricia Phelps de Cisneros	catalog
+Q33291650	Q27430435	P972	The Rhythm of Color: Alejandro Otero and Willys de Castro: Two Modern Masters in the Colección Patricia Phelps de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q36789877	Q27430435	P972	Making Art Concrete: Works from Argentina and Brazil in the Colección Patricia Phelps de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q37749176	Q27430435	P972	Radical Geometry: Modern Art of South America from the Patricia Phelps de Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q37750853	Q27430435	P972	Traveler Artists: Landscapes of Latin America from the Patricia Phelps De Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q38115302	Q27430435	P972	Jesús Soto en la Colección Patricia Phelps de Cisneros: Una selección	Colección Patricia Phelps de Cisneros	catalog
+Q38115891	Q27430435	P972	Painter by Trade. Venezuelan Colonial Art. Colección Patricia Phelps de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q12317960	Q28466355	P972	Danmark, mit Fædreland	BFN	catalog
+Q12317960	Q28466355	P972	Danmark, mit Fædreland	BFN	catalog
+Q12317960	Q28466355	P972	Danmark, mit Fædreland	BFN	catalog
+Q18711047	Q28466355	P972	The Naughty Boy	BFN	catalog
+Q19417215	Q28466355	P972	Under the Willow-Tree	BFN	catalog
+Q38116961	Q27430435	P972	Correspondences: Contemporary Art from the Colección Patricia Phelps De Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q38117431	Q27430435	P972	A Constructive Vision: Latin American abstract Art from the Colección Patricia Phelps de Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q38131670	Q27430435	P972	Concrete Invention: Colección Patricia Phelps De Cisneros; Reflections on Geometric Abstractions from Latin America and Its Legacy	Colección Patricia Phelps de Cisneros	catalog
+Q38132248	Q27430435	P972	Orinoco. Viaxe a un mundo perdido. Unha Colección da Fundación Cisneros	Colección Patricia Phelps de Cisneros	catalog
+Q38133391	Q27430435	P972	Behind Closed Doors: Art in the Spanish American Home, 1492-1898	Colección Patricia Phelps de Cisneros	catalog
+Q38134014	Q27430435	P972	An Ordinary Man	Colección Patricia Phelps de Cisneros	catalog
+Q38135359	Q27430435	P972	The Geometry of Hope: Latin American Abstract Art from the Patricia Phelps De Cisneros Collection	Colección Patricia Phelps de Cisneros	catalog
+Q38135943	Q27430435	P972	Ferreira Gullar in conversation with / en conversación con Ariel Jiménez	Colección Patricia Phelps de Cisneros	catalog
+Q38136089	Q27430435	P972	Liliana Porter in conversation with / en conversación con Inés Katzenstein	Colección Patricia Phelps de Cisneros	catalog
+Q38598627	Q27430435	P972	Cold America: Geometric Abstraction in Latin América (1934-1973) – Spanish	Colección Patricia Phelps de Cisneros	catalog
+Q42447070	Q27430435	P972	Juan Bay	Colección Patricia Phelps de Cisneros	catalog
+Q42886590	Q27430435	P972	Yeni & Nan	Colección Patricia Phelps de Cisneros	catalog
+Q42911308	Q27430435	P972	A Plaza in Caracas	Colección Patricia Phelps de Cisneros	catalog
+Q44745004	Q27430435	P972	Anthony Arrobo	Colección Patricia Phelps de Cisneros	catalog
+Q44747811	Q27430435	P972	Anthony Aziz	Colección Patricia Phelps de Cisneros	catalog
+Q44748633	Q27430435	P972	Samuel Cucher	Colección Patricia Phelps de Cisneros	catalog
+Q44826695	Q27430435	P972	Alessandro Balteo-Yazbeck	Colección Patricia Phelps de Cisneros	catalog
+Q44835167	Q27430435	P972	Camilo Barboza	Colección Patricia Phelps de Cisneros	catalog
+Q44843776	Q27430435	P972	Rodrigo Benavides	Colección Patricia Phelps de Cisneros	catalog
+Q44846862	Q27430435	P972	Eduardo Berliner	Colección Patricia Phelps de Cisneros	catalog
+Q44848019	Q27430435	P972	Enrica Bernardelli	Colección Patricia Phelps de Cisneros	catalog
+Q49505338	Q27430435	P972	Ackermann & Co	Colección Patricia Phelps de Cisneros	catalog
+Q49508984	Q27430435	P972	F. De Canta	Colección Patricia Phelps de Cisneros	catalog
+Q50004815	Q27430435	P972	Claudio Perna	Colección Patricia Phelps de Cisneros	catalog
+Q50611628	Q27430435	P972	Flamingos in a Lake, Venezuela	Colección Patricia Phelps de Cisneros	catalog
+Q50615174	Q27430435	P972	The Cordillera, Venezuela, with Travelers on a Road	Colección Patricia Phelps de Cisneros	catalog
+Q50810110	Q27430435	P972	Carúpano, Venezuela	Colección Patricia Phelps de Cisneros	catalog
+Q50810203	Q27430435	P972	A Guácharo Cave, Southeast of Caripe (Cueva Clara)	Colección Patricia Phelps de Cisneros	catalog
+Q51040341	Q27430435	P972	New Road, La Guaira	Colección Patricia Phelps de Cisneros	catalog
+Q51041689	Q27430435	P972	Panoramic View of Caracas	Colección Patricia Phelps de Cisneros	catalog
+Q51135746	Q27430435	P972	Town of Juan Fernandez, Cumberland Bay (Juan Fernandez Island)	Colección Patricia Phelps de Cisneros	catalog
+Q51137074	Q27430435	P972	Les Couseses	Colección Patricia Phelps de Cisneros	catalog
+Q51138032	Q27430435	P972	Maiquetia River	Colección Patricia Phelps de Cisneros	catalog
+Q51139191	Q27430435	P972	Cove with Sailboat	Colección Patricia Phelps de Cisneros	catalog
+Q51139703	Q27430435	P972	The Hacienda	Colección Patricia Phelps de Cisneros	catalog
+Q51140293	Q27430435	P972	Pariata	Colección Patricia Phelps de Cisneros	catalog
+Q51142047	Q27430435	P972	Landscape with Chapel	Colección Patricia Phelps de Cisneros	catalog
+Q51142404	Q27430435	P972	View of Frederica City in Paraiba	Colección Patricia Phelps de Cisneros	catalog
+Q11883	Q28466355	P972	The Wild Swans	BFN	catalog
+Q11883	Q28466355	P972	The Wild Swans	BFN	catalog
+Q1167862	Q28466355	P972	The Tinderbox	BFN	catalog
+Q1199235	Q28466355	P972	Little Claus and Big Claus	BFN	catalog
+Q1199235	Q28466355	P972	Fairy tales of Andersen /Little Claus and Big Claus	BFN	catalog
+Q1199235	Q28466355	P972	Fairy tales of Andersen /Little Claus and Big Claus	BFN	catalog
+Q2249916	Q28466355	P972	Little Ida's Flowers	BFN	catalog
+Q7741637	Q28466355	P972	The Improvisatore	BFN	catalog
+Q3573662	Q28870207	P972	Rolde: revista de cultura aragonesa	DICE	catalog
+Q3573662	Q28870207	P972	Rolde: revista de cultura aragonesa	DICE	catalog
+Q3573662	Q28870207	P972	Rolde: revista de cultura aragonesa	DICE	catalog
+Q285392	Q29167435	P972	Mérode Altarpiece	The Metropolitan Museum of Art Guide	catalog
+Q28854997	Q28466355	P972	The Talisman	BFN	catalog
+Q29024014	Q28466355	P972	The Nightcap of the Bachelor	BFN	catalog
+Q29024218	Q28466355	P972	Nye Eventyr og Historier. Første Række. Første Samling	BFN	catalog
+Q28870199	Q28870207	P972	Revista Catalana de Dret Públic	DICE	catalog
+Q28976784	Q28870207	P972	Boletín de Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q4276901	Q42661788	P972	Efterårsmorgen ved Sortedamssøen	Dansk Guldalder Maleri	catalog
+Q834119	Q35946093	P972	Oinochoe by the Shuvalov Painter	Attic Red-Figure Vase Painters	catalog
+Q834119	Q35946093	P972	Oinochoe by the Shuvalov Painter	Attic Red-Figure Vase Painters	catalog
+Q834119	Q35946093	P972	Oinochoe by the Shuvalov Painter	Attic Red-Figure Vase Painters	catalog
+Q28870199	Q28870207	P972	Revista Catalana de Dret Públic	DICE	catalog
+Q28976784	Q28870207	P972	Boletín de Arte	DICE	catalog
+Q28870199	Q28870207	P972	Revista Catalana de Dret Públic	DICE	catalog
+Q28976784	Q28870207	P972	Boletín de Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q29439056	Q28870207	P972	Anales de Historia del Arte	DICE	catalog
+Q22087002	Q28166831	P972	Hvor smiler fager den danske kyst	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22249625	Q28166831	P972	At Memphis Station	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22336205	Q28166831	P972	Solstice Song	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22596013	Q28166831	P972	The red Tree	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22602834	Q28166831	P972	Den blinde Pige	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22603999	Q28166831	P972	Moderens sang	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q22607638	Q28166831	P972	Columbus	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q23009887	Q28166831	P972	Hverdagene	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q23009890	Q28166831	P972	Digte	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q27229639	Q28166831	P972	Husvild	Frits Johansen and Aage Marcus' Johannes V. Jensen bibliography	catalog
+Q19436001	Q28466355	P972	The Travelling Companion	BFN	catalog
+Q21084042	Q28466355	P972	A Walking Tour from Holmen’s Canal to the Eastern Point of Amager in the Years 1828 and 1829	BFN	catalog
+Q21086691	Q28466355	P972	Bispen på Børglum og hans frænde	BFN	catalog
+Q21127439	Q28466355	P972	The Elfin Hill	BFN	catalog
+Q28746068	Q28466355	P972	Gurre	BFN	catalog
+Q28854972	Q28466355	P972	This Fable is Intended for You	BFN	catalog
+Q24057636	Q28850337	P972	Portrait of the Artist’s Father	Kasimir Malewicz. Catalogue raisonné	catalog
+Q20275618	Q28857734	P972	A Peasant Woman Digging in Front of Her Cottage	The Complete Van Gogh with Pictures	catalog
+Q26220110	Q28858281	P972	The Parsonage Garden at Nuenen in the Snow	Van Gogh and Nature	catalog
+Q19900903	Q42661788	P972	View of the Via Sacra, Rome	Dansk Guldalder Maleri	catalog
+Q19972899	Q42661788	P972	Landscape with Northern Lights	Dansk Guldalder Maleri	catalog
+Q20978150	Q42661788	P972	Vester Egede Church with Gisselfeld Monastery in the Background	Dansk Guldalder Maleri	catalog
+Q20980462	Q42661788	P972	Stave Church, Borgund, Norway	Dansk Guldalder Maleri	catalog
+Q21030233	Q42661788	P972	Michelangelo's Cypresses in the Monastery in the Baths of Diocletian	Dansk Guldalder Maleri	catalog
+Q21030292	Q42661788	P972	Mandolin Player	Dansk Guldalder Maleri	catalog
+Q21030364	Q42661788	P972	Catholic Novice reading	Dansk Guldalder Maleri	catalog
+Q21034408	Q42661788	P972	Greeks fetching Water from the Well at the Tower of the Winds in Athens	Dansk Guldalder Maleri	catalog
+Q22667700	Q42661788	P972	Naked Woman putting on her Slippers	Dansk Guldalder Maleri	catalog
+Q28778021	Q42661788	P972	The North Gate of the Citadel	Dansk Guldalder Maleri	catalog
+Q29905545	Q28466355	P972	The Gate Key	BFN	catalog
+Q30024525	Q28870207	P972	Anales de Literatura Española	DICE	catalog
+Q43012588	Q28870207	P972	Boletín del Seminario de Estudios de Arte y Arqueología	DICE	catalog
+Q50947791	Q29017598	P972	Orazio and Artemisia Gentileschi : Father and Daughter Painters in Baroque Italy	Orazio and Artemisia Gentileschi	catalog
+Q30509	Q43648637	P972	Bratmobile	Women of Rock Oral History Project	catalog
+Q234104	Q43648637	P972	Shirley Manson	Women of Rock Oral History Project	catalog
+Q237497	Q43648637	P972	Cherie Currie	Women of Rock Oral History Project	catalog
+Q240377	Q43648637	P972	Amanda Palmer	Women of Rock Oral History Project	catalog
+Q30024525	Q28870207	P972	Anales de Literatura Española	DICE	catalog
+Q43012588	Q28870207	P972	Boletín del Seminario de Estudios de Arte y Arqueología	DICE	catalog
+Q30024525	Q28870207	P972	Anales de Literatura Española	DICE	catalog
+Q43012588	Q28870207	P972	Boletín del Seminario de Estudios de Arte y Arqueología	DICE	catalog
+Q456922	Q43648637	P972	Exene Cervenka	Women of Rock Oral History Project	catalog
+Q457330	Q43648637	P972	Nina Gordon	Women of Rock Oral History Project	catalog
+Q485673	Q43648637	P972	Garbage	Women of Rock Oral History Project	catalog
+Q261990	Q43648637	P972	Lydia Lunch	Women of Rock Oral History Project	catalog
+Q287309	Q43648637	P972	Kate Pierson	Women of Rock Oral History Project	catalog
+Q385620	Q43648637	P972	Goldie and the Gingerbreads	Women of Rock Oral History Project	catalog
+Q434464	Q43648637	P972	Tanya Donelly	Women of Rock Oral History Project	catalog
+Q435330	Q43648637	P972	Kristin Hersh	Women of Rock Oral History Project	catalog
+Q436831	Q43648637	P972	Kira Roessler	Women of Rock Oral History Project	catalog
+Q485673	Q43648637	P972	Garbage	Women of Rock Oral History Project	catalog
+Q485673	Q43648637	P972	Garbage	Women of Rock Oral History Project	catalog
+Q533723	Q43648637	P972	Angelfish	Women of Rock Oral History Project	catalog
+Q545494	Q43648637	P972	Genya Ravan	Women of Rock Oral History Project	catalog
+Q628151	Q43648637	P972	Donita Sparks	Women of Rock Oral History Project	catalog
+Q847237	Q43648637	P972	Goodbye Mr. Mackenzie	Women of Rock Oral History Project	catalog
+Q908458	Q43648637	P972	The Runaways	Women of Rock Oral History Project	catalog
+Q950309	Q43648637	P972	The B-52's	Women of Rock Oral History Project	catalog
+Q1123938	Q43648637	P972	The Dresden Dolls	Women of Rock Oral History Project	catalog
+Q1132593	Q43648637	P972	Eva Gardner	Women of Rock Oral History Project	catalog
+Q1138185	Q43648637	P972	L7	Women of Rock Oral History Project	catalog
+Q1332134	Q43648637	P972	The Breeders	Women of Rock Oral History Project	catalog
+Q1431678	Q43648637	P972	Le Tigre	Women of Rock Oral History Project	catalog
+Q1476516	Q43648637	P972	Luscious Jackson	Women of Rock Oral History Project	catalog
+Q1570087	Q43648637	P972	X	Women of Rock Oral History Project	catalog
+Q1595152	Q43648637	P972	Throwing Muses	Women of Rock Oral History Project	catalog
+Q1824699	Q43648637	P972	Gail Ann Dorsey	Women of Rock Oral History Project	catalog
+Q1995143	Q43648637	P972	Thalia Zedek	Women of Rock Oral History Project	catalog
+Q2300681	Q43648637	P972	Veruca Salt	Women of Rock Oral History Project	catalog
+Q2395345	Q43648637	P972	JD Samson	Women of Rock Oral History Project	catalog
+Q29592674	Q29592116	P972	Two women exit a trolley	Fyns Kunstmuseum	catalog
+Q29639624	Q29639632	P972	The Princess Leonora Christina leaving prison	Kristian Zahrtmann	catalog
+Q34987436	Q29643849	P972	Frau bei der Näharbeit	Malerikatalog Skagens Museum	catalog
+Q29649454	Q29649479	P972	Skagen's white lighthouse	Laurits Tuxen. Europas sidste fyrstemaler	catalog
+Q30369813	Q30373267	P972	The Classical Repertoire in Eighteenth and Nineteenth Century Venezuelan Furniture	Serafîn Antonio Almeida	catalog
+Q31214586	Q34220611	P972	Portrait of Otto Marstrand's two daughters and their nanny	Kunstforeningens Marstrand-Udstilling	catalog
+Q42662026	Q42661788	P972	Bondedammen near Hellebæk	Dansk Guldalder Maleri	catalog
+Q42694336	Q42661788	P972	The Hawthorns on Eremitagesletten	Dansk Guldalder Maleri	catalog
+Q42725694	Q42661788	P972	Country Lane with Willow Trees near Vognserup	Dansk Guldalder Maleri	catalog
+Q44015154	Q42661788	P972	View of the Little Belt from Brandsø towards Skamlingsbanken	Dansk Guldalder Maleri	catalog
+Q47091989	Q42661788	P972	Socrates in Prison	Dansk Guldalder Maleri	catalog
+Q47092041	Q42661788	P972	A Smoking Party	Dansk Guldalder Maleri	catalog
+Q47303283	Q42661788	P972	The Philosopher's Wife brings Food to Niels Klim	Dansk Guldalder Maleri	catalog
+Q2403245	Q43648637	P972	Ten Wheel Drive	Women of Rock Oral History Project	catalog
+Q2405560	Q43648637	P972	Free Kitten	Women of Rock Oral History Project	catalog
+Q2453209	Q43648637	P972	Fanny	Women of Rock Oral History Project	catalog
+Q2712704	Q43648637	P972	Pussy Galore	Women of Rock Oral History Project	catalog
+Q2836527	Q43648637	P972	Alice Bag	Women of Rock Oral History Project	catalog
+Q2855297	Q43648637	P972	White Lung	Women of Rock Oral History Project	catalog
+Q2957248	Q43648637	P972	Tracy Bonham	Women of Rock Oral History Project	catalog
+Q3185915	Q43648637	P972	Josephine Wiggs	Women of Rock Oral History Project	catalog
+Q3331185	Q43648637	P972	Patty Schemel	Women of Rock Oral History Project	catalog
+Q3519861	Q43648637	P972	The Bags	Women of Rock Oral History Project	catalog
+Q3623622	Q43648637	P972	Evelyn Evelyn	Women of Rock Oral History Project	catalog
+Q3684033	Q43648637	P972	Come	Women of Rock Oral History Project	catalog
+Q3813331	Q43648637	P972	Kate Schellenbach	Women of Rock Oral History Project	catalog
+Q3901709	Q43648637	P972	Phranc	Women of Rock Oral History Project	catalog
+Q4357241	Q43648637	P972	Cindy Wilson	Women of Rock Oral History Project	catalog
+Q4732851	Q43648637	P972	Allison Wolfe	Women of Rock Oral History Project	catalog
+Q4832151	Q43648637	P972	Azalia Snail	Women of Rock Oral History Project	catalog
+Q4902971	Q43648637	P972	Bibbe Hansen	Women of Rock Oral History Project	catalog
+Q4967004	Q43648637	P972	Brie Howard	Women of Rock Oral History Project	catalog
+Q4996417	Q43648637	P972	Bulimia Banquet	Women of Rock Oral History Project	catalog
+Q47477325	Q42661788	P972	Italian Osteria Scene, Girl welcoming a Person entering	Dansk Guldalder Maleri	catalog
+Q47508074	Q42661788	P972	Landscape Study	Dansk Guldalder Maleri	catalog
+Q47543273	Q42661788	P972	Woodland Lake, Evening	Dansk Guldalder Maleri	catalog
+Q48422517	Q42661788	P972	The Soul is led to another Life	Dansk Guldalder Maleri	catalog
+Q48434573	Q42661788	P972	View of the Yard beside the Bakery in the Citadel	Dansk Guldalder Maleri	catalog
+Q48829090	Q42661788	P972	Bertel Thorvaldsen	Dansk Guldalder Maleri	catalog
+Q50319678	Q42661788	P972	The Daughters of Cecrops discover Minerva's Secret	Dansk Guldalder Maleri	catalog
+Q50319749	Q42661788	P972	View of the Citadel's Rampart	Dansk Guldalder Maleri	catalog
+Q50872419	Q42661788	P972	Elisabeth Vilhelmine Juel	Dansk Guldalder Maleri	catalog
+Q51577159	Q42661788	P972	An Artist resting by the Roadside	Dansk Guldalder Maleri	catalog
+Q43303226	Q43302005	P972	Girl with goose in the field	Great realists. Russian painting the second half of the XIX century	catalog
+Q5041038	Q43648637	P972	Carla Bozulich	Women of Rock Oral History Project	catalog
+Q201670	Q47612352	P972	Paul Watson	Interpol Red Notice	catalog
+Q201670	Q47612352	P972	Paul Watson	Interpol Red Notice	catalog
+Q201670	Q47612352	P972	Paul Watson	Interpol Red Notice	catalog
+Q5549748	Q43648637	P972	Geraldine Fibbers	Women of Rock Oral History Project	catalog
+Q2496355	Q49834170	P972	University Library of the Hamburg University of Technology	tub.find	catalog
+Q2496355	Q49836666	P972	University Library of the Hamburg University of Technology	tub.opac	catalog
+Q289833	Q50808010	P972	Por una cabeza	SGAE repertory	catalog
+Q4016601	Q50808010	P972	Vuelvo al Sur	SGAE repertory	catalog
+Q4853395	Q50808010	P972	Bamboléo	SGAE repertory	catalog
+Q5282452	Q50808010	P972	Disney Girls (1957)	SGAE repertory	catalog
+Q5701927	Q50808010	P972	Aquellas pequeñas cosas	SGAE repertory	catalog
+Q6306265	Q43648637	P972	Julia Cafritz	Women of Rock Oral History Project	catalog
+Q6498651	Q43648637	P972	Laura Ballance	Women of Rock Oral History Project	catalog
+Q6517439	Q43648637	P972	Legal Weapon	Women of Rock Oral History Project	catalog
+Q6688915	Q43648637	P972	Louise Post	Women of Rock Oral History Project	catalog
+Q6715393	Q43648637	P972	MEN	Women of Rock Oral History Project	catalog
+Q6780839	Q43648637	P972	Mary Timony	Women of Rock Oral History Project	catalog
+Q7260381	Q43648637	P972	Punk Globe	Women of Rock Oral History Project	catalog
+Q6345714	Q47010769	P972	list of works by Jean-Philippe Rameau	Rameau Catalogue Thématique	catalog
+Q5980987	Q50808010	P972	En mi pasado	SGAE repertory	catalog
+Q6036557	Q50808010	P972	Inolvidable	SGAE repertory	catalog
+Q7335451	Q50808010	P972	Riot in Cell Block Number 9	SGAE repertory	catalog
+Q7813356	Q43648637	P972	Toilet Böys	Women of Rock Oral History Project	catalog
+Q7933040	Q43648637	P972	Viola Smith	Women of Rock Oral History Project	catalog
+Q7995488	Q43648637	P972	White Trash Debutantes	Women of Rock Oral History Project	catalog
+Q11901890	Q50808010	P972	Volver	SGAE repertory	catalog
+Q20019054	Q50808010	P972	Un ramito de violetas	SGAE repertory	catalog
+Q21003190	Q50808010	P972	Lucía	SGAE repertory	catalog
+Q7666528	Q51456640	P972	Søren Brunak	De 20 højeste lønninger på KU i 2017	catalog
+Q15845100	Q51456640	P972	Maiken Nedergaard	De 20 højeste lønninger på KU i 2017	catalog
+Q27817058	Q43648637	P972	LoveyDove	Women of Rock Oral History Project	catalog
+Q27884106	Q43648637	P972	Alice de Buhr	Women of Rock Oral History Project	catalog
+Q41675254	Q43648637	P972	Michelle Cruz Gonzales	Women of Rock Oral History Project	catalog
+Q43657539	Q43648637	P972	Cynthia Ross	Women of Rock Oral History Project	catalog
+Q43658636	Q43648637	P972	Kat Arthur	Women of Rock Oral History Project	catalog
+Q43659416	Q43648637	P972	Mish Barber-Way	Women of Rock Oral History Project	catalog
+Q43659761	Q43648637	P972	Miss Guy	Women of Rock Oral History Project	catalog
+Q46476936	Q46477170	P972	20 Newsgroups data set	UC Irvine Machine Learning Repository	catalog
+Q24936528	Q50808010	P972	La última curda	SGAE repertory	catalog
+Q21165114	Q51456640	P972	Ian David Hickson	De 20 højeste lønninger på KU i 2017	catalog
+Q21451531	Q51456640	P972	Henrik C. Wegener	De 20 højeste lønninger på KU i 2017	catalog
+Q24704761	Q51456640	P972	Kristian Helin	De 20 højeste lønninger på KU i 2017	catalog
+Q28324675	Q51456640	P972	Guillermo Montoya	De 20 højeste lønninger på KU i 2017	catalog
+Q32245951	Q51456640	P972	Jiří Lukáš	De 20 højeste lønninger på KU i 2017	catalog
+Q39746881	Q51456640	P972	Michael Jonathan Davies	De 20 højeste lønninger på KU i 2017	catalog
+Q21030635	Q51467536	P972	Updated world map of the Köppen-Geiger climate classification	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q24307426	Q51467536	P972	The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC)	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q56574575	Q50808010	P972	Soledad	SGAE repertory	catalog
+Q56586531	Q50808010	P972	Se me hizo fácil	SGAE repertory	catalog
+Q56738469	Q50808010	P972	La mujer que yo quiero	SGAE repertory	catalog
+Q56739685	Q50808010	P972	Mi niña se fue a la mar	SGAE repertory	catalog
+Q56743143	Q50808010	P972	Por tu ausencia	SGAE repertory	catalog
+Q56744063	Q50808010	P972	Como tú	SGAE repertory	catalog
+Q52159854	Q47612352	P972	Daniel Min Suh	Interpol Red Notice	catalog
+Q52159857	Q47612352	P972	Ri Ji Hyon	Interpol Red Notice	catalog
+Q52159858	Q47612352	P972	O Jong Gil	Interpol Red Notice	catalog
+Q52159866	Q47612352	P972	Hong Song Hac	Interpol Red Notice	catalog
+Q52159869	Q47612352	P972	Ri Jae Nam	Interpol Red Notice	catalog
+Q52159872	Q47612352	P972	Taizhi Cui	Interpol Red Notice	catalog
+Q52159874	Q47612352	P972	Lee Changhwan	Interpol Red Notice	catalog
+Q52353505	Q50808010	P972	Como la cigarra	SGAE repertory	catalog
+Q54959219	Q50808010	P972	Surf's Up	SGAE repertory	catalog
+Q56479863	Q50808010	P972	Entre tu amor y mi amor	SGAE repertory	catalog
+Q51628066	Q51456640	P972	Rudolf G. J. Westendorp	De 20 højeste lønninger på KU i 2017	catalog
+Q51628244	Q51456640	P972	Jesper Olesen	De 20 højeste lønninger på KU i 2017	catalog
+Q51628379	Q51456640	P972	Ulf Riber Hedetoft	De 20 højeste lønninger på KU i 2017	catalog
+Q51628460	Q51456640	P972	Troels Østergaard Sørensen	De 20 højeste lønninger på KU i 2017	catalog
+Q51628551	Q51456640	P972	Carsten Rahbek	De 20 højeste lønninger på KU i 2017	catalog
+Q50227330	Q43648637	P972	Neon Music	Women of Rock Oral History Project	catalog
+Q50230946	Q43648637	P972	Ginger Bianco	Women of Rock Oral History Project	catalog
+Q50231004	Q43648637	P972	Ginger Coyote	Women of Rock Oral History Project	catalog
+Q50231062	Q43648637	P972	Jula Bell	Women of Rock Oral History Project	catalog
+Q50231077	Q43648637	P972	Sherry Rayn Barnett	Women of Rock Oral History Project	catalog
+Q51527434	Q51456640	P972	Steven A. Goldman	De 20 højeste lønninger på KU i 2017	catalog
+Q51626133	Q51456640	P972	Thomas Bjørnholm	De 20 højeste lønninger på KU i 2017	catalog
+Q51626453	Q51456640	P972	Henrik Semb	De 20 højeste lønninger på KU i 2017	catalog
+Q51626571	Q51456640	P972	Ulla M. Wewer	De 20 højeste lønninger på KU i 2017	catalog
+Q51627133	Q51456640	P972	Jytte Banner	De 20 højeste lønninger på KU i 2017	catalog
+Q51627855	Q51456640	P972	John Renner Hansen	De 20 højeste lønninger på KU i 2017	catalog
+Q51468105	Q51467536	P972	Prediction of Hydrophobic (Lipophilic) Properties of Small Organic Molecules Using Fragmental Methods:  An Analysis of ALOGP and CLOGP Methods	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q51468301	Q51467536	P972	The de Vaucouleurs Atlas of Galaxies	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q51601578	Q51467536	P972	The Complete New General Catalogue and Index Catalogues of Nebulae and Star Clusters by J.L.E. Dreyer	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q51602004	Q51467536	P972	Galaxies and How to Observe Them	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q51602356	Q51467536	P972	A Concise History of Romania	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q51623684	Q51467536	P972	Dictionary of Minor Planet Names (Fifth Revised and Enlarged Edition)	What are the ten most cited sources on Wikipedia? Let’s ask the data	catalog
+Q56745190	Q50808010	P972	Tío Alberto	SGAE repertory	catalog
+Q56746139	Q50808010	P972	Qué va a ser de ti	SGAE repertory	catalog
+Q56747012	Q50808010	P972	Dentro de tu alma	SGAE repertory	catalog
+Q56751939	Q50808010	P972	Pueblo blanco	SGAE repertory	catalog
+Q56752543	Q50808010	P972	Vagabundear	SGAE repertory	catalog
+Q56752665	Q50808010	P972	Barquito de papel	SGAE repertory	catalog
+Q56752727	Q50808010	P972	Vencidos	SGAE repertory	catalog
+Q289833	Q52354815	P972	Por una cabeza	SADAIC repertory	catalog
+Q485223	Q54484533	P972	Analytical Chemistry	The Nature Index journals	catalog
+Q538683	Q54484533	P972	Angewandte Chemie	The Nature Index journals	catalog
+Q621615	Q54484533	P972	Applied Physics Letters	The Nature Index journals	catalog
+Q1721905	Q51514192	P972	Rating and Investment Information	registered credit rating agency of Japan	catalog
+Q1989932	Q51514192	P972	Japan Credit Rating Agency	registered credit rating agency of Japan	catalog
+Q2641249	Q52533168	P972	Violin Sonata in G minor	Die Violinsonaten Giuseppe Tartinis	catalog
+Q752075	Q54484533	P972	Astronomy and Astrophysics	The Nature Index journals	catalog
+Q1085159	Q54484533	P972	Advanced Materials	The Nature Index journals	catalog
+Q2014925	Q55502741	P972	国	Table of Jōyō kanji	catalog
+Q3594919	Q55502741	P972	七	Table of Jōyō kanji	catalog
+Q3594922	Q55502741	P972	不	Table of Jōyō kanji	catalog
+Q3594930	Q55502741	P972	今	Table of Jōyō kanji	catalog
+Q3594937	Q55502741	P972	六	Table of Jōyō kanji	catalog
+Q3594958	Q55502741	P972	奇	Table of Jōyō kanji	catalog
+Q4853395	Q51796663	P972	Bamboléo	SACEM repertory	catalog
+Q4016601	Q52354815	P972	Vuelvo al Sur	SADAIC repertory	catalog
+Q4744249	Q54484533	P972	American Journal of Human Genetics	The Nature Index journals	catalog
+Q5282452	Q54959446	P972	Disney Girls (1957)	GEMA Repertoire	catalog
+Q3594960	Q55502741	P972	字	Table of Jōyō kanji	catalog
+Q3594965	Q55502741	P972	帝	Table of Jōyō kanji	catalog
+Q3594998	Q55502741	P972	海	Table of Jōyō kanji	catalog
+Q3595028	Q55502741	P972	雨	Table of Jōyō kanji	catalog
+Q3595029	Q55502741	P972	雪	Table of Jōyō kanji	catalog
+Q4025820	Q55502741	P972	一	Table of Jōyō kanji	catalog
+Q5980987	Q52354815	P972	En mi pasado	SADAIC repertory	catalog
+Q11294466	Q52354815	P972	Canaro en Japón	SADAIC repertory	catalog
+Q5291652	Q54959446	P972	Don't Go Near the Water	GEMA Repertoire	catalog
+Q5441275	Q54959446	P972	Feel Flows	GEMA Repertoire	catalog
+Q6036557	Q54959446	P972	Inolvidable	GEMA Repertoire	catalog
+Q7335451	Q54959446	P972	Riot in Cell Block Number 9	GEMA Repertoire	catalog
+Q7773815	Q54959446	P972	Way I Want to Touch You	GEMA Repertoire	catalog
+Q51514387	Q51514192	P972	Moody's Japan	registered credit rating agency of Japan	catalog
+Q51514681	Q51514192	P972	Moody's SF Japan	registered credit rating agency of Japan	catalog
+Q51514813	Q51514192	P972	S&P Global Ratings Japan	registered credit rating agency of Japan	catalog
+Q51515079	Q51514192	P972	Fitch Ratings Japan	registered credit rating agency of Japan	catalog
+Q51515461	Q51514192	P972	S&P Global SF Japan	registered credit rating agency of Japan	catalog
+Q11901890	Q52354815	P972	Volver	SADAIC repertory	catalog
+Q24936528	Q52354815	P972	La última curda	SADAIC repertory	catalog
+Q20128404	Q55502741	P972	西	Table of Jōyō kanji	catalog
+Q22947586	Q55502741	P972	北	Table of Jōyō kanji	catalog
+Q22947590	Q55502741	P972	愛	Table of Jōyō kanji	catalog
+Q52353505	Q52354815	P972	Como la cigarra	SADAIC repertory	catalog
+Q53673391	Q53673416	P972	Images of an Era. Norway 1814	Norge 1814: Tidsbilder. Design og mote. Klassisk Christiania / Norway 1814: Images of an Era. Design and Fashion. Classical Christiania	catalog
+Q53673393	Q53673416	P972	Classical Christiania. Norway 1814	Norge 1814: Tidsbilder. Design og mote. Klassisk Christiania / Norway 1814: Images of an Era. Design and Fashion. Classical Christiania	catalog
+Q53673404	Q53673416	P972	Design and Fashion. Norway 1814	Norge 1814: Tidsbilder. Design og mote. Klassisk Christiania / Norway 1814: Images of an Era. Design and Fashion. Classical Christiania	catalog
+Q54552061	Q55502741	P972	天	Table of Jōyō kanji	catalog
+Q54552723	Q55502741	P972	楽	Table of Jōyō kanji	catalog
+Q54552821	Q55502741	P972	牛	Table of Jōyō kanji	catalog
+Q54552822	Q55502741	P972	魚	Table of Jōyō kanji	catalog
+Q54552823	Q55502741	P972	京	Table of Jōyō kanji	catalog
+Q54553212	Q55502741	P972	多	Table of Jōyō kanji	catalog
+Q54553218	Q55502741	P972	知	Table of Jōyō kanji	catalog
+Q54553228	Q55502741	P972	鳥	Table of Jōyō kanji	catalog
+Q54553284	Q55502741	P972	馬	Table of Jōyō kanji	catalog
+Q54553315	Q55502741	P972	毎	Table of Jōyō kanji	catalog
+Q54872784	Q55502741	P972	温	Table of Jōyō kanji	catalog
+Q54872914	Q55502741	P972	漢	Table of Jōyō kanji	catalog
+Q54874289	Q55502741	P972	者	Table of Jōyō kanji	catalog
+Q54874870	Q55502741	P972	相	Table of Jōyō kanji	catalog
+Q55096362	Q55096418	P972	J.C. Dahl – The Power of Nature	J.C. Dahl – The Power of Nature	catalog
+Q56458650	Q52354815	P972	Hasta siempre, amor	SADAIC repertory	catalog
+Q54959219	Q54959446	P972	Surf's Up	GEMA Repertoire	catalog
+Q55019496	Q54959446	P972	Everybody Got To Believe	GEMA Repertoire	catalog
+Q56026095	Q54959446	P972	Delius	GEMA Repertoire	catalog
+Q54874982	Q55502741	P972	着	Table of Jōyō kanji	catalog
+Q54875038	Q55502741	P972	箱	Table of Jōyō kanji	catalog
+Q54875220	Q55502741	P972	返	Table of Jōyō kanji	catalog
+Q54875335	Q55502741	P972	和	Table of Jōyō kanji	catalog
+Q54879255	Q55502741	P972	器	Table of Jōyō kanji	catalog
+Q54879672	Q55502741	P972	殺	Table of Jōyō kanji	catalog
+Q54879772	Q55502741	P972	児	Table of Jōyō kanji	catalog
+Q54881859	Q55502741	P972	巣	Table of Jōyō kanji	catalog
+Q56479863	Q52354815	P972	Entre tu amor y mi amor	SADAIC repertory	catalog
+Q887856	Q55965220	P972	Running Up That Hill / Under The Ivy	EMI singles discography	catalog
+Q1426301	Q55965220	P972	Wuthering Heights / Kite	EMI singles discography	catalog
+Q887856	Q56054627	P972	Running Up That Hill / Under The Ivy	EMI Ireland singles discography	catalog
+Q1426301	Q56054627	P972	Wuthering Heights / Kite	EMI Ireland singles discography	catalog
+Q2877941	Q55965220	P972	Babooshka / Ran Tan Waltz	EMI singles discography	catalog
+Q2979727	Q55965220	P972	Cloudbusting / Burning Bridge	EMI singles discography	catalog
+Q3020989	Q55965220	P972	December Will Be Magic Again / Warm And Soothing	EMI singles discography	catalog
+Q3141308	Q55965220	P972	Hounds Of Love / The Handsome Cabin Boy	EMI singles discography	catalog
+Q2877941	Q56054627	P972	Babooshka / Ran Tan Waltz	EMI Ireland singles discography	catalog
+Q3020989	Q56054627	P972	December Will Be Magic Again / Warm And Soothing	EMI Ireland singles discography	catalog
+Q3473840	Q55965220	P972	Sat In Your Lap / Lord Of The Reedy River	EMI singles discography	catalog
+Q3520675	Q55965220	P972	The Dreaming	EMI singles discography	catalog
+Q3521758	Q55965220	P972	The Man with the Child in His Eyes / Moving	EMI singles discography	catalog
+Q3326956	Q55965979	P972	嘆きの天使  / 嵐ヶ丘	EMI Japan singles discography	catalog
+Q3473840	Q56054627	P972	Sat In Your Lap / Lord Of The Reedy River	EMI Ireland singles discography	catalog
+Q3520675	Q56054627	P972	The Dreaming	EMI Ireland singles discography	catalog
+Q3521758	Q56054627	P972	The Man with the Child in His Eyes / Moving	EMI Ireland singles discography	catalog
+Q3594922	Q56145673	P972	不	Table of hanja for personal names	catalog
+Q3594930	Q56145673	P972	今	Table of hanja for personal names	catalog
+Q4040375	Q55965220	P972	Hammer Horror / Coffee Homeground	EMI singles discography	catalog
+Q4050223	Q56014134	P972	Strange Phenomena / Wow	EMI Brazil singles discography	catalog
+Q4040375	Q56054627	P972	Hammer Horror / Coffee Homeground	EMI Ireland singles discography	catalog
+Q3594937	Q56145673	P972	六	Table of hanja for personal names	catalog
+Q3594960	Q56145673	P972	字	Table of hanja for personal names	catalog
+Q3594965	Q56145673	P972	帝	Table of hanja for personal names	catalog
+Q3594998	Q56145673	P972	海	Table of hanja for personal names	catalog
+Q3595028	Q56145673	P972	雨	Table of hanja for personal names	catalog
+Q3595029	Q56145673	P972	雪	Table of hanja for personal names	catalog
+Q4051258	Q55965220	P972	The Red Shoes / You Want Alchemy	EMI singles discography	catalog
+Q4050492	Q55965979	P972	ブルーのシンフォニー	EMI Japan singles discography	catalog
+Q4053254	Q55965220	P972	Wow / Full House	EMI singles discography	catalog
+Q4753350	Q55965220	P972	And So Is Love / Rubberband Girl (U.S. Mix)	EMI singles discography	catalog
+Q4794129	Q55965220	P972	Army Dreamers	EMI singles discography	catalog
+Q4053254	Q56054627	P972	Wow / Full House	EMI Ireland singles discography	catalog
+Q4794129	Q56054627	P972	Army Dreamers	EMI Ireland singles discography	catalog
+Q4959899	Q55965220	P972	Breathing / The Empty Bullring	EMI singles discography	catalog
+Q5421091	Q55965220	P972	Experiment IV / Wuthering Heights	EMI singles discography	catalog
+Q7375846	Q55965220	P972	Rubberband Girl / Big Stripey Lie	EMI singles discography	catalog
+Q7717791	Q55965220	P972	The Big Sky / Not This Time	EMI singles discography	catalog
+Q7763302	Q55965220	P972	The Sensual World / Walk Straight Down The Middle	EMI singles discography	catalog
+Q4959899	Q56054627	P972	Breathing / The Empty Bullring	EMI Ireland singles discography	catalog
+Q7033732	Q56054627	P972	Night of the Swallow / Houdini	EMI Ireland singles discography	catalog
+Q7782713	Q55965220	P972	There Goes a Tenner / Ne T'en Fui Pas	EMI singles discography	catalog
+Q7786388	Q55965220	P972	This Woman's Work / Be Kind To My Mistakes	EMI singles discography	catalog
+Q15087935	Q55965220	P972	King of the Mountain / Sexual Healing	EMI singles discography	catalog
+Q16997012	Q55965220	P972	Love and Anger / Ken	EMI singles discography	catalog
+Q7781169	Q55965979	P972	ローリン・ザ・ボール	EMI Japan singles discography	catalog
+Q7782713	Q56054627	P972	There Goes a Tenner / Ne T'en Fui Pas	EMI Ireland singles discography	catalog
+Q20128404	Q56145673	P972	西	Table of hanja for personal names	catalog
+Q22947586	Q56145673	P972	北	Table of hanja for personal names	catalog
+Q22947590	Q56145673	P972	愛	Table of hanja for personal names	catalog
+Q54552061	Q56145673	P972	天	Table of hanja for personal names	catalog
+Q54552822	Q56145673	P972	魚	Table of hanja for personal names	catalog
+Q54553218	Q56145673	P972	知	Table of hanja for personal names	catalog
+Q54882180	Q55502741	P972	得	Table of Jōyō kanji	catalog
+Q54884203	Q55502741	P972	梅	Table of Jōyō kanji	catalog
+Q54901216	Q55502741	P972	恩	Table of Jōyō kanji	catalog
+Q54901484	Q55502741	P972	絶	Table of Jōyō kanji	catalog
+Q54901683	Q55502741	P972	余	Table of Jōyō kanji	catalog
+Q54911947	Q55502741	P972	城	Table of Jōyō kanji	catalog
+Q54918611	Q55502741	P972	著	Table of Jōyō kanji	catalog
+Q55381147	Q55502741	P972	嵐	Table of Jōyō kanji	catalog
+Q55402228	Q55502741	P972	華	Table of Jōyō kanji	catalog
+Q55406176	Q55502741	P972	俗	Table of Jōyō kanji	catalog
+Q55408001	Q55502741	P972	如	Table of Jōyō kanji	catalog
+Q55411310	Q55502741	P972	韓	Table of Jōyō kanji	catalog
+Q55414014	Q55502741	P972	履	Table of Jōyō kanji	catalog
+Q54553228	Q56145673	P972	鳥	Table of hanja for personal names	catalog
+Q54553284	Q56145673	P972	馬	Table of hanja for personal names	catalog
+Q54874289	Q56145673	P972	者	Table of hanja for personal names	catalog
+Q54874870	Q56145673	P972	相	Table of hanja for personal names	catalog
+Q54875038	Q56145673	P972	箱	Table of hanja for personal names	catalog
+Q54901216	Q56145673	P972	恩	Table of hanja for personal names	catalog
+Q54901683	Q56145673	P972	余	Table of hanja for personal names	catalog
+Q55408001	Q56145673	P972	如	Table of hanja for personal names	catalog
+Q55414119	Q55502741	P972	幾	Table of Jōyō kanji	catalog
+Q55414392	Q55502741	P972	慶	Table of Jōyō kanji	catalog
+Q55414670	Q55502741	P972	揚	Table of Jōyō kanji	catalog
+Q55634770	Q55502741	P972	樂	Table of Jōyō kanji	catalog
+Q55765767	Q55502741	P972	竜	Table of Jōyō kanji	catalog
+Q55806688	Q55502741	P972	遇	Table of Jōyō kanji	catalog
+Q55842039	Q55502741	P972	須	Table of Jōyō kanji	catalog
+Q55852089	Q55502741	P972	氾	Table of Jōyō kanji	catalog
+Q55767170	Q55767338	P972	Neiman Exact Sciences and Engineering Library	Catalog for The Neiman Exact Sciences and Engineering Library	catalog
+Q56152786	Q55996271	P972	Ne t'enfuis pas / Dreamtime	EMI Canada singles discography	catalog
+Q55996226	Q55996947	P972	Symphony in Blue / Hammer Horror	Harvest Canada singles discography	catalog
+Q56124461	Q56014134	P972	4 Sucessos	EMI Brazil singles discography	catalog
+Q56125956	Q56014134	P972	4 Sucessos	EMI Brazil singles discography	catalog
+Q55634770	Q56145673	P972	樂	Table of hanja for personal names	catalog
+Q56056614	Q56145673	P972	⿰氵恩	Table of hanja for personal names	catalog
+Q56224463	Q56145673	P972	國	Table of hanja for personal names	catalog
+Q56224550	Q56145673	P972	或	Table of hanja for personal names	catalog
+Q56225673	Q56145673	P972	胡	Table of hanja for personal names	catalog
+Q56235957	Q56145673	P972	烏	Table of hanja for personal names	catalog
+Q56236016	Q56145673	P972	汪	Table of hanja for personal names	catalog
+Q56239223	Q56145673	P972	於	Table of hanja for personal names	catalog
+Q56242319	Q56145673	P972	餘	Table of hanja for personal names	catalog
+Q56253938	Q56145673	P972	茹	Table of hanja for personal names	catalog
+Q56257329	Q56145673	P972	哈	Table of hanja for personal names	catalog
+Q56417604	Q56145673	P972	亮	Table of hanja for personal names	catalog
+Q585424	Q56883560	P972	Darwin!	Dischi Ricordi LP discography	catalog
+Q3508204	Q56883560	P972	Lucio Battisti Vol. 4	Dischi Ricordi LP discography	catalog
+Q3508368	Q56883560	P972	Amore e non amore	Dischi Ricordi LP discography	catalog
+Q3510336	Q56883560	P972	Emozioni	Dischi Ricordi LP discography	catalog
+Q3510696	Q56883560	P972	Lucio Battisti	Dischi Ricordi LP discography	catalog
+Q3633831	Q56883560	P972	Banco del Mutuo Soccorso	Dischi Ricordi LP discography	catalog
+Q3641413	Q56883560	P972	Bobby Solo	Dischi Ricordi LP discography	catalog
+Q3641422	Q56883560	P972	Bobby folk	Dischi Ricordi LP discography	catalog
+Q3650573	Q56883560	P972	Caldo	Dischi Ricordi LP discography	catalog
+Q3661332	Q56883560	P972	Casa mia	Dischi Ricordi LP discography	catalog
+Q3752387	Q56883560	P972	Fratelli La Bionda s.r.l.	Dischi Ricordi LP discography	catalog
+Q3764685	Q56883560	P972	Gino Paoli	Dischi Ricordi LP discography	catalog
+Q3765472	Q56883560	P972	Giorgio Gaber	Dischi Ricordi LP discography	catalog
+Q3788479	Q56883560	P972	ID	Dischi Ricordi LP discography	catalog
+Q3795685	Q56883560	P972	Il secondo LP di Bobby Solo	Dischi Ricordi LP discography	catalog
+Q3801170	Q56883560	P972	Io ho in mente te	Dischi Ricordi LP discography	catalog
+Q3824908	Q56883560	P972	La vie en rose	Dischi Ricordi LP discography	catalog
+Q3828582	Q56883560	P972	Le canzoni del West	Dischi Ricordi LP discography	catalog
+Q3828587	Q56883560	P972	Le canzoni di Ornella Vanoni	Dischi Ricordi LP discography	catalog
+Q3828646	Q56883560	P972	Le cose dell'amore	Dischi Ricordi LP discography	catalog
+Q3874369	Q56883560	P972	Nel mondo, una cosa	Dischi Ricordi LP discography	catalog
+Q3886071	Q56883560	P972	Ornella	Dischi Ricordi LP discography	catalog
+Q3886079	Q56883560	P972	Ornella Vanoni	Dischi Ricordi LP discography	catalog
+Q3931087	Q56883560	P972	Reale Accademia di Musica	Dischi Ricordi LP discography	catalog
+Q3973246	Q56883560	P972	Stereoequipe	Dischi Ricordi LP discography	catalog
+Q4003335	Q56883560	P972	Umberto Bindi	Dischi Ricordi LP discography	catalog
+Q4003338	Q56883560	P972	Umberto Bindi e le sue canzoni - vol. 1	Dischi Ricordi LP discography	catalog
+Q16565046	Q56883560	P972	Il meglio di Bobby Solo	Dischi Ricordi LP discography	catalog
+Q19807149	Q56762201	P972	Dahl and Friedrich. Romantic Landscapes	Dahl og Friedrich. Alene med naturen	catalog
+Q16611295	Q56883560	P972	SuperBobby	Dischi Ricordi LP discography	catalog
+Q19621247	Q56883560	P972	Amori d'altri tempi	Dischi Ricordi LP discography	catalog
+Q24575132	Q56883560	P972	Un sorriso	Dischi Ricordi LP discography	catalog
+Q25400011	Q56883560	P972	Le canzoni di Giorgio Gaber	Dischi Ricordi LP discography	catalog
+Q25814535	Q56883560	P972	In queste ore chiare	Dischi Ricordi LP discography	catalog
+Q56434299	Q56145673	P972	也	Table of hanja for personal names	catalog
+Q56440655	Q56145673	P972	儿	Table of hanja for personal names	catalog
+Q56458227	Q56145673	P972	兒	Table of hanja for personal names	catalog
+Q56458885	Q56145673	P972	而	Table of hanja for personal names	catalog
+Q56459332	Q56145673	P972	之	Table of hanja for personal names	catalog
+Q25927203	Q56883560	P972	Milva	Dischi Ricordi LP discography	catalog
+Q26237566	Q56883560	P972	La filanda e altre storie	Dischi Ricordi LP discography	catalog
+Q26460483	Q56883560	P972	Suite per una donna assolutamente relativa	Dischi Ricordi LP discography	catalog
+Q27555023	Q56883560	P972	Storie e confessioni	Dischi Ricordi LP discography	catalog
+Q54825545	Q56883560	P972	Cara Kiri	Dischi Ricordi LP discography	catalog
+Q56240579	Q56883560	P972	Tango	Dischi Ricordi LP discography	catalog
+Q56598286	Q56145673	P972	龍	Table of hanja for personal names	catalog
+Q56574575	Q56576443	P972	Soledad	SACM repertory	catalog
+Q56584595	Q56576443	P972	El andariego	SACM repertory	catalog
+Q56681874	Q56681826	P972	Dahls Dresden	Dahls Dresden. Nasjonalgalleriet 11. oktober - 7. desember 1980	catalog
+Q56884638	Q56883560	P972	Ritratto di Milva	Dischi Ricordi LP discography	catalog
+Q56884741	Q56883560	P972	Milva canta Brecht	Dischi Ricordi LP discography	catalog
+Q56885043	Q56883560	P972	Dedicato a Milva da Ennio Morricone	Dischi Ricordi LP discography	catalog
+Q56885106	Q56883560	P972	Sognavo, amore mio	Dischi Ricordi LP discography	catalog

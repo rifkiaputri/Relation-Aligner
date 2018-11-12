@@ -1,4 +1,3 @@
-import csv
 import pandas as pd
 from nltk.wsd import lesk
 from torch.utils.data import Dataset, DataLoader
@@ -35,7 +34,7 @@ class MyDataset(Dataset):
         data_header = ['e1_kb', 'rel_kb', 'rel_id', 'e2_kb', 'e1_oie', 'rel_oie', 'e2_oie',
                        'e1_kb_id', 'e2_kb_id', 'e1_oie_id', 'e2_oie_id',
                        'e1_oie_root', 'e2_oie_root', 'label']
-        align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header, quoting=csv.QUOTE_NONE)
+        align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header)
         
         rels_kb = align_data['rel_id']
         e1_kb = align_data['e1_kb']

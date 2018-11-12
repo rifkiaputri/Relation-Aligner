@@ -1,0 +1,243 @@
+Q1401442	Q1272754	P2817	Feierabendweg (Bremen-Gröpelingen)	list of cultural heritage monuments in Gröpelingen	appears in the heritage monument list
+Q1714429	Q1272754	P2817	Justizvollzugsanstalt Oslebshausen	list of cultural heritage monuments in Gröpelingen	appears in the heritage monument list
+Q27855359	Q1272754	P2817	Andreaskirche (Bremen)	list of cultural heritage monuments in Gröpelingen	appears in the heritage monument list
+Q820463	Q1341663	P2817	Bergwerk Käpfnach	list of cultural properties in Horgen	appears in the heritage monument list
+Q20973594	Q1341663	P2817	Seepavillon Herner	list of cultural properties in Horgen	appears in the heritage monument list
+Q23783841	Q1341663	P2817	Agentenhaus	list of cultural properties in Horgen	appears in the heritage monument list
+Q41419541	Q1302750	P2817	St. Johannis (Burgfarrnbach)	Cultural heritage monuments in Burgfarrnbach	appears in the heritage monument list
+Q1679282	Q1330473	P2817	Molenfeuer Überseehafen Süd	list of cultural heritage monuments in Walle (Bremen)	appears in the heritage monument list
+Q1721037	Q1330473	P2817	Café HAG	list of cultural heritage monuments in Walle (Bremen)	appears in the heritage monument list
+Q304471	Q1501365	P2817	Bremerhaven lighthouse	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q435593	Q1501365	P2817	Alte Geestebrücke	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q455354	Q1501365	P2817	German Shipping Museum	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q535612	Q1501365	P2817	Bremerhaven Hauptbahnhof	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q885056	Q1501365	P2817	Seute Deern	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q907971	Q1501365	P2817	Bremerhaven-Lehe railway station	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1021366	Q1501365	P2817	Bürgerpark (Bremerhaven)	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1087442	Q1501365	P2817	Christuskirche (Bremerhaven-Geestemünde)	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1233195	Q1501365	P2817	Kino Aladin	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1256432	Q1501365	P2817	Drehbrücke über den Geestemünder Hauptkanal	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1355204	Q1501365	P2817	Stadttheater Bremerhaven	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1551660	Q1501365	P2817	Grönland	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1556772	Q1501365	P2817	Herz-Jesu-Kirche (Bremerhaven-Lehe)	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1709677	Q1501365	P2817	Wulsdorfer Friedhof	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q2551731	Q1501365	P2817	Wasserturm Hafenstraße (Bremerhaven)	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q2571541	Q1501365	P2817	Wilhelm-Raabe-Schule Bremerhaven	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q22670077	Q1501365	P2817	Bürgermeister Abendroth	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q46089019	Q1501365	P2817	Geestemünder Wasserturm	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q46118394	Q1501365	P2817	Emma (ship, 1929)	Cultural heritage monuments in Bremerhaven	appears in the heritage monument list
+Q1244101	Q1749949	P2817	Dorfkirche Baabe	list of monuments in Baabe	appears in the heritage monument list
+Q47894241	Q1749949	P2817	Restaurant "Inselparadies"	list of monuments in Baabe	appears in the heritage monument list
+Q47894255	Q1749949	P2817	Bookshop in Baabe	list of monuments in Baabe	appears in the heritage monument list
+Q41417260	Q1831214	P2817	St. Maria Church Frauenberg	List of cultural heritage monuments in Brunn (Upper Palatinate)	appears in the heritage monument list
+Q41417261	Q1831214	P2817	Pettenhof Manor	List of cultural heritage monuments in Brunn (Upper Palatinate)	appears in the heritage monument list
+Q1537870	Q1831281	P2817	Jewish cemetery, Reistenhausen	list of monuments in Collenberg	appears in the heritage monument list
+Q16857098	Q1831550	P2817	St. Michael	list of Baudenkmal cultural heritage monuments in Eppishausen	appears in the heritage monument list
+Q17507148	Q1831550	P2817	Pfarrhaus (Eppishausen)	list of Baudenkmal cultural heritage monuments in Eppishausen	appears in the heritage monument list
+Q19298465	Q1831550	P2817	Rectory	list of Baudenkmal cultural heritage monuments in Eppishausen	appears in the heritage monument list
+Q29422976	Q1831550	P2817	St. Johannes Baptista (Könghausen)	list of Baudenkmal cultural heritage monuments in Eppishausen	appears in the heritage monument list
+Q41258980	Q1831550	P2817	Kreuzweg (Könghausen)	list of Baudenkmal cultural heritage monuments in Eppishausen	appears in the heritage monument list
+Q14544395	Q1831561	P2817	Nützelmarter (Kosbach)	Cultural heritage monuments in Kosbach (Erlangen)	appears in the heritage monument list
+Q41410190	Q1831561	P2817	Nützel-Oberle-Hof	Cultural heritage monuments in Kosbach (Erlangen)	appears in the heritage monument list
+Q41300272	Q1831563	P2817	Hüttendorfer Straße 7 (Erlangen)	Cultural heritage monuments in Hüttendorf (Erlangen)	appears in the heritage monument list
+Q41300275	Q1831563	P2817	Vacher Straße 11 (Hüttendorf)	Cultural heritage monuments in Hüttendorf (Erlangen)	appears in the heritage monument list
+Q990867	Q1831783	P2817	Brotmarkt 8 (Füssen)	balti	appears in the heritage monument list
+Q1527304	Q1831783	P2817	St. Mang's Abbey	balti	appears in the heritage monument list
+Q1623988	Q1831783	P2817	High Castle of Füssen	balti	appears in the heritage monument list
+Q14861293	Q1831783	P2817	Luitpolddenkmal (Füssen)	balti	appears in the heritage monument list
+Q23703846	Q1831783	P2817	St. Peter und Paul (Hopfen am See)	balti	appears in the heritage monument list
+Q40562907	Q1831783	P2817	Feldkirche (Füssen)	balti	appears in the heritage monument list
+Q41217260	Q1831783	P2817	Brotmarkt 10 (Füssen)	balti	appears in the heritage monument list
+Q41217410	Q1831783	P2817	Franziskanergasse 1 (Füssen)	balti	appears in the heritage monument list
+Q41217438	Q1831783	P2817	Franziskanerkirche St. Stephan (Füssen)	balti	appears in the heritage monument list
+Q41217456	Q1831783	P2817	Hintere Gasse 17 (Füssen)	balti	appears in the heritage monument list
+Q41217596	Q1831783	P2817	Krippkirche Sankt Nikolaus (Füssen)	balti	appears in the heritage monument list
+Q41217730	Q1831783	P2817	Altes Spital (Füssen)	balti	appears in the heritage monument list
+Q41217870	Q1831783	P2817	Pestfriedhof Weißensee	balti	appears in the heritage monument list
+Q41419386	Q1831757	P2817	Poppenreuther Straße 133 (Fürth)	Cultural heritage monuments in Poppenreuth (Fürth)	appears in the heritage monument list
+Q1790759	Q1832246	P2817	St. Stephan	Cultural heritage monuments in Kissing (Bavaria)	appears in the heritage monument list
+Q2618100	Q1837959	P2817	Seattle Center Monorail	list of Seattle landmarks	appears in the heritage monument list
+Q19479	Q1843317	P2817	Town Hall of Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q19479	Q1843317	P2817	Town Hall of Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q19479	Q1843317	P2817	Town Hall of Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q19665	Q1843317	P2817	Bremen Roland	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q19665	Q1843317	P2817	Bremen Roland	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q19665	Q1843317	P2817	Bremen Roland	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q112015	Q1843317	P2817	Town Musicians of Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q318983	Q1843317	P2817	Paula Modersohn-Becker Museum	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q333527	Q1843317	P2817	Übersee-Museum Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q470032	Q1843317	P2817	Consular Agency of the United States	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q531367	Q1843317	P2817	Böttcherstraße	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q538341	Q1843317	P2817	Schnoor	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q538341	Q1843317	P2817	Schnoor	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q538341	Q1843317	P2817	Schnoor	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q631094	Q1843317	P2817	Bremen main station	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q693591	Q1843317	P2817	Kunsthalle Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q695038	Q1843317	P2817	Bremen Cathedral	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q169680	Q1833868	P2817	Mine Blankenburg	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q169763	Q1833868	P2817	Mine Egbert	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q169816	Q1833868	P2817	Mine Fortuna	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q183697	Q1833868	P2817	Mine Herberholz	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q183705	Q1833868	P2817	Mine Hermann	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q183877	Q1833868	P2817	Mine Martha	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q183891	Q1833868	P2817	Mine Nachtigall	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q470060	Q1833868	P2817	Witten Central Station	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q819565	Q1833868	P2817	Berger memorial	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1012201	Q1833868	P2817	Hardenstein Castle	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1299024	Q1833868	P2817	House Herbede	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1380883	Q1833868	P2817	Protestant church Rüdinghausen	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1494698	Q1833868	P2817	Garden city Crengeldanz	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q828561	Q1843317	P2817	Shipper's House in Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q873562	Q1843317	P2817	St. John's Church	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q884013	Q1843317	P2817	Bremen Ratskeller	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q907521	Q1843317	P2817	Bremer Bank	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q907529	Q1843317	P2817	Bremen Cotton Exchange	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q907750	Q1843317	P2817	Bremer Marktplatz	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1213067	Q1843317	P2817	Die Glocke	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1245040	Q1843317	P2817	Schütting	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1262213	Q1843317	P2817	Saint Martin's Church, Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1299492	Q1843317	P2817	Postamt Bremen 5	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1368860	Q1843317	P2817	Essighaus	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1382588	Q1843317	P2817	Bremen City Archive	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1430944	Q1843317	P2817	Landherrnamt	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1434988	Q1843317	P2817	Focke's wind tunnel	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1485829	Q1843317	P2817	Rathscafé	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1511196	Q1843317	P2817	Gerhard Marcks House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1522091	Q1843317	P2817	Unser Lieben Frauen Kirchhof	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1589900	Q1843317	P2817	Atlantis House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1590191	Q1843317	P2817	Heineken House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1590814	Q1843317	P2817	Haus der Stadtsparkasse	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1590888	Q1843317	P2817	Glockenspiel House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1609640	Q1843317	P2817	Am Wall Windmill	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1639796	Q1843317	P2817	Forum am Wall	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1721683	Q1843317	P2817	Bremen Main Post Office Building	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1734426	Q1843317	P2817	Karstadt	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1756463	Q1843317	P2817	Church of Our Lady (Bremen)	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2318678	Q1843904	P2817	St. Godehard (Hemelingen)	list of cultural heritage monuments in Hemelingen	appears in the heritage monument list
+Q51875125	Q1833868	P2817	Wasserturm der Firma Luhn & Pulvermacher und Dittmann & Neuhaus	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1590704	Q1833868	P2817	House Witten	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1602068	Q1833868	P2817	Helenenturm	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1653786	Q1833868	P2817	Villa Gustav Lohmann	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1698950	Q1833868	P2817	Johanniskirche	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1716721	Q1833868	P2817	Jewish cemetery Ledderken	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1749760	Q1833868	P2817	Wetterschornstein Buchholz	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1788646	Q1833868	P2817	War memorial Germania	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1957463	Q1833868	P2817	Märkisches Museum	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2132635	Q1833868	P2817	Witten Town Hall	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2175023	Q1833868	P2817	Ruhr-Gymnasium Witten	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2175046	Q1833868	P2817	Ruhr viaduct	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2243601	Q1833868	P2817	Castle Steinhausen	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2524794	Q1833868	P2817	Villa Albert Lohmann	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2525124	Q1833868	P2817	Villa Friedrich Lohmann sen.	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2551134	Q1833868	P2817	Wasserkraftwerk Hohenstein	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q2551730	Q1833868	P2817	Bommerholz Water Tower	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q8123634	Q1833868	P2817	LWL Industry Museum Mine Nachtigall	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q10857321	Q1833868	P2817	Private Cemetery Müllensiefen	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q12499932	Q1833868	P2817	St. Marien	list of architectural heritage monuments in Witten	appears in the heritage monument list
+Q1765841	Q1843317	P2817	Raths-Apotheke	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1802821	Q1843317	P2817	Landgericht Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1805121	Q1843317	P2817	Langenstraße	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1954717	Q1843317	P2817	Ludwig Roselius Museum	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2237803	Q1843317	P2817	Schlachte	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2316350	Q1843317	P2817	St Catherine's Monastery, Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2328376	Q1843317	P2817	Stadtwaage	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2416007	Q1843317	P2817	Theater am Goetheplatz	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q2571567	Q1843317	P2817	Wilhelm Wagenfeld House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q13426900	Q1843317	P2817	Kontorhaus am Markt	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q14538536	Q1843317	P2817	New Town Hall	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15109284	Q1843317	P2817	Deutsche Bank building, Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15117536	Q1843317	P2817	Suding & Soeken building	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15129028	Q1843317	P2817	Spitzen Gebel	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15702799	Q1843317	P2817	Robinson Crusoe House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15709607	Q1843317	P2817	St Petrus House	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q15709719	Q1843317	P2817	House of the Seven Lazy Brothers	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q16830457	Q1843317	P2817	Architektenhaus Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q17126832	Q1843317	P2817	Packhaustheater Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q18286642	Q1843317	P2817	Der Lichtbringer	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q18589536	Q1843317	P2817	Bismarck monument	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q18628408	Q1843317	P2817	Körner memorial in Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q21027934	Q1843317	P2817	Fruchthof Bremen	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q41338970	Q1843317	P2817	Bremen Town Hall (Ensemble)	list of cultural heritage monuments in Bremen-Mitte	appears in the heritage monument list
+Q1596051	Q1844763	P2817	Heinekens Park, Bremen	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q1609724	Q1844763	P2817	Höpkensruh	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q1609724	Q1844763	P2817	Höpkensruh	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q1609724	Q1844763	P2817	Höpkensruh	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q14912472	Q1844763	P2817	St. Johann	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q19833012	Q1844763	P2817	Gaststätte Meyer am Boom	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q1281961	Q1844834	P2817	Osterholzer Friedhof	list of cultural heritage monuments in Osterholz (Bremen)	appears in the heritage monument list
+Q1297337	Q1844834	P2817	Egestorff Foundation	list of cultural heritage monuments in Osterholz (Bremen)	appears in the heritage monument list
+Q42297865	Q1844763	P2817	Orangerie (Bremen)	list of cultural heritage monuments in Oberneuland	appears in the heritage monument list
+Q1610397	Q1845071	P2817	Hermann-Böse-Gymnasium	Bremen-Schwachhausen cultural heritage monuments (Germany)	appears in the heritage monument list
+Q2152268	Q1845071	P2817	Riensberger Friedhof	Bremen-Schwachhausen cultural heritage monuments (Germany)	appears in the heritage monument list
+Q42431174	Q1844834	P2817	Bauernhaus Osterholzer Dorfstrasse 29	list of cultural heritage monuments in Osterholz (Bremen)	appears in the heritage monument list
+Q47064638	Q1844834	P2817	St.-Jürgen-Asyl	list of cultural heritage monuments in Osterholz (Bremen)	appears in the heritage monument list
+Q17123050	Q1845071	P2817	Erlöserkirche (Bremen)	Bremen-Schwachhausen cultural heritage monuments (Germany)	appears in the heritage monument list
+Q18627960	Q1845071	P2817	Kaiser Friedrich Monument	Bremen-Schwachhausen cultural heritage monuments (Germany)	appears in the heritage monument list
+Q14545223	Q1843678	P2817	Eisenbahnbrücke (Frischborn)	Cultural heritage monuments in Frischborn	appears in the heritage monument list
+Q27334009	Q1859901	P2817	Pfarrkirche Hl. Johannes der Täufer (Batschuns)	Cultural heritage monuments in Zwischenwasser	appears in the heritage monument list
+Q595439	Q6567342	P2817	Santa Monica Pier	list of City of Santa Monica Designated Historic Landmarks	appears in the heritage monument list
+Q184126	Q10888045	P2817	Zeche Widerlage	list of bodendenkmal in Witten	appears in the heritage monument list
+Q789801	Q10888045	P2817	Annener Gußstahlwerk concentration camp	list of bodendenkmal in Witten	appears in the heritage monument list
+Q1012201	Q10888045	P2817	Hardenstein Castle	list of bodendenkmal in Witten	appears in the heritage monument list
+Q1515923	Q10888045	P2817	Muttentalbahn	list of bodendenkmal in Witten	appears in the heritage monument list
+Q1590491	Q10888045	P2817	House Rüdinghausen	list of bodendenkmal in Witten	appears in the heritage monument list
+Q2243601	Q10888045	P2817	Castle Steinhausen	list of bodendenkmal in Witten	appears in the heritage monument list
+Q2235002	Q15826103	P2817	Schifferkirche Ahrenshoop	Cultural heritage monuments in Ahrenshoop	appears in the heritage monument list
+Q16830287	Q1843321	P2817	AfA-Siedlung Bremen	list of cultural heritage monuments in Östliche Vorstadt	appears in the heritage monument list
+Q56702545	Q10888045	P2817	Steinbruch Rauen	list of bodendenkmal in Witten	appears in the heritage monument list
+Q56702545	Q15144235	P2817	Steinbruch Rauen	list of natural monuments in Witten	appears in the heritage monument list
+Q2638127	Q20565640	P2817	Basilica of the Assumption	list of cultural heritage monuments in Anglona municipality	appears in the heritage monument list
+Q2638127	Q20565640	P2817	Basilica of the Assumption	list of cultural heritage monuments in Anglona municipality	appears in the heritage monument list
+Q5276591	Q20565874	P2817	Dikļi Manor	Cultural heritage monuments in Kocēni Municipality	appears in the heritage monument list
+Q3737987	Q20565755	P2817	Dobele Castle	Cultural heritage monuments in Dobele Municipality	appears in the heritage monument list
+Q4907459	Q20565755	P2817	Biksti Station	Cultural heritage monuments in Dobele Municipality	appears in the heritage monument list
+Q3743271	Q20565674	P2817	Āraiši lake dwelling site	Cultural heritage monuments in Amata Municipality	appears in the heritage monument list
+Q15220158	Q20565674	P2817	Āraiši Windmill	Cultural heritage monuments in Amata Municipality	appears in the heritage monument list
+Q20828803	Q20565674	P2817	Āraiši Castle	Cultural heritage monuments in Amata Municipality	appears in the heritage monument list
+Q16832173	Q18286015	P2817	Schillerstraße 57 (Lang-Göns)	list of cultural heritage monuments in Langgöns	appears in the heritage monument list
+Q17375645	Q18286015	P2817	Jüdischer Friedhof (Lang-Göns)	list of cultural heritage monuments in Langgöns	appears in the heritage monument list
+Q18750481	Q18286015	P2817	Obergasse 20 (Lang-Göns)	list of cultural heritage monuments in Langgöns	appears in the heritage monument list
+Q10964972	Q20565956	P2817	Mērsrags lighthouse	Cultural heritage monuments in Mērsrags Municipality	appears in the heritage monument list
+Q4150015	Q20565784	P2817	Grobiņa Castle	Cultural heritage monuments in Grobiņa Municipality	appears in the heritage monument list
+Q51279152	Q20565888	P2817	Marinzeja manor	Cultural heritage monuments in Krustpils Municipality	appears in the heritage monument list
+Q1747870	Q20565982	P2817	Ungurmuiža Manor	Cultural heritage monuments in Pārgauja Municipality	appears in the heritage monument list
+Q5764690	Q20565982	P2817	Lielstraupe Castle	Cultural heritage monuments in Pārgauja Municipality	appears in the heritage monument list
+Q21481201	Q20565982	P2817	Urele hillfort	Cultural heritage monuments in Pārgauja Municipality	appears in the heritage monument list
+Q47763694	Q18286015	P2817	Haus Cunze	list of cultural heritage monuments in Langgöns	appears in the heritage monument list
+Q4145434	Q18914448	P2817	St. Petersburg Psychiatric Hospital No. 1 (named after P. P. Kashchenko)	Cultural heritage of Russia/Leningrad Oblast/Gatchinsky District	appears in the heritage monument list
+Q4680194	Q20566020	P2817	Adamova Manor	Cultural heritage monuments in Rēzekne Municipality	appears in the heritage monument list
+Q10986739	Q20566020	P2817	Lūznava Manor	Cultural heritage monuments in Rēzekne Municipality	appears in the heritage monument list
+Q186097	Q20566182	P2817	Powder Tower, Riga	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q322183	Q20566182	P2817	Riga Castle	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q555773	Q20566182	P2817	Latvian National Opera	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q555773	Q20566182	P2817	Latvian National Opera	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q555773	Q20566182	P2817	Latvian National Opera	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q654904	Q20566182	P2817	St. James's Cathedral, Riga	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q727809	Q20566182	P2817	St. Peter's Church	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q1133059	Q20566182	P2817	Riga Cathedral	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q2568547	Q20566182	P2817	St. John's Church	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q2568623	Q20566182	P2817	St. Mary Magdalene's Church	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q2672158	Q20566182	P2817	Our Lady of Sorrows Church	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q3409330	Q20566182	P2817	St. George's Church	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q4065174	Q20566182	P2817	St. Saviour's church, Riga	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q4796493	Q20566182	P2817	Arsenāls – Fine Arts Museum	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q5166164	Q20566182	P2817	Convent Yard, Riga	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q7333328	Q20566182	P2817	Riga Cathedral pipe organ	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q7587443	Q20566182	P2817	St. Catherine's Roman Catholic Church, Riga	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q16355736	Q20566182	P2817	House of the Livonian Noble Corporation	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q56052109	Q20566182	P2817	Herdera laukums (Riga)	Cultural heritage monuments in Vecrīga, Riga	appears in the heritage monument list
+Q15219495	Q20566070	P2817	Pape lighthouse	Cultural heritage monuments in Rucava Municipality	appears in the heritage monument list
+Q7938067	Q20566207	P2817	Viļaka Castle	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list
+Q805948	Q21065381	P2817	Bamberger Kreuzweg	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427119	Q21065381	P2817	Maienbrunnen 18 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427123	Q21065381	P2817	Maienbrunnen 34 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427126	Q21065381	P2817	Hofwaschbrunnen, Untere Sandstraße 34 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427130	Q21065381	P2817	Ottobrunnen 1 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427137	Q21065381	P2817	Villa Remeis (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427146	Q21065381	P2817	Storchsgasse 1 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q41427153	Q21065381	P2817	Ziegelhof 1 (Bamberg)	Cultural heritage monuments in Bamberg-Michaelsberg	appears in the heritage monument list
+Q55443584	Q20566207	P2817	Tepenīcas viduslaiku kapsēta (Latvian)	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list
+Q55443591	Q20566207	P2817	Lavošnieku viduslaiku kapsēta (Latvian)	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list
+Q55443593	Q20566207	P2817	Viļakas viduslaiku pils (Latvian)	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list
+Q55443608	Q20566207	P2817	Viļakas katoļu draudzes mācītājmāja (Latvian)	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list
+Q55443624	Q20566207	P2817	Altāri (3) (Latvian)	Cultural heritage monuments in Viļaka Municipality	appears in the heritage monument list

@@ -1,5 +1,4 @@
 import dataset_pcnn as dt
-import moses
 import os
 import params
 import re
@@ -7,11 +6,12 @@ import siamese_pcnn as siamese
 import torch
 import torch.nn.functional as F
 from datetime import datetime
+from mosestokenizer import MosesTokenizer
 from torch.utils.data import DataLoader
 
 
 # Initialization
-tokenizer = moses.MosesTokenizer()
+tokenizer = MosesTokenizer('en')
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 print(device)
 
@@ -27,7 +27,7 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
 
 def get_token(text):
     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
-    tokens = tokenizer.tokenize(text)
+    tokens = tokenizer(text)
     return tokens
 
 
@@ -141,12 +141,14 @@ def main():
     train_dataset = dt.MyDataset(args.train_filename)
     valid_dataset = dt.MyDataset(args.valid_filename)
     test_dataset = dt.MyDataset(args.test_filename)
+    gold_dataset = dt.MyDataset(args.gold_filename)
     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
     train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
     valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+    gold_loader = DataLoader(dataset=gold_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     
     # Initialize model
     model = siamese.SiameseNetwork(args)
@@ -191,6 +193,31 @@ def main():
             f.write('\n')
     f.closed
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
+    
+    # Gold Prediction
+    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start gold prediction')
+    predict = test(gold_loader, model, args)
+        
+    pred_filename = args.gold_dir + '/predict_result.tsv'
+    with open(pred_filename, 'w') as f:
+        for item in predict:
+            f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
+    f.closed
+    print('Successfully save prediction result to', pred_filename)
+    
+    with open(args.gold_dir + '/rel_embed_vector.tsv', 'w') as f:
+        for item in predict:
+            out1 = item[5].cpu().numpy().tolist()
+            f.write('\t'.join(str(x) for x in out1))
+            f.write('\n')
+    f.closed
+    
+    with open(args.gold_dir + '/rel_embed_label.tsv', 'w') as f:
+        for item in predict:
+            f.write(item[1])
+            f.write('\n')
+    f.closed
+    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Gold prediction finished')
             
 
 if __name__ == '__main__':

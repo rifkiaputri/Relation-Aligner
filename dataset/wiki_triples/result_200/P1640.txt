@@ -1,0 +1,240 @@
+Q82941	Q38849030	P1640	São Paulo Museum of Art	Adriano Pedrosa	curator
+Q82941	Q38849030	P1640	São Paulo Museum of Art	Adriano Pedrosa	curator
+Q82941	Q38849030	P1640	São Paulo Museum of Art	Adriano Pedrosa	curator
+Q511	Q15407464	P1640	Museum of Fine Arts of Lyon	Sylvie Lecoq-Ramond	curator
+Q19675	Q30105490	P1640	Louvre Museum	Marie-Laure de Rochebrune	curator
+Q19675	Q30105490	P1640	Musée du Louvre	Marie-Laure de Rochebrune	curator
+Q19675	Q30105490	P1640	Musée du Louvre	Marie-Laure de Rochebrune	curator
+Q231289	Q651859	P1640	4. documenta	Arnold Bode	curator
+Q265378	Q651859	P1640	documenta 1	Arnold Bode	curator
+Q265370	Q2161780	P1640	documenta 12	Roger M. Buergel	curator
+Q189021	Q2536856	P1640	TED conferences	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED conferences	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED conferences	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q189021	Q2536856	P1640	TED	Chris Anderson	curator
+Q55370227	Q52556456	P1640	De doorbraak van de conceptuele kunst in België. Het geval Fernand Spillemaeckers.	Dirk Pültau	curator
+Q53533786	Q53534478	P1640	Manifesta 12	Ippolito Pestellini Laparelli	curator
+Q53533786	Q53535091	P1640	Manifesta 12	Mirjam Varadinis	curator
+Q55450469	Q55449261	P1640	Funktionale Anforderungen an Normdaten	Glenn E. Patton	curator
+Q55370227	Q55465022	P1640	De doorbraak van de conceptuele kunst in België. Het geval Fernand Spillemaeckers.	Koen Brams	curator
+Q56488725	Q56488552	P1640	Le più belle arie d'opera	Piero Mioli	curator
+Q56488726	Q56488607	P1640	Antologia del blues	Elena Clementelli	curator
+Q56488728	Q56488607	P1640	Antologia degli spirituals	Elena Clementelli	curator
+Q56488727	Q56488654	P1640	Motti dannunziani	Maria Paola Sorge	curator
+Q56488729	Q56488691	P1640	I proverbi della Bibbia	Sabina Moser	curator
+Q56739087	Q56739191	P1640	Armenia!	Helen C. Evans	curator
+Q1165526	Q3387652	P1640	Musée Jacquemart-André	Pierre de Nolhac	curator
+Q1165526	Q3387652	P1640	Musée Jacquemart-André	Pierre de Nolhac	curator
+Q861552	Q7432436	P1640	Registry of Open Access Repositories	School of Electronics and Computer Science, University of Southampton	curator
+Q428765	Q13077262	P1640	Museum of Fine Arts of Nancy	Charles Villeneuve de Janti	curator
+Q896935	Q15451804	P1640	Roemer- und Pelizaeus-Museum Hildesheim	Bettina Schmitz	curator
+Q1165526	Q33104207	P1640	Musée Jacquemart-André	Pierre-Nicolas Sainte Fare Garnot	curator
+Q1165526	Q33104207	P1640	Musée Jacquemart-André	Pierre-Nicolas Sainte Fare Garnot	curator
+Q283066	Q37693	P1640	The Volpini Exhibition, 1889	Paul Gauguin	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	Municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	Municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	Municipality	curator
+Q6202501	Q160115	P1640	Jinhua Architecture Park	Ai Weiwei	curator
+Q1861687	Q247264	P1640	Montana State University - Bozeman	Jack Horner	curator
+Q1861687	Q247264	P1640	Montana State University - Bozeman	Jack Horner	curator
+Q1861687	Q247264	P1640	Montana State University - Bozeman	Jack Horner	curator
+Q1952944	Q2742370	P1640	Museum of Grenoble	Jean Leymarie	curator
+Q265448	Q651859	P1640	Documenta II	Arnold Bode	curator
+Q265533	Q651859	P1640	documenta III	Arnold Bode	curator
+Q534403	Q810035	P1640	European Solidarity Centre	Basil Kerski	curator
+Q769536	Q873279	P1640	documenta 7	Rudi Fuchs	curator
+Q1233991	Q107876	P1640	documenta 8	Manfred Schneckenburger	curator
+Q1233993	Q107876	P1640	documenta 6	Manfred Schneckenburger	curator
+Q1233994	Q115816	P1640	documenta 5	Harald Szeemann	curator
+Q265395	Q453538	P1640	dOCUMENTA (13)	Carolyn Christov-Bakargiev	curator
+Q1233986	Q522031	P1640	Documenta 11	Okwui Enwezor	curator
+Q1234006	Q523720	P1640	Documenta IX	Jan Hoet	curator
+Q1234004	Q543508	P1640	documenta x	Catherine David	curator
+Q3329946	Q3383510	P1640	Museum of Prehistory of Penmarch	Pierre-Roland Giot	curator
+Q3838545	Q3910588	P1640	Luciano Caramel	Premio Michetti	curator
+Q2409523	Q5107441	P1640	The Art of Video Games	Chris Melissinos	curator
+Q2805178	Q7706094	P1640	Gallery Prince Willem V	Tethart Philipp Christian Haag	curator
+Q1233983	Q15222715	P1640	documenta 14	Adam Szymczyk	curator
+Q1233983	Q15222715	P1640	documenta 14	Adam Szymczyk	curator
+Q1233983	Q15222715	P1640	documenta 14	Adam Szymczyk	curator
+Q3073495	Q17466231	P1640	National Museum of African American History and Culture	Jacquelyn Serwer	curator
+Q2562904	Q20561107	P1640	Museum of Soviet Occupation	Levan Urushadze	curator
+Q1233983	Q29035425	P1640	documenta 14	Candice Hopkins	curator
+Q1952944	Q33277715	P1640	Museum of Grenoble	Guy Tosatto	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q21031096	Q15284	P1640	Jelmoli	municipality	curator
+Q17355312	Q116738	P1640	Imagine Brazil	Hans-Ulrich Obrist	curator
+Q20853569	Q133600	P1640	Dismaland	Banksy	curator
+Q20853569	Q133600	P1640	Dismaland	Banksy	curator
+Q28152171	Q55754311	P1640	Europeana Fashion	European Fashion Heritage Association	curator
+Q28152171	Q55754311	P1640	Europeana Fashion	European Fashion Heritage Association	curator
+Q28152171	Q55754311	P1640	Europeana Fashion	European Fashion Heritage Association	curator
+Q56085782	Q490	P1640	Esposizione Nazionale di Belle Arti (1881)	Milan	curator
+Q56085782	Q490	P1640	Esposizione Nazionale di Belle Arti (1881)	Milan	curator
+Q56085782	Q490	P1640	Esposizione Nazionale di Belle Arti (1881)	Milan	curator
+Q3018307	Q2927177	P1640	This Is Tomorrow	Bryan Robertson	curator
+Q3574188	Q3055599	P1640	Yvonne Deslandres	Musée de la mode et du textile	curator
+Q3330225	Q3059789	P1640	Museum of Fine Arts, Reims	Eugène Courmeaux	curator
+Q2901277	Q3093772	P1640	bibliothèque Forney	Gabriel Henriot	curator
+Q3330225	Q3131331	P1640	Museum of Fine Arts, Reims	Henri Jadart	curator
+Q3330225	Q3164202	P1640	Museum of Fine Arts, Reims	Jean-Baptiste Langlet	curator
+Q2912600	Q3170300	P1640	National Museum of Fine Arts of Algiers	Jean Alazard	curator
+Q3330225	Q3171250	P1640	Museum of Fine Arts, Reims	Jean Charles Loriquet	curator
+Q2912600	Q3175553	P1640	National Museum of Fine Arts of Algiers	Jean de Maisonseul	curator
+Q3014063	Q3278223	P1640	Ennigaldi-Nanna's museum	Ennigaldi	curator
+Q26156607	Q8622	P1640	Les Chaînes de l'esclavage	Bibliothèque municipale de Lyon	curator
+Q26156607	Q8622	P1640	Les Chaînes de l'esclavage	Bibliothèque municipale de Lyon	curator
+Q26156607	Q8622	P1640	Les Chaînes de l'esclavage	Bibliothèque municipale de Lyon	curator
+Q30312568	Q15284	P1640	Hotel du Théatre	municipality	curator
+Q30321637	Q15284	P1640	Seeclub Zürich	municipality	curator
+Q30321652	Q15284	P1640	Sprüngli-Haus	municipality	curator
+Q30321669	Q15284	P1640	Mehrfamilienhaus, Dufourstrasse 117 (Zürich, Switzerland)	municipality	curator
+Q30321715	Q15284	P1640	Mehrfamilienhaus, Lindenstrasse 33 (Zürich, Switzerland)	municipality	curator
+Q30322685	Q15284	P1640	Zürich Hauptbahnhof, Alfred Escher-Brunnen	municipality	curator
+Q20853569	Q133600	P1640	Dismaland	Banksy	curator
+Q6943577	Q313348	P1640	Musée Requien	Jean-Henri Fabre	curator
+Q7150835	Q463283	P1640	Paul Gauguin's exhibit at Les XX, 1889	Les XX	curator
+Q7932135	Q463283	P1640	Vincent van Gogh's display at Les XX, 1890	Les XX	curator
+Q30312568	Q15284	P1640	Hotel du Théatre	municipality	curator
+Q30321637	Q15284	P1640	Seeclub Zürich	municipality	curator
+Q30321652	Q15284	P1640	Sprüngli-Haus	municipality	curator
+Q30321669	Q15284	P1640	Mehrfamilienhaus, Dufourstrasse 117 (Zürich, Switzerland)	municipality	curator
+Q30321715	Q15284	P1640	Mehrfamilienhaus, Lindenstrasse 33 (Zürich, Switzerland)	municipality	curator
+Q30322685	Q15284	P1640	Zürich Hauptbahnhof, Alfred Escher-Brunnen	municipality	curator
+Q56823356	Q59570	P1640	Brazilian war bonnet from Tukano tribe	Theodor Koch-Grunberg	curator
+Q5197816	Q4974363	P1640	Cybernetic Serendipity	Jasia Reichardt	curator
+Q22833313	Q5233811	P1640	Caravaggio and His Followers in Rome	David Franklin	curator
+Q23013333	Q6231541	P1640	de Kooning: A Retrospective	John Elderfield	curator
+Q7277308	Q7432436	P1640	Registry of Open Access Repositories Mandates and Policies	School of Electronics and Computer Science, University of Southampton	curator
+Q10333433	Q10304825	P1640	Museu Casa do Pontal	Jacques van de Beuque	curator
+Q15876339	Q14256114	P1640	Het symbolisme in Europa	Renilde Hammacher-van den Brande	curator
+Q27095354	Q14886457	P1640	Museum of Antiquities of the University of Heidelberg	Hildegund Gropengiesser	curator
+Q6943577	Q663914	P1640	Musée Requien	Esprit Requien	curator
+Q19819722	Q1452302	P1640	AmigaLibDisks	Fred Fish	curator
+Q7832444	Q1979892	P1640	Traffic	Nicolas Bourriaud	curator
+Q6943577	Q3301235	P1640	Musée Requien	Maurice Palun	curator
+Q22833313	Q18589604	P1640	Caravaggio and His Followers in Rome	Sebastian Schütze	curator
+Q21885948	Q19889173	P1640	Mining Museum Samson Pit	Jochen Klähn	curator
+Q7670372	Q47530187	P1640	TIFF Cinematheque	Jesse Wente	curator
+Q652779	Q48200383	P1640	LacusCurtius	Bill Thayer	curator
+Q1376	Q52678406	P1640	Musée Saint-Raymond	Laure Barthet	curator
+Q1376	Q52678406	P1640	Musée Saint-Raymond	Laure Barthet	curator
+Q1376	Q52678406	P1640	Musée Saint-Raymond	Laure Barthet	curator
+Q27095354	Q54402124	P1640	Museum of Antiquities of the University of Heidelberg	Polly Lohmann	curator
+Q27095354	Q54402124	P1640	Museum of Antiquities of the University of Heidelberg	Polly Lohmann	curator
+Q27095354	Q54402124	P1640	Museum of Antiquities of the University of Heidelberg	Polly Lohmann	curator
+Q21661998	Q115816	P1640	Live in your Head: When Attitudes Become Form	Harald Szeemann	curator
+Q32194941	Q565874	P1640	Ancient collection of the Museum August Kestner	Anne Viola Siebert	curator
+Q41288846	Q3559798	P1640	Corot 1796-1875	Vincent Pomarède	curator
+Q56488527	Q3838630	P1640	Luna d'amore	Luciano Luisi	curator
+Q56488540	Q3838630	P1640	A mio padre... le più belle poesie dai poeti italiani	Luciano Luisi	curator
+Q47516582	Q3848330	P1640	La Buca del Muretto	Mario Berrino	curator
+Q47516582	Q3848330	P1640	La Buca del Muretto	Mario Berrino	curator
+Q47516582	Q3848330	P1640	La Buca del Muretto	Mario Berrino	curator
+Q56488528	Q3960937	P1640	Donna, mistero senza fine bello	Silvio Raffo	curator
+Q56488726	Q4017967	P1640	Antologia del blues	Walter Mauro	curator
+Q56488728	Q4017967	P1640	Antologia degli spirituals	Walter Mauro	curator
+Q28861818	Q4408234	P1640	Upor Request	Andrey Sarabyanov	curator
+Q53533786	Q4670459	P1640	Manifesta 12	Bregtje van der Haak	curator
+Q53533786	Q4670459	P1640	Manifesta 12	Bregtje van der Haak	curator
+Q53533786	Q4670459	P1640	Manifesta 12	Bregtje van der Haak	curator
+Q28854991	Q4799309	P1640	Vermeer and the Masters of Genre Painting	Arthur K. Wheelock, Jr	curator
+Q56035761	Q6732028	P1640	Zoya Cherkassky - Pravda	Amitai Mendelsohn	curator
+Q54621018	Q7183500	P1640	Real Numbers, Generalizations of the Reals, and Theories of Continua	Philip Ehrlich	curator
+Q54621378	Q7183500	P1640	Real Numbers, Generalizations of the Reals, and Theories of Continua	Philip Ehrlich	curator
+Q56650608	Q8061829	P1640	#dearMoon	Yusaku Maezawa	curator
+Q15551224	Q15411331	P1640	Museum on the Seam	Raphie Etgar	curator
+Q10280132	Q15618652	P1640	Arnel Point Lighthouse	two people	curator
+Q10280132	Q15618652	P1640	Arnel Point Lighthouse	two people	curator
+Q24182244	Q1025341	P1640	Holyhead Mountain Hut Circles	Cadw	curator
+Q24182244	Q1025341	P1640	Holyhead Mountain Hut Circles	Cadw	curator
+Q50147552	Q1034928	P1640	Contatto	Lóránd Hegyi	curator
+Q51069905	Q1054169	P1640	Emma Lavigne	centre Pompidou-Metz	curator
+Q21661998	Q1064751	P1640	Live in your Head: When Attitudes Become Form	Charles Townsend Harrison	curator
+Q24739544	Q1200925	P1640	Llibre d'aparellar de menjar	National Library of Catalonia	curator
+Q56681874	Q11987787	P1640	Dahls Dresden	Magne Malmanger	curator
+Q56085782	Q16321278	P1640	Esposizione Nazionale di Belle Arti (1881)	Milan State Archive	curator
+Q56488532	Q16559998	P1640	Mamma, le più belle poesie a te dedicate	Giovanni Gigliozzi	curator
+Q51069905	Q17174880	P1640	Emma Lavigne	Biennale de Lyon	curator
+Q51069905	Q17174880	P1640	Emma Lavigne	Biennale de Lyon	curator
+Q51069905	Q17174880	P1640	Emma Lavigne	Biennale de Lyon	curator
+Q22312914	Q1252116	P1640	Mayor Gallery	Douglas Cooper	curator
+Q27095354	Q1612348	P1640	Museum of Antiquities of the University of Heidelberg	Hermann Pflug	curator
+Q56071985	Q338472	P1640	Esposizione Nazionale di Milano (1922)	Brera Academy	curator
+Q56085782	Q338472	P1640	Esposizione Nazionale di Belle Arti (1881)	Brera Academy	curator
+Q55135795	Q523720	P1640	Chambres d'amis	Jan Hoet	curator
+Q56229026	Q523720	P1640	Art in Europe after '68	Jan Hoet	curator
+Q51069905	Q1094302	P1640	Emma Lavigne	Cité de la Musique	curator
+Q53533786	Q1096098	P1640	Manifesta 12	Andrés Jaque	curator
+Q21885948	Q20170466	P1640	Mining Museum Samson Pit	Hans-Günter Schärf	curator
+Q11986598	Q21971392	P1640	The Dance of Life – The collection from antiquity to 1950	Nils Ohlsen	curator
+Q22231123	Q22154221	P1640	Biagio Bellotti 1714-1789	Augusto Spada	curator
+Q22231123	Q22158571	P1640	Biagio Bellotti 1714-1789	Giuseppe Pacciarotti	curator
+Q22231123	Q22158749	P1640	Biagio Bellotti 1714-1789	Franco Bertolli	curator
+Q23791044	Q22976615	P1640	57th Venice Biennale	Christine Macel	curator
+Q24237549	Q24237559	P1640	Velázquez	Guillaume Kientz	curator
+Q28571874	Q25832005	P1640	Art grec de la terre à l'image	Evelyne Ugaglia	curator
+Q21885948	Q26265806	P1640	Mining Museum Samson Pit	Fritz Klähn	curator
+Q9047059	Q30831738	P1640	Museum of Science and Technology	Marco Brandalise de Andrade	curator
+Q30312568	Q15284	P1640	Hotel du Théatre	Municipality	curator
+Q30321637	Q15284	P1640	Seeclub Zürich	Municipality	curator
+Q30321652	Q15284	P1640	Sprüngli-Haus	Municipality	curator
+Q30321669	Q15284	P1640	Mehrfamilienhaus, Dufourstrasse 117 (Zürich, Switzerland)	Municipality	curator
+Q30321715	Q15284	P1640	Mehrfamilienhaus, Lindenstrasse 33 (Zürich, Switzerland)	Municipality	curator
+Q30322685	Q15284	P1640	Zürich Hauptbahnhof, Alfred Escher-Brunnen	Municipality	curator
+Q28734903	Q28734895	P1640	Ellen Gallagher: AxME	Juliet Bingham	curator
+Q28735381	Q28735382	P1640	Mildred Howard: Collective Memory	Lizzetta Lefalle Collins	curator
+Q28813608	Q28749436	P1640	collection of Petr Pacholátko	Petr Pacholátko	curator
+Q28854991	Q28859818	P1640	Vermeer and the Masters of Genre Painting	Blaise Ducos	curator
+Q28854991	Q28859826	P1640	Vermeer and the Masters of Genre Painting	Adriaan E. Waiboer	curator
+Q29032462	Q29032456	P1640	To Draw in Space: Abstract Artists of Brazil and Venezuela in the Colección Patricia Phelps de Cisneros	Ariel Jiménez	curator
+Q29043205	Q29043210	P1640	Cold America: Geometric Abstraction in Latin América (1934-1973) – English	Osbel Suárez	curator
+Q29889315	Q30090133	P1640	The Age of Rembrandt: Dutch Paintings in The Metropolitan Museum of Art	Esmée Quodbach	curator
+Q41288846	Q41287350	P1640	Corot 1796-1875	Michael Pantazzi	curator
+Q17355312	Q18533393	P1640	Imagine Brazil	Thierry Raspail	curator
+Q18578023	Q18533393	P1640	Rétrospective Erró	Thierry Raspail	curator
+Q19890915	Q18533393	P1640	Open Sea	Thierry Raspail	curator
+Q17355312	Q18533393	P1640	Imagine Brazil	Thierry Raspail	curator
+Q18578023	Q18533393	P1640	Rétrospective Erró	Thierry Raspail	curator
+Q19890915	Q18533393	P1640	Open Sea	Thierry Raspail	curator
+Q17355312	Q18533393	P1640	Imagine Brazil	Thierry Raspail	curator
+Q18578023	Q18533393	P1640	Rétrospective Erró	Thierry Raspail	curator
+Q19890915	Q18533393	P1640	Open Sea	Thierry Raspail	curator
+Q41288846	Q17488961	P1640	Corot 1796-1875	Gary Tinterow	curator
+Q50380122	Q19631350	P1640	Corot. The Painter and his Models	Sébastien Allard	curator
+Q55371818	Q21289740	P1640	Museum for a Small City	Richard Venlet	curator
+Q53673006	Q22132205	P1640	Along the Coast. Gude and His Students Around 1870	Frode Haverkamp	curator
+Q55096362	Q25174970	P1640	J.C. Dahl – The Power of Nature	Knut Ormhaug	curator
+Q28733157	Q28531237	P1640	An Independent Woman: The Life and Art of Meta Warrick Fuller	Harriet Forte Kennedy	curator
+Q28732935	Q28732966	P1640	Delilah W. Pierce: Natural Perspective	Floyd Coleman	curator
+Q28732935	Q28732966	P1640	Delilah W. Pierce: Natural Perspective	Floyd Coleman	curator
+Q28732935	Q28732966	P1640	Delilah W. Pierce: Natural Perspective	Floyd Coleman	curator
+Q52676370	Q2897554	P1640	Kanal	Bernard Blistène	curator
+Q56062726	Q3329646	P1640	Catalog Salvatore Garau. Photogrammes avec horizon (Lóránd Hegyi)	Musée d'art moderne (Saint-Étienne)	curator
+Q30321751	Q2311958	P1640	Zürich Hauptbahnhof, Bahnhof mit Bahnhofhalle	canton	curator
+Q30322378	Q2311958	P1640	Zum Beckenhof	canton	curator
+Q30322662	Q2311958	P1640	Zürich Hauptbahnhof, Querhalle	canton	curator
+Q30322678	Q2311958	P1640	Zürich Hauptbahnhof, Geleisehalle	canton	curator
+Q30322683	Q2311958	P1640	Zürich Hauptbahnhof, Zentralstellwerk Hauptbahnhof	canton	curator
+Q30322689	Q2311958	P1640	Zürich Hauptbahnhof, Teil des Hauptbahnhofs	canton	curator
+Q30321751	Q2311958	P1640	Zürich Hauptbahnhof, Bahnhof mit Bahnhofhalle	canton	curator
+Q30322378	Q2311958	P1640	Zum Beckenhof	canton	curator
+Q30322662	Q2311958	P1640	Zürich Hauptbahnhof, Querhalle	canton	curator
+Q30322678	Q2311958	P1640	Zürich Hauptbahnhof, Geleisehalle	canton	curator
+Q30322683	Q2311958	P1640	Zürich Hauptbahnhof, Zentralstellwerk Hauptbahnhof	canton	curator
+Q30322689	Q2311958	P1640	Zürich Hauptbahnhof, Teil des Hauptbahnhofs	canton	curator
+Q30321751	Q2311958	P1640	Zürich Hauptbahnhof, Bahnhof mit Bahnhofhalle	Canton	curator
+Q30322378	Q2311958	P1640	Zum Beckenhof	Canton	curator
+Q30322662	Q2311958	P1640	Zürich Hauptbahnhof, Querhalle	Canton	curator
+Q30322678	Q2311958	P1640	Zürich Hauptbahnhof, Geleisehalle	Canton	curator
+Q30322683	Q2311958	P1640	Zürich Hauptbahnhof, Zentralstellwerk Hauptbahnhof	Canton	curator
+Q30322689	Q2311958	P1640	Zürich Hauptbahnhof, Teil des Hauptbahnhofs	Canton	curator

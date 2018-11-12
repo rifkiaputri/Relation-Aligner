@@ -1,0 +1,22 @@
+Q5601909	Q747810	P459	Greek census 2011	questionnaire	determination method
+Q7565744	Q747810	P459	South African National Census of 2011	questionnaire	determination method
+Q12873865	Q747810	P459	Cyprus census 2011	questionnaire	determination method
+Q12876986	Q747810	P459	Greek census 1991	questionnaire	determination method
+Q12876987	Q747810	P459	Greek census 1971	questionnaire	determination method
+Q12876988	Q747810	P459	1981 Greek census	questionnaire	determination method
+Q15715120	Q747810	P459	2011 Italian census	questionnaire	determination method
+Q15778841	Q747810	P459	Italian census 2001	questionnaire	determination method
+Q16331432	Q747810	P459	Greek census 2001	questionnaire	determination method
+Q28324370	Q747810	P459	Community Survey 2016	questionnaire	determination method
+Q5200724	Q11244	P459	Tarata bombing	car bomb	determination method
+Q5160083	Q575766	P459	confidence and prediction bands	Kolmogorov–Smirnov test	determination method
+Q5160083	Q7431079	P459	confidence and prediction bands	Scheffé's method	determination method
+Q5160083	Q17030463	P459	confidence and prediction bands	Holm–Bonferroni method	determination method
+Q259138	Q55183258	P459	ECMAScript	ECMA-262	determination method
+Q379523	Q55238531	P459	Advanced Configuration and Power Interface	ACPI specification	determination method
+Q18217294	Q198	P459	Tabasco	war	determination method
+Q18217294	Q198	P459	Tabasco	War	determination method
+Q18217294	Q198	P459	Tabasco	war	determination method
+Q30006080	Q1153655	P459	Bird's-eye view map	Bird's-eye view	determination method
+Q22906080	Q2069919	P459	K2-3d	transit method	determination method
+Q55249220	Q55238531	P459	global system state	ACPI specification	determination method

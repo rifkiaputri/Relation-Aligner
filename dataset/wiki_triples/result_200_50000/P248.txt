@@ -1,0 +1,733 @@
+Q5239886	Q2117742	P248	David Smith	CricketArchive	stated in
+Q19655928	Q19460608	P248	Permissive Cornucopia	Out of control	stated in
+Q5144961	Q19385775	P248	Colin Campbell	The Internet Hockey Database	stated in
+Q5239912	Q18002875	P248	David Smith	sports-reference.com	stated in
+Q19671294	Q19671214	P248	AlteredExpression Association	The DisGeNET Association Type Ontology	stated in
+Q5239886	Q2118845	P248	David Smith	ESPNcricinfo	stated in
+Q5232852	Q9531	P248	David Davies	BBC	stated in
+Q19571279	Q1201876	P248	Band of Brothers	Open Library	stated in
+Q5240345	Q23993300	P248	David Thomas	Beach Volleyball Database	stated in
+Q7528143	Q17037575	P248	Sir John Williams, 1st Baronet, of the City of London	Oxford Biography Index	stated in
+Q5239877	Q19413232	P248	David Smith	Rugby League Project	stated in
+Q5241193	Q19691988	P248	David Wilson	Manitoba Historical Society	stated in
+Q1626914	Q35127	P248	Greg Smith	website	stated in
+Q16105467	Q3270265	P248	John Rogers	Alabama Legislature	stated in
+Q1717581	Q846596	P248	Jürgen Reinholz	WorldCat	stated in
+Q45404197	Q45404982	P248	Bekenstein-Hawking energy	On the Holographic Principle in a Radiation Dominated Universe	stated in
+Q27220803	Q2042834	P248	Dijonay Jones	The Proud Family Movie	stated in
+Q7342708	Q19360207	P248	Robert Campbell	AFL Tables	stated in
+Q1041695	Q916201	P248	Hungary Water	Oekonomische Encyklopädie	stated in
+Q7351123	Q863769	P248	Robert Williams	Baseball-Reference.com	stated in
+Q17402519	Q37312	P248	Greg Smith	Internet Movie Database	stated in
+Q5606273	Q2117742	P248	Greg Smith	CricketArchive	stated in
+Q6236099	Q4386693	P248	John Gray	Victorian Legislative Assembly	stated in
+Q6242859	Q37312	P248	John Kennedy	Internet Movie Database	stated in
+Q17518862	Q1645493	P248	Medusa	Lives of the Most Excellent Painters, Sculptors, and Architects	stated in
+Q6262709	Q37312	P248	John Walker	Internet Movie Database	stated in
+Q20979684	Q1428079	P248	6 micrometre	International Technology Roadmap for Semiconductors	stated in
+Q6262996	Q863769	P248	John Ward	Baseball-Reference.com	stated in
+Q5537315	Q19595244	P248	George Brown	The Great Road	stated in
+Q5537317	Q19385775	P248	George Brown	The Internet Hockey Database	stated in
+Q5606274	Q863769	P248	Greg Smith	Baseball-Reference.com	stated in
+Q5606258	Q837164	P248	Greg Smith	Newcastle University	stated in
+Q6242859	Q35127	P248	John Kennedy	website	stated in
+Q6255426	Q2117742	P248	John Rogers	CricketArchive	stated in
+Q6237337	Q2117742	P248	John Hall	CricketArchive	stated in
+Q3742385	Q37312	P248	Rough, Tough and Ready	Internet Movie Database	stated in
+Q6221426	Q37312	P248	John Bell	Internet Movie Database	stated in
+Q11979017	Q18002875	P248	John Martin	sports-reference.com	stated in
+Q5606266	Q4824530	P248	Greg Smith	Australian Paralympic Committee	stated in
+Q6237321	Q19562281	P248	John Hall	Fasti ecclesiæ scoticanæ	stated in
+Q17385895	Q1848835	P248	David Evans	Parliament of Victoria	stated in
+Q6255426	Q2118845	P248	John Rogers	ESPNcricinfo	stated in
+Q3703375	Q1215884	P248	David Wilson	National Football League	stated in
+Q6263011	Q2118845	P248	John Ward	ESPNcricinfo	stated in
+Q861695	Q18002875	P248	William Robinson	sports-reference.com	stated in
+Q18527481	Q17037575	P248	Robert Williams	Oxford Biography Index	stated in
+Q6237327	Q863769	P248	John Hall	Baseball-Reference.com	stated in
+P3034	Q24529655	P248	Indonesian ethnicity code	Ensiklopedi Suku Bangsa di Indonesia	stated in
+Q6236081	Q19360207	P248	John Gray	AFL Tables	stated in
+Q738619	Q12163828	P248	Dnipro Hydroelectric Station	Ukrainian general encyclopedia	stated in
+Q19377434	Q215806	P248	Klemenskirken i Trondheim	Heimskringla	stated in
+Q26426312	Q964	P248	2016-17 Top 14 French Rugby, day 1	Wikinews	stated in
+Q18530177	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q6265189	Q35794	P248	John Young	University of Cambridge	stated in
+Q7033	Q846596	P248	Nordhausen	WorldCat	stated in
+Q9350052	Q35127	P248	Synagogue in Rousínov	website	stated in
+Q6249895	Q863769	P248	John Murphy	Baseball-Reference.com	stated in
+Q18527305	Q6296202	P248	John Martin	Journal of the Royal Statistical Society	stated in
+Q19671258	Q19671214	P248	Therapeutic association	The DisGeNET Association Type Ontology	stated in
+Q18527375	Q17037575	P248	John Murray	Oxford Biography Index	stated in
+Q6251897	Q9531	P248	John Parker	BBC	stated in
+Q6236088	Q19754795	P248	John Gray	New Zealand Parliamentary Record, 1840–1949	stated in
+Q192012	Q213051	P248	Zerschellschicht	non-fiction	stated in
+Q914907	Q4532138	P248	Khortytsia	Granat Encyclopedic Dictionary	stated in
+Q734290	Q213051	P248	Asouade	non-fiction	stated in
+Q19563089	Q206033	P248	The London Review and Weekly Journal of Politics, Literature, Art, & Society	Google Books	stated in
+Q13422520	Q1087968	P248	Hans-Gerd Adler	Chronik der Wende	stated in
+Q18530178	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q1005633	Q836156	P248	Bundesartenschutzverordnung	Bundesgesetzblatt	stated in
+Q790084	Q249685	P248	Avaldsnes	Ágrip af Nóregskonungasögum	stated in
+Q19562655	Q49210	P248	President of New York University	New York University	stated in
+Q19562281	Q461	P248	Fasti ecclesiæ scoticanæ	Internet Archive	stated in
+Q18530275	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q5606264	Q3365500	P248	Greg Smith	Parliament of Western Australia	stated in
+Q676571	Q764739	P248	Imperial Statistical Office	DESTATIS	stated in
+Q6260655	Q1517320	P248	John Thompson	Legislative Assembly of Manitoba	stated in
+Q18559712	Q17037575	P248	David Christopher Davies	Oxford Biography Index	stated in
+Q9069823	Q600111	P248	Robert Williams	Philadelphia Inquirer	stated in
+Q914907	Q12163711	P248	Khortytsia	Ukrainian Small Encyclopaedia	stated in
+Q5606277	Q19413232	P248	Greg Smith	Rugby League Project	stated in
+Q10363011	Q11921	P248	Risques Pereira	Portuguese Wikipedia	stated in
+Q645151	Q1541065	P248	Ernesto Cortissoz International Airport	Aeronautical Information Publication	stated in
+Q6262713	Q9684	P248	John Walker	The New York Times	stated in
+Q18530279	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q21511610	Q200386	P248	Dunja Lango	Serbian Wikipedia	stated in
+Q18546628	Q17037575	P248	John Smith	Oxford Biography Index	stated in
+Q19803485	Q5168253	P248	Bradford City: a complete record, 1903-1988	Copac	stated in
+Q15456236	Q19204319	P248	William Williams	Hansard 1803–2005	stated in
+Q775523	Q1428079	P248	130 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q19671312	Q19671214	P248	Post-translationalModification association	The DisGeNET Association Type Ontology	stated in
+Q691810	Q39939	P248	Visitation	Gospel of Luke	stated in
+Q18559713	Q17037575	P248	David Lewis Davies	Oxford Biography Index	stated in
+Q18546617	Q17037575	P248	John Phillips	Oxford Biography Index	stated in
+Q914907	Q4135594	P248	Khortytsia	Geographical statistical dictionary of the Russian Empire	stated in
+Q6130319	Q19204319	P248	James Brown	Hansard 1803–2005	stated in
+Q18530220	Q17037575	P248	John Campbell	Oxford Biography Index	stated in
+Q759866	Q213051	P248	Aufputz	non-fiction	stated in
+Q460404	Q213051	P248	Amdjeru	non-fiction	stated in
+Q18546505	Q17037575	P248	John Campbell	Oxford Biography Index	stated in
+Q18529777	Q17037575	P248	James Brown	Oxford Biography Index	stated in
+Q18534834	Q17037575	P248	John Ford Davis	Oxford Biography Index	stated in
+Q17626521	Q1848835	P248	Colin Campbell	Parliament of Victoria	stated in
+Q914907	Q602358	P248	Khortytsia	Brockhaus and Efron Encyclopedic Dictionary	stated in
+Q50095967	Q300908	P248	Hans Peder Johansen	Kraks Blå Bog	stated in
+Q734290	Q591041	P248	Asouade	scholarly publication	stated in
+Q19670728	Q19671214	P248	GeneDisease Association	The DisGeNET Association Type Ontology	stated in
+Q6255184	Q22667518	P248	John Roberts	Australian Player Database	stated in
+Q6242872	Q863769	P248	John Kennedy	Baseball-Reference.com	stated in
+Q192012	Q278151	P248	Zerschellschicht	Spiegel Online	stated in
+Q18534831	Q17037575	P248	John Davis	Oxford Biography Index	stated in
+Q6262982	Q2117742	P248	John Ward	CricketArchive	stated in
+Q18385557	Q19360207	P248	John Walker	AFL Tables	stated in
+Q6239263	Q7739799	P248	John Hill	The History of Parliament	stated in
+Q914907	Q12164634	P248	Khortytsia	Universal dictionary-encyclopedia	stated in
+Q6262978	Q19508656	P248	John Ward	databaseFootball.com	stated in
+Q914907	Q4426348	P248	Khortytsia	Soviet historic encyclopedia	stated in
+Q6145009	Q37312	P248	James Walker	Internet Movie Database	stated in
+Q17671757	Q744099	P248	Holmbury Camp: a small multivallate hillfort north of Three Mile Road	hillfort	stated in
+Q914907	Q16473900	P248	Khortytsia	Soviet encyclopedia of the history of Ukraine	stated in
+Q914907	Q2478929	P248	Khortytsia	Ukrainian Soviet Encyclopedia	stated in
+Q321137	Q36774	P248	Abigaile	web page	stated in
+Q18202158	Q1214172	P248	rectory	Die Kunstdenkmäler von Bayern	stated in
+Q129852	Q5375736	P248	dredge-up	Encyclopedic Dictionary of Astronomy	stated in
+Q6228730	Q3365521	P248	John Davies	Parliament of New South Wales	stated in
+Q26834086	Q964	P248	2016-17 Top 14 French Rugby, day 4	Wikinews	stated in
+Q1135970	Q1428079	P248	3 micrometre	International Technology Roadmap for Semiconductors	stated in
+Q616894	Q5260177	P248	Krabi Airport	The Civil Aviation Authority of Thailand	stated in
+Q661947	Q5273977	P248	John Davies	Dictionary of Welsh Biography	stated in
+Q18338267	Q462471	P248	Ethan Wragge	power forward	stated in
+Q18530176	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q8017696	Q35127	P248	William Robinson	website	stated in
+Q5606270	Q19385775	P248	Greg Smith	The Internet Hockey Database	stated in
+Q6228766	Q19413232	P248	John Davies	Rugby League Project	stated in
+Q711648	Q53289	P248	Arthur Swatek	Wer war wer in der DDR?	stated in
+Q1135952	Q1428079	P248	800 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q5232859	Q19413232	P248	David Davies	Rugby League Project	stated in
+Q22951163	Q22330782	P248	Zika virus nonstructural protein NS2A	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q651330	Q1541065	P248	Martinique Aimé Césaire International Airport	Aeronautical Information Publication	stated in
+Q8017687	Q4763503	P248	William Robinson	Anglican Diocese of Ottawa	stated in
+Q748	Q1321432	P248	Buddhism	Tripitaka	stated in
+Q5606271	Q2117742	P248	Greg Smith	CricketArchive	stated in
+Q6145005	Q19051480	P248	James Walker	Walker, James (1764-1831) (DNB00)	stated in
+Q1432943	Q1541065	P248	Surgut International Airport	Aeronautical Information Publication	stated in
+Q42965877	Q28944496	P248	Charybdis anthericoides (Poir.) Véla & Bélair (2016)	Taxonomic remarks on Scilla anthericoides Poir. (Asparagaceae, Scilloideae), a neglected species from Algeria	stated in
+Q1135912	Q1428079	P248	1.5 micrometre	International Technology Roadmap for Semiconductors	stated in
+Q16043626	Q2118845	P248	William Thompson	ESPNcricinfo	stated in
+Q1796023	Q1172352	P248	Vollautonom	Datenbank des deutschsprachigen Anarchismus	stated in
+Q8020390	Q50008	P248	William Williams	The Times	stated in
+Q43550570	Q2709483	P248	Gledanamycin	Bioorganic & Medicinal Chemistry Letters	stated in
+Q8020399	Q3046170	P248	William Williams	ESPNscrum	stated in
+Q16228915	Q7739799	P248	John Wilson	The History of Parliament	stated in
+Q19671277	Q19671214	P248	GeneticVariation Association	The DisGeNET Association Type Ontology	stated in
+Q332943	Q27302	P248	Überm Rauschen	German National Library	stated in
+Q153592	Q5531719	P248	King Abdulaziz International Airport	General Authority of Civil Aviation	stated in
+Q6130325	Q2118845	P248	James Brown	ESPNcricinfo	stated in
+Q1459540	Q863769	P248	John Thompson	Baseball-Reference.com	stated in
+Q8017682	Q1215884	P248	William Robinson	National Football League	stated in
+Q237304	Q53289	P248	Johanna Schaller	Wer war wer in der DDR?	stated in
+Q2876136	Q5531719	P248	Ta’if Regional Airport	General Authority of Civil Aviation	stated in
+Q8019367	Q2117742	P248	William Thompson	CricketArchive	stated in
+Q19861119	Q27473681	P248	oxy-chromium-dravite	Pereval marble quarry	stated in
+Q526328	Q273199	P248	Dairis Bertāns	shooting guard	stated in
+Q14951093	Q19508656	P248	John Jackson	databaseFootball.com	stated in
+Q18029190	Q18577478	P248	Villa Rustica	Die Römer in Bayern	stated in
+Q18029193	Q18577478	P248	Villa Rustica	Die Römer in Bayern	stated in
+Q821557	Q1541065	P248	Nice Côte d'Azur Airport	Aeronautical Information Publication	stated in
+Q4641190	Q1428079	P248	5 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q6228730	Q19414142	P248	John Davies	Davies, Hon. John	stated in
+Q47403195	Q39907533	P248	Becket oder Die Ehre Gottes	Repertoire of Schauspielhaus Zurich, 1938-1968	stated in
+Q16031827	Q3046170	P248	John Rogers	ESPNscrum	stated in
+Q46280	Q1541065	P248	Paris-Charles de Gaulle Airport	Aeronautical Information Publication	stated in
+Q248548	Q36774	P248	Züri-Woche	web page	stated in
+Q20054560	Q964	P248	F.C. Barcelona wins Copa del Rey 2014-2015	Wikinews	stated in
+Q18166520	Q3365521	P248	William Thompson	Parliament of New South Wales	stated in
+Q19562725	Q49210	P248	Chancellor of the New York University	New York University	stated in
+Q22954486	Q22330782	P248	Zika virus protein 2K	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q5241210	Q1054905	P248	David Wilson	Morgan State University	stated in
+Q19601642	Q461	P248	A Brief Defence of Supernatural Christianity	Internet Archive	stated in
+Q16886405	Q909027	P248	John Walker	Arkansas House of Representatives	stated in
+Q2426249	Q1541065	P248	Grozny Airport	Aeronautical Information Publication	stated in
+Q18546647	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q50827715	Q27563079	P248	Blancstain	Blancstain, der Bastard von (ADB)	stated in
+Q4643915	Q1428079	P248	7 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q16043626	Q2117742	P248	William Thompson	CricketArchive	stated in
+Q5280571	Q612276	P248	Director of the Defense Intelligence Agency	Defense Intelligence Agency	stated in
+Q2671152	Q2826699	P248	Nouadhibou International Airport	ASECNA	stated in
+Q29527278	Q301336	P248	Acceptance	Aarhus Convention	stated in
+Q499711	Q249685	P248	Frei	Ágrip af Nóregskonungasögum	stated in
+Q17457421	Q17457480	P248	SFB-Computerclub	Informationssystem Medienpädagogik	stated in
+Q15995818	Q2117742	P248	John Thompson	CricketArchive	stated in
+Q15995818	Q2118845	P248	John Thompson	ESPNcricinfo	stated in
+Q19588545	Q461	P248	Scotichronicon : comprising Bishop Keith's Catalogue of Scottish bishops	Internet Archive	stated in
+Q15999511	Q3365524	P248	William Robinson	Parliament of Tasmania	stated in
+Q17457480	Q2324644	P248	Informationssystem Medienpädagogik	Hamburg State and University Library Carl von Ossietzky	stated in
+Q5144959	Q206033	P248	Colin Campbell	Google Books	stated in
+Q18546195	Q17037575	P248	George Smith	Oxford Biography Index	stated in
+Q15155948	Q1491484	P248	coherent derived unit	International Vocabulary of Metrology	stated in
+Q1883121	Q56034	P248	Embassy of Madagascar, Falkensee	Federal Foreign Office	stated in
+Q16071955	Q18002875	P248	John Murphy	sports-reference.com	stated in
+Q4955213	Q328	P248	Brady Sallee	English Wikipedia	stated in
+Q5090064	Q18002875	P248	George Brown	sports-reference.com	stated in
+Q699117	Q213051	P248	Arraias	non-fiction	stated in
+Q19759695	Q19091666	P248	A Voice from the Factories	The Laboring Classes of England	stated in
+Q5239909	Q18002875	P248	David Smith	sports-reference.com	stated in
+Q16062974	Q19051494	P248	James Walker	Walker, James (1809-1885) (DNB00)	stated in
+Q651190	Q1541065	P248	Marseille Provence Airport	Aeronautical Information Publication	stated in
+Q1617789	Q96321	P248	Kopf	Deutsches Wörterbuch	stated in
+Q2699786	Q37312	P248	Colin Campbell	Internet Movie Database	stated in
+Q153592	Q1541065	P248	King Abdulaziz International Airport	Aeronautical Information Publication	stated in
+Q17457421	Q866	P248	SFB-Computerclub	YouTube	stated in
+Q16095641	Q2117742	P248	John Hall	CricketArchive	stated in
+Q3495920	Q1541065	P248	Sarh Airport	Aeronautical Information Publication	stated in
+Q341454	Q571	P248	Acino (unit)	book	stated in
+Q5601513	Q37312	P248	Colin Campbell	Internet Movie Database	stated in
+Q16015315	Q2117742	P248	David Thomas	CricketArchive	stated in
+Q11959735	Q249685	P248	Austråttgården	Ágrip af Nóregskonungasögum	stated in
+Q5239896	Q2118845	P248	David Smith	ESPNcricinfo	stated in
+Q5233457	Q11148	P248	David Evans	The Guardian	stated in
+Q5239906	Q18002875	P248	David Smith	sports-reference.com	stated in
+Q5241196	Q19690329	P248	David Wilson	From the cradle to the grave: a biography of Michael Joseph Savage	stated in
+Q16011002	Q2117742	P248	John Parker	CricketArchive	stated in
+Q8020396	Q19413232	P248	William Williams	Rugby League Project	stated in
+Q15935013	Q571	P248	Zum Rudolph-See und Stephanie-See	book	stated in
+Q17663725	Q744099	P248	Lordenshaw multivallate hillfort, Romano-British settlements, field system, cairnfield, cross dyke, round cairn cemetery, rock a	hillfort	stated in
+Q22954371	Q22330782	P248	Zika virus nonstructural protein NS4A	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q27555277	Q27554985	P248	tube-shaped macaroni products	GOST 31743-2012 Macaroni products. General specifications	stated in
+Q5233453	Q49112	P248	David Evans	Yale University	stated in
+Q18810870	Q17037575	P248	John Robinson	Oxford Biography Index	stated in
+Q7868281	Q328	P248	USS Cherokee	English Wikipedia	stated in
+Q5239895	Q2118845	P248	David Smith	ESPNcricinfo	stated in
+Q15982602	Q54919	P248	John Young	Virtual International Authority File	stated in
+Q15994621	Q19028937	P248	John Martin	Martin, John (1791-1855) (DNB00)	stated in
+Q533425	Q8229	P248	Roman square capitals	Latin script	stated in
+Q18810864	Q17037575	P248	John Robinson	Oxford Biography Index	stated in
+Q1024208	Q36774	P248	CPC 5512	web page	stated in
+Q10978488	Q2117742	P248	John Jackson	CricketArchive	stated in
+Q18810866	Q17037575	P248	John Robinson	Oxford Biography Index	stated in
+Q5233469	Q2117742	P248	David Evans	CricketArchive	stated in
+Q2876136	Q1541065	P248	Ta’if Regional Airport	Aeronautical Information Publication	stated in
+Q8020387	Q3365524	P248	William Williams	Parliament of Tasmania	stated in
+Q24622537	Q180686	P248	MicroRNAs in platelet production and activation	PubMed	stated in
+Q5239885	Q1848835	P248	David Smith	Parliament of Victoria	stated in
+Q16015315	Q2118845	P248	David Thomas	ESPNcricinfo	stated in
+Q22951088	Q22330782	P248	Zika virus capsid protein C	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q7351121	Q5273977	P248	Robert Williams	Dictionary of Welsh Biography	stated in
+Q6246958	Q2117742	P248	John Martin	CricketArchive	stated in
+Q6249871	Q35127	P248	John Murphy	website	stated in
+Q16059754	Q475689	P248	James Brown	Parliament of Canada	stated in
+Q15994581	Q19098506	P248	John Lewis	Lewis, John (1675-1747) (DNB00)	stated in
+Q7342716	Q19803485	P248	Robert Campbell	Bradford City: a complete record, 1903-1988	stated in
+Q15810117	Q53289	P248	Frank Ebert	Wer war wer in der DDR?	stated in
+Q16013737	Q2117742	P248	John Roberts	CricketArchive	stated in
+Q16225515	Q2118845	P248	John Simpson	ESPNcricinfo	stated in
+Q6236083	Q1809086	P248	John Gray	Legislative Assembly of Ontario	stated in
+Q39622473	Q866	P248	MrSuicidesheep	YouTube	stated in
+Q1458945	Q26777510	P248	Maximum Ride: The Angel Experiment	The Angel Experiment: A Maximum Ride Novel (Book 1)	stated in
+Q1380716	Q213051	P248	Spontoon	non-fiction	stated in
+Q16066618	Q863769	P248	John Ward	Baseball-Reference.com	stated in
+Q26834094	Q964	P248	2016-17 English Rugby Premiership, day 2	Wikinews	stated in
+Q11035229	Q1520966	P248	John Carter	New Zealand Parliament	stated in
+Q32197848	Q23397	P248	Mustjärv	lake	stated in
+Q15461577	Q23548	P248	John Martin	National Aeronautics and Space Administration	stated in
+Q8019371	Q18217272	P248	William Thompson	Statistical and Social Inquiry Society of Ireland	stated in
+Q1497403	Q836156	P248	Gebührenordnung für Ärzte	Bundesgesetzblatt	stated in
+Q15782600	Q504063	P248	John Hill	Discogs	stated in
+Q6236108	Q19385775	P248	John Gray	The Internet Hockey Database	stated in
+Q18530175	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q1457455	Q1490	P248	Zōshigaya Cemetery	Tokyo	stated in
+Q22936292	Q21093932	P248	Gilles De Haes	Arolsen Klebeband 1	stated in
+Q9195355	Q770608	P248	Colin Campbell	Rec.Sport.Soccer Statistics Foundation	stated in
+Q789505	Q1138512	P248	Autöcie	Meyers Konversations-Lexikon	stated in
+Q6260669	Q1653460	P248	John Thompson	Engineering and Technology History Wiki	stated in
+Q5537319	Q4739808	P248	George Brown	Amandala	stated in
+Q18546632	Q17037575	P248	John Smith	Oxford Biography Index	stated in
+Q512451	Q164880	P248	Occupation statute	1000dokumente.de	stated in
+Q2652244	Q1428079	P248	32 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q5537324	Q7875910	P248	George Brown	US National Soccer Team Players Association	stated in
+Q16031816	Q3365521	P248	William Walker	Parliament of New South Wales	stated in
+Q6130307	Q1215884	P248	James Brown	National Football League	stated in
+Q5419202	Q19029785	P248	Ex parte Young	Florida Lime and Avocado Growers, Inc. v. Jacobsen	stated in
+Q10800789	Q455	P248	Lê dynasty	Encyclopædia Britannica	stated in
+Q6239258	Q1137581	P248	John Hill	The London Gazette	stated in
+Q2652372	Q1428079	P248	45 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q8020388	Q3273050	P248	William Williams	MLB.com	stated in
+Q19144131	Q671143	P248	Bekanntmachung	Reichsgesetzblatt	stated in
+Q5606262	Q3365521	P248	Greg Smith	Parliament of New South Wales	stated in
+Q512451	Q520524	P248	Occupation statute	Federal Agency for Civic Education	stated in
+Q9311159	Q188515	P248	Robert Williams	Los Angeles Times	stated in
+Q5537325	Q390216	P248	George Brown	Sydney Morning Herald	stated in
+Q218790	Q571	P248	Zollunruhen	book	stated in
+Q17364116	Q35127	P248	John Davies	website	stated in
+Q15485947	Q2117742	P248	John Walker	CricketArchive	stated in
+Q6145007	Q19204319	P248	James Walker	Hansard 1803–2005	stated in
+Q6246961	Q9684	P248	John Martin	The New York Times	stated in
+Q16065563	Q6852048	P248	William Thompson	Military History Monthly	stated in
+Q6130341	Q1215884	P248	James Brown	National Football League	stated in
+Q16919108	Q56034	P248	Embassy of the Republic of Zambia in Germany	Federal Foreign Office	stated in
+Q6221434	Q838302	P248	John Bell	Dictionary of Canadian Biography	stated in
+Q765608	Q1541065	P248	La Aurora International Airport	Aeronautical Information Publication	stated in
+Q2841670	Q40846	P248	Chicharrero	Tenerife	stated in
+Q26772549	Q964	P248	2016-17 Pro12 Rugby Competition, day 1	Wikinews	stated in
+Q16859464	Q1210343	P248	John Parker	Dictionary of National Biography	stated in
+Q16106932	Q7986861	P248	David Evans	West Virginia Legislature	stated in
+Q54553424	Q6581072	P248	Meme McDonald	female	stated in
+Q18338285	Q462471	P248	Borja Percebin del Cantabrico	power forward	stated in
+Q6262693	Q1215884	P248	John Walker	National Football League	stated in
+Q16065305	Q2118845	P248	George Brown	ESPNcricinfo	stated in
+Q16210814	Q49848	P248	David Evans	document	stated in
+Q5537322	Q1127622	P248	George Brown	Rugby Football League	stated in
+Q16065533	Q3892772	P248	John Gray	Catholic-Hierarchy.org	stated in
+Q6239287	Q37312	P248	John Hill	Internet Movie Database	stated in
+Q18546659	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q6262994	Q838302	P248	John Ward	Dictionary of Canadian Biography	stated in
+Q5653995	Q14580059	P248	Harald Theissen	ATP website	stated in
+Q1156519	Q131626	P248	Dabbahu Volcano	Smithsonian Institution	stated in
+Q16874312	Q56034	P248	Embassy of the Republic of Ghana in Germany	Federal Foreign Office	stated in
+Q7351124	Q1215884	P248	Robert Williams	National Football League	stated in
+Q18527209	Q17037575	P248	John Lewis	Oxford Biography Index	stated in
+Q5606257	Q19360207	P248	Greg Smith	AFL Tables	stated in
+Q5537308	Q35127	P248	George Brown	website	stated in
+Q6242832	Q19360207	P248	John Kennedy	AFL Tables	stated in
+Q20112574	Q249685	P248	Moster	Ágrip af Nóregskonungasögum	stated in
+Q1801326	Q2826699	P248	Nouakchott Old Airport	ASECNA	stated in
+Q20054557	Q964	P248	F.C. Barcelona wins UEFA Champions League 2014/15	Wikinews	stated in
+Q18530179	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q15990004	Q192621	P248	John Gray	The Daily Telegraph	stated in
+Q6262693	Q19689018	P248	John Walker	arenafan.com	stated in
+Q6249889	Q192621	P248	John Murphy	The Daily Telegraph	stated in
+Q47012574	Q5169220	P248	no copyright notice	Copyright Act of 1909	stated in
+Q6262700	Q475689	P248	John Walker	Parliament of Canada	stated in
+Q18530278	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q15994622	Q19028931	P248	John Martin	Martin, John (1789-1869) (DNB00)	stated in
+Q8004402	Q2117742	P248	William Anderson	CricketArchive	stated in
+Q19690329	Q131454	P248	From the cradle to the grave: a biography of Michael Joseph Savage	Library of Congress	stated in
+Q1059061	Q1428079	P248	22 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q16773633	Q56034	P248	Embassy of the Republic of Guinea in Germany	Federal Foreign Office	stated in
+Q15990337	Q19588545	P248	James Walker	Scotichronicon : comprising Bishop Keith's Catalogue of Scottish bishops	stated in
+Q16195622	Q3139159	P248	John Kennedy	Hogan Stand	stated in
+Q911155	Q5531719	P248	King Fahd International Airport	General Authority of Civil Aviation	stated in
+Q6221424	Q19073162	P248	John Bell	Bell, John (1747-1798) (DNB00)	stated in
+Q5606268	Q2118845	P248	Greg Smith	ESPNcricinfo	stated in
+Q16026267	Q2117742	P248	John Rogers	CricketArchive	stated in
+Q1050773	Q1428079	P248	250 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q18530180	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q2672950	Q5531719	P248	Jizan Regional Airport	General Authority of Civil Aviation	stated in
+Q18546653	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q15637844	Q11148	P248	David Richard Smith	The Guardian	stated in
+Q7351119	Q2117742	P248	Robert Williams	CricketArchive	stated in
+Q5606272	Q863769	P248	Greg Smith	Baseball-Reference.com	stated in
+Q5606263	Q7101257	P248	Greg Smith	Oregon Legislative Assembly	stated in
+Q16782015	Q56034	P248	Embassy of the Republic of Guinea-Bissau in Germany	Federal Foreign Office	stated in
+Q5537303	Q2117742	P248	George Brown	CricketArchive	stated in
+Q16466630	Q37312	P248	John Bell	Internet Movie Database	stated in
+Q16857661	Q35127	P248	John Hall	website	stated in
+Q7351128	Q9684	P248	Robert Williams	The New York Times	stated in
+Q6239285	Q3046170	P248	John Hill	ESPNscrum	stated in
+Q6130313	Q838302	P248	James Brown	Dictionary of Canadian Biography	stated in
+Q6262984	Q7889463	P248	John Ward	United States Army Center of Military History	stated in
+Q16730720	Q19601285	P248	John Kennedy	Independent.ie	stated in
+Q6246971	Q2905471	P248	John Martin	Black Sparrow Books	stated in
+Q16106932	Q7249368	P248	David Evans	Project Vote Smart	stated in
+Q21500394	Q328	P248	Manka's Inverness Lodge	English Wikipedia	stated in
+Q9350108	Q19308367	P248	Synagogue in Strážnice	jüdische-gemeinden.de	stated in
+Q10800789	Q4426348	P248	Lê dynasty	Soviet historic encyclopedia	stated in
+Q16194812	Q2117742	P248	David Smith	CricketArchive	stated in
+Q6244744	Q5375713	P248	John Lewis	Encyclopedia of Newfoundland and Labrador	stated in
+Q15810117	Q1087968	P248	Frank Ebert	Chronik der Wende	stated in
+Q18529071	Q21203359	P248	Marten Micron	Micronius, Martin de Cleyne (ADB)	stated in
+Q6255179	Q5273977	P248	John Roberts	Dictionary of Welsh Biography	stated in
+Q1916387	Q18002875	P248	David Smith	sports-reference.com	stated in
+Q6255417	Q7739799	P248	John Rogers	The History of Parliament	stated in
+Q19645846	Q131454	P248	Base Ball in Philadelphia	Library of Congress	stated in
+Q392093	Q249685	P248	Agdenes	Ágrip af Nóregskonungasögum	stated in
+Q6260650	Q7246590	P248	John Thompson	Pro-Football-Reference.com	stated in
+Q5960896	Q922063	P248	Kulturpflanze	International Plant Names Index	stated in
+Q8709	Q1541065	P248	London Stansted Airport	Aeronautical Information Publication	stated in
+Q6249879	Q19204319	P248	John Murphy	Hansard 1803–2005	stated in
+Q22951090	Q22330782	P248	Zika virus membrane glycoprotein precursor M	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q18546656	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q3703350	Q1215884	P248	David Thomas	National Football League	stated in
+Q26834100	Q964	P248	2016-17 Pro12 Rugby Competition, day 2	Wikinews	stated in
+Q32997	Q1541065	P248	Manas International Airport	Aeronautical Information Publication	stated in
+Q26698186	Q964	P248	2016-17 Top 14 French Rugby, day 2	Wikinews	stated in
+Q6145026	Q18002875	P248	James Walker	sports-reference.com	stated in
+Q6260652	Q848935	P248	John Thompson	Racing Post	stated in
+Q6241395	Q1215884	P248	John Jackson	National Football League	stated in
+Q6260653	Q35127	P248	John Thompson	website	stated in
+Q157835	Q2664168	P248	Zaporizhzhia	Gran Enciclopèdia Catalana	stated in
+Q18530173	Q17037575	P248	John Brown	Oxford Biography Index	stated in
+Q6257940	Q18002875	P248	John Simpson	sports-reference.com	stated in
+Q4786783	Q35794	P248	John Bell	University of Cambridge	stated in
+Q111839	Q53289	P248	Klaus Zeh	Wer war wer in der DDR?	stated in
+Q231065	Q342658	P248	Zuteilungsgesetz	Official Journal	stated in
+Q422483	Q1500919	P248	Operation Vermin	Common Library Network	stated in
+Q16859187	Q19051472	P248	James Walker	Walker, James (1748-1808?) (DNB00)	stated in
+Q6221420	Q19367442	P248	John Bell	At the Sign of the Wicket: Cricket 1742-1751	stated in
+Q22951086	Q22330782	P248	Zika virus anchored capsid protein C	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q6244748	Q19204319	P248	John Lewis	Hansard 1803–2005	stated in
+Q6255166	Q7739799	P248	John Roberts	The History of Parliament	stated in
+Q19670732	Q19671214	P248	Biomarker association	The DisGeNET Association Type Ontology	stated in
+Q6255174	Q2117742	P248	John Roberts	CricketArchive	stated in
+Q18810862	Q17037575	P248	John Robinson	Oxford Biography Index	stated in
+Q22954003	Q22330782	P248	Zika virus nonstructural protein NS2B	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q171334	Q2664168	P248	Zaporizhzhya Oblast	Gran Enciclopèdia Catalana	stated in
+Q171334	Q17378135	P248	Zaporizhzhya Oblast	Great Soviet Encyclopedia (1969–1978)	stated in
+Q6242862	Q24286051	P248	John Kennedy	racing-reference	stated in
+Q1986414	Q8449	P248	San Juan del Monte	Spanish Wikipedia	stated in
+Q157835	Q5217764	P248	Zaporizhzhia	National Encyclopedia of Uzbekistan	stated in
+Q26772470	Q964	P248	2016-17 Top 14 French Rugby, day 3	Wikinews	stated in
+Q2750603	Q1428079	P248	14 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q157835	Q17378135	P248	Zaporizhzhia	Great Soviet Encyclopedia (1969–1978)	stated in
+Q18529684	Q17037575	P248	David Davies	Oxford Biography Index	stated in
+Q157835	Q4532152	P248	Zaporizhzhia	Encyclopedia of Modern Ukraine	stated in
+Q22951095	Q22330782	P248	Zika virus nonstructural protein NS1	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q5241202	Q2117742	P248	David Wilson	CricketArchive	stated in
+Q3596942	Q1428079	P248	10 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q157835	Q4093022	P248	Zaporizhzhia	Great encyclopedic dictionary	stated in
+Q18530181	Q17037575	P248	John Wright Brown	Oxford Biography Index	stated in
+Q18593210	Q17037575	P248	John Davies	Oxford Biography Index	stated in
+Q171334	Q4532152	P248	Zaporizhzhya Oblast	Encyclopedia of Modern Ukraine	stated in
+Q157835	Q2041543	P248	Zaporizhzhia	Otto's encyclopedia	stated in
+Q422483	Q1684093	P248	Operation Vermin	South-West German Library Network	stated in
+Q22918685	Q22330782	P248	Zika virus envelope protein E	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q422483	Q2496322	P248	Operation Vermin	Mannheim University Library	stated in
+Q157835	Q2657718	P248	Zaporizhzhia	Armenian Soviet Encyclopedia	stated in
+Q422483	Q856483	P248	Operation Vermin	Library of the Friedrich-Ebert-Stiftung	stated in
+Q6242867	Q863769	P248	John Kennedy	Baseball-Reference.com	stated in
+Q18546633	Q17037575	P248	John Smith	Oxford Biography Index	stated in
+Q6130320	Q35794	P248	James Brown	University of Cambridge	stated in
+Q17149764	Q56034	P248	Embassy of the Dominican Republic in Germany	Federal Foreign Office	stated in
+Q157835	Q4426348	P248	Zaporizhzhia	Soviet historic encyclopedia	stated in
+Q111839	Q1087968	P248	Klaus Zeh	Chronik der Wende	stated in
+Q18530276	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q22951093	Q22330782	P248	Zika virus membrane glycoprotein M	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q6246965	Q7739799	P248	John Martin	The History of Parliament	stated in
+Q6257915	Q50008	P248	John Simpson	The Times	stated in
+Q26710561	Q12013	P248	Belle Vue	Google Maps	stated in
+Q157835	Q746368	P248	Zaporizhzhia	Store norske leksikon	stated in
+Q157835	Q4091875	P248	Zaporizhzhia	Great Encyclopedia of Cyril and Methodius	stated in
+Q157835	Q19077875	P248	Zaporizhzhia	The American Cyclopædia	stated in
+Q6262991	Q2118845	P248	John Ward	ESPNcricinfo	stated in
+Q22951081	Q22330782	P248	Zika virus flavivirus polyprotein	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q18631059	Q846596	P248	Nordhausen Public Library	WorldCat	stated in
+Q26772511	Q964	P248	2016-17 Pro D2 French Rugby, day 2	Wikinews	stated in
+Q422483	Q21008407	P248	Operation Vermin	Cooperative Library Network Berlin-Brandenburg	stated in
+Q13128682	Q2542444	P248	Golyddan Fardd	Welsh Triads	stated in
+Q4919987	Q2424143	P248	Bjørnøya, Haram	Separate Saga of St. Olaf	stated in
+Q1135919	Q1428079	P248	10 micrometre	International Technology Roadmap for Semiconductors	stated in
+Q11919459	Q192638	P248	Epimenides	Apollonius of Rhodes	stated in
+Q56451529	Q817	P248	Dana (Model)	Kuwait	stated in
+Q111839	Q846596	P248	Klaus Zeh	WorldCat	stated in
+Q422483	Q846596	P248	Operation Vermin	WorldCat	stated in
+Q6249873	Q475689	P248	John Murphy	Parliament of Canada	stated in
+Q171334	Q4093022	P248	Zaporizhzhya Oblast	Great encyclopedic dictionary	stated in
+Q6221420	Q35127	P248	John Bell	website	stated in
+Q22951092	Q22330782	P248	Zika virus protein pr	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q157835	Q12163828	P248	Zaporizhzhia	Ukrainian general encyclopedia	stated in
+Q11480109	Q328	P248	Area code	English Wikipedia	stated in
+Q1101329	Q19385775	P248	John Rogers	The Internet Hockey Database	stated in
+Q228333	Q213051	P248	Breacher	non-fiction	stated in
+Q24251394	Q964	P248	Super Rugby Championships 2016: the results of the fourteenth day	Wikinews	stated in
+Q11154564	Q2117742	P248	David Evans	CricketArchive	stated in
+Q4917865	Q9531	P248	Bishop of Hulme	BBC	stated in
+Q6237320	Q7806534	P248	John Hall	Times Herald-Record	stated in
+Q292573	Q591041	P248	AGM-Region	scholarly publication	stated in
+Q6255181	Q631893	P248	John Roberts	The Age	stated in
+Q11919459	Q59138	P248	Epimenides	Diogenes Laërtius	stated in
+Q26834091	Q964	P248	2016-17 Pro D2 French Rugby, day 3	Wikinews	stated in
+Q5144957	Q17082873	P248	Colin Campbell	Sports Reference LLC	stated in
+Q308203	Q1206153	P248	Abdingung	Deutsches Ärzteblatt	stated in
+Q6470045	Q37312	P248	Lady Colin Campbell	Internet Movie Database	stated in
+Q18526878	Q17037575	P248	John Evans	Oxford Biography Index	stated in
+Q171334	Q4091875	P248	Zaporizhzhya Oblast	Great Encyclopedia of Cyril and Methodius	stated in
+Q18534833	Q17037575	P248	John Davis	Oxford Biography Index	stated in
+Q18546651	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q157835	Q16679904	P248	Zaporizhzhia	"Kyrgyzstan" national encyclopedia	stated in
+Q19017579	Q328	P248	Anglican divine	English Wikipedia	stated in
+Q4917919	Q328	P248	Bishop of Meath	English Wikipedia	stated in
+Q5232854	Q19428050	P248	David Davies	eu-football.info	stated in
+Q157835	Q2478929	P248	Zaporizhzhia	Ukrainian Soviet Encyclopedia	stated in
+Q8019902	Q192621	P248	William Walker	The Daily Telegraph	stated in
+Q2875749	Q1541065	P248	Al-Baha Domestic Airport	Aeronautical Information Publication	stated in
+Q18546658	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q199381	Q36774	P248	Zigarrenschaukel	web page	stated in
+Q16857323	Q17037575	P248	John Evans	Oxford Biography Index	stated in
+Q1551594	Q846596	P248	Robert Havemann Society	WorldCat	stated in
+Q6255407	Q7722824	P248	John Rogers	The Chronicles of Oklahoma	stated in
+Q231059	Q571	P248	Zusum-Rettingen	book	stated in
+Q18534214	Q17037575	P248	John Taylor	Oxford Biography Index	stated in
+Q6260355	Q7739799	P248	John Taylor	The History of Parliament	stated in
+Q26698205	Q964	P248	2016-17 Pro D2 French Rugby, day 1	Wikinews	stated in
+Q5241202	Q2118845	P248	David Wilson	ESPNcricinfo	stated in
+Q22954489	Q22330782	P248	Zika virus nonstructural protein NS4B	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q296867	Q571	P248	Ölbrot	book	stated in
+Q157835	Q12094748	P248	Zaporizhzhia	Geographical encyclopedia of Ukraine	stated in
+Q157835	Q1789619	P248	Zaporizhzhia	Croatian Encyclopedia	stated in
+Q6145001	Q1492249	P248	James Walker	National Assembly of Quebec	stated in
+Q6514066	Q249685	P248	Valldal	Ágrip af Nóregskonungasögum	stated in
+Q16848723	Q1511162	P248	John Walker	WebCite	stated in
+Q6145020	Q19588619	P248	James Walker	Alumni Oxonienses: the Members of the University of Oxford, 1715-1886	stated in
+Q4919987	Q215806	P248	Bjørnøya, Haram	Heimskringla	stated in
+Q2743307	Q1541065	P248	Rafha Domestic Airport	Aeronautical Information Publication	stated in
+Q6228764	Q3046170	P248	John Davies	ESPNscrum	stated in
+Q6246952	Q19204319	P248	John Martin	Hansard 1803–2005	stated in
+Q18577478	Q27302	P248	Die Römer in Bayern	German National Library	stated in
+Q17021417	Q648266	P248	John Walker	Wayback Machine	stated in
+Q6262704	Q7603595	P248	John Walker	State Treasurer of Missouri	stated in
+Q5239879	Q2117742	P248	David Smith	CricketArchive	stated in
+Q18527381	Q17037575	P248	John Murray	Oxford Biography Index	stated in
+Q157835	Q4135594	P248	Zaporizhzhia	Geographical statistical dictionary of the Russian Empire	stated in
+Q157835	Q653922	P248	Zaporizhzhia	Jewish Encyclopedia	stated in
+Q6262733	Q19413232	P248	John Walker	Rugby League Project	stated in
+Q422483	Q21034576	P248	Operation Vermin	Bibliotheksverbund Bayern	stated in
+Q6255177	Q2117742	P248	John Roberts	CricketArchive	stated in
+Q157835	Q2616814	P248	Zaporizhzhia	Geographical Dictionary of the Kingdom of Poland	stated in
+Q6237345	Q1215884	P248	John Hall	National Football League	stated in
+Q18546621	Q17037575	P248	John Roland Phillips	Oxford Biography Index	stated in
+Q157835	Q19217220	P248	Zaporizhzhia	Russian Encyclopedic Dictionary of I. N. Berezin	stated in
+Q18603564	Q1415139	P248	William Thompson	Iditarod Trail Sled Dog Race	stated in
+Q26772536	Q964	P248	2016-17 English Rugby Premiership, day 1	Wikinews	stated in
+Q6255286	Q848935	P248	John Robinson	Racing Post	stated in
+Q18681388	Q328	P248	Lime Creek Observatory	English Wikipedia	stated in
+Q157835	Q19190511	P248	Zaporizhzhia	New Encyclopedic Dictionary	stated in
+Q6236103	Q6054254	P248	John Gray	International Who's Who	stated in
+Q6262980	Q2118845	P248	John Ward	ESPNcricinfo	stated in
+Q2360847	Q4426485	P248	Zaporizhstal	Soviet Encyclopedic Dictionary	stated in
+Q13128826	Q730668	P248	Gwenllian ferch Owain Glyndŵr	Lewys Glyn Cothi	stated in
+Q1562595	Q863769	P248	Washington Nationals	Baseball-Reference.com	stated in
+Q6262977	Q37312	P248	John Ward	Internet Movie Database	stated in
+Q8018834	Q2117742	P248	William Stewart	CricketArchive	stated in
+Q5239876	Q19413232	P248	David Smith	Rugby League Project	stated in
+Q17423413	Q35127	P248	James Brown	website	stated in
+Q18527610	Q17037575	P248	John Smith	Oxford Biography Index	stated in
+Q18546619	Q17037575	P248	John Phillips	Oxford Biography Index	stated in
+Q16849502	Q848935	P248	David Wilson	Racing Post	stated in
+Q16105132	Q18519	P248	John Kennedy	Lincoln City F.C.	stated in
+Q24037874	Q24037880	P248	Consilience	Consilience, 1st Edition	stated in
+Q706186	Q1194350	P248	Artaunon	Geography	stated in
+Q6255170	Q2117742	P248	John Roberts	CricketArchive	stated in
+Q1479970	Q372286	P248	vida	Lexikon des Mittelalters	stated in
+Q196775	Q213051	P248	Zervikalabstrich	non-fiction	stated in
+Q6255172	Q5273977	P248	John Roberts	Dictionary of Welsh Biography	stated in
+Q18530282	Q17037575	P248	John Randall Clarke	Oxford Biography Index	stated in
+Q18534216	Q17037575	P248	John Ward	Oxford Biography Index	stated in
+Q4096102	Q3892772	P248	James Brown	Catholic-Hierarchy.org	stated in
+Q5086	Q846596	P248	Berlin Wall	WorldCat	stated in
+Q6221407	Q838302	P248	John Bell	Dictionary of Canadian Biography	stated in
+Q6221432	Q2117742	P248	John Bell	CricketArchive	stated in
+Q6260667	Q19104504	P248	John Thompson	Thompson, John (1785-1866) (DNB00)	stated in
+Q22954521	Q22330782	P248	Zika virus RNA-dependent RNA polymerase NS5	Full-length sequencing and genomic characterization of Bagaza, Kedougou, and Zika viruses	stated in
+Q2360847	Q4532152	P248	Zaporizhstal	Encyclopedia of Modern Ukraine	stated in
+Q6249899	Q863769	P248	John Murphy	Baseball-Reference.com	stated in
+Q1964306	Q56034	P248	Embassy of Namibia, Berlin	Federal Foreign Office	stated in
+Q6255172	Q17565097	P248	John Roberts	Oxford Dictionary of National Biography	stated in
+Q6260673	Q3046170	P248	John Thompson	ESPNscrum	stated in
+Q12912294	Q191168	P248	template:SHL	Czech Wikipedia	stated in
+Q2360847	Q2478929	P248	Zaporizhstal	Ukrainian Soviet Encyclopedia	stated in
+Q18531059	Q17037575	P248	William Brown	Oxford Biography Index	stated in
+Q6246935	Q19587362	P248	John Martin	Driver Database	stated in
+Q2978212	Q36774	P248	list of members of the first Knesset	web page	stated in
+Q712493	Q213051	P248	Artifex	non-fiction	stated in
+Q6242044	Q36774	P248	John Jones	web page	stated in
+Q1776423	Q2424143	P248	Raud the Strong	Separate Saga of St. Olaf	stated in
+Q6255170	Q2118845	P248	John Roberts	ESPNcricinfo	stated in
+Q16062311	Q2745222	P248	John Martin	Te Ara: The Encyclopedia of New Zealand	stated in
+Q16859511	Q19362254	P248	John Robinson	Courts and Lawyers of New York	stated in
+Q18527054	Q17037575	P248	John Hill	Oxford Biography Index	stated in
+Q6246950	Q863769	P248	John Martin	Baseball-Reference.com	stated in
+Q16031260	Q770608	P248	John Murphy	Rec.Sport.Soccer Statistics Foundation	stated in
+Q6255420	Q277228	P248	John Rogers	Ohio House of Representatives	stated in
+Q5144956	Q2117742	P248	Colin Campbell	CricketArchive	stated in
+Q3331114	Q3331154	P248	Goronwy Foel	Hendregadredd Manuscript	stated in
+Q18546650	Q17037575	P248	John Williams	Oxford Biography Index	stated in
+Q3116279	Q3046170	P248	Greg Smith	ESPNscrum	stated in
+Q8018834	Q2118845	P248	William Stewart	ESPNcricinfo	stated in
+Q18029192	Q18577478	P248	Villa Rustica	Die Römer in Bayern	stated in
+Q8019373	Q35127	P248	William Thompson	website	stated in
+Q6263007	Q19413232	P248	John Ward	Rugby League Project	stated in
+Q18527351	Q17037575	P248	John Moore	Oxford Biography Index	stated in
+Q6257938	Q895505	P248	John Simpson	BoxRec	stated in
+Q7795179	Q1215884	P248	Thomas Williams	National Football League	stated in
+Q18530280	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q5241199	Q37312	P248	David Wilson	Internet Movie Database	stated in
+Q135978	Q10184	P248	ZDF-Magazin	Frankfurter Allgemeine Zeitung	stated in
+Q206660	Q36774	P248	Zitternadel	web page	stated in
+Q6244753	Q35127	P248	John Lewis	website	stated in
+Q1431925	Q2826699	P248	Lomé-Tokoin Airport	ASECNA	stated in
+Q333492	Q571	P248	Überseebrücke	book	stated in
+Q6249883	Q19615616	P248	John Murphy	The Irish soldiers of Mexico	stated in
+Q1714685	Q20668841	P248	Juvenel	Juvenel (ADB)	stated in
+Q1540436	Q4532152	P248	Kakhovka Reservoir	Encyclopedia of Modern Ukraine	stated in
+Q24035193	Q24035213	P248	on the move: a life	On the Move: a Life (1st Edition)	stated in
+Q17673487	Q964	P248	Galician emigrant Rufino López receives 2013 Spanish-American International Award	Wikinews	stated in
+Q2149591	Q53289	P248	Richard Gothe	Wer war wer in der DDR?	stated in
+Q16067356	Q18002875	P248	John Walker	sports-reference.com	stated in
+Q6242842	Q19608707	P248	John Kennedy	Our Roots	stated in
+Q6263007	Q1127622	P248	John Ward	Rugby Football League	stated in
+Q8019368	Q35127	P248	William Thompson	website	stated in
+Q11555624	Q247318	P248	wiping away tears and executing Ma Su	Records of the Three Kingdoms	stated in
+Q8019900	Q1492249	P248	William Walker	National Assembly of Quebec	stated in
+Q676312	Q314296	P248	Armacor	Deutsches Patent- und Markenamt	stated in
+Q18527125	Q17037575	P248	John Jones	Oxford Biography Index	stated in
+Q6237329	Q2118845	P248	John Hall	ESPNcricinfo	stated in
+Q704916	Q803722	P248	Li Ruihuan	Baidu Baike	stated in
+Q2360847	Q1976178	P248	Zaporizhstal	Small Soviet Encyclopedia	stated in
+Q23646437	Q23728523	P248	Pomatia Beck (1837) non Röding ['Bolten'] (1798)	Index molluscorum praesentis aevi musei principis augustissimi Christiani Frederici	stated in
+Q292345	Q35127	P248	Azerbaijan–Georgia–Romania Interconnector	website	stated in
+Q18531060	Q17037575	P248	William Brown	Oxford Biography Index	stated in
+Q16066831	Q5339083	P248	James Walker	Edmonton Public Library	stated in
+Q6263006	Q19413232	P248	John Ward	Rugby League Project	stated in
+Q450855	Q1428079	P248	1 micrometre	International Technology Roadmap for Semiconductors	stated in
+Q1431925	Q1541065	P248	Lomé-Tokoin Airport	Aeronautical Information Publication	stated in
+Q26252060	Q26382154	P248	Broadly Neutralizing Activity of Zika Virus-Immune Sera Identifies a Single Viral Serotype	OpenCitations Corpus	stated in
+Q16466284	Q17376102	P248	Serenity: Firefly Class 03-K64 - It's Never Easy	Serenityverse	stated in
+Q6237329	Q2117742	P248	John Hall	CricketArchive	stated in
+Q14950004	Q1215884	P248	John Hill	National Football League	stated in
+Q20894967	Q9593	P248	The Secret Story of Santa Claus	iTunes Store	stated in
+Q24232512	Q846596	P248	City Archives of Nordhausen	WorldCat	stated in
+Q3311767	Q40309	P248	Mary, mother of John Mark	Acts of the Apostles	stated in
+Q6237308	Q1848835	P248	John Hall	Parliament of Victoria	stated in
+Q1498489	Q27302	P248	Gehen	German National Library	stated in
+Q6145023	Q37312	P248	James Walker	Internet Movie Database	stated in
+Q7493391	Q2309504	P248	Shelby Harris	list of supercentenarians from the United States	stated in
+Q6262980	Q2117742	P248	John Ward	CricketArchive	stated in
+Q6258326	Q35127	P248	John Smith	website	stated in
+Q6257923	Q7739799	P248	John Simpson	The History of Parliament	stated in
+Q7342713	Q2593659	P248	Robert Campbell	World Curling Tour	stated in
+Q16023331	Q2117742	P248	William Walker	CricketArchive	stated in
+Q18530281	Q17037575	P248	John Clarke	Oxford Biography Index	stated in
+Q15452052	Q19645846	P248	John Rogers	Base Ball in Philadelphia	stated in
+Q6237318	Q49210	P248	John Hall	New York University	stated in
+Q29526855	Q301336	P248	approval	Aarhus Convention	stated in
+Q366802	Q83790	P248	Adrenaline reversal	textbook	stated in
+Q1936968	Q1541065	P248	Alcides Fernández Airport	Aeronautical Information Publication	stated in
+Q869122	Q1428079	P248	65 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q6236101	Q18002875	P248	John Gray	sports-reference.com	stated in
+Q604100	Q1637746	P248	Sredny Stog culture	Encyclopedia of Indo-European Culture	stated in
+Q5239881	Q19204319	P248	David Smith	Hansard 1803–2005	stated in
+Q47465496	Q1159	P248	beasant road	Andhra Pradesh	stated in
+Q5232850	Q5273977	P248	David Davies	Dictionary of Welsh Biography	stated in
+Q286815	Q36774	P248	ABC-Abwehrschule	web page	stated in
+Q287216	Q602358	P248	Telesilla	Brockhaus and Efron Encyclopedic Dictionary	stated in
+Q939342	Q249685	P248	Agnafit	Ágrip af Nóregskonungasögum	stated in
+Q2581926	Q53289	P248	Willy Gebhardt	Wer war wer in der DDR?	stated in
+Q8017685	Q19204319	P248	William Robinson	Hansard 1803–2005	stated in
+Q244905	Q963316	P248	Zwischenausschuss	Constitution of the Free State of Bavaria	stated in
+Q16937950	Q201787	P248	Jörg Wagner	Swiss National Library	stated in
+Q3528952	Q2118845	P248	George Brown	ESPNcricinfo	stated in
+Q16859222	Q35127	P248	Robert Williams	website	stated in
+Q50746546	Q731126	P248	Paul Gudin (clockmaker)	J. Paul Getty Museum	stated in
+Q5239888	Q35127	P248	David Smith	website	stated in
+Q867398	Q1428079	P248	180 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q44810375	Q45732275	P248	Horse-MA 2547	De bronze d'or et d'argent : Arts somptuaires de la Chine	stated in
+Q16868007	Q56034	P248	The official Togo portal	Federal Foreign Office	stated in
+Q16857953	Q19028918	P248	John Martin	Martin, John (1741-1820) (DNB00)	stated in
+Q1440038	Q621630	P248	Wolfram Lindner	Deutsche Digitale Bibliothek	stated in
+Q16937950	Q846596	P248	Jörg Wagner	WorldCat	stated in
+Q1440038	Q256507	P248	Wolfram Lindner	Bavarian State Library	stated in
+Q604100	Q774515	P248	Sredny Stog culture	Encyclopedia of Ukraine	stated in
+Q2333956	Q764739	P248	Statistisches Reichsamt	DESTATIS	stated in
+Q15996304	Q2118845	P248	John Martin	ESPNcricinfo	stated in
+Q20894963	Q3884	P248	The Secret Story of Santa Claus	Amazon	stated in
+Q7917025	Q12446198	P248	Vasudhaiva Kutumbakam	Maha Upanishad	stated in
+Q8020385	Q50008	P248	William Williams	The Times	stated in
+Q28030947	Q18616550	P248	Carl von Stern	Baltisches Biographisches Lexikon Digital	stated in
+Q8020402	Q1812075	P248	William Williams	National Post	stated in
+Q16863213	Q56034	P248	Embassy of the Republic of Benin in Germany	Federal Foreign Office	stated in
+Q8020394	Q50008	P248	William Williams	The Times	stated in
+Q16244253	Q1323479	P248	John Martin	Legislative Assembly of British Columbia	stated in
+Q5232850	Q17037575	P248	David Davies	Oxford Biography Index	stated in
+Q12105874	Q4532152	P248	Zaporozhye aluminium combine	Encyclopedia of Modern Ukraine	stated in
+Q5232857	Q19204319	P248	David Davies	Hansard 1803–2005	stated in
+Q906964	Q582857	P248	transition state	Transition state theory	stated in
+Q811867	Q1087968	P248	construction soldier	Chronik der Wende	stated in
+Q16859599	Q773989	P248	William Thompson	University of Manchester Library	stated in
+Q16863901	Q37312	P248	David Davies	Internet Movie Database	stated in
+Q979272	Q2826699	P248	N'Djamena International Airport	ASECNA	stated in
+Q678119	Q249685	P248	Hals	Ágrip af Nóregskonungasögum	stated in
+Q5239884	Q2118845	P248	David Smith	ESPNcricinfo	stated in
+Q16225368	Q2117742	P248	John Rogers	CricketArchive	stated in
+Q604100	Q2478929	P248	Sredny Stog culture	Ukrainian Soviet Encyclopedia	stated in
+Q973167	Q1571780	P248	NITF	International Press Telecommunications Council	stated in
+Q16908903	Q19749610	P248	William Walker	Scotland's who's who : the who's who of Scotland international footballers, 1872-2013	stated in
+Q5233466	Q3046170	P248	David Evans	ESPNscrum	stated in
+Q5240337	Q201492	P248	David Thomas	McGill University	stated in
+Q16320872	Q1167808	P248	Sport aktuell	Das Fernsehlexikon	stated in
+Q1050761	Q1428079	P248	350 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q17009197	Q328	P248	2014–15 Pro12	English Wikipedia	stated in
+Q939342	Q215806	P248	Agnafit	Heimskringla	stated in
+Q1440038	Q1500919	P248	Wolfram Lindner	Common Library Network	stated in
+Q1002424	Q213051	P248	Bugetta	non-fiction	stated in
+Q35008	Q14790	P248	Berti	Ethnologue	stated in
+Q5233462	Q19782015	P248	David Evans	On the borderline: the official history of Chester City F.C.	stated in
+Q35306	Q14790	P248	Gbanzili language	Ethnologue	stated in
+Q1051638	Q1428079	P248	90 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q193170	Q301336	P248	ratification	Aarhus Convention	stated in
+Q8004400	Q478320	P248	William Anderson	Scottish Football Association	stated in
+Q2778111	Q863769	P248	Greg Smith	Baseball-Reference.com	stated in
+Q5239881	Q50008	P248	David Smith	The Times	stated in
+Q2876123	Q1541065	P248	Ha'il Regional Airport	Aeronautical Information Publication	stated in
+Q1663353	Q1703172	P248	Planzeichenverordnung 1990	juris	stated in
+Q296527	Q49653	P248	ARD-Infonacht	ARD	stated in
+Q8018837	Q19754795	P248	William Stewart	New Zealand Parliamentary Record, 1840–1949	stated in
+Q5233458	Q2117742	P248	David Evans	CricketArchive	stated in
+Q42965890	Q22813044	P248	Charybdis glaucophylla Bacch., Brullo, D'Emerico, Pontec. & Salmeri (2012)	Charybdis glaucophylla (Asparagaceae), a new species from Sardinia	stated in
+Q5240358	Q19413232	P248	David Thomas	Rugby League Project	stated in
+Q15990069	Q35794	P248	John Jackson	University of Cambridge	stated in
+Q1440038	Q21034576	P248	Wolfram Lindner	Bibliotheksverbund Bayern	stated in
+Q8017683	Q1809086	P248	William Robinson	Legislative Assembly of Ontario	stated in
+Q29035513	Q25295890	P248	La Lucha	Historia y bibliografía de la prensa sevillana	stated in
+Q1440038	Q53289	P248	Wolfram Lindner	Wer war wer in der DDR?	stated in
+Q16913559	Q56034	P248	Embassy of the Republic of Burundi in Germany	Federal Foreign Office	stated in
+Q5144950	Q838302	P248	Colin Campbell	Dictionary of Canadian Biography	stated in
+Q16283636	Q48183	P248	Lokomotivfabrik Krauss & Co.	German Wikipedia	stated in
+Q1627221	Q1703172	P248	Honorarordnung für Architekten und Ingenieure	juris	stated in
+Q3080021	Q212789	P248	gene-centered view of evolution	The Selfish Gene	stated in
+Q1050797	Q1428079	P248	600 nanometer	International Technology Roadmap for Semiconductors	stated in
+Q1214172	Q256507	P248	Die Kunstdenkmäler von Bayern	Bavarian State Library	stated in
+Q16735620	Q56034	P248	Embassy of Eritrea in Germany	Federal Foreign Office	stated in
+Q1440038	Q1684093	P248	Wolfram Lindner	South-West German Library Network	stated in
+Q4679001	Q54919	P248	Adam Dunkels	Virtual International Authority File	stated in
+Q1440038	Q880794	P248	Wolfram Lindner	University Library Heidelberg	stated in
+Q4588533	Q249685	P248	Borgund	Ágrip af Nóregskonungasögum	stated in
+Q18710604	Q328	P248	High Sheriff of Kent	English Wikipedia	stated in
+Q1440038	Q846596	P248	Wolfram Lindner	WorldCat	stated in
+Q15996304	Q2117742	P248	John Martin	CricketArchive	stated in
+Q5241194	Q35127	P248	David Wilson	website	stated in
+Q269349	Q658945	P248	Max	Neue Zürcher Zeitung	stated in
+Q1394765	Q27597353	P248	René-François de Sluse	Sluse, René-François de (ADB)	stated in
+Q16937950	Q21008402	P248	Jörg Wagner	Hessische BibliotheksInformationsSystem	stated in
+Q16879052	Q56034	P248	Embassy of the Gabonese Republic in Germany	Federal Foreign Office	stated in
+Q56509317	Q56033225	P248	Wikia census	A Wikia census: motives, tools and insights	stated in
+Q12105874	Q2478929	P248	Zaporozhye aluminium combine	Ukrainian Soviet Encyclopedia	stated in

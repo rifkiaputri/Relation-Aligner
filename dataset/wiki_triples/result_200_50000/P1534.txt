@@ -1,0 +1,63 @@
+Q1376230	Q8445	P1534	maiden name	marriage	end cause
+Q1376230	Q8445	P1534	Maiden and married names	marriage	end cause
+Q1376230	Q8445	P1534	maiden name	marriage	end cause
+Q1376230	Q8445	P1534	maiden name	Marriage	end cause
+Q1376230	Q8445	P1534	Maiden and married names	Marriage	end cause
+Q1376230	Q8445	P1534	maiden name	Marriage	end cause
+Q1376230	Q8445	P1534	maiden name	marriage	end cause
+Q1376230	Q8445	P1534	Maiden and married names	marriage	end cause
+Q1376230	Q8445	P1534	maiden name	marriage	end cause
+Q1361989	Q214456	P1534	First Philippine Republic	Philippine–American War	end cause
+Q1468168	Q362	P1534	Isartor-Theater	World War II	end cause
+Q1468168	Q362	P1534	Isartor-Theater	World War II	end cause
+Q1468168	Q362	P1534	Isartor-Theater	Second World War	end cause
+Q330615	Q1054581	P1534	Úvaly (Valtice)	buffer zone	end cause
+Q1361989	Q1403016	P1534	First Philippine Republic	arrest	end cause
+Q1361989	Q1403016	P1534	First Philippine Republic	Arrest	end cause
+Q1361989	Q1403016	P1534	First Philippine Republic	arrest	end cause
+Q15693869	Q105210	P1534	Project M	law	end cause
+Q1773984	Q183375	P1534	Battle of Chamdo	Seventeen Point Agreement for the Peaceful Liberation of Tibet	end cause
+Q1912187	Q757382	P1534	Max Bahr	insolvency	end cause
+Q1912187	Q757382	P1534	Max Bahr	insolvency	end cause
+Q7166594	Q906512	P1534	Pequod	shipwrecking	end cause
+Q5633508	Q1549050	P1534	HMS Newcastle	Great Storm of 1703	end cause
+Q5633508	Q1549050	P1534	HMS Newcastle	Great Storm of 1703	end cause
+Q5633508	Q1549050	P1534	HMS Newcastle	Great Storm of 1703	end cause
+Q2258143	Q2520967	P1534	Schwörmontag	Verzicht	end cause
+Q2258143	Q2520967	P1534	Schwörmontag	Verzicht	end cause
+Q2258143	Q2520967	P1534	Schwörmontag	Verzicht	end cause
+Q11803335	Q3739104	P1534	Musgrave Brisco	natural causes	end cause
+Q11803335	Q3739104	P1534	Musgrave Brisco	natural causes	end cause
+Q18353087	Q19601700	P1534	El Stronato	1989 Paraguayan coup d'etat	end cause
+Q12156724	Q42406177	P1534	Advisory Council for the National Transition	application of article 155 of the Spanish Constitution of 1978 in Catalonia	end cause
+Q50294864	Q361	P1534	Frans Massy	World War I	end cause
+Q50294864	Q361	P1534	Frans Massy	World War I	end cause
+Q50294864	Q361	P1534	Frans Massy	First World War	end cause
+Q42762891	Q12184	P1534	Tenth Men	pandemic	end cause
+Q42763130	Q36963	P1534	Eleventh Men	hunting	end cause
+Q42763130	Q36963	P1534	Eleventh Men	hunting	end cause
+Q42723950	Q41397	P1534	Fourth Men	genocide	end cause
+Q53264452	Q331483	P1534	Pavilion L	demolition	end cause
+Q53265424	Q331483	P1534	Pavilion K	demolition	end cause
+Q53362718	Q331483	P1534	Pavilion X	demolition	end cause
+Q53377054	Q331483	P1534	Pavilion P	demolition	end cause
+Q38977798	Q153376	P1534	Palestine Post Occupation Scheme	Second Battle of El Alamein	end cause
+Q19945081	Q168983	P1534	Gymnase-Enfantin	conflagration	end cause
+Q19945081	Q168983	P1534	Gymnase-Enfantin	Conflagration	end cause
+Q19945081	Q168983	P1534	Gymnase-Enfantin	conflagration	end cause
+Q42723414	Q620562	P1534	First Men	nuclear holocaust	end cause
+Q53321754	Q1309431	P1534	Pavilion R	structural failure	end cause
+Q53321754	Q1309431	P1534	Pavilion R	Structural failure	end cause
+Q53321754	Q1309431	P1534	Pavilion R	Structural failure	end cause
+Q42723507	Q2447078	P1534	Second Men	alien invasion	end cause
+Q42723507	Q2447078	P1534	Second Men	Alien invasion	end cause
+Q42723507	Q2447078	P1534	Second Men	alien invasion	end cause
+Q42729499	Q4864574	P1534	Ninth Men	Maladaptation	end cause
+Q42724090	Q5983202	P1534	Fifth Men	Colonization of Venus	end cause
+Q27218211	Q20857716	P1534	G-BXFI	2015 Shoreham Airshow crash	end cause
+Q27218211	Q20857716	P1534	G-BXFI	2015 Shoreham Airshow crash	end cause
+Q47522384	Q22340494	P1534	Banca Dorca	acquisition	end cause
+Q42723843	Q28464887	P1534	Third Men	enslavement	end cause
+Q22043202	Q42406177	P1534	Puigdemont Government	application of article 155 of the Spanish Constitution of 1978 in Catalonia	end cause
+Q48437249	Q42406177	P1534	Secretary for the Development of Self-Government	application of article 155 of the Spanish Constitution of 1978 in Catalonia	end cause
+Q48438037	Q42406177	P1534	Office for the Improvement of Self-Government Institutions	application of article 155 of the Spanish Constitution of 1978 in Catalonia	end cause

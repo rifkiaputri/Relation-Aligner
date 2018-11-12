@@ -21,6 +21,9 @@ class SiameseNetwork(nn.Module):
         self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
 
         self.fc1 = nn.Sequential(
+            nn.Linear(len(Ks) * Co * 3, len(Ks) * Co * 3),
+            nn.ReLU(inplace=True),
+            
             nn.Linear(len(Ks) * Co * 3, len(Ks) * Co),
             nn.ReLU(inplace=True),
 
@@ -50,7 +53,7 @@ class SiameseNetwork(nn.Module):
             if len(t1_size) == 2:
                 t_y = max_pos - t1.size(1)
                 if t_y > 0:
-                    t1 = torch.cat([t1, torch.zeros(t_x, t_y, device=device)], 1)
+                    t1 = F.pad(t1, (0, t_y))
                 t1_list.append(t1)
             else:
                 t1_list.append(torch.zeros(t_x, max_pos, device=device))
@@ -60,7 +63,7 @@ class SiameseNetwork(nn.Module):
             if len(t2_size) == 2:
                 t_y = max_pos - t2_size[1]
                 if t_y > 0:
-                    t2 = torch.cat([t2, torch.zeros(t_x, t_y, device=device)], 1)
+                    t2 = F.pad(t2, (0, t_y))
                 t2_list.append(t2)
             else:
                 t2_list.append(torch.zeros(t_x, max_pos, device=device))
@@ -70,7 +73,7 @@ class SiameseNetwork(nn.Module):
             if len(t3_size) == 2:
                 t_y = max_pos - t3_size[1]
                 if t_y > 0:
-                    t3 = torch.cat([t3, torch.zeros(t_x, t_y, device=device)], 1)
+                    t3 = F.pad(t3, (0, t_y))
                 t3_list.append(t3)
             else:
                 t3_list.append(torch.zeros(t_x, max_pos, device=device))

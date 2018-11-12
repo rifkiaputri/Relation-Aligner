@@ -23,12 +23,15 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
         word = line.strip()
         word_dic[word] = i
         i += 1
-        
 
+        
 def get_token(text):
     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
     tokens = tokenizer(text)
-    return tokens
+    if len(tokens) == 0:
+        return ['N/A']
+    else:
+        return tokens
 
 
 def get_embed_id(word):
@@ -37,12 +40,12 @@ def get_embed_id(word):
 
 def get_padded_tensor(texts):
     text_t = [torch.tensor([get_embed_id(w) for w in get_token(text)], dtype=torch.long, device=device) for text in texts]
-    text_l = [a.shape[0] for a in text_t]
+    text_l = [a.size(0) for a in text_t]
     text_max = max(text_l)
     text_p = [text_max - a for a in text_l]
-    text_t = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
-    text_t = torch.cat(text_t, 0)
-    return text_t
+    text_tp = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
+    text_tp = torch.cat(text_tp, 0)
+    return text_tp
 
     
 def build_tensor(rels_kb, rels_oie, labels):
@@ -141,12 +144,14 @@ def main():
     train_dataset = dt.MyDataset(args.train_filename, args.mode)
     valid_dataset = dt.MyDataset(args.valid_filename, args.mode)
     test_dataset = dt.MyDataset(args.test_filename, args.mode)
+    gold_dataset = dt.MyDataset(args.gold_filename, args.mode)
     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
     train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
     valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+    gold_loader = DataLoader(dataset=gold_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     
     # Initialize model
     model = siamese.SiameseNetwork(args)
@@ -163,6 +168,7 @@ def main():
     # Save final model
     save(model, args.save_dir, args.model_filename, -1)
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
+    
     
     # Test model
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
@@ -188,6 +194,32 @@ def main():
             f.write('\n')
     f.closed
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
+    
+    
+    # Gold Prediction
+    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start gold prediction')
+    predict = test(gold_loader, model, args)
+        
+    pred_filename = args.gold_dir + '/predict_result.tsv'
+    with open(pred_filename, 'w') as f:
+        for item in predict:
+            f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
+    f.closed
+    print('Successfully save prediction result to', pred_filename)
+    
+    with open(args.gold_dir + '/rel_embed_vector.tsv', 'w') as f:
+        for item in predict:
+            out1 = item[5].cpu().numpy().tolist()
+            f.write('\t'.join(str(x) for x in out1))
+            f.write('\n')
+    f.closed
+    
+    with open(args.gold_dir + '/rel_embed_label.tsv', 'w') as f:
+        for item in predict:
+            f.write(item[1])
+            f.write('\n')
+    f.closed
+    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Gold prediction finished')
             
 
 if __name__ == '__main__':
