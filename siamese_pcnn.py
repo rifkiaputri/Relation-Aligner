@@ -33,54 +33,13 @@ class SiameseNetwork(nn.Module):
             nn.Linear(len(Ks) * Co, C)
         )
         
-    def piece_pooling(self, x, e1_pos, e2_pos):
-        e1_pos = e1_pos.tolist()
-        e2_pos = e2_pos.tolist()
+    def piece_pooling(self, x, e1_size, e2_size):
+        e1_idx = e1_size
+        e2_idx = x.size(2) - e2_size
         
-        t1_list = []
-        t2_list = []
-        t3_list = []
-        
-        for j, i in enumerate(x):
-            e1_idx = e1_pos[j]
-            e2_idx = e2_pos[j]
-            t_x, max_pos = i.size()
-            if e2_idx >= max_pos:
-                e2_idx = e1_idx + 1
-            
-            t1 = i[:, 0:e1_idx]
-            t1_size = t1.size()
-            if len(t1_size) == 2:
-                t_y = max_pos - t1.size(1)
-                if t_y > 0:
-                    t1 = F.pad(t1, (0, t_y))
-                t1_list.append(t1)
-            else:
-                t1_list.append(torch.zeros(t_x, max_pos, device=device))
-
-            t2 = i[:, e1_idx:e2_idx]
-            t2_size = t2.size()
-            if len(t2_size) == 2:
-                t_y = max_pos - t2_size[1]
-                if t_y > 0:
-                    t2 = F.pad(t2, (0, t_y))
-                t2_list.append(t2)
-            else:
-                t2_list.append(torch.zeros(t_x, max_pos, device=device))
-
-            t3 = i[:, e2_idx:]
-            t3_size = t3.size()
-            if len(t3_size) == 2:
-                t_y = max_pos - t3_size[1]
-                if t_y > 0:
-                    t3 = F.pad(t3, (0, t_y))
-                t3_list.append(t3)
-            else:
-                t3_list.append(torch.zeros(t_x, max_pos, device=device))
-
-        t1_tensor = torch.stack(t1_list)
-        t2_tensor = torch.stack(t2_list)
-        t3_tensor = torch.stack(t3_list)
+        t1_tensor = x[:, :, :e1_idx]
+        t2_tensor = x[:, :, e1_idx:e2_idx]
+        t3_tensor = x[:, :, e2_idx:]
         
         pool_1 = F.max_pool1d(t1_tensor, t1_tensor.size(2)).squeeze(2)
         pool_2 = F.max_pool1d(t2_tensor, t2_tensor.size(2)).squeeze(2)
@@ -88,7 +47,11 @@ class SiameseNetwork(nn.Module):
         
         return torch.cat([pool_1, pool_2, pool_3], 1)
         
-    def forward_once(self, x, e1_pos, e2_pos):
+    def forward_once(self, x_list):
+        e1_size = x_list[0].size(1)
+        e2_size = x_list[2].size(1)
+        
+        x = torch.cat(x_list, 1)
         x = self.embed(x)  # (N, W, D)
 
         if self.embed.weight.requires_grad:
@@ -96,15 +59,15 @@ class SiameseNetwork(nn.Module):
 
         x = x.unsqueeze(1)  # (N, Ci, W, D)
         x = [F.relu(conv(x)).squeeze(3) for conv in self.convs1]  # [(N, Co, W), ...] * len(Ks)
-        x = [self.piece_pooling(i, e1_pos, e2_pos) for i in x]
+        x = [self.piece_pooling(i, e1_size, e2_size) for i in x]
         x = torch.cat(x, 1)
         output = self.fc1(x)
         
         return output
 
-    def forward(self, input1, input2, position):
-        output1 = self.forward_once(input1, position[0], position[1])
-        output2 = self.forward_once(input2, position[2], position[3])
+    def forward(self, input1, input2):
+        output1 = self.forward_once(input1)
+        output2 = self.forward_once(input2)
         return output1, output2
 
     

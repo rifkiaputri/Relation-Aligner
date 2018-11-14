@@ -141,16 +141,16 @@ def main():
     
     # Load train, valid, and test data
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Loading dataset')
-    train_dataset = dt.MyDataset(args.train_filename, args.mode)
-    valid_dataset = dt.MyDataset(args.valid_filename, args.mode)
-    test_dataset = dt.MyDataset(args.test_filename, args.mode)
+#     train_dataset = dt.MyDataset(args.train_filename, args.mode)
+#     valid_dataset = dt.MyDataset(args.valid_filename, args.mode)
+#     test_dataset = dt.MyDataset(args.test_filename, args.mode)
     gold_dataset = dt.MyDataset(args.gold_filename, args.mode)
-    print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
+#     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
-    train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
-    valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
-    test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+#     train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
+#     valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+#     test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     gold_loader = DataLoader(dataset=gold_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     
     # Initialize model
@@ -158,42 +158,42 @@ def main():
     model.to(device)
     
     # Train model
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start training')
-    try:
-        train(model, train_loader, valid_loader, args)
-    except KeyboardInterrupt:
-        print('\n' + '-' * 89)
-        print('Exit from training early')
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start training')
+#     try:
+#         train(model, train_loader, valid_loader, args)
+#     except KeyboardInterrupt:
+#         print('\n' + '-' * 89)
+#         print('Exit from training early')
         
-    # Save final model
-    save(model, args.save_dir, args.model_filename, -1)
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
+#     # Save final model
+#     save(model, args.save_dir, args.model_filename, -1)
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
     
     
-    # Test model
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
-    predict = test(test_loader, model, args)
+#     # Test model
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
+#     predict = test(test_loader, model, args)
         
-    pred_filename = args.predict_dir + '/predict_result.tsv'
-    with open(pred_filename, 'w') as f:
-        for item in predict:
-            f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
-    f.closed
-    print('Successfully save prediction result to', pred_filename)
+#     pred_filename = args.predict_dir + '/predict_result.tsv'
+#     with open(pred_filename, 'w') as f:
+#         for item in predict:
+#             f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
+#     f.closed
+#     print('Successfully save prediction result to', pred_filename)
     
-    with open(args.predict_dir + '/rel_embed_vector.tsv', 'w') as f:
-        for item in predict:
-            out1 = item[5].cpu().numpy().tolist()
-            f.write('\t'.join(str(x) for x in out1))
-            f.write('\n')
-    f.closed
+#     with open(args.predict_dir + '/rel_embed_vector.tsv', 'w') as f:
+#         for item in predict:
+#             out1 = item[5].cpu().numpy().tolist()
+#             f.write('\t'.join(str(x) for x in out1))
+#             f.write('\n')
+#     f.closed
     
-    with open(args.predict_dir + '/rel_embed_label.tsv', 'w') as f:
-        for item in predict:
-            f.write(item[1])
-            f.write('\n')
-    f.closed
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
+#     with open(args.predict_dir + '/rel_embed_label.tsv', 'w') as f:
+#         for item in predict:
+#             f.write(item[1])
+#             f.write('\n')
+#     f.closed
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
     
     
     # Gold Prediction

@@ -13,7 +13,7 @@ class args():
         self.dropout = 0.5
         self.static = True
         self.lr = 0.001
-        self.epochs = 30
+        self.epochs = 20
         self.log_interval = 20
         self.test_interval = 400
         self.save_interval = 10

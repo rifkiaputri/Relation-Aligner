@@ -39,7 +39,6 @@ class MyDataset(Dataset):
         rels_oie = align_data['rel_oie']
         
         print('Load open IE relation definition & position vector')
-        self.positions = []
         self.item_kb = []
         self.item_oie = []
         for i in range(self.len):
@@ -61,30 +60,14 @@ class MyDataset(Dataset):
                         def_sent = syns.definition()
                     else:
                         def_sent = def_sent + ' ' + syns.definition()          
-            
-            # load position information
-            e1_kb_tokens = tokenizer(e1_kb_item)
-            e1_kb_pos = len(e1_kb_tokens)
-            e2_kb_pos = e1_kb_pos + id2desc_len[rel_id]
-            if e2_kb_pos == e1_kb_pos:
-                e2_kb_pos += 1
-
-            e1_oie_tokens = tokenizer(str(e1_oie_item))
-            e1_oie_pos = len(e1_oie_tokens)
-            e2_oie_tokens = tokenizer(def_sent)
-            e2_oie_pos = e1_oie_pos + len(e2_oie_tokens)
-            if e2_oie_pos == e1_oie_pos:
-                e2_oie_pos += 1
-
-            self.positions.append((e1_kb_pos, e2_kb_pos, e1_oie_pos, e2_oie_pos))
-            
+                
             # Load item information
-            self.item_kb.append(e1_kb_item + ' ' + id2desc[rel_id] + ' ' + e2_kb_item)
-            self.item_oie.append(e1_oie_item + ' ' + def_sent + ' ' + e2_oie_item)
+            self.item_kb.append([e1_kb_item, id2desc[rel_id], e2_kb_item])
+            self.item_oie.append([e1_oie_item, def_sent, e2_oie_item])
             
     
     def __len__(self):
         return self.len
 
     def __getitem__(self, index):
-        return self.item_kb[index], self.item_oie[index], self.positions[index], self.labels[index]
+        return self.item_kb[index], self.item_oie[index], self.labels[index]

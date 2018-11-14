@@ -24,11 +24,14 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
         word_dic[word] = i
         i += 1
         
-
+        
 def get_token(text):
     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
     tokens = tokenizer(text)
-    return tokens
+    if len(tokens) == 0:
+        return ['N/A']
+    else:
+        return tokens
 
 
 def get_embed_id(word):
@@ -37,18 +40,18 @@ def get_embed_id(word):
 
 def get_padded_tensor(texts):
     text_t = [torch.tensor([get_embed_id(w) for w in get_token(text)], dtype=torch.long, device=device) for text in texts]
-    text_l = [a.shape[0] for a in text_t]
+    text_l = [a.size(0) for a in text_t]
     text_max = max(text_l)
     text_p = [text_max - a for a in text_l]
-    text_t = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
-    text_t = torch.cat(text_t, 0)
-    return text_t
+    text_tp = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
+    text_tp = torch.cat(text_tp, 0)
+    return text_tp
 
     
 def build_tensor(rels_kb, rels_oie, labels):
     label_t = torch.tensor(labels, dtype=torch.float32, device=device)
-    rel_kb_t = get_padded_tensor(rels_kb)
-    rel_oie_t = get_padded_tensor(rels_oie)
+    rel_kb_t = [get_padded_tensor(rel_kb) for rel_kb in rels_kb]
+    rel_oie_t = [get_padded_tensor(rel_oie) for rel_oie in rels_oie]
     return rel_kb_t, rel_oie_t, label_t
     
     
@@ -57,9 +60,9 @@ def eval(loader, model):
     avg_loss, size = 0, 0
     c_loss = siamese.ContrastiveLoss()
     
-    for rel_kb, rel_oie, position, label in loader:
+    for rel_kb, rel_oie, label in loader:
         rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
-        output1, output2 = model(rel_kb_t, rel_oie_t, position)
+        output1, output2 = model(rel_kb_t, rel_oie_t)
         loss = c_loss(output1, output2, label_t)
         avg_loss += loss.data[0]
         size += 1
@@ -89,10 +92,10 @@ def train(model, train_loader, valid_loader, args):
     
     for epoch in range(1, args.epochs + 1):
         print('\nStart epoch', epoch)
-        for rel_kb, rel_oie, position, label in train_loader:
+        for rel_kb, rel_oie, label in train_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
             optimizer.zero_grad()
-            output1, output2 = model(rel_kb_t, rel_oie_t, position)
+            output1, output2 = model(rel_kb_t, rel_oie_t)
             loss = c_loss(output1, output2, label_t)
             loss.backward()
             optimizer.step()
@@ -120,14 +123,18 @@ def test(test_loader, model, args):
     
     print('Predict test data...')
     with torch.no_grad():
-        for rel_kb, rel_oie, position, label in test_loader:
+        for rel_kb, rel_oie, label in test_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
-            output1, output2 = model(rel_kb_t, rel_oie_t, position)
+            output1, output2 = model(rel_kb_t, rel_oie_t)
             euclidean_dist = F.pairwise_distance(output1, output2)
             gold = label_t.cpu().numpy().tolist()
             dist = euclidean_dist.cpu().numpy().tolist()
             for i in range(len(gold)):
-                predict.append((rel_kb[i], rel_oie[i], dist[i], gold[i], output1[i], output2[i]))
+                predict.append((
+                    rel_kb[0][i] + ' ' + rel_kb[1][i] + ' ' + rel_kb[2][i],
+                    rel_oie[0][i] + ' ' + rel_oie[1][i] + ' ' + rel_oie[2][i],
+                    dist[i], gold[i], output1[i], output2[i]
+                ))
     
     return predict
 
@@ -138,16 +145,16 @@ def main():
     
     # Load train, valid, and test data
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Loading dataset')
-    train_dataset = dt.MyDataset(args.train_filename)
-    valid_dataset = dt.MyDataset(args.valid_filename)
-    test_dataset = dt.MyDataset(args.test_filename)
+#     train_dataset = dt.MyDataset(args.train_filename)
+#     valid_dataset = dt.MyDataset(args.valid_filename)
+#     test_dataset = dt.MyDataset(args.test_filename)
     gold_dataset = dt.MyDataset(args.gold_filename)
-    print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
+#     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader
-    train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
-    valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
-    test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+#     train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
+#     valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+#     test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     gold_loader = DataLoader(dataset=gold_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     
     # Initialize model
@@ -155,44 +162,44 @@ def main():
     model.to(device)
     
     # Train model
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start training')
-    try:
-        train(model, train_loader, valid_loader, args)
-    except KeyboardInterrupt:
-        print('\n' + '-' * 89)
-        print('Exit from training early')
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start training')
+#     try:
+#         train(model, train_loader, valid_loader, args)
+#     except KeyboardInterrupt:
+#         print('\n' + '-' * 89)
+#         print('Exit from training early')
         
-    # Save final model
-    save(model, args.save_dir, args.model_filename, -1)
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
+#     # Save final model
+#     save(model, args.save_dir, args.model_filename, -1)
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
     
-    # Test model
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
-    predict = test(test_loader, model, args)
+#     # Test model
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
+#     predict = test(test_loader, model, args)
     
-    if not os.path.exists(args.predict_dir):
-        os.mkdir(args.predict_dir)
+#     if not os.path.exists(args.predict_dir):
+#         os.mkdir(args.predict_dir)
         
-    pred_filename = args.predict_dir + '/predict_result.tsv'
-    with open(pred_filename, 'w') as f:
-        for item in predict:
-            f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
-    f.closed
-    print('Successfully save prediction result to', pred_filename)
+#     pred_filename = args.predict_dir + '/predict_result.tsv'
+#     with open(pred_filename, 'w') as f:
+#         for item in predict:
+#             f.write(item[0] + '\t' + item[1] + '\t' + str(item[2]) + '\t' + str(item[3]) + '\n')
+#     f.closed
+#     print('Successfully save prediction result to', pred_filename)
     
-    with open(args.predict_dir + '/rel_embed_vector.tsv', 'w') as f:
-        for item in predict:
-            out1 = item[5].cpu().numpy().tolist()
-            f.write('\t'.join(str(x) for x in out1))
-            f.write('\n')
-    f.closed
+#     with open(args.predict_dir + '/rel_embed_vector.tsv', 'w') as f:
+#         for item in predict:
+#             out1 = item[5].cpu().numpy().tolist()
+#             f.write('\t'.join(str(x) for x in out1))
+#             f.write('\n')
+#     f.closed
     
-    with open(args.predict_dir + '/rel_embed_label.tsv', 'w') as f:
-        for item in predict:
-            f.write(item[1])
-            f.write('\n')
-    f.closed
-    print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
+#     with open(args.predict_dir + '/rel_embed_label.tsv', 'w') as f:
+#         for item in predict:
+#             f.write(item[1])
+#             f.write('\n')
+#     f.closed
+#     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Prediction finished')
     
     # Gold Prediction
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start gold prediction')
