@@ -119,3 +119,7 @@ models/*
 
 # unused files
 CNN_improve_sim_only.ipynb
+
+# large files
+dutta/entity_type.pickle
+dutta/align.tsv
