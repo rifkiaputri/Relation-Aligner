@@ -25,6 +25,7 @@ class SiameseNetwork(nn.Module):
 
             nn.Linear(len(Ks) * Co, len(Ks) * Co),
             nn.ReLU(inplace=True),
+            nn.Dropout(args.dropout),
 
             nn.Linear(len(Ks) * Co, C)
         )

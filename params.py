@@ -25,20 +25,20 @@ class args():
         self.save_dir = 'models/data_v5'  # model save path
         
         # Mode
-        self.mode = 'defent'
-        self.predict_dir = 'predict/data_v5/pcnn_' + self.mode
-        self.gold_dir = 'predict/data_v5/gold/pcnn_' + self.mode
-        self.model_filename = 'pcnn_final_' + self.mode
+        self.mode = 'nodef'
+        self.predict_dir = 'predict/data_v5/cnn_' + self.mode
+        self.gold_dir = 'predict/data_v5/gold/cnn_' + self.mode
+        self.model_filename = 'cnn_final_' + self.mode
         
         # Kernel size configuration
-        if self.mode == 'nodef':
-            self.kernel_num = 8
+        if self.mode in ['nodef', 'att']:
+            self.kernel_num = 100
             self.kernel_sizes = [1]
         elif self.mode == 'def':
-            self.kernel_num = 8
+            self.kernel_num = 100
             self.kernel_sizes = [1, 2]
         else:
-            self.kernel_num = 16
+            self.kernel_num = 100
             self.kernel_sizes = [1, 2]
         
         if not os.path.exists(self.save_dir):
