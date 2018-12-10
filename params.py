@@ -9,11 +9,11 @@ class args():
         print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start loading word embedding...')
         self.embed, self.embeding_num, self.embeding_dim = wv.get_embedding(vec_file='./dataset/wordvector/vec_50.txt', dim=50)
         print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Word embedding loaded')
-        self.output_num = 2
-        self.dropout = 0.5
+        self.output_num = 5
+        self.dropout = 0.2
         self.static = True
         self.lr = 0.001
-        self.epochs = 20
+        self.epochs = 10
         self.log_interval = 20
         self.test_interval = 400
         self.save_interval = 10
@@ -25,17 +25,17 @@ class args():
         self.save_dir = 'models/data_v5'  # model save path
         
         # Mode
-        self.mode = 'nodef'
-        self.predict_dir = 'predict/data_v5/cnn_' + self.mode
-        self.gold_dir = 'predict/data_v5/gold/cnn_' + self.mode
-        self.model_filename = 'cnn_final_' + self.mode
+        self.mode = 'defent'
+        self.predict_dir = 'predict/data_v5/pcnn_' + self.mode
+        self.gold_dir = 'predict/data_v5/gold/pcnn_' + self.mode
+        self.model_filename = 'pcnn_final_' + self.mode
         
         # Kernel size configuration
-        if self.mode in ['nodef', 'att']:
+        if self.mode in ['nodef']:
             self.kernel_num = 100
             self.kernel_sizes = [1]
-        elif self.mode == 'def':
-            self.kernel_num = 100
+        elif self.mode == 'att':
+            self.kernel_num = 30
             self.kernel_sizes = [1, 2]
         else:
             self.kernel_num = 100

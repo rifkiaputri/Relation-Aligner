@@ -19,77 +19,19 @@ class SiameseNetwork(nn.Module):
         self.embed.weight.requires_grad = not args.static
         
         self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
-
+        
         self.fc1 = nn.Sequential(
-            nn.Linear(len(Ks) * Co * 3, len(Ks) * Co * 3),
-            nn.Dropout(args.dropout),
-            
             nn.Linear(len(Ks) * Co * 3, len(Ks) * Co),
-            nn.Dropout(args.dropout),
+            nn.ReLU(inplace=True),
             
             nn.Linear(len(Ks) * Co, len(Ks) * Co),
+            nn.ReLU(inplace=True),
             nn.Dropout(args.dropout),
             
-            nn.Linear(len(Ks) * Co, len(Ks) * Co),
-            nn.Dropout(args.dropout),
-
             nn.Linear(len(Ks) * Co, C)
         )
-        
-    def piece_pooling(self, x, e1_size, e2_size):
-        e1_idx = e1_size
-        e2_idx = x.size(2) - e2_size
-        if e1_idx == e2_idx:
-            e2_idx += 1
-        
-        t1_tensor = x[:, :, :e1_idx]
-        t2_tensor = x[:, :, e1_idx:e2_idx]
-        t3_tensor = x[:, :, e2_idx:]
-        
-        pool_1 = F.max_pool1d(t1_tensor, t1_tensor.size(2)).squeeze(2)
-        pool_2 = F.max_pool1d(t2_tensor, t2_tensor.size(2)).squeeze(2)
-        pool_3 = F.max_pool1d(t3_tensor, t3_tensor.size(2)).squeeze(2)
-        
-        return torch.cat([pool_1, pool_2, pool_3], 1)
     
-    def piece_pooling_att(self, x, q, e1_size, e2_size):
-        e1_idx = e1_size
-        e2_idx = x.size(2) - e2_size
-        if e1_idx == e2_idx:
-            e2_idx += 1
-            
-        t1_tensor = x[:, :, :e1_idx]
-        t2_tensor = x[:, :, e1_idx:e2_idx]
-        t3_tensor = x[:, :, e2_idx:]
-        
-        # Calculate attention for t2_tensor
-        q_size = q.size(2)
-        t_size = t2_tensor.size(2)
-        
-        if q_size == t_size:
-            att_size = q_size
-        elif q_size < t_size:
-            att_size = t_size
-            q = F.pad(q, (0, t_size - q_size), 'constant', 0)
-        else:
-            # q_size > t_size
-            att_size = q_size
-            t2_tensor = F.pad(t2_tensor, (0, q_size - t_size), 'constant', 0)
-        
-        attention = Attention(att_size)
-        attention.to(device)
-        t2_tensor, weights = attention(t2_tensor, q)
-        
-        pool_1 = F.max_pool1d(t1_tensor, t1_tensor.size(2)).squeeze(2)
-        pool_2 = F.max_pool1d(t2_tensor, t2_tensor.size(2)).squeeze(2)
-        pool_3 = F.max_pool1d(t3_tensor, t3_tensor.size(2)).squeeze(2)
-        
-        return torch.cat([pool_1, pool_2, pool_3], 1)
-        
-    def forward_once(self, x_list):
-        e1_size = x_list[0].size(1)
-        e2_size = x_list[2].size(1)
-        
+    def convolute(self, x_list):
         x = torch.cat(x_list, 1)
         x = self.embed(x)  # (N, W, D)
 
@@ -98,38 +40,101 @@ class SiameseNetwork(nn.Module):
 
         x = x.unsqueeze(1)  # (N, Ci, W, D)
         x = [F.relu(conv(x)).squeeze(3) for conv in self.convs1]  # [(N, Co, W), ...] * len(Ks)
-        x = [self.piece_pooling(i, e1_size, e2_size) for i in x]
-        x = torch.cat(x, 1)
-        output = self.fc1(x)
         
-        return output
-    
-    def forward_once_att(self, x_list):
         e1_size = x_list[0].size(1)
         e2_size = x_list[2].size(1)
         
-        x = torch.cat(x_list[:3], 1)
-        x = self.embed(x)  # (N, W, D)
-        q = self.embed(x_list[3])
-
-        if self.embed.weight.requires_grad:
-            x = Variable(x)
-            q = Variable(c)
-
-        x = x.unsqueeze(1)  # (N, Ci, W, D)
-        q = q.unsqueeze(1)
-        x = [F.relu(conv(x)).squeeze(3) for conv in self.convs1]  # [(N, Co, W), ...] * len(Ks)
-        q = [F.relu(conv(q)).squeeze(3) for conv in self.convs1]
-        x = [self.piece_pooling_att(i, q[idx], e1_size, e2_size) for idx, i in enumerate(x)]
-        x = torch.cat(x, 1)
-        output = self.fc1(x)
-        
-        return output
+        return x, e1_size, e2_size
 
     def forward(self, input1, input2):
-        output1 = self.forward_once(input1)
-        output2 = self.forward_once_att(input2)
-        return output1, output2
+        conv_kb, e1_size_kb, e2_size_kb = self.convolute(input1)
+        conv_oie, e1_size_oie, e2_size_oie = self.convolute(input2)
+        
+        x_kb = []
+        x_oie = []
+        
+        for i in range(len(conv_kb)):
+            xi_kb = conv_kb[i]
+            xi_oie = conv_oie[i]
+            
+            e1_idx_kb = e1_size_kb
+            e2_idx_kb = xi_kb.size(2) - e2_size_kb
+            if e1_idx_kb == e2_idx_kb:
+                e2_idx_kb += 1
+                
+            e1_idx_oie = e1_size_oie
+            e2_idx_oie = xi_oie.size(2) - e2_size_oie
+            if e1_idx_oie == e2_idx_oie:
+                e2_idx_oie += 1
+            
+            t1_tensor_kb = xi_kb[:, :, :e1_idx_kb]
+            t1_tensor_oie = xi_oie[:, :, :e1_idx_oie]
+            
+            t3_tensor_kb = xi_kb[:, :, e2_idx_kb:]
+            t3_tensor_oie = xi_oie[:, :, e2_idx_oie:]
+            
+            pool_1_kb = F.max_pool1d(t1_tensor_kb, t1_tensor_kb.size(2)).squeeze(2)
+            pool_1_oie = F.max_pool1d(t1_tensor_oie, t1_tensor_oie.size(2)).squeeze(2)
+            
+            pool_3_kb = F.max_pool1d(t3_tensor_kb, t3_tensor_kb.size(2)).squeeze(2)
+            pool_3_oie = F.max_pool1d(t3_tensor_oie, t3_tensor_oie.size(2)).squeeze(2)
+            
+            # Cross alignment for kb and oie rel
+            # Make sure matrices have the same size
+            rel_kb = xi_kb[:, :, e1_idx_kb:e2_idx_kb]
+            rel_oie = xi_oie[:, :, e1_idx_oie:e2_idx_oie]
+            n, d = rel_kb.size(0), rel_kb.size(1)
+            kb_len = rel_kb.size(2)
+            oie_len = rel_oie.size(2)
+            if kb_len > oie_len:
+                rel_oie = F.pad(rel_oie, (0, kb_len - oie_len), 'constant', 0)
+            elif oie_len > kb_len:
+                rel_kb = F.pad(rel_kb, (0, oie_len - kb_len), 'constant', 0)
+            
+            z = rel_kb.size(2)
+            align = F.relu(torch.bmm(rel_kb.view(n * d, z, 1), rel_oie.view(n * d, 1, z)))
+            align = align.view(n, d, z, z)
+            align_t = align.transpose(3, 2)
+
+            align_kb = F.max_pool2d(align_t, (z, 1)).squeeze(2)
+            align_oie = F.max_pool2d(align, (z, 1)).squeeze(2)
+            
+            pool_2_kb = F.softmax(F.max_pool1d(align_kb, z).squeeze(2), 1)
+            pool_2_oie = F.softmax(F.max_pool1d(align_oie, z).squeeze(2), 1)
+            
+            x_kb.append(torch.cat([pool_1_kb, pool_2_kb, pool_3_kb], 1))
+            x_oie.append(torch.cat([pool_1_oie, pool_2_oie, pool_3_oie], 1))
+            
+            # free memory
+            del t1_tensor_kb
+            del t1_tensor_oie
+            del align
+            del align_kb
+            del align_oie
+            del t3_tensor_kb
+            del t3_tensor_oie
+            del pool_1_kb
+            del pool_1_oie
+            del pool_2_kb
+            del pool_2_oie
+            del pool_3_kb
+            del pool_3_oie
+            del xi_kb
+            del xi_oie
+            del e1_idx_kb
+            del e1_idx_oie
+            del e2_idx_kb
+            del e2_idx_oie
+            del z
+            del n
+            del d
+            del kb_len
+            del oie_len
+        
+        x_kb = torch.cat(x_kb, 1)
+        x_oie = torch.cat(x_oie, 1)
+        
+        return self.fc1(x_kb), self.fc1(x_oie)
 
     
 class ContrastiveLoss(nn.Module):
@@ -146,63 +151,3 @@ class ContrastiveLoss(nn.Module):
         loss_contrastive = torch.mean((1-label) * torch.pow(euclidean_distance, 2) +
                                       (label) * torch.pow(torch.clamp(self.margin - euclidean_distance, min=0.0), 2))
         return loss_contrastive
-    
-
-class Attention(nn.Module):
-    """
-    Applies an attention mechanism on the output features from the decoder.
-    .. math::
-            \begin{array}{ll}
-            x = context*output \\
-            attn = exp(x_i) / sum_j exp(x_j) \\
-            output = \tanh(w * (attn * context) + b * output)
-            \end{array}
-    Args:
-        dim(int): The number of expected features in the output
-    Inputs: output, context
-        - **output** (batch, output_len, dimensions): tensor containing the output features from the decoder.
-        - **context** (batch, input_len, dimensions): tensor containing features of the encoded input sequence.
-    Outputs: output, attn
-        - **output** (batch, output_len, dimensions): tensor containing the attended output features from the decoder.
-        - **attn** (batch, output_len, input_len): tensor containing attention weights.
-    Attributes:
-        linear_out (torch.nn.Linear): applies a linear transformation to the incoming data: :math:`y = Ax + b`.
-        mask (torch.Tensor, optional): applies a :math:`-inf` to the indices specified in the `Tensor`.
-    Examples::
-         >>> attention = seq2seq.models.Attention(256)
-         >>> context = Variable(torch.randn(5, 3, 256))
-         >>> output = Variable(torch.randn(5, 5, 256))
-         >>> output, attn = attention(output, context)
-    """
-    def __init__(self, dim):
-        super(Attention, self).__init__()
-        self.linear_out = nn.Linear(dim*2, dim)
-        self.mask = None
-
-    def set_mask(self, mask):
-        """
-        Sets indices to be masked
-        Args:
-            mask (torch.Tensor): tensor containing indices to be masked
-        """
-        self.mask = mask
-
-    def forward(self, output, context):
-        batch_size = output.size(0)
-        hidden_size = output.size(2)
-        input_size = context.size(1)
-        # (batch, out_len, dim) * (batch, in_len, dim) -> (batch, out_len, in_len)
-        attn = torch.bmm(output, context.transpose(1, 2))
-        if self.mask is not None:
-            attn.data.masked_fill_(self.mask, -float('inf'))
-        attn = F.softmax(attn.view(-1, input_size), dim=1).view(batch_size, -1, input_size)
-
-        # (batch, out_len, in_len) * (batch, in_len, dim) -> (batch, out_len, dim)
-        mix = torch.bmm(attn, context)
-        
-        # concat -> (batch, out_len, 2*dim)
-        combined = torch.cat((mix, output), dim=2)
-        # output -> (batch, out_len, dim)
-        output = F.tanh(self.linear_out(combined.view(-1, 2 * hidden_size))).view(batch_size, -1, hidden_size)
-
-        return output, attn

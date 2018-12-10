@@ -50,7 +50,7 @@ class MyDataset(Dataset):
                 
             # Load item information
             self.item_kb.append([e1_kb_item, aliases, e2_kb_item])
-            self.item_oie.append([e1_oie_item, align_data['rel_oie'][i], e2_oie_item, aliases])
+            self.item_oie.append([e1_oie_item, align_data['rel_oie'][i], e2_oie_item])
             
     
     def __len__(self):

@@ -42,6 +42,8 @@ def get_padded_tensor(texts):
     text_t = [torch.tensor([get_embed_id(w) for w in get_token(text)], dtype=torch.long, device=device) for text in texts]
     text_l = [a.size(0) for a in text_t]
     text_max = max(text_l)
+    if text_max < 2:
+        text_max = 2
     text_p = [text_max - a for a in text_l]
     text_tp = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
     text_tp = torch.cat(text_tp, 0)
@@ -64,11 +66,11 @@ def eval(loader, model):
         rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
         output1, output2 = model(rel_kb_t, rel_oie_t)
         loss = c_loss(output1, output2, label_t)
-        avg_loss += loss.data[0]
+        avg_loss += float(loss.data[0])
         size += 1
         
     avg_loss = avg_loss / size
-    print('Evaluation - Current loss {}'.format(avg_loss.data[0]))
+    print('Evaluation - Current loss {}'.format(avg_loss))
 
 
 def save(model, save_dir, save_prefix, steps):
@@ -92,6 +94,7 @@ def train(model, train_loader, valid_loader, args):
     
     for epoch in range(1, args.epochs + 1):
         print('\nStart epoch', epoch)
+        loss = None
         for rel_kb, rel_oie, label in train_loader:
             rel_kb_t, rel_oie_t, label_t = build_tensor(rel_kb, rel_oie, label)
             optimizer.zero_grad()
@@ -168,10 +171,13 @@ def main():
     except KeyboardInterrupt:
         print('\n' + '-' * 89)
         print('Exit from training early')
-        
+    
     # Save final model
     save(model, args.save_dir, args.model_filename, -1)
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Training finished')
+    
+    # Free up memory
+    torch.cuda.empty_cache()
     
     # Test model
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Start prediction')
