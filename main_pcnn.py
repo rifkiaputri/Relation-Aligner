@@ -145,10 +145,10 @@ def main():
     
     # Load train, valid, and test data
     print('[' + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '] Loading dataset')
-    train_dataset = dt.MyDataset(args.train_filename)
-    valid_dataset = dt.MyDataset(args.valid_filename)
-    test_dataset = dt.MyDataset(args.test_filename)
-    gold_dataset = dt.MyDataset(args.gold_filename)
+    train_dataset = dt.MyDataset(args.train_filename, args.mode)
+    valid_dataset = dt.MyDataset(args.valid_filename, args.mode)
+    test_dataset = dt.MyDataset(args.test_filename, args.mode)
+    gold_dataset = dt.MyDataset(args.gold_filename, args.mode)
     print('train, valid, test num:', len(train_dataset), len(valid_dataset), len(test_dataset))
     
     # Load dataset to DataLoader

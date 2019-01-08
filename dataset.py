@@ -1,4 +1,5 @@
 import pandas as pd
+import pickle
 from nltk.wsd import lesk
 from torch.utils.data import Dataset, DataLoader
 from mosestokenizer import MosesTokenizer
@@ -15,6 +16,22 @@ for i in range(len(desc_data['desc'])):
     rel_id = desc_data['id'][i]
     id2desc[rel_id] = rel_desc
 print('Relation description loaded')
+
+# print('Load entity type...')
+# with open('dutta/entity_type.pickle', 'rb') as file:
+#     entity_type = pickle.load(file)
+
+# def get_entity_type(e):
+#     try:
+#         if type(entity_type[e]) == bytes:
+#             return entity_type[e].decode("utf-8")
+#         elif type(entity_type[e]) == str:
+#             return entity_type[e]
+#         else:
+#             return str(entity_type[e])
+#     except KeyError:
+#         ent_type = '-'
+#         return ent_type
 
 
 class MyDataset(Dataset):
@@ -37,11 +54,7 @@ class MyDataset(Dataset):
         align_data = pd.read_csv(filename, sep='\t', header=None, names=data_header)
         
         rels_kb = align_data['rel_id']
-        e1_kb = align_data['e1_kb']
-        e2_kb = align_data['e2_kb']
         rels_oie = align_data['rel_oie']
-        e1_oie = align_data['e1_oie']
-        e2_oie = align_data['e2_oie']
         self.labels = align_data['label']
         self.len = len(self.labels)
         
@@ -65,8 +78,16 @@ class MyDataset(Dataset):
                 rels_oie_def.append(def_sent)
 
                 if mode == 'defent':
-                    self.item_kb.append(e1_kb[i] + ' ' + id2desc[rels_kb[i]] + ' ' + e2_kb[i])
-                    self.item_oie.append(e1_oie[i] + ' ' + rels_oie_def[i] + ' ' + e2_oie[i])
+#                     e1_kb = get_entity_type(align_data['e1_kb_id'][i])
+#                     e2_kb = get_entity_type(align_data['e2_kb_id'][i])
+#                     e1_oie = get_entity_type(align_data['e1_oie_id'][i])
+#                     e2_oie = get_entity_type(align_data['e2_oie_id'][i])
+                    e1_kb = align_data['e1_kb'][i]
+                    e2_kb = align_data['e2_kb'][i]
+                    e1_oie = align_data['e1_oie'][i]
+                    e2_oie = align_data['e2_oie'][i]
+                    self.item_kb.append(e1_kb + ' ' + id2desc[rels_kb[i]] + ' ' + e2_kb)
+                    self.item_oie.append(e1_oie + ' ' + rels_oie_def[i] + ' ' + e2_oie)
                 else:
                     self.item_kb.append(id2desc[rels_kb[i]])
                     self.item_oie.append(rels_oie_def[i])
