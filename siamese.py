@@ -12,7 +12,6 @@ class SiameseNetwork(nn.Module):
         Ci = 1
         Co = args.kernel_num
         Ks = args.kernel_sizes
-        V = args.embeding_num
         D = args.embeding_dim
         self.embed = args.embed
         self.embed.weight.requires_grad = not args.static

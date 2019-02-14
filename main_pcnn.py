@@ -26,7 +26,7 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
         
         
 def get_token(text):
-    text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
+#     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE))
     tokens = tokenizer(text)
     if len(tokens) == 0:
         return ['N/A']
@@ -35,7 +35,10 @@ def get_token(text):
 
 
 def get_embed_id(word):
-    return word_dic.get(word, 0)
+    if word == 'sepunktoken':
+        return 0
+    else:
+        return word_dic.get(word, 0)
 
 
 def get_padded_tensor(texts):
@@ -106,8 +109,9 @@ def train(model, train_loader, valid_loader, args):
         # Eval validation data
         eval(valid_loader, model)
         
-        if epoch % args.save_interval == 0:
-            save(model, args.save_dir, 'model_temp', steps)
+#         if epoch % args.save_interval == 0:
+#             save(model, args.save_dir, 'model_temp', steps)
+        save(model, args.save_dir, args.model_filename + '_' + str(epoch), -1)
             
             
 def test(test_loader, model, args):
@@ -153,7 +157,7 @@ def main():
     
     # Load dataset to DataLoader
     train_loader = DataLoader(dataset=train_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
-    valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
+    valid_loader = DataLoader(dataset=valid_dataset, batch_size=args.BATCH_SIZE, shuffle=True)
     test_loader = DataLoader(dataset=test_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     gold_loader = DataLoader(dataset=gold_dataset, batch_size=args.BATCH_SIZE, shuffle=False)
     

@@ -110,6 +110,7 @@ dataset/unfiltered/*
 dataset/wordvector/*
 dataset/stats/*
 dataset/graphene/*
+dataset/v*/*
 
 # unused directory
 predict/*

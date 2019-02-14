@@ -26,7 +26,7 @@ with open(os.path.join('dataset', 'wordvector', 'word_to_id.txt'), 'r', encoding
 
         
 def get_token(text):
-    text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE)).lower()
+#     text = ' '.join(re.findall(r'\w+', text, flags=re.UNICODE))
     tokens = tokenizer(text)
     if len(tokens) == 0:
         return ['N/A']
@@ -35,15 +35,18 @@ def get_token(text):
 
 
 def get_embed_id(word):
-    return word_dic.get(word, 0)
+    if word == 'sepunktoken':
+        return 0
+    else:
+        return word_dic.get(word, 0)
 
 
 def get_padded_tensor(texts):
     text_t = [torch.tensor([get_embed_id(w) for w in get_token(text)], dtype=torch.long, device=device) for text in texts]
     text_l = [a.size(0) for a in text_t]
     text_max = max(text_l)
-    if text_max < 2:
-        text_max = 2
+    if text_max < 3:
+        text_max = 3
     text_p = [text_max - a for a in text_l]
     text_tp = [F.pad(a.view(1,1,1,-1), (0, text_p[i], 0, 0)).view(1,-1) for i, a in enumerate(text_t)]
     text_tp = torch.cat(text_tp, 0)

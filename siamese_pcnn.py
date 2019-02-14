@@ -13,13 +13,29 @@ class SiameseNetwork(nn.Module):
         Ci = 1
         Co = args.kernel_num
         Ks = args.kernel_sizes
-        V = args.embeding_num
         D = args.embeding_dim
         self.embed = args.embed
         self.embed.weight.requires_grad = not args.static
         
         self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
 
+#         self.fc1 = nn.Sequential(
+#             nn.Linear(len(Ks) * Co * 3, len(Ks) * Co * 3),
+#             nn.ReLU(inplace=True),
+            
+#             nn.Linear(len(Ks) * Co * 3, len(Ks) * Co * 2),
+#             nn.ReLU(inplace=True),
+            
+#             nn.Linear(len(Ks) * Co * 2, len(Ks) * Co),
+#             nn.ReLU(inplace=True),
+
+#             nn.Linear(len(Ks) * Co, len(Ks) * Co),
+#             nn.ReLU(inplace=True),
+
+#             nn.Linear(len(Ks) * Co, C),
+#             nn.ReLU(inplace=True),
+#             nn.Dropout(args.dropout),
+#         )
         self.fc1 = nn.Sequential(
             nn.Linear(len(Ks) * Co * 3, len(Ks) * Co * 3),
             nn.ReLU(inplace=True),

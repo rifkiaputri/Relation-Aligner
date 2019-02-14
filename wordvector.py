@@ -2,9 +2,11 @@ import torch
 import torch.nn as nn
 import numpy as np
 from gensim.models import FastText
+from gensim.models import KeyedVectors
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import normalize
 
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 def create_vectors():
     '''
@@ -75,6 +77,14 @@ def get_embedding(vec_file='./dataset/wordvector/vec_50.txt', dim=50):
     return: Initialized torch embedding, vocabulary number, word embedding dimension
     '''
     word_vector = get_word_vectors(vec_file, dim)
-    embed = nn.Embedding(word_vector.size(0), word_vector.size(1))
-    embed.weight = nn.Parameter(word_vector)
-    return (embed, word_vector.size(0), word_vector.size(1))
+    vocab_size, vec_size = word_vector.size(0), word_vector.size(1)
+    embed = nn.Embedding.from_pretrained(word_vector)
+    return (embed, vocab_size, vec_size)
+
+
+def get_embedding_300():
+    print('Load fastText .vec file...')
+    word_vectors = KeyedVectors.load_word2vec_format('dataset/wordvector/wiki-subword-300d.vec')
+    weights = torch.from_numpy(np.pad(word_vectors.wv.vectors, [(1,0),(0,0)], mode='constant')).to(device)
+    embed = nn.Embedding.from_pretrained(weights)
+    return (embed, 300)
